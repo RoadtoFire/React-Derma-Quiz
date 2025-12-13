@@ -1,0 +1,1954 @@
+[
+  {
+    "id": 1,
+    "chapterId": 1,
+    "question": "What analogy is frequently used to provide a conceptual framework for organising the thousands of skin diseases?",
+    "options": [
+      "A layered geological strata model",
+      "A tree with a trunk, branches, and leaves",
+      "A complex interconnected web",
+      "A binary flowchart system"
+    ],
+    "correctIndex": 1,
+    "explanation": "A useful analogy for organizing the numerous skin diseases is that of a tree, which includes a trunk, major branches, minor branches, twigs, and leaves [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 1,
+    "question": "What are the two major early 'branch points' used to classify dermatologic disorders based on etiology?",
+    "options": [
+      "Infectious versus Non-Infectious",
+      "Autoimmune versus Metabolic",
+      "Inflammatory versus Neoplastic",
+      "Vesiculobullous versus Papulosquamous"
+    ],
+    "correctIndex": 2,
+    "explanation": "An early and major 'branch point' in classifying skin diseases involves deciding if a condition is 'neoplastic' (benign or malignant) or 'inflammatory' (infectious or non-infectious) [2, 3]."
+  },
+  {
+    "id": 3,
+    "chapterId": 1,
+    "question": "In dermatology, what does the term 'morphology' primarily refer to?",
+    "options": [
+      "The underlying etiology of the lesion",
+      "The general appearance of a skin lesion",
+      "The functional capacity of the skin",
+      "The microscopic findings upon biopsy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Morphology refers to the general appearance of a skin lesion, regardless of the underlying etiology or pathophysiology [4, 5]."
+  },
+  {
+    "id": 4,
+    "chapterId": 1,
+    "question": "Which characteristic differentiates Macules and Patches from Papules and Plaques?",
+    "options": [
+      "Presence of hyperpigmentation",
+      "Size (less than 1 cm vs greater than 1 cm)",
+      "Palpability (flat vs elevated)",
+      "Involvement of the dermis"
+    ],
+    "correctIndex": 2,
+    "explanation": "The key difference between macules/patches and papules/plaques is that macules and patches are flush with the surrounding skin and cannot be appreciated by palpation, whereas papules and plaques must be palpable [6]."
+  },
+  {
+    "id": 5,
+    "chapterId": 1,
+    "question": "A small, fluid-filled, elevated, and circumscribed lesion less than 1 cm in diameter is known as a:",
+    "options": [
+      "Bulla",
+      "Wheal",
+      "Vesicle",
+      "Nodule"
+    ],
+    "correctIndex": 2,
+    "explanation": "A Vesicle is elevated, circumscribed, less than 1 cm in diameter, and filled with fluid (clear, serous, or hemorrhagic) [7]."
+  },
+  {
+    "id": 6,
+    "chapterId": 1,
+    "question": "Which primary lesion is defined as a transient elevation of the skin caused by dermal edema?",
+    "options": [
+      "Papule",
+      "Nodule",
+      "Bulla",
+      "Wheal"
+    ],
+    "correctIndex": 3,
+    "explanation": "A Wheal is a transient elevation of the skin that occurs due to dermal edema [7]."
+  },
+  {
+    "id": 7,
+    "chapterId": 1,
+    "question": "What size criterion defines a Nodule, distinguishing it from a Papule?",
+    "options": [
+      "A nodule is always less than 1 cm.",
+      "A nodule is greater than 1 cm, usually.",
+      "A nodule is defined by epidermal involvement.",
+      "A nodule must be soft to palpation."
+    ],
+    "correctIndex": 1,
+    "explanation": "A Nodule is palpable, circumscribed, has a larger volume than a papule, and is usually greater than 1 cm in diameter [8]."
+  },
+  {
+    "id": 8,
+    "chapterId": 1,
+    "question": "What is the defining characteristic of a Patch?",
+    "options": [
+      "Palpable, >1 cm, due to epidermal thickening.",
+      "Flat (non-palpable), >1 cm, differing in color from surrounding skin.",
+      "Flat (non-palpable), <1 cm, due to vascular changes.",
+      "Elevated, >1 cm, due to dermal edema."
+    ],
+    "correctIndex": 1,
+    "explanation": "A Patch is flat (non-palpable), circumscribed, differs in color from the surrounding skin, and is greater than 1 cm in diameter [9]."
+  },
+  {
+    "id": 9,
+    "chapterId": 1,
+    "question": "What secondary feature is characterized as 'Dried serum (serous), blood (hemorrhagic), or pus on the surface of the skin'?",
+    "options": [
+      "Scale",
+      "Fissure",
+      "Crust",
+      "Lichenification"
+    ],
+    "correctIndex": 2,
+    "explanation": "A Crust is defined as dried serum (serous), blood (hemorrhagic), or pus on the surface of the skin, and may include bacteria [10]."
+  },
+  {
+    "id": 10,
+    "chapterId": 1,
+    "question": "What is the underlying cause of a Fissure, described as a linear cleft in the skin?",
+    "options": [
+      "Full-thickness epidermal loss (ulceration)",
+      "Partial loss of the epidermis (erosion)",
+      "Marked drying, skin thickening, and loss of elasticity",
+      "Exogenous injury to the epidermis"
+    ],
+    "correctIndex": 2,
+    "explanation": "A Fissure is a linear cleft in the skin resulting from marked drying, skin thickening, and loss of elasticity [11, 12]."
+  },
+  {
+    "id": 11,
+    "chapterId": 1,
+    "question": "What determines if the redness (erythema) of a skin lesion is 'non-blanchable' upon pressure?",
+    "options": [
+      "Increased epidermal thickness",
+      "Vasodilation and increased blood flow",
+      "Infiltration of inflammatory cells",
+      "Extravasation of erythrocytes into the skin"
+    ],
+    "correctIndex": 3,
+    "explanation": "If erythema is non-blanchable (i.e. does not disappear with pressure), it is caused by the extravasation of erythrocytes into the skin (purpura) [13, 14]."
+  },
+  {
+    "id": 12,
+    "chapterId": 1,
+    "question": "Necrosis of the skin, resulting from conditions like vascular compromise or vasculitis, typically results in which color?",
+    "options": [
+      "White",
+      "Yellow",
+      "Black (or gray–white to purple)",
+      "Green"
+    ],
+    "correctIndex": 2,
+    "explanation": "Necrosis of the skin can result in a color ranging from gray–white to purple to black [15, 16]."
+  },
+  {
+    "id": 13,
+    "chapterId": 1,
+    "question": "According to the Fitzpatrick Scale, which skin phototype is described as 'Rarely burns, tans easily'?",
+    "options": [
+      "Skin phototype II",
+      "Skin phototype III",
+      "Skin phototype IV",
+      "Skin phototype V"
+    ],
+    "correctIndex": 2,
+    "explanation": "Skin phototype IV is characterized by Brown skin color, rarely burns, and tans easily [17]."
+  },
+  {
+    "id": 14,
+    "chapterId": 1,
+    "question": "The development of new skin lesions at sites of trauma in previously unaffected skin, characteristic of psoriasis and lichen planus, is known as the:",
+    "options": [
+      "Wolf isotopic response",
+      "Locus minoris resistentiae",
+      "Koebner phenomenon (isomorphic response)",
+      "Sporotrichoid pattern"
+    ],
+    "correctIndex": 2,
+    "explanation": "A linear arrangement of lesions can result from the trauma-induced Koebner phenomenon (an isomorphic response), observed in conditions such as psoriasis and lichen planus [18, 19]."
+  },
+  {
+    "id": 15,
+    "chapterId": 1,
+    "question": "A distribution pattern encompassing the head, neck, and upper trunk, reflecting areas high in sebaceous glands, is termed:",
+    "options": [
+      "Photodistribution",
+      "Flexural distribution",
+      "Acral distribution",
+      "Seborrheic distribution"
+    ],
+    "correctIndex": 3,
+    "explanation": "A seborrheic distribution pattern includes the head, neck, and upper trunk, which are areas rich in sebaceous glands [17]."
+  },
+  {
+    "id": 16,
+    "chapterId": 1,
+    "question": "What is the primary function of a Wood’s lamp in dermatology?",
+    "options": [
+      "To obtain magnified views of the skin surface (dermoscopy)",
+      "To perform virtual biopsies of the epidermis (RCM)",
+      "To emit primarily ultraviolet A radiation (365 nm) for diagnosis of pigmentary and infectious disorders",
+      "To provide deep imaging of the subcutis (Ultrasound)"
+    ],
+    "correctIndex": 2,
+    "explanation": "A Wood’s lamp emits primarily ultraviolet A radiation with a peak wavelength of 365 nm and is often used to assist in the diagnosis of pigmentary disorders and infectious diseases [20]."
+  },
+  {
+    "id": 17,
+    "chapterId": 1,
+    "question": "Which finding during a Wood's lamp examination fluoresces coral red?",
+    "options": [
+      "Tinea capitis due to Microsporum spp.",
+      "Vitiligo",
+      "*Corynebacterium minutissimum*",
+      "*Pseudomonas aeruginosa*"
+    ],
+    "correctIndex": 2,
+    "explanation": "*Corynebacterium minutissimum* fluoresces coral red under Wood's lamp examination [21]."
+  },
+  {
+    "id": 18,
+    "chapterId": 1,
+    "question": "Which biopsy technique is the 'preferred technique' when melanoma is strongly suspected?",
+    "options": [
+      "Superficial shave biopsy",
+      "Punch biopsy (4 mm)",
+      "Curettage",
+      "Excisional biopsy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Excisional biopsy is the preferred technique when melanoma is strongly suspected [22, 23]."
+  },
+  {
+    "id": 19,
+    "chapterId": 1,
+    "question": "When performing a skin biopsy for suspected autoimmune blistering disorders, where is the preferred site for sampling?",
+    "options": [
+      "The oldest, crusted lesion",
+      "The center of a large, flaccid bulla",
+      "An edematous papule/plaque or the edge of a fresh, intact vesicle/bulla plus surrounding inflamed skin",
+      "A scarred area (in the case of DLE)"
+    ],
+    "correctIndex": 2,
+    "explanation": "For autoimmune blistering disorders, an edematous papule/plaque or an early vesicle is preferred; if only large bullae are present, biopsy the edge of the bulla plus surrounding inflamed skin [24]."
+  },
+  {
+    "id": 20,
+    "chapterId": 1,
+    "question": "What type of artifact can compromise the diagnostic utility of a biopsy, particularly for lymphomas and Merkel cell carcinoma, if excessive lateral pressure is applied by forceps?",
+    "options": [
+      "Desiccation artifact",
+      "Crush artifact",
+      "Sampling error",
+      "Thermal artifact"
+    ],
+    "correctIndex": 1,
+    "explanation": "Excessive lateral pressure by forceps on small punch biopsy specimens can distort cellular infiltrates, especially lymphomas and Merkel cell carcinoma, creating 'crush' artifact [25, 26]."
+  },
+  {
+    "id": 21,
+    "chapterId": 1,
+    "question": "What is the standard stain routinely used in dermatopathology?",
+    "options": [
+      "Periodic acid Schiff (PAS)",
+      "Grocott methenamine silver (GMS)",
+      "Hematoxylin and Eosin (H&E)",
+      "Verhoeff–van Gieson (VVG)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The standard stain in dermatopathology is hematoxylin and eosin (H&E) [27]."
+  },
+  {
+    "id": 22,
+    "chapterId": 1,
+    "question": "In the histopathologic classification of inflammatory skin diseases, what is the core principle of Pattern Analysis (developed by Pinkus and Ackerman)?",
+    "options": [
+      "Analyzing the age and duration of the lesion.",
+      "Identifying a major pattern based on the distribution of the inflammatory infiltrate.",
+      "Determining the patient's genetic predisposition.",
+      "Exclusively identifying neoplastic versus non-neoplastic processes."
+    ],
+    "correctIndex": 1,
+    "explanation": "Histopathologic assessment by pattern analysis involves first identifying a major pattern, then using additional histologic features to subcategorize the disease process [28]."
+  },
+  {
+    "id": 23,
+    "chapterId": 1,
+    "question": "What histopathologic pattern is characterized by inflammation and/or degenerative changes primarily at the dermal–epidermal junction?",
+    "options": [
+      "Perivascular dermatitis",
+      "Spongiotic dermatitis",
+      "Interface dermatitis",
+      "Psoriasiform dermatitis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Interface dermatitis is characterized by inflammation and/or degenerative change(s) at the dermal–epidermal junction [29]."
+  },
+  {
+    "id": 24,
+    "chapterId": 1,
+    "question": "What is the term for the discohesion of keratinocytes resulting from the disruption of desmosomes, often leading to intraepidermal vesicles?",
+    "options": [
+      "Acanthosis",
+      "Spongiosis",
+      "Acantholysis",
+      "Parakeratosis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Acantholysis refers to the discohesion of keratinocytes due to disruption of desmosomes (intercellular connections), which can result in intraepidermal blister formation [30]."
+  },
+  {
+    "id": 25,
+    "chapterId": 1,
+    "question": "Which major histopathologic pattern is defined by a regular pattern of epidermal hyperplasia (elongation of the rete ridges)?",
+    "options": [
+      "Perivascular dermatitis",
+      "Interface dermatitis",
+      "Psoriasiform dermatitis",
+      "Nodular dermatitis"
+    ],
+    "correctIndex": 2,
+    "explanation": "The term 'psoriasiform' refers to a regular pattern of epidermal hyperplasia (elongation of the rete ridges) [31]."
+  },
+  {
+    "id": 26,
+    "chapterId": 1,
+    "question": "What is the most common form of cutaneous vasculitis, mediated chiefly by neutrophils and affecting the postcapillary venule?",
+    "options": [
+      "Lymphocytic vasculitis",
+      "Granulomatous vasculitis",
+      "Medium-sized vessel vasculitis",
+      "Leukocytoclastic vasculitis"
+    ],
+    "correctIndex": 3,
+    "explanation": "The most common form of cutaneous vasculitis is leukocytoclastic vasculitis, which is mediated by neutrophils and primarily affects the postcapillary venule [32]."
+  },
+  {
+    "id": 27,
+    "chapterId": 1,
+    "question": "In nodular and diffuse dermatitis patterns, what term is used when histiocytes predominate in one or more foci?",
+    "options": [
+      "Fibrosing",
+      "Xanthomatous",
+      "Granulomatous",
+      "Septal"
+    ],
+    "correctIndex": 2,
+    "explanation": "When histiocytes predominate in one or more foci within the nodular and diffuse pattern, the pattern is designated granulomatous [33]."
+  },
+  {
+    "id": 28,
+    "chapterId": 1,
+    "question": "Which type of granuloma is typified by the predominant distribution of histiocytes between dermal collagen bundles?",
+    "options": [
+      "Tuberculoid granuloma",
+      "Sarcoidal granuloma",
+      "Palisaded granuloma",
+      "Interstitial granuloma"
+    ],
+    "correctIndex": 3,
+    "explanation": "Interstitial granuloma is typified by the predominant distribution of histiocytes between dermal collagen bundles [34]."
+  },
+  {
+    "id": 29,
+    "chapterId": 1,
+    "question": "Dermoscopy is defined as a non-invasive diagnostic technique that allows observation of morphologic features not visible to the naked eye, serving as a link between what two fields?",
+    "options": [
+      "Radiology and Pathology",
+      "Macroscopic Clinical Dermatology and Microscopic Dermatopathology",
+      "Confocal Microscopy and Artificial Intelligence",
+      "Genetics and Epidemiology"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dermoscopy is a non-invasive diagnostic technique that allows observation of morphologic features not visible to the naked eye, linking macroscopic clinical dermatology and microscopic dermatopathology [35]."
+  },
+  {
+    "id": 30,
+    "chapterId": 1,
+    "question": "What are the three criteria that comprise the '3-point dermoscopy checklist' used for screening lesions suspicious for skin cancer?",
+    "options": [
+      "Irregular streaks, Multiple colors, Dots/globules",
+      "Asymmetry, Atypical network, Blue–white structures",
+      "Globular pattern, Homogeneous blue pigmentation, Parallel pattern",
+      "Leaf-like structures, Arborizing vessels, Ulceration"
+    ],
+    "correctIndex": 1,
+    "explanation": "The three criteria for the 3-point dermoscopy checklist are asymmetry, atypical network, and blue–white structures [36, 37]."
+  },
+  {
+    "id": 1,
+    "chapterId": 2,
+    "question": "Which specific structure within the stratum corneum primarily serves as a physiologic barrier preventing fluid and solute loss from within the body?",
+    "options": [
+      "Basal layer stem cells",
+      "Laminated stratum corneum",
+      "Merkel cells",
+      "Melanosomes"
+    ],
+    "correctIndex": 1,
+    "explanation": "The laminated stratum corneum is a surface aggregate of keratinized squamous epithelial cells that serves as a physiologic barrier that prevents fluid and solute loss from within [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 2,
+    "question": "Approximately how long does it take for a keratinocyte to move from the basal layer stem cell pool through the nucleated compartment and ultimately through the stratum corneum under normal conditions?",
+    "options": [
+      "About one week",
+      "About four weeks",
+      "About six months",
+      "About three days"
+    ],
+    "correctIndex": 1,
+    "explanation": "Under normal conditions, keratinocytes require about two weeks to exit the nucleated compartment and another two weeks to move through the stratum corneum [1]."
+  },
+  {
+    "id": 3,
+    "chapterId": 2,
+    "question": "Melanocytes manufacture melanin, which plays a major role in protecting the skin from the harmful effects of what type of radiation?",
+    "options": [
+      "Infrared (IR) radiation",
+      "X-rays",
+      "Ultraviolet (UV) radiation",
+      "Visible light"
+    ],
+    "correctIndex": 2,
+    "explanation": "Melanocytes manufacture the light-absorbing pigment melanin, which plays a major role in protecting the skin from the harmful effects of ultra-violet (UV) radiation [2]."
+  },
+  {
+    "id": 4,
+    "chapterId": 2,
+    "question": "Melanosomes, containing melanin, are transferred from melanocytes to nearby keratinocytes. Where is their preferred protective location within the keratinocyte?",
+    "options": [
+      "Near the cell membrane",
+      "Within the mitochondria",
+      "Above the nucleus",
+      "Scattered evenly throughout the cytoplasm"
+    ],
+    "correctIndex": 2,
+    "explanation": "Melanosomes are transferred to nearby keratinocytes, where their preferred location is above the nucleus, providing protection for genetic material [2]."
+  },
+  {
+    "id": 5,
+    "chapterId": 2,
+    "question": "What is the critical function of activated Langerhans cells after they migrate from the epidermis to regional lymph nodes?",
+    "options": [
+      "Production of melanin",
+      "Thermoregulation",
+      "Antigen presentation during immunity induction and regulation",
+      "Secretion of neuroendocrine peptides"
+    ],
+    "correctIndex": 2,
+    "explanation": "After activation, Langerhans cells migrate from the epidermis to regional lymph nodes, where they play a critical role in antigen presentation during the induction and regulation of immunity [2]."
+  },
+  {
+    "id": 6,
+    "chapterId": 2,
+    "question": "Merkel cells are found in the basal layer of the epidermis and contain neuroendocrine peptides. Their physiological role is thought to involve:",
+    "options": [
+      "Immune memory",
+      "Mechanoreceptor responses",
+      "Fluid balance regulation",
+      "Structural support"
+    ],
+    "correctIndex": 1,
+    "explanation": "Merkel cells contain neuroendocrine peptides and are thought to play a role in mechanoreceptor responses [3]."
+  },
+  {
+    "id": 7,
+    "chapterId": 2,
+    "question": "What primary functions are provided by the dermis layer of the skin?",
+    "options": [
+      "Fluid barrier and microbial defence",
+      "Antigen presentation and thermoregulation",
+      "Mechanical support, circulation, and nutrition",
+      "Synthesis of Vitamin D and neuroendocrine communication"
+    ],
+    "correctIndex": 2,
+    "explanation": "The dermis provides structural and nutritional support [4]. The dermis also provides mechanical support, circulation, and nutrition [5]."
+  },
+  {
+    "id": 8,
+    "chapterId": 2,
+    "question": "Which cell population is NOT one of the four major resident populations found in the human epidermis?",
+    "options": [
+      "Keratinocytes",
+      "Langerhans cells",
+      "Fibroblasts",
+      "Melanocytes"
+    ],
+    "correctIndex": 2,
+    "explanation": "The human epidermis contains four major resident populations: keratinocytes, melanocytes, Langerhans cells, and Merkel cells. Fibroblasts are residents of the dermis [6, 7]."
+  },
+  {
+    "id": 9,
+    "chapterId": 2,
+    "question": "The basal layer (stratum basale) represents the outermost layer of the epidermis.",
+    "options": [
+      "Stratum corneum",
+      "Stratum spinosum",
+      "Granular layer",
+      "Basal layer"
+    ],
+    "correctIndex": 0,
+    "explanation": "The epidermal layers from the surface are: (1) the cornified layer (stratum corneum); (2) the granular layer (stratum granulosum); (3) the spinous layer (stratum spinosum); and (4) the basal layer (stratum basale) [8]."
+  },
+  {
+    "id": 10,
+    "chapterId": 2,
+    "question": "What two key structural proteins form the fibrous connective tissue matrix of the dermis?",
+    "options": [
+      "Fibrin and keratin",
+      "Collagen and elastin",
+      "Desmoglein and integrin",
+      "Laminin and fibronectin"
+    ],
+    "correctIndex": 1,
+    "explanation": "The dermis is composed of a fibrous connective tissue matrix containing collagen and elastin [7]."
+  },
+  {
+    "id": 11,
+    "chapterId": 2,
+    "question": "The specialized aggregation of attachment molecules and associated matrix at the boundary between the epidermis and dermis is called the:",
+    "options": [
+      "Stratum granulosum",
+      "Extracellular matrix",
+      "Basement membrane",
+      "Rete ridges"
+    ],
+    "correctIndex": 2,
+    "explanation": "The boundary between the epidermis and dermis consists of a specialized aggregation of attachment molecules and associated matrix, collectively known as the basement membrane [9]."
+  },
+  {
+    "id": 12,
+    "chapterId": 2,
+    "question": "Which specific anatomic site requires a markedly thickened stratum corneum to protect against mechanical stress?",
+    "options": [
+      "The scalp",
+      "The flank",
+      "The palms and soles",
+      "The eyelid"
+    ],
+    "correctIndex": 2,
+    "explanation": "The histopathologic features of normal plantar skin show a markedly thickened stratum corneum, compared to other body regions, which protects against mechanical stress [10, 11]."
+  },
+  {
+    "id": 13,
+    "chapterId": 2,
+    "question": "What is the evolutionary advantage of light skin pigmentation in areas where UV radiation is scarce?",
+    "options": [
+      "Increased photoprotection",
+      "Improved folate stability",
+      "Advantageous for vitamin D biosynthesis",
+      "Enhanced immune recognition"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lightly pigmented skin is advantageous for vitamin D biosynthesis in areas where UV radiation is scarce [12]."
+  },
+  {
+    "id": 14,
+    "chapterId": 2,
+    "question": "What is the primary mechanism of disease in Pemphigus vulgaris?",
+    "options": [
+      "Autoantibodies targeting collagen VII",
+      "T-cell destruction of basal keratinocytes",
+      "Genetic defects in the basement membrane",
+      "Autoantibodies targeting desmogleins, compromising cell–cell adhesion"
+    ],
+    "correctIndex": 3,
+    "explanation": "In pemphigus vulgaris, autoantibodies directed against desmogleins compromise cell–cell adhesion, resulting in intraepithelial acantholysis and widespread erosions [13, 14]."
+  },
+  {
+    "id": 15,
+    "chapterId": 2,
+    "question": "When the skin fails to maintain its barrier function, what two major clinical problems commonly arise?",
+    "options": [
+      "Autoimmunity and cancer",
+      "Infarction and pruritus",
+      "Infection and dehydration",
+      "Hypothermia and hyperthermia"
+    ],
+    "correctIndex": 2,
+    "explanation": "The requirements and failings of skin include that failure to maintain a barrier leads to infection and dehydration [15]."
+  },
+  {
+    "id": 16,
+    "chapterId": 2,
+    "question": "The massive death of keratinocytes leading to epidermal detachment in Toxic Epidermal Necrolysis (TEN) is often triggered by:",
+    "options": [
+      "Bacterial toxins",
+      "Genetic mutations",
+      "Drug exposure",
+      "UV radiation exposure"
+    ],
+    "correctIndex": 2,
+    "explanation": "Toxic epidermal necrolysis (TEN) is a drug-induced disease where rapid death of keratinocytes leads to detachment of the epidermis over large areas of the body, often associated with sulfonamides, aromatic anticonvulsants, and nonsteroidal anti-inflammatory drugs [16]."
+  },
+  {
+    "id": 17,
+    "chapterId": 2,
+    "question": "Topical application of keratolytic agents like salicylic acid carries a risk of systemic toxicity (salicylism) in patients with ichthyosis because this disease features:",
+    "options": [
+      "Increased dermal vascularity",
+      "Impaired barrier function of the stratum corneum",
+      "Loss of sweat glands",
+      "Excessive TGF-β activity"
+    ],
+    "correctIndex": 1,
+    "explanation": "Salicylism can occur in patients with ichthyosis or other cutaneous disorders with impaired barrier function because the stratum corneum is defective and less resistant to chemical penetration [17]."
+  },
+  {
+    "id": 18,
+    "chapterId": 2,
+    "question": "The high incidence of skin cancer in patients with xeroderma pigmentosum supports the assertion that this disease involves a deficiency in:",
+    "options": [
+      "Melanin production",
+      "Collagen synthesis",
+      "DNA repair mechanisms for UVR damage",
+      "T-cell mediated cytotoxic response"
+    ],
+    "correctIndex": 2,
+    "explanation": "The high incidence of several types of skin cancer in these patients supports the assertion that UVR-induced DNA damage is an important cause of skin cancer in humans, illustrating that cancers develop more quickly when DNA repair mechanisms are disrupted [18]."
+  },
+  {
+    "id": 19,
+    "chapterId": 2,
+    "question": "What is the function of the one-way lymphatic circulatory system in the skin?",
+    "options": [
+      "Nutritional support and oxygen delivery",
+      "Heat dissipation via vasoconstriction",
+      "Returns leukocytes and interstitial fluids to the central venous system",
+      "Mediates pruritus and pain sensation"
+    ],
+    "correctIndex": 2,
+    "explanation": "The lymphatic system is a one-way system that returns leukocytes and interstitial fluids, first to draining lymph nodes and then, via the thoracic duct, into the central venous system [19]."
+  },
+  {
+    "id": 20,
+    "chapterId": 2,
+    "question": "The anastomosing arteries and veins in the skin, which include arteriovenous anastomoses, primarily serve which major function?",
+    "options": [
+      "Structural support",
+      "Heat regulation (thermoregulation)",
+      "Delivery of antigens",
+      "Wound healing"
+    ],
+    "correctIndex": 1,
+    "explanation": "The anastomosing arteries and veins that participate in heat regulation include arteriovenous anastomoses [20]."
+  },
+  {
+    "id": 21,
+    "chapterId": 2,
+    "question": "What is the critical element illustrated by embolic occlusion of arteries, which results in rapid ischemic necrosis of distal cutaneous structures?",
+    "options": [
+      "The role of the stratum corneum",
+      "The dependence of skin on arterial circulation for survival",
+      "The importance of lymphatic drainage",
+      "The role of dermal edema"
+    ],
+    "correctIndex": 1,
+    "explanation": "Occlusion followed by cutaneous necrosis vividly demonstrates the dependence of skin on arterial circulation [21]."
+  },
+  {
+    "id": 22,
+    "chapterId": 2,
+    "question": "Chronic inflammation associated with recurrent streptococcal infection can cause permanent edema and verrucous change known as:",
+    "options": [
+      "Bullous pemphigoid",
+      "Psoriasis",
+      "Elephantiasis nostras verrucosa",
+      "Paraneoplastic pemphigus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Blockage of lymphatic drainage due to chronic infection can result in permanent edema associated with widespread verrucous change at the skin surface, a condition described as elephantiasis nostras verrucosa [22]."
+  },
+  {
+    "id": 23,
+    "chapterId": 2,
+    "question": "Some small nerve endings penetrate the basement membrane and travel into the epidermis, where they are known to modulate what process?",
+    "options": [
+      "Collagen synthesis",
+      "Pigment transfer",
+      "Immune responsiveness",
+      "Keratinocyte division"
+    ],
+    "correctIndex": 2,
+    "explanation": "Some small nerve endings penetrate the basement membrane and travel into the epidermis, where they can modulate immune responsiveness [23]."
+  },
+  {
+    "id": 24,
+    "chapterId": 2,
+    "question": "Intradermal injections of botulinum toxin are used in dermatology to inhibit which disabling condition, besides minimizing facial lines?",
+    "options": [
+      "Alopecia areata",
+      "Excessive sweating (hyperhidrosis)",
+      "Vitiligo",
+      "Melasma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Intradermal injections of botulinum toxin are used to inhibit the excessive sweating that characterizes disabling axillary and palmar hyperhidrosis [24]."
+  },
+  {
+    "id": 25,
+    "chapterId": 2,
+    "question": "Loss of sensory function, such as that seen in patients with peripheral neuropathies associated with diabetes mellitus and Hansen disease, primarily leads to vulnerability of the skin to:",
+    "options": [
+      "Systemic infection",
+      "Autoimmune reactions",
+      "Traumatic injury",
+      "Chronic pruritus"
+    ],
+    "correctIndex": 2,
+    "explanation": "The loss of sensory function results in the patient’s inability to recognize, and therefore avoid, cutaneous trauma [25]."
+  },
+  {
+    "id": 26,
+    "chapterId": 2,
+    "question": "In the hormonal function of skin, Vitamin D3 (cholecalciferol) is produced in the epidermis by the action of UVR on which precursor molecule?",
+    "options": [
+      "Ergosterol",
+      "7-dehydrocholesterol",
+      "Melanin",
+      "Adrenocorticotropic hormone (ACTH)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vitamin D3 (cholecalciferol) is produced in the epidermis by the action of UVR on 7-dehydrocholesterol [26]."
+  },
+  {
+    "id": 27,
+    "chapterId": 2,
+    "question": "Excessive secretion of which hormone indirectly gives rise to the hyperpigmentation seen in patients with Addison disease?",
+    "options": [
+      "Insulin",
+      "Adrenocorticotropic hormone (ACTH)",
+      "Cortisol",
+      "Thyroid-stimulating hormone (TSH)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Diminished production of adrenocortical hormones causes excessive secretion of ACTH, which indirectly gives rise to the hyperpigmentation seen in patients with Addison disease [26]."
+  },
+  {
+    "id": 28,
+    "chapterId": 2,
+    "question": "Aberrant levels of which three key cytokines have emerged as critical targets for immunomodulators used to treat psoriasis?",
+    "options": [
+      "IL-1, IL-6, and IL-8",
+      "TGF-β, TNF, and IL-1",
+      "TNF, IL-17, and IL-23",
+      "IL-4, IL-13, and IL-33"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aberrant levels of TNF, IL-17, and IL-23 have emerged as critical targets of immunomodulators used to treat psoriasis [27]."
+  },
+  {
+    "id": 29,
+    "chapterId": 2,
+    "question": "The primary defect in patients with hypohidrotic ectodermal dysplasia that compromises thermoregulation is:",
+    "options": [
+      "Excessive vasoconstriction",
+      "An almost complete absence of sweat glands",
+      "Failure of the lymphatic system",
+      "Impaired DNA repair"
+    ],
+    "correctIndex": 1,
+    "explanation": "In patients with hypohidrotic ectodermal dysplasia, the defining defect is an almost complete absence of sweat glands, which demonstrates the importance of sweating for cooling and survival [28]."
+  },
+  {
+    "id": 30,
+    "chapterId": 2,
+    "question": "Vitiligo is a pigmentary disorder characterized by the absence of epidermal melanin due to the autoimmune destruction of which cell type?",
+    "options": [
+      "Keratinocytes",
+      "Langerhans cells",
+      "Merkel cells",
+      "Melanocytes"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vitiligo is characterized by the absence of epidermal melanin due to the autoimmune destruction of melanocytes [29]."
+  },
+  {
+    "id": 1,
+    "chapterId": 3,
+    "question": "What is the single cell layer that covers the developing epidermis, believed to exchange substances across fetal skin and protect against interepithelial adhesions?",
+    "options": [
+      "Stratum corneum",
+      "Periderm",
+      "Intermediate cell layer",
+      "Basal layer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Primitive keratinocytes generate cells of the periderm, a single cell layer that covers the developing epidermis until the cornified cell layer is formed, and it is believed to exchange substances and protect against interepithelial adhesions [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 3,
+    "question": "At approximately what Estimated Gestational Age (EGA) does the embryonic epidermis begin the process of stratification?",
+    "options": [
+      "4 weeks' EGA",
+      "8 weeks' EGA",
+      "15 weeks' EGA",
+      "24 weeks' EGA"
+    ],
+    "correctIndex": 1,
+    "explanation": "The embryonic epidermis begins to stratify at approximately 8 weeks’ estimated gestational age (EGA) [2]."
+  },
+  {
+    "id": 3,
+    "chapterId": 3,
+    "question": "Which gene expression is required for epidermal stratification to occur during development?",
+    "options": [
+      "HRAS",
+      "TP63",
+      "ABCA12",
+      "SHH"
+    ],
+    "correctIndex": 1,
+    "explanation": "Expression of TP63 is required for epidermal stratification [2], and mutations in TP63 are linked to ectodermal dysplasias resulting from disruption of cross-talk between the developing epidermis and dermis [3]."
+  },
+  {
+    "id": 4,
+    "chapterId": 3,
+    "question": "When does terminal differentiation, resulting in the formation of mature keratinizing epidermal cells, begin?",
+    "options": [
+      "During the first trimester",
+      "During the second trimester",
+      "At birth",
+      "At 3 weeks postnatal age"
+    ],
+    "correctIndex": 1,
+    "explanation": "Terminal differentiation, the process resulting in the formation of mature keratinizing epidermal cells, begins during the second trimester [4]."
+  },
+  {
+    "id": 5,
+    "chapterId": 3,
+    "question": "In the interfollicular epidermis, cornification does not typically commence until which Estimated Gestational Age (EGA)?",
+    "options": [
+      "10–11 weeks' EGA",
+      "15 weeks' EGA",
+      "22–24 weeks' EGA",
+      "38 weeks' EGA"
+    ],
+    "correctIndex": 2,
+    "explanation": "Early cornification is observed within the hair canal at approximately 15 weeks’ EGA, but it does not commence in the interfollicular epidermis until 22–24 weeks’ EGA [4]."
+  },
+  {
+    "id": 6,
+    "chapterId": 3,
+    "question": "After keratinization begins, the periderm detaches and is sloughed off into the amniotic fluid, with remnants contributing to which coating found on newborns?",
+    "options": [
+      "Vernix caseosa",
+      "Lanugo hair",
+      "Collodion membrane",
+      "Sebaceous film"
+    ],
+    "correctIndex": 0,
+    "explanation": "At the time of keratinization, the periderm detaches from the underlying epidermis and is sloughed off into the amniotic fluid, with remnants contributing to the vernix caseosa that coats newborns [4]."
+  },
+  {
+    "id": 7,
+    "chapterId": 3,
+    "question": "Which cell lineage gives rise to melanocytes in the skin?",
+    "options": [
+      "Surface ectoderm",
+      "Lateral plate mesoderm",
+      "Neuroectoderm (Neural crest)",
+      "Endoderm"
+    ],
+    "correctIndex": 2,
+    "explanation": "The melanocyte is an important neural crest-derived cell in the skin [5]. Melanocytes are derived from the neural crest that forms along the dorsal neural tube [6]."
+  },
+  {
+    "id": 8,
+    "chapterId": 3,
+    "question": "From which germ layer are the keratinocytes of the embryonic epidermis ultimately derived?",
+    "options": [
+      "Endoderm",
+      "Mesoderm",
+      "Surface ectoderm",
+      "Dermomyotome"
+    ],
+    "correctIndex": 2,
+    "explanation": "Surface ectodermal cells eventually differentiate into the keratinocytes of the embryonic epidermis [5]. The ectoderm that covers the developing embryo is a single-layered epithelium [1]."
+  },
+  {
+    "id": 9,
+    "chapterId": 3,
+    "question": "The dermis of the face and frontal scalp is derived from which embryonic source?",
+    "options": [
+      "Lateral plate mesoderm",
+      "Dermomyotome",
+      "Neural crest ectoderm",
+      "Surface ectoderm"
+    ],
+    "correctIndex": 2,
+    "explanation": "The dermal mesenchyme of the face and anterior scalp is derived from neural crest ectoderm [5, 7]."
+  },
+  {
+    "id": 10,
+    "chapterId": 3,
+    "question": "The dermal mesenchyme of the back originates from which embryonic structure?",
+    "options": [
+      "Lateral plate mesoderm",
+      "Dermomyotome of the embryonic somite",
+      "Neural crest",
+      "Dermal papilla"
+    ],
+    "correctIndex": 1,
+    "explanation": "The dermal mesenchyme of the back originates from the dermomyotome of the embryonic somite [7]."
+  },
+  {
+    "id": 11,
+    "chapterId": 3,
+    "question": "Langerhans cell precursors, which are hematopoietic in origin, are detectable in the fetal epidermis as early as:",
+    "options": [
+      "22–24 weeks' EGA",
+      "12 weeks' EGA",
+      "40 days' EGA",
+      "5 months' EGA"
+    ],
+    "correctIndex": 2,
+    "explanation": "Langerhans cell precursors appear within the epidermis during the first trimester and are detectable as early as 40 days’ EGA [8]."
+  },
+  {
+    "id": 12,
+    "chapterId": 3,
+    "question": "Although once controversial, genetic fate mapping studies have demonstrated that mammalian Merkel cells are derived from which lineage?",
+    "options": [
+      "Neural crest lineage",
+      "Epidermal lineage",
+      "Endothelial lineage",
+      "Hematopoietic lineage"
+    ],
+    "correctIndex": 1,
+    "explanation": "Genetic fate mapping studies have demonstrated that mammalian Merkel cells are derived from an epidermal rather than neural crest lineage [5, 9]."
+  },
+  {
+    "id": 13,
+    "chapterId": 3,
+    "question": "At approximately what Estimated Gestational Age (EGA) does melanosome transfer from melanocytes to keratinocytes begin?",
+    "options": [
+      "50 days' EGA",
+      "3–4 months' EGA",
+      "5 months' EGA",
+      "At birth"
+    ],
+    "correctIndex": 2,
+    "explanation": "Epidermal melanin production does not begin until 3–4 months’ EGA, and melanosome transfer to keratinocytes is not seen until 5 months’ EGA [10]."
+  },
+  {
+    "id": 14,
+    "chapterId": 3,
+    "question": "What is the characteristic distribution pattern that mosaic skin conditions, such as epidermal nevi, often follow, reflecting epidermal cell migration pathways during development?",
+    "options": [
+      "Photodistribution",
+      "Dermatomal patterns",
+      "Lines of Blaschko",
+      "Sporotrichoid pattern"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mosaic skin conditions often have a distribution pattern that follows the lines of Blaschko, which are thought to represent the migration pathways of epidermal cells during embryonic development [11]."
+  },
+  {
+    "id": 15,
+    "chapterId": 3,
+    "question": "A 'collodion baby' is born encased in a taut membrane formed by aberrant stratum corneum. This condition results from genetic abnormalities affecting:",
+    "options": [
+      "Dermal matrix organization",
+      "Epidermal specification",
+      "Epidermal differentiation and barrier formation",
+      "Hair follicle induction"
+    ],
+    "correctIndex": 2,
+    "explanation": "One clinical presentation of conditions resulting from generalized abnormalities in epidermal differentiation and barrier formation is a 'collodion baby' [12]."
+  },
+  {
+    "id": 16,
+    "chapterId": 3,
+    "question": "Mutations in the ABCA12 gene, which encodes a lipid transporter, cause which severe disorder of cornification?",
+    "options": [
+      "Pemphigus vulgaris",
+      "Harlequin Ichthyosis (HI)",
+      "Goltz syndrome",
+      "Ehlers–Danlos syndrome"
+    ],
+    "correctIndex": 1,
+    "explanation": "More deleterious mutations in ABCA12 cause harlequin ichthyosis (HI), an especially severe disorder of cornification characterized by aberrant epidermal maturation [13]."
+  },
+  {
+    "id": 17,
+    "chapterId": 3,
+    "question": "Compared to the adult dermis (which has a ratio of collagen I to collagen III greater than 1), what is the ratio of collagen III to collagen I in the developing embryonic dermal cells?",
+    "options": [
+      "1:1",
+      "1:3",
+      "3:1",
+      "4:1"
+    ],
+    "correctIndex": 2,
+    "explanation": "The ratio of collagen III to collagen I is 3:1 in embryonic dermal cells, which is the reverse of what is seen in the adult dermis [14]."
+  },
+  {
+    "id": 18,
+    "chapterId": 3,
+    "question": "By what point in gestation does the dermis shift from a non-scarring to a scarring form of wound repair?",
+    "options": [
+      "End of the first trimester",
+      "End of the second trimester",
+      "Mid third trimester",
+      "After birth"
+    ],
+    "correctIndex": 1,
+    "explanation": "By the end of the second trimester, the dermis shifts from a non-scarring to a scarring form of wound repair [15]."
+  },
+  {
+    "id": 19,
+    "chapterId": 3,
+    "question": "What is the molecular basis for Goltz syndrome (focal dermal hypoplasia), an X-linked dominant disorder characterized by dermal hypoplasia following the lines of Blaschko?",
+    "options": [
+      "Mutations in TP63",
+      "Mutations in PORCN, an effector of the Wnt signaling pathway",
+      "Mutations in collagen VII",
+      "Mutations in TGM1"
+    ],
+    "correctIndex": 1,
+    "explanation": "Goltz syndrome is caused by mutations in PORCN, an effector of the Wnt signaling pathway, which likely regulates Wnt signaling to the developing dermis [16]."
+  },
+  {
+    "id": 20,
+    "chapterId": 3,
+    "question": "The dermal–epidermal junction (DEJ) mediates adhesion and provides resistance against shearing forces. When do skin-specific components of the DEJ start to appear?",
+    "options": [
+      "At 4 weeks' EGA",
+      "After the embryonic–fetal transition at 8 weeks' EGA",
+      "During the third trimester",
+      "Only after birth"
+    ],
+    "correctIndex": 1,
+    "explanation": "The DEJ becomes progressively more complex, and skin-specific components start to appear after the embryonic–fetal transition at 8 weeks’ EGA, coincident with the onset of epidermal stratification [17]."
+  },
+  {
+    "id": 21,
+    "chapterId": 3,
+    "question": "Epidermolysis bullosa (EB), a group of genetic blistering disorders, results from mutations in genes that encode components of which skin structure?",
+    "options": [
+      "Hair follicle bulge",
+      "Sebaceous gland",
+      "Dermal–epidermal junction (DEJ)",
+      "Stratum corneum lipids"
+    ],
+    "correctIndex": 2,
+    "explanation": "Epidermolysis bullosa (EB) is a heterogeneous group of genetic disorders characterized by blister formation due to mechanical fragility of the skin, resulting from mutations in genes that encode several different components of the DEJ [18]."
+  },
+  {
+    "id": 22,
+    "chapterId": 3,
+    "question": "What are the focal epidermal thickenings that initiate hair follicle formation, first seen on the scalp and face between 10 and 11 weeks’ EGA?",
+    "options": [
+      "Dermal papilla",
+      "Placodes",
+      "Hair germs",
+      "Rete ridges"
+    ],
+    "correctIndex": 1,
+    "explanation": "Follicle formation is initiated by signals from the dermis that direct the embryonic epidermis to form focal thickenings, called placodes [19]."
+  },
+  {
+    "id": 23,
+    "chapterId": 3,
+    "question": "What structure is directed by the epidermal placode to condense and form beneath the epidermis?",
+    "options": [
+      "Arrector pili muscle",
+      "Sebaceous gland",
+      "Presumptive dermal papilla",
+      "Outer root sheath"
+    ],
+    "correctIndex": 2,
+    "explanation": "The epidermal placodes instruct the underlying dermal cells to condense and form the presumptive dermal papilla [19]."
+  },
+  {
+    "id": 24,
+    "chapterId": 3,
+    "question": "What signaling molecule secreted by the developing hair follicle is required for the maturation of the dermal papilla and progression to the hair peg stage, and is also critical for the telogen-to-anagen transition postnatally?",
+    "options": [
+      "Wnt",
+      "Sonic hedgehog (SHH)",
+      "Transforming growth factor-beta (TGF-β)",
+      "Vascular endothelial growth factor (VEGF)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sonic hedgehog (SHH), a signaling molecule secreted by cells of the developing hair follicle, is required for the maturation of the dermal papilla and for the progression of the follicle placode to the peg hair stage [20]."
+  },
+  {
+    "id": 25,
+    "chapterId": 3,
+    "question": "Which skin appendage is the first to keratinize during fetal development, doing so at around 11 weeks’ EGA?",
+    "options": [
+      "Eccrine glands",
+      "Sebaceous glands",
+      "Nail bed on the dorsal digit",
+      "Interfollicular epidermis on the head"
+    ],
+    "correctIndex": 2,
+    "explanation": "The nail bed on the dorsal digit is the first skin structure to keratinize, at around 11 weeks’ EGA [21]."
+  },
+  {
+    "id": 26,
+    "chapterId": 3,
+    "question": "The parallel ectodermal ridges that develop over mesenchymal pads on the palms and soles during the second trimester eventually form what characteristic features?",
+    "options": [
+      "Dermal–epidermal junction",
+      "Dermatoglyphics (fingerprints)",
+      "Lanugo hair",
+      "Sweat gland primordia"
+    ],
+    "correctIndex": 1,
+    "explanation": "The curves and whorls formed by these ridges result in characteristic dermatoglyphics (fingerprints), which can be seen on the digit tips by the fifth month of gestation [22]."
+  },
+  {
+    "id": 27,
+    "chapterId": 3,
+    "question": "Which ectodermal dysplasia, characterized by hypohidrosis, hypotrichosis, and hypodontia, is caused by mutations in the Ectodysplasin A (EDA) signaling pathway?",
+    "options": [
+      "Goltz syndrome",
+      "Xeroderma pigmentosum",
+      "Hypohidrotic ectodermal dysplasia (HED)",
+      "Basal cell nevus syndrome"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hypohidrotic ectodermal dysplasia (HED) is a relatively common type of ectodermal dysplasia caused by mutations in genes encoding components of the ectodysplasin A (EDA) signaling pathway [23]."
+  },
+  {
+    "id": 28,
+    "chapterId": 3,
+    "question": "What are the two defining properties of somatic stem cells?",
+    "options": [
+      "Rapid symmetrical division and production of paracrine factors",
+      "Ability to self-renew and ability to produce differentiating daughter cells",
+      "Low clonogenic potential and transient tissue contribution",
+      "Lack of specific molecular markers and rapid proliferation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Somatic stem cells have two defining properties: (1) the ability to produce daughter cells that can differentiate to renew or repair the tissue; and (2) the ability to produce a new stem cell (self-renewal) [24]."
+  },
+  {
+    "id": 29,
+    "chapterId": 3,
+    "question": "The hair follicle bulge, located just deep to the sebaceous gland, is the protective niche thought to harbor which type of stem cells?",
+    "options": [
+      "Epidermal stem cells",
+      "Melanocyte stem cells",
+      "Hair follicle stem cells",
+      "Langerhans cells"
+    ],
+    "correctIndex": 2,
+    "explanation": "The hair follicle bulge... is thought to harbor hair follicle stem cells [25]. It is located in the outer root sheath just deep to the sebaceous gland and adjacent to the arrector pili muscle attachment site [25]."
+  },
+  {
+    "id": 30,
+    "chapterId": 3,
+    "question": "In the hierarchical model of keratinocyte stem cells, what do stem cells generate when they undergo infrequent asymmetric division?",
+    "options": [
+      "Two new stem cells",
+      "Two progenitor cells",
+      "One new stem cell and one daughter transit amplifying (TA) cell",
+      "One melanocyte and one keratinocyte"
+    ],
+    "correctIndex": 2,
+    "explanation": "In the hierarchical model, stem cells undergo infrequent asymmetric division, generating one new stem cell and one daughter transit amplifying (TA) cell [26]."
+  },
+  {
+    "id": 1,
+    "chapterId": 4,
+    "question": "Which fixation method is generally used for electron microscopy analysis of a tissue sample?",
+    "options": [
+      "Formalin",
+      "Glutaraldehyde",
+      "Liquid nitrogen freezing",
+      "Paraffin embedding"
+    ],
+    "correctIndex": 1,
+    "explanation": "Glutaraldehyde is used for electron microscopy analysis of a tissue sample."
+  },
+  {
+    "id": 2,
+    "chapterId": 4,
+    "question": "What is the primary advantage of analyzing cryosections from frozen tissue samples compared to formalin-fixed, paraffin-embedded tissues?",
+    "options": [
+      "Higher quality tissue architecture",
+      "Faster staining process",
+      "Better preservation of DNA, RNA, and protein",
+      "Reduced risk of contamination"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cryosections from frozen samples preserve DNA, RNA, and protein better than sections from formalin-fixed tissues, even though the latter have lower quality tissue architecture."
+  },
+  {
+    "id": 3,
+    "chapterId": 4,
+    "question": "Which standard molecular biology technique is used to amplify a specific piece of DNA from a complex mixture?",
+    "options": [
+      "Western blot",
+      "Flow cytometry",
+      "Polymerase chain reaction (PCR)",
+      "Reverse transcription (RT)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Polymerase chain reaction (PCR) is a standard technique for amplifying DNA."
+  },
+  {
+    "id": 4,
+    "chapterId": 4,
+    "question": "In a standard PCR reaction, what is the theoretical increase in the number of PCR products after 'n' cycles?",
+    "options": [
+      "n times the original amount",
+      "n + 2 times the original amount",
+      "2n times the original amount",
+      "Exponentially, but not quantifiable"
+    ],
+    "correctIndex": 2,
+    "explanation": "Each cycle increases the number of PCR products twofold. The total number of PCR products after n cycles will be 2n times the original amount."
+  },
+  {
+    "id": 5,
+    "chapterId": 4,
+    "question": "What common issue can cause misleading results in PCR due to its high sensitivity?",
+    "options": [
+      "Thermal cycler malfunction",
+      "Contamination of the sample",
+      "Polymerase incorporating correct nucleotides",
+      "Primer annealing to the exact target sequence"
+    ],
+    "correctIndex": 1,
+    "explanation": "Because of its high sensitivity, contamination can cause misleading results in PCR."
+  },
+  {
+    "id": 6,
+    "chapterId": 4,
+    "question": "What is the technique called when the amount of PCR product is monitored during each amplification cycle to quantify the original amount of DNA?",
+    "options": [
+      "Sanger sequencing",
+      "Fluorescence in situ hybridization (FISH)",
+      "Real-time quantitative PCR",
+      "Mass spectrometry"
+    ],
+    "correctIndex": 2,
+    "explanation": "Because the amount of PCR product is monitored during each amplification cycle, this technique is called 'real-time' quantitative PCR."
+  },
+  {
+    "id": 7,
+    "chapterId": 4,
+    "question": "What is the typical first step in analyzing RNA, given its unstable nature?",
+    "options": [
+      "Amplification by PCR directly",
+      "Separation via polyacrylamide gel",
+      "Conversion into DNA using reverse transcription",
+      "Sequencing via nanopore technology"
+    ],
+    "correctIndex": 2,
+    "explanation": "RNA is also easy to purify, but is more unstable and degrades much faster than DNA. Therefore, a typical first step in the analysis of RNA is to convert it into DNA using reverse transcription (RT)."
+  },
+  {
+    "id": 8,
+    "chapterId": 4,
+    "question": "The conversion of mRNA into complementary DNA (cDNA) utilizes which enzyme?",
+    "options": [
+      "DNA polymerase",
+      "Reverse transcriptase",
+      "Cas9 nuclease",
+      "RNA ligase"
+    ],
+    "correctIndex": 1,
+    "explanation": "Many methods that study RNA first convert RNA to cDNA with an enzyme called reverse transcriptase, because cDNA is more stable than RNA."
+  },
+  {
+    "id": 9,
+    "chapterId": 4,
+    "question": "Which type of primer is used in RT-PCR to convert mRNA to cDNA by hybridizing to the poly-A tail found at the end of mRNA molecules?",
+    "options": [
+      "Gene-specific primer",
+      "Random hexamer primers",
+      "Oligo dT primers",
+      "Sequencing adapters"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oligo dT primers contain only dT nucleotides and hybridize to the complementary string of dA nucleotides that are present at the end of mRNA molecules (poly-A tail)."
+  },
+  {
+    "id": 10,
+    "chapterId": 4,
+    "question": "Which technique relies on using fluorescently labeled nucleic acid probes that hybridize to complementary sequences in tissue sections to assess DNA or RNA?",
+    "options": [
+      "Western blot",
+      "Fluorescence in situ hybridization (FISH)",
+      "Enzyme-linked immunosorbent assay (ELISA)",
+      "Mass cytometry"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fluorescence in situ hybridization (FISH) is employed to assess the presence or expression of DNA or RNA. This technique relies on the use of fluorescently labeled nucleic acid probes that are complementary to the DNA or RNA sequences of interest in the tissue sections."
+  },
+  {
+    "id": 11,
+    "chapterId": 4,
+    "question": "In Fluorescence in situ hybridization (FISH), how is the signal of the hybridized probe detected?",
+    "options": [
+      "Using an enzymatic reaction that generates a colored product",
+      "Measuring the time-of-flight of the probe",
+      "Examining the slide using fluorescence microscopy",
+      "Analyzing the sequencing reads computationally"
+    ],
+    "correctIndex": 2,
+    "explanation": "The signal is detected using fluorescence microscopy after the probes are hybridized to the target sequences in the tissue."
+  },
+  {
+    "id": 12,
+    "chapterId": 4,
+    "question": "Immunohistochemistry (IHC) is primarily used in tissue sections to assess the expression and location of which molecules?",
+    "options": [
+      "DNA sequences",
+      "RNA sequences",
+      "Proteins",
+      "Lipids"
+    ],
+    "correctIndex": 2,
+    "explanation": "Immunohistochemistry is employed to assess the expression of proteins in tissue sections."
+  },
+  {
+    "id": 13,
+    "chapterId": 4,
+    "question": "Flow cytometry is used on tissue samples that have been processed into what form?",
+    "options": [
+      "Formalin-fixed blocks",
+      "Single-cell suspension",
+      "Cryosection slides",
+      "Intact excised tissue"
+    ],
+    "correctIndex": 1,
+    "explanation": "Once tissue is dissociated and living cells are in a single cell suspension, flow cytometry can be used to identify populations of cells."
+  },
+  {
+    "id": 14,
+    "chapterId": 4,
+    "question": "Which advanced technique combines the principles of flow cytometry and elemental mass spectrometry, allowing the analysis of 40 or more parameters for each single cell?",
+    "options": [
+      "Quantitative RT-PCR",
+      "Mass cytometry",
+      "Massively parallel sequencing",
+      "Laser microdissection"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mass cytometry analyzes 40 or more parameters for each cell by combining the principles of flow cytometry and elemental mass spectrometry."
+  },
+  {
+    "id": 15,
+    "chapterId": 4,
+    "question": "What is the purpose of laser microdissection?",
+    "options": [
+      "To separate proteins based on size and charge",
+      "To selectively procure individual cells or microanatomic regions from tissue sections",
+      "To sequence millions of DNA fragments simultaneously",
+      "To induce targeted gene deletion in a mouse model"
+    ],
+    "correctIndex": 1,
+    "explanation": "Laser microdissection allows selection of microanatomic regions for analysis and is used to selectively procure individual cells or clusters of cells from tissue sections."
+  },
+  {
+    "id": 16,
+    "chapterId": 4,
+    "question": "Massively parallel sequencing is also commonly known as:",
+    "options": [
+      "Sanger sequencing",
+      "Next-generation sequencing (NGS)",
+      "Nanopore technology",
+      "Chromatin Immunoprecipitation sequencing (ChIP-seq)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Massively parallel sequencing is also known as next-generation sequencing."
+  },
+  {
+    "id": 17,
+    "chapterId": 4,
+    "question": "A key advantage of massively parallel sequencing (NGS) over Sanger sequencing is its ability to infer what genomic feature based on the proportionality of amplified DNA?",
+    "options": [
+      "RNA degradation rates",
+      "Protein translation efficiency",
+      "DNA copy number changes",
+      "Melanosome transfer rates"
+    ],
+    "correctIndex": 2,
+    "explanation": "The advent of massively parallel sequencing not only allows access to DNA sequences, but it also allows one to infer DNA copy number changes."
+  },
+  {
+    "id": 18,
+    "chapterId": 4,
+    "question": "What is a major limitation of massively parallel sequencing for clinical practice?",
+    "options": [
+      "The read lengths are too long (over 1000 bp).",
+      "It is simpler and cheaper than Sanger sequencing.",
+      "The need for sophisticated bioinformatics and data analyses that are challenging to standardize.",
+      "It requires unstable RNA as a starting material."
+    ],
+    "correctIndex": 2,
+    "explanation": "One limitation of massively parallel sequencing is that its increased power and reading depth requires bioinformatics and sophisticated data analyses, which are challenging to standardize in clinical practice."
+  },
+  {
+    "id": 19,
+    "chapterId": 4,
+    "question": "How does Mass Spectrometry determine the mass of proteins and peptides?",
+    "options": [
+      "By measuring how they fluoresce under UV light.",
+      "By measuring the time required for charged peptide ions to move to a detector (time-of-flight).",
+      "By binding them to a microchip and measuring hybridization levels.",
+      "By measuring the enzymatic reaction rate generated by a substrate."
+    ],
+    "correctIndex": 1,
+    "explanation": "Mass spectrometry measures the size or mass of proteins and peptides by ionizing the protein and measuring the “time-of-flight” through a tube to a detector on the opposite end."
+  },
+  {
+    "id": 20,
+    "chapterId": 4,
+    "question": "Before Mass Spectrometry analysis, what is typically used to reduce the complexity of the protein mixture?",
+    "options": [
+      "Single-cell sorting (FACS)",
+      "PCR amplification",
+      "Two-dimensional gel electrophoresis or capillary electrophoresis",
+      "Immunohistochemistry"
+    ],
+    "correctIndex": 2,
+    "explanation": "In most instances, the proteins are separated by two-dimensional gel electrophoresis or capillary electrophoresis before mass spectrometry."
+  },
+  {
+    "id": 21,
+    "chapterId": 4,
+    "question": "The Western blot technique is also referred to as an immunoblot because it uses which component to detect the protein of interest?",
+    "options": [
+      "A nucleic acid probe",
+      "A fluorescent dye",
+      "An antibody",
+      "A polyacrylamide gel"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Western blot is also called an immunoblot because an antibody is used to detect the protein of interest."
+  },
+  {
+    "id": 22,
+    "chapterId": 4,
+    "question": "What characteristic defines a monoclonal antibody used in molecular assays?",
+    "options": [
+      "It reacts to several epitopes on a protein.",
+      "It is isolated from the serum of an injected animal.",
+      "It reacts to only one specific epitope of a protein.",
+      "It is labeled with a fluorescent probe that produces light."
+    ],
+    "correctIndex": 2,
+    "explanation": "Monoclonal antibodies react to only one epitope of a protein."
+  },
+  {
+    "id": 23,
+    "chapterId": 4,
+    "question": "In the traditional approach to creating transgenic mice, where is the gene of interest microinjected?",
+    "options": [
+      "Into an adult mouse fibroblast",
+      "Into a fertilized mouse egg",
+      "Into the hair follicle bulge",
+      "Into the dermal papilla"
+    ],
+    "correctIndex": 1,
+    "explanation": "The traditional approach is to microinject the gene of interest into a fertilized mouse egg, where it randomly integrates into the mouse genome."
+  },
+  {
+    "id": 24,
+    "chapterId": 4,
+    "question": "In a transgenic mouse model, how is the expression of a randomly integrated gene of interest limited or targeted to a specific cell type, such as melanocytes?",
+    "options": [
+      "By using a gene that self-activates only in that cell type.",
+      "By linking the gene to a cell-specific promoter/enhancer regulatory region.",
+      "By introducing the gene using a self-inactivating retroviral vector.",
+      "By employing the Sleeping Beauty transposon system."
+    ],
+    "correctIndex": 1,
+    "explanation": "The transgene will only be expressed in cells where the promoter/enhancer regulatory region is active. For example, a promoter that ensures expression only in melanocytes would be a promoter of a gene involved in melanin biosynthesis."
+  },
+  {
+    "id": 25,
+    "chapterId": 4,
+    "question": "What is the fundamental goal of creating a 'knockout' transgenic mouse model?",
+    "options": [
+      "To increase the expression of a specific protein.",
+      "To study the biologic effects from the loss of expression of a specific gene product.",
+      "To introduce a human gene into the mouse genome.",
+      "To generate induced pluripotent stem cells (iPS cells)."
+    ],
+    "correctIndex": 1,
+    "explanation": "Knockout transgenic mice make it possible to study the biologic effects from loss of gene expression, as both alleles of a normal endogenous gene are modified, mutated, or deleted so that protein can no longer be produced."
+  },
+  {
+    "id": 26,
+    "chapterId": 4,
+    "question": "The conditional knockout mouse model using the Cre-lox system allows for the gene of interest to be selectively deleted in a specific tissue by linking the Cre gene to what element?",
+    "options": [
+      "A Sleeping Beauty transposon",
+      "A tissue-specific promoter",
+      "A non-homologous end joining (NHEJ) repair enzyme",
+      "A zinc finger nuclease (ZFN)"
+    ],
+    "correctIndex": 1,
+    "explanation": "In the conditional knockout model using the Cre-lox system, a target gene can be selectively deleted in a particular organ or tissue by mating a mouse with the Cre gene linked to a tissue-specific promoter to a mouse with loxP sites flanking the target gene."
+  },
+  {
+    "id": 27,
+    "chapterId": 4,
+    "question": "What is the advantage of using inducible systems (like tamoxifen or Tet-On/Off) in conditional knockout mouse models?",
+    "options": [
+      "They prevent any gene deletion errors.",
+      "They ensure the deletion occurs in all mouse cells.",
+      "They allow investigators to trigger deletion of the gene at a particular point in time.",
+      "They eliminate the need for the Cre-lox system."
+    ],
+    "correctIndex": 2,
+    "explanation": "A further refinement is to trigger deletion of the gene at a particular point in time, including during development. This can circumvent problems that arise from gene deletion in all mouse cells, which often impact normal mouse development."
+  },
+  {
+    "id": 28,
+    "chapterId": 4,
+    "question": "In the CRISPR-Cas9 system, what is the repair mechanism that leads to a 'knockout' (deletion of a DNA region that disrupts gene function)?",
+    "options": [
+      "Homology-directed repair (HDR)",
+      "Reverse transcription (RT)",
+      "Nonhomologous end joining (NHEJ)",
+      "Antibody-mediated cleavage"
+    ],
+    "correctIndex": 2,
+    "explanation": "A double-strand break [induced by Cas9] may be repaired by non-homologous end-joining (NHEJ) that leads to the formation of short insertions or deletions that disrupts gene function (knockout)."
+  },
+  {
+    "id": 29,
+    "chapterId": 4,
+    "question": "In the context of skin gene therapy, what is the main advantage of the ex vivo approach over the direct in vivo approach?",
+    "options": [
+      "It is simpler and less technically demanding.",
+      "It avoids the use of viral vectors.",
+      "It is superior at achieving long-term expression in a higher percentage of cells.",
+      "It carries no risk for insertional mutagenesis."
+    ],
+    "correctIndex": 2,
+    "explanation": "Ex vivo approaches are more complicated and technically demanding than in vivo approaches, but are superior at achieving long-term expression in a higher percentage of cells."
+  },
+  {
+    "id": 30,
+    "chapterId": 4,
+    "question": "Short interfering RNA (siRNA) achieves sequence-specific gene silencing by being incorporated into which complex that subsequently degrades the target mRNA?",
+    "options": [
+      "Reverse transcriptase",
+      "Ribosome complex",
+      "RNA-induced silencing complex (RISC)",
+      "Dermal–epidermal junction (DEJ)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Short (small) interfering RNA (siRNA) is unwound, and the “guide” antisense strand is incorporated into an RNA-induced silencing complex (RISC) that degrades a specific target mRNA sequence."
+  },
+  {
+    "id": 1,
+    "chapterId": 5,
+    "question": "What term has been coined to reflect the importance of the cutaneous immune response in tissue homeostasis and repair?",
+    "options": [
+      "Cutaneous Immune Defence System (CIDS)",
+      "Skin-Associated Lymphoid Tissues (SALT)",
+      "Epidermal Barrier Complex (EBC)",
+      "Dermal Immune Surveillance (DIS)"
+    ],
+    "correctIndex": 1,
+    "explanation": "The term 'Skin-associated lymphoid tissues' (SALT) reflects the importance of the cutaneous immune response in tissue homeostasis and repair [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 5,
+    "question": "What characteristic defines the classical immune response, also known as the adaptive immune response?",
+    "options": [
+      "Rapid, non-specific action",
+      "Specificity and the accumulation of memory",
+      "Reliance solely on tissue-resident cells",
+      "Activation triggered only by microbial carbohydrates"
+    ],
+    "correctIndex": 1,
+    "explanation": "The adaptive immune response is characterized by specificity due to immunologic memory, enabling improvement with each successive encounter with a particular antigen [1, 2]."
+  },
+  {
+    "id": 3,
+    "chapterId": 5,
+    "question": "Adaptive immune responses in the skin are not always protective, but can be harmful, such as in the case of:",
+    "options": [
+      "Protection against tumor cells",
+      "Allergic or autoimmune reactions",
+      "Clearance of intracellular pathogens by macrophages",
+      "Response to pathogen-associated molecular patterns (PAMPs)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Adaptive immune responses in the skin can also be harmful in nature, such as allergic or autoimmune reactions [1]."
+  },
+  {
+    "id": 4,
+    "chapterId": 5,
+    "question": "Which of the following cell types is an essential tissue-resident component of the cutaneous innate immune system?",
+    "options": [
+      "B cells",
+      "Cytotoxic T lymphocytes (CTLs)",
+      "Mast cells",
+      "Plasmacytoid dendritic cells (pDCs) in healthy skin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Essential components of the cutaneous innate immune system include tissue-resident cells such as mast cells, macrophages, dendritic cells (DCs), non-classical T cells, natural killer (NK) cells, and innate lymphoid cells [3]."
+  },
+  {
+    "id": 5,
+    "chapterId": 5,
+    "question": "Innate immune cells respond immediately to harmful signals through the expression of danger sensing receptors, such as:",
+    "options": [
+      "T Cell Receptors (TCRs)",
+      "Major Histocompatibility Complex (MHC) class I",
+      "Toll-like receptors (TLRs)",
+      "FcεRI high-affinity IgE receptor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Innate immune cells are characterized by their capacity to immediately respond to harmful signals by virtue of expression of danger sensing receptors such as Toll-like receptors (TLRs) [3]."
+  },
+  {
+    "id": 6,
+    "chapterId": 5,
+    "question": "What triggers the classical pathway of the complement system's proteolytic cascade?",
+    "options": [
+      "Polysaccharides derived from microbial cell walls",
+      "Antigen–antibody complexes",
+      "Bacterial CpG DNA sequences",
+      "Intracellular double-stranded DNA"
+    ],
+    "correctIndex": 1,
+    "explanation": "The classical pathway is stimulated by antigen–antibody complexes [4]."
+  },
+  {
+    "id": 7,
+    "chapterId": 5,
+    "question": "All three complement pathways (classical, alternative, and lectin) converge to activate which central component?",
+    "options": [
+      "C5a",
+      "C9",
+      "C3",
+      "C1q"
+    ],
+    "correctIndex": 2,
+    "explanation": "All three pathways lead to activation of the central C3 component [4]."
+  },
+  {
+    "id": 8,
+    "chapterId": 5,
+    "question": "Which specific complement fragments are referred to as anaphylatoxins and induce the release of inflammatory mediators from mast cells?",
+    "options": [
+      "C3b, C4b, C5b",
+      "C3a, C4a, and C5a",
+      "C6, C7, C8, C9",
+      "C1q, C2b"
+    ],
+    "correctIndex": 1,
+    "explanation": "C3a, C4a, and C5a, also called anaphylatoxins, induce the release of inflammatory mediators from mast cells [5]."
+  },
+  {
+    "id": 9,
+    "chapterId": 5,
+    "question": "The Membrane-Attack Complex (MAC) is formed by the assembly of C5b, C6, C7, C8, and C9, leading to cell death through:",
+    "options": [
+      "Caspase activation",
+      "Phagocytosis enhancement",
+      "Osmotic lysis via pore generation",
+      "Inhibition of C3 convertase"
+    ],
+    "correctIndex": 2,
+    "explanation": "Assembly of the complement components C5b, C6, C7, C8, and C9 forms the membrane-attack complex (MAC), which generates pores in cell membranes and leads to death by osmotic lysis [5]."
+  },
+  {
+    "id": 10,
+    "chapterId": 5,
+    "question": "Which specific Toll-like Receptor (TLR) recognizes bacterial CpG DNA sequences?",
+    "options": [
+      "TLR4 (Lipopolysaccharide)",
+      "TLR5 (Flagellin)",
+      "TLR9 (Endosomal)",
+      "TLR2 (Lipoproteins)"
+    ],
+    "correctIndex": 2,
+    "explanation": "TLR9 recognizes bacterial CpG DNA sequences and resides within endosomal vesicles [6, 7]."
+  },
+  {
+    "id": 11,
+    "chapterId": 5,
+    "question": "Which signaling molecule is primarily utilized by all TLRs except TLR3 for signaling, ultimately leading to activation of NF-κB?",
+    "options": [
+      "TRIF",
+      "MyD88",
+      "IRF3",
+      "TRAF6"
+    ],
+    "correctIndex": 1,
+    "explanation": "All TLRs except TLR3 utilize myeloid differentiation factor 88 (MyD88) for signaling [7]."
+  },
+  {
+    "id": 12,
+    "chapterId": 5,
+    "question": "Activation of Toll-like receptors can result in the release of interferons (IFNs) via the activation of which transcription factor?",
+    "options": [
+      "NF-κB",
+      "IRAK",
+      "IRF3",
+      "TIRAP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Activation of TLRs can also result in the release of interferons (IFNs) via activation of interferon regulatory factor 3 (IRF3) [8]."
+  },
+  {
+    "id": 13,
+    "chapterId": 5,
+    "question": "Which inflammasome is considered the most important because it is triggered by numerous pathogen-associated molecular patterns (PAMPs) and danger-associated molecular patterns (DAMPs)?",
+    "options": [
+      "Aim2",
+      "NLRP1",
+      "NLRP3",
+      "NLRC4"
+    ],
+    "correctIndex": 2,
+    "explanation": "NLRP3 is triggered by numerous PAMPs and DAMPs and is thus the most important inflammasome [9]."
+  },
+  {
+    "id": 14,
+    "chapterId": 5,
+    "question": "The ultimate result of inflammasome activation is the cleavage of pro-IL-1β into which highly potent inflammatory mediator?",
+    "options": [
+      "Active caspase-1",
+      "Active IL-1β",
+      "Active IL-18",
+      "Active TNF-α"
+    ],
+    "correctIndex": 1,
+    "explanation": "The ultimate result of activation of inflammasomes is the cleavage of pro-IL-1β into active IL-1β, a highly potent inflammatory mediator [9]."
+  },
+  {
+    "id": 15,
+    "chapterId": 5,
+    "question": "Dysregulation of inflammasomes is the cause of a group of inherited autoinflammatory diseases known as:",
+    "options": [
+      "Systemic Lupus Erythematosus (SLE)",
+      "Cryopyrin-Associated Periodic Syndromes (CAPS)",
+      "Hyper-IgE Syndrome",
+      "Pemphigus Vulgaris"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dysregulation of inflammasomes is the cause of a group of inherited autoinflammatory diseases called cryopyrin-associated periodic syndromes (CAPS) [9]."
+  },
+  {
+    "id": 16,
+    "chapterId": 5,
+    "question": "What was the first antimicrobial peptide (AMP) to be isolated from human skin?",
+    "options": [
+      "Psoriasin (S100A7)",
+      "Human β-defensin-2 (hBD-2)",
+      "LL-37/Cathelicidin",
+      "Antileukoprotease (ALP)"
+    ],
+    "correctIndex": 1,
+    "explanation": "The first AMP to be isolated from human skin was human β-defensin-2 (hBD-2) [10]."
+  },
+  {
+    "id": 17,
+    "chapterId": 5,
+    "question": "The antimicrobial peptide LL-37 mediates DC activation in psoriasis by binding self-DNA and forming structures that stimulate which TLR?",
+    "options": [
+      "TLR3",
+      "TLR7",
+      "TLR9",
+      "TLR4"
+    ],
+    "correctIndex": 2,
+    "explanation": "The antimicrobial peptide LL-37 mediates DC activation in psoriasis by binding self-DNA and forming structures that stimulate TLR9 [11]."
+  },
+  {
+    "id": 18,
+    "chapterId": 5,
+    "question": "Monocytes that migrate into tissues can give rise to inflammatory DCs and macrophages, whose functions are defined by:",
+    "options": [
+      "Their initial bone marrow progenitor",
+      "The duration of their circulation in the blood",
+      "The tissue environment and tissue type",
+      "The expression of CD45RO"
+    ],
+    "correctIndex": 2,
+    "explanation": "Monocytes circulate in the bloodstream and migrate into tissues to respond to inflammation and infection. Within tissue, they can give rise to inflammatory DCs and macrophages whose functions are defined by the tissue environment and tissue type [12]."
+  },
+  {
+    "id": 19,
+    "chapterId": 5,
+    "question": "Macrophages possess receptors for carbohydrates that are usually not expressed on vertebrate cells (e.g., mannose), allowing them to discriminate between:",
+    "options": [
+      "T helper cell subsets",
+      "CD4+ and CD8+ T cells",
+      "Fibrotic and healthy tissue",
+      "“Foreign” and “self” molecules"
+    ],
+    "correctIndex": 3,
+    "explanation": "Monocyte-derived macrophages express receptors for carbohydrates that are usually not expressed on vertebrate cells (e.g. mannose). Through this mechanism, macrophages can discriminate between “foreign” and “self” molecules [13]."
+  },
+  {
+    "id": 20,
+    "chapterId": 5,
+    "question": "What is the oxygen-dependent mechanism used by neutrophils to kill phagocytosed organisms, involving the production of hydrogen peroxide and hydroxyl radicals?",
+    "options": [
+      "Oxygen-independent killing",
+      "Osmotic lysis",
+      "The respiratory burst",
+      "Caspase activation"
+    ],
+    "correctIndex": 2,
+    "explanation": "The oxygen-dependent mechanism used by neutrophils to kill phagocytosed organisms is called the respiratory burst, involving the production of hydrogen peroxide, hydroxyl radicals, and singlet oxygen [14]."
+  },
+  {
+    "id": 21,
+    "chapterId": 5,
+    "question": "Neutrophilic extracellular traps (NETs) are released by neutrophils and, although they entrap pathogens, they can also induce autoimmunity by stimulating immune responses against:",
+    "options": [
+      "Antibody-complement complexes",
+      "NET-associated nuclear antigens",
+      "Cell surface adhesion molecules",
+      "Innate lymphoid cells (ILCs)"
+    ],
+    "correctIndex": 1,
+    "explanation": "NETs can induce autoimmunity by stimulating immune responses against the NET-associated nuclear antigens [15]."
+  },
+  {
+    "id": 22,
+    "chapterId": 5,
+    "question": "The major function of eosinophils is most likely to protect the host from infections by which type of pathogen?",
+    "options": [
+      "Viruses",
+      "Intracellular bacteria",
+      "Parasites, particularly nematodes",
+      "Commensal fungi"
+    ],
+    "correctIndex": 2,
+    "explanation": "The major function of eosinophils is most likely to protect the host from infections by parasites, particularly nematodes [16]."
+  },
+  {
+    "id": 23,
+    "chapterId": 5,
+    "question": "Which surface receptor is expressed on both basophils and mast cells, allowing them to avidly bind IgE?",
+    "options": [
+      "FcγRIII (CD16)",
+      "FcεRI (High-affinity receptor for IgE)",
+      "CD40",
+      "CD88 (C5a receptor)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Both basophils and mast cells express high-affinity receptors for IgE (FcεRI) that avidly bind IgE [17]."
+  },
+  {
+    "id": 24,
+    "chapterId": 5,
+    "question": "Which cell lineage lacks T and B cell receptors and conventional hematopoietic lineage markers, but is responsible for producing type 1, 2, or 3 cytokines depending on the subgroup?",
+    "options": [
+      "Monocytes and Macrophages",
+      "Innate Lymphoid Cells (ILCs)",
+      "Natural Killer T (NK T) cells",
+      "Cytotoxic T (Tc) cells"
+    ],
+    "correctIndex": 1,
+    "explanation": "Innate lymphoid cells (ILCs) are lymphoid progenitor-derived leukocytes which lack T and B cell receptors and do not express conventional hematopoietic lineage markers, and are grouped into subgroups based on cytokine and transcription factor expression profiles (ILC1s, ILC2s, ILC3s) [18]."
+  },
+  {
+    "id": 25,
+    "chapterId": 5,
+    "question": "What specialized rod-shaped organelles are associated with Langerhans cells (LCs) and result from the antigen-capture function of the lectin langerin (CD207)?",
+    "options": [
+      "Melanosomes",
+      "Birbeck granules",
+      "Phagolysosomes",
+      "Endosomes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ultrastructurally, LCs have rod-shaped organelles termed Birbeck granules. A Ca2+-dependent lectin with mannose-binding specificity called langerin (CD207) is associated with and responsible for the formation of Birbeck granules [19, 20]."
+  },
+  {
+    "id": 26,
+    "chapterId": 5,
+    "question": "CD4+ T cells recognize antigens only in association with which type of MHC molecule?",
+    "options": [
+      "MHC class I molecules",
+      "MHC class II molecules",
+      "CD1d molecules",
+      "MHC class III molecules"
+    ],
+    "correctIndex": 1,
+    "explanation": "CD4+ T cells recognize antigens in association with MHC class II molecules [21]."
+  },
+  {
+    "id": 27,
+    "chapterId": 5,
+    "question": "What is the fate of developing T cells in the thymus that fail to recognize MHC complexes on thymic DCs (a process called positive selection)?",
+    "options": [
+      "Differentiation into B cells",
+      "Differentiation into memory cells",
+      "Apoptotic cell death",
+      "Migration to the periphery as regulatory T cells"
+    ],
+    "correctIndex": 2,
+    "explanation": "When the T cells are unable to recognize these MHC molecules via their TCR, they undergo apoptotic cell death. More than 95% of the developing T cells die in the thymus because they are not selected [22]."
+  },
+  {
+    "id": 28,
+    "chapterId": 5,
+    "question": "Signaling through the T cell receptor (TCR) complex alone is insufficient for naive T cell activation. What is the minimum requirement for a productive T cell immune response?",
+    "options": [
+      "Signal 1 (TCR interaction) and cytokine signal only",
+      "Signal 1 (TCR interaction) only",
+      "Signal 1 (TCR interaction) and Signal 2 (costimulatory signals)",
+      "Downregulation of CD28 expression"
+    ],
+    "correctIndex": 2,
+    "explanation": "Signaling through the TCR complex alone is not sufficient for naive T cell activation. The presence of costimulatory signals is needed for T cells to undergo antigen-specific clonal expansion, requiring at least two types of stimuli (Signal 1: TCR/MHC interaction; Signal 2: costimulatory molecules) [23, 24]."
+  },
+  {
+    "id": 29,
+    "chapterId": 5,
+    "question": "Which cytokine is the major driver for Th0 cells towards a Th1 phenotype?",
+    "options": [
+      "IL-4",
+      "IL-12",
+      "IL-17",
+      "TGF-β"
+    ],
+    "correctIndex": 1,
+    "explanation": "Macrophages stimulated by IFN-γ release IL-12, the major cytokine that drives Th0 cells towards a Th1 phenotype [25, 26]."
+  },
+  {
+    "id": 30,
+    "chapterId": 5,
+    "question": "Which surface molecule is expressed by memory T cells recruited to the skin, enabling their initial tethering to the endothelium of cutaneous postcapillary venules?",
+    "options": [
+      "CCR7",
+      "Cutaneous Lymphocyte Antigen (CLA)",
+      "P-selectin glycoprotein ligand-1 (PSGL-1)",
+      "ICAM-1 (CD54)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Memory T cells entering the skin express cutaneous lymphocyte antigen (CLA). The function of CLA is to allow the early tethering of T cells to the endothelium of cutaneous postcapillary venules [27]."
+  }
+
+
+]
