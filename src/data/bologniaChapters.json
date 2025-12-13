@@ -3,31 +3,31 @@
     "id": 1,
     "title": "Basic Principles of Dermatology",
     "description": "All students of dermatology, whether beginners or advanced scholars,require a conceptual framework upon which to organize thousands ofskin diseases.",
-    "image": "/images/BologniaChapters/Basic Principles of Dermatology.jpg"
+    "image": "/React-Derma-Quiz/images/BologniaChapters/Basic Principles of Dermatology.jpg"
   },
   {
     "id": 2,
     "title": "Anatomy and Pathophysiology",
     "description": "Relationship between structure and function of the skin is best demonstrated by presenting diseases.",
-    "image": "/images/BologniaChapters/Anatomy and Pathophysiology.jpeg"
+    "image": "/React-Derma-Quiz/images/BologniaChapters/Anatomy and Pathophysiology.jpeg"
   },
   {
     "id": 3,
     "title": "Skin Development and Maintenance",
     "description": "Development of the human embryo is a complex process involvinghighly orchestrated cell movements, proliferation, death, and differentiation.",
-    "image": "/images/BologniaChapters/Skin Development and Maintenance.jpg"
+    "image": "/React-Derma-Quiz/images/BologniaChapters/Skin Development and Maintenance.jpg"
   },
   {
     "id": 4,
     "title": "Molecular Biology",
     "description": "Advances in molecular biology are rapidly changing our understanding of skin biology and disease. Increased knowledge is being translated into new molecular diagnostic tests that are transforming clinical practice.",
-    "image": "/images/BologniaChapters/Molecular Biology.jpg"
+    "image": "/React-Derma-Quiz/images/BologniaChapters/Molecular Biology.jpg"
   },
   {
     "id": 5,
     "title": "Immunology",
     "description": "As a major barrier against the external environment, one of the skin’s major functions is defense against potential insults by microbial, chemical, and physical agents.",
-    "image": "/images/BologniaChapters/Immunology.jpg"
+    "image": "/React-Derma-Quiz/images/BologniaChapters/Immunology.jpg"
   }
 
 ]
