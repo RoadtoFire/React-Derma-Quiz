@@ -45,49 +45,49 @@
     "id": 8,
     "title": "Psychocutaneous Diseases",
     "description": "'Psychodermatology' refers to any aspect of dermatology in which psychological factors play a significant role in the genesis, exacerbation, or sequelae of a skin condition.",
-    "image": "/images/BologniaChapters/Psychocutaneous Diseases.jpeg"
+    "image": "./images/BologniaChapters/Psychocutaneous Diseases.jpeg"
   },
   {
     "id": 9,
     "title": "Psoriasis",
     "description": "Psoriasis is an immune-mediated polygenic skin disorder1. Various environmental triggering factors, e.g. trauma, infections, medications, may elicit disease in predisposed individuals",
-    "image": "/images/BologniaChapters/Psoriasis.jpeg"
+    "image": "./images/BologniaChapters/Psoriasis.jpeg"
   },
   {
     "id": 10,
     "title": "Other Papulosquamous Disorders",
     "description": "Since the introduction of the term “parapsoriasis” by Brocq in 1902, there has been much confusion and debate regarding this controversial topic",
-    "image": "/images/BologniaChapters/Papulosquamous Disorders.webp"
+    "image": "./images/BologniaChapters/Papulosquamous Disorders.webp"
   },
   {
     "id": 11,
     "title": "Erythroderma",
     "description": "Erythroderma is defined as generalized erythema and scaling involving > 80% of the body surface area (BSA).",
-    "image": "/images/BologniaChapters/Erythroderma.jpg"
+    "image": "./images/BologniaChapters/Erythroderma.jpg"
   },
   {
     "id": 12,
     "title": "Lichen Planus and Lichenoid Dermatoses",
     "description": "Lichen planus (LP), the prototype of lichenoid dermatoses, is an idiopathic inflammatory disease of the skin and mucous membranes. Classic LP is characterized by pruritic, violaceous papules that favor the extremities",
-    "image": "/images/BologniaChapters/Lichen Planus and Lichenoid Dermatoses.jpg"
+    "image": "./images/BologniaChapters/Lichen Planus and Lichenoid Dermatoses.jpg"
   },
   {
     "id": 13,
     "title": "Atopic Dermatitis",
     "description": "Atopic dermatitis (AD) is the most common chronic inflammatory skindisease, and its increasing prevalence presents a major public healthproblem worldwide.",
-    "image": "/images/BologniaChapters/Atopic dermatitis.webp"
+    "image": "./images/BologniaChapters/Atopic dermatitis.webp"
   },
   {
     "id": 14,
     "title": "Other Eczematous Eruptions",
     "description": "In addition to contact and atopic dermatitis, there exists a heteroge- neous group of inflammatory skin diseases that obviously share thehallmarks of eczema, but display characteristic additional features.",
-    "image": "/images/BologniaChapters/Other Eczematous Eruptions.jpeg"
+    "image": "./images/BologniaChapters/Other Eczematous Eruptions.jpeg"
   },
   {
     "id": 15,
     "title": "Allergic Contact Dermatitis",
     "description": "When the skin comes in contact with external agents, many adverse events can occur including contact dermatitis, which can be either allergic or irritant.",
-    "image": "/images/BologniaChapters/Allergic Contact Dermatitis.webp"
+    "image": "./images/BologniaChapters/Allergic Contact Dermatitis.webp"
   },
   {
     "id": 16,
