@@ -37,7 +37,7 @@ export default function BologniaQuizChapters() {
             >
               {/* Image */}
               <img
-                src={chapter.image}
+                src={`${import.meta.env.BASE_URL}${chapter.image}`}
                 alt={chapter.title}
                 className="h-40 w-full object-cover"
               />
