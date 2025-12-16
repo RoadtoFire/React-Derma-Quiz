@@ -1,9 +1,18 @@
 import { useState } from "react";
+import { useParams, useNavigate } from "react-router-dom";
 import questions from "../data/bologniaQuestions.json";
 
-export default function QuizTest({ chapterId, onFinish }) {
+export default function QuizTest() {
+  // 1️⃣ Read chapterId from URL
+  const { chapterId } = useParams();
+  const navigate = useNavigate();
+
+  // 2️⃣ Convert to number (CRITICAL)
+  const chapterIdNumber = Number(chapterId);
+
+  // 3️⃣ Filter questions for this chapter
   const chapterQuestions = questions.filter(
-    (q) => q.chapterId === chapterId
+    (q) => q.chapterId === chapterIdNumber
   );
 
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -13,13 +22,7 @@ export default function QuizTest({ chapterId, onFinish }) {
 
   const question = chapterQuestions[currentIndex];
 
-  const handleSubmit = () => {
-    if (selected === question.correctIndex) {
-        setScore((s) => s + 1);
-    }
-    setShowAnswer(true);
-  };
-
+  // 4️⃣ Guard: invalid chapter or no questions
   if (!question) {
     return (
       <div className="min-h-screen bg-gray-900 flex items-center justify-center text-gray-400">
@@ -28,14 +31,30 @@ export default function QuizTest({ chapterId, onFinish }) {
     );
   }
 
-  const handleNext = () => {
-    if (currentIndex + 1 === chapterQuestions.length) {
-        onFinish({
-            total: chapterQuestions.length,
-            correct: score + (selected === question.correctIndex ? 1 : 0),
-        })
-        return;
+  const handleSubmit = () => {
+    if (selected === question.correctIndex) {
+      setScore((s) => s + 1);
     }
+    setShowAnswer(true);
+  };
+
+  const handleNext = () => {
+    const isLastQuestion =
+      currentIndex + 1 === chapterQuestions.length;
+
+    if (isLastQuestion) {
+      // 5️⃣ Navigate to Result page with score
+      navigate("/Result", {
+        state: {
+          totalQuestions: chapterQuestions.length,
+          correctAnswers:
+            score +
+            (selected === question.correctIndex ? 1 : 0),
+        },
+      });
+      return;
+    }
+
     setSelected(null);
     setShowAnswer(false);
     setCurrentIndex((i) => i + 1);
@@ -44,7 +63,7 @@ export default function QuizTest({ chapterId, onFinish }) {
   return (
     <main className="min-h-screen bg-gray-900 px-6 py-12">
       <div className="mx-auto max-w-3xl">
-        {/* Header */}
+        {/* Progress */}
         <div className="mb-6 text-gray-400 text-sm">
           Question {currentIndex + 1} of {chapterQuestions.length}
         </div>
@@ -63,11 +82,14 @@ export default function QuizTest({ chapterId, onFinish }) {
 
               if (showAnswer) {
                 if (index === question.correctIndex) {
-                  baseStyle += " bg-green-600/20 border-green-500 text-white";
+                  baseStyle +=
+                    " bg-green-600/20 border-green-500 text-white";
                 } else if (index === selected) {
-                  baseStyle += " bg-red-600/20 border-red-500 text-white";
+                  baseStyle +=
+                    " bg-red-600/20 border-red-500 text-white";
                 } else {
-                  baseStyle += " border-white/10 text-gray-300";
+                  baseStyle +=
+                    " border-white/10 text-gray-300";
                 }
               } else {
                 baseStyle +=

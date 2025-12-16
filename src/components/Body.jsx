@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Link } from "react-router-dom";
 
 const navigation = [
   { name: "Home", href: "#" },
@@ -38,10 +39,10 @@ function Body({ onNavigate }) {
 
           <div className="mt-10 flex items-center justify-center gap-x-6">
             <button
-              onClick={() => onNavigate("quiz-list")}
+              //onClick={() => onNavigate("quiz-list")}
               className="rounded-md bg-indigo-500 px-5 py-3 text-sm font-semibold text-white hover:bg-indigo-400"
             >
-              Start Practicing
+              <Link to="/QuizList">Start Practicing</Link>
             </button>
 
             <button

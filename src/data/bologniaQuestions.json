@@ -1948,7 +1948,2740 @@
     ],
     "correctIndex": 1,
     "explanation": "Memory T cells entering the skin express cutaneous lymphocyte antigen (CLA). The function of CLA is to allow the early tethering of T cells to the endothelium of cutaneous postcapillary venules [27]."
+  },
+  {
+    "id": 1,
+    "chapterId": 6,
+    "question": "What is the approximate range of conduction velocities for C fibers uniquely identified to transmit itch?",
+    "options": [
+      "2–30 m/second",
+      "Greater than 30 m/second",
+      "0.3–1.0 m/second",
+      "Less than 0.3 m/second"
+    ],
+    "correctIndex": 2,
+    "explanation": "C fibers that transmit itch have exceptionally slow conduction velocities, typically ranging from 0.3–1.0 m/second [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 6,
+    "question": "Histamine-sensitive C fibers are generally sensitive to which combination of stimuli, while generally lacking response to mechanical stimuli?",
+    "options": [
+      "Mechanical and cold stimuli",
+      "Heat and prurito-genic stimuli",
+      "Capsaicin and low pH",
+      "Light touch and moving stimuli"
+    ],
+    "correctIndex": 1,
+    "explanation": "Histamine-sensitive C fibers are sensitive to heat as well as prurito-genic stimuli but generally not to mechanical stimuli [1]."
+  },
+  {
+    "id": 3,
+    "chapterId": 6,
+    "question": "The intense itch caused by the tropical legume cowhage (*Mucuna pruriens*) is induced by the release of which specific protease?",
+    "options": [
+      "Tryptase",
+      "Cathepsin S",
+      "Mucunain",
+      "Kallikrein 7"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cowhage spicules induce itch via release of the protease mucunain [2]."
+  },
+  {
+    "id": 4,
+    "chapterId": 6,
+    "question": "Mucunain, the protease released by cowhage, activates which pair of receptors to elicit itch transmission?",
+    "options": [
+      "Histamine H1 and H4 receptors",
+      "MAS-related G protein-coupled receptors (MRGPRs)",
+      "Proteinase-activated receptor (PAR)-2 and PAR-4",
+      "Transient receptor potential vanilloid (TRPV1) and ankyrin 1 (TRPA1)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cowhage spicules induce itch via release of the protease mucunain, which activates proteinase-activated receptor (PAR)-2 and PAR-4 [2]."
+  },
+  {
+    "id": 5,
+    "chapterId": 6,
+    "question": "MAS-related G protein-coupled receptor D (MRGPRD) is exclusively expressed by which subset of pruriceptive C fibers?",
+    "options": [
+      "Histamine-sensitive C fibers",
+      "Type 1 non-peptidergic (NP1) neurons",
+      "Type 2 non-peptidergic (NP2) neurons",
+      "Type 3 non-peptidergic (NP3) neurons"
+    ],
+    "correctIndex": 1,
+    "explanation": "MAS-related G protein-coupled receptor D (MRGPRD) is a β-alanine receptor that is exclusively expressed by a subset of pruriceptive C fibers classified as type 1 non-peptidergic (NP1) neurons [3]."
+  },
+  {
+    "id": 6,
+    "chapterId": 6,
+    "question": "The pharmacologic pruritogen chloroquine directly activates which type of sensory neuron?",
+    "options": [
+      "NP1 neurons",
+      "NP2 neurons",
+      "NP3 neurons",
+      "A-delta fibers"
+    ],
+    "correctIndex": 1,
+    "explanation": "The pharmacologic pruritogen chloroquine directly activates NP2 (type 2) neurons [3]."
+  },
+  {
+    "id": 7,
+    "chapterId": 6,
+    "question": "Which specific Th2 cytokine elicits itch primarily via activation of NP3 (type 3) neurons?",
+    "options": [
+      "Interleukin-4 (IL-4)",
+      "Interleukin-13 (IL-13)",
+      "Interleukin-31 (IL-31)",
+      "Interleukin-2 (IL-2)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Th2 cytokine IL-31 elicits itch via NP3 (type 3) neurons [3]."
+  },
+  {
+    "id": 8,
+    "chapterId": 6,
+    "question": "What was the first itch-specific receptor identified in the spinal cord, serving as a key downstream mediator of non-histaminergic itch responses?",
+    "options": [
+      "Gastrin-releasing peptide receptor (GRPR)",
+      "Neurokinin-1 receptor (NK1R)",
+      "MRGPRX4",
+      "Histamine H4 receptor"
+    ],
+    "correctIndex": 0,
+    "explanation": "The first itch-specific receptor to be identified, gastrin-releasing peptide receptor (GRPR), is found in the spinal cord and represents a key downstream mediator of non-histaminergic itch responses [4]."
+  },
+  {
+    "id": 9,
+    "chapterId": 6,
+    "question": "Which itch-selective neuropeptide, found in dorsal root ganglia neurons, is believed to act upstream of the GRPR itch spinal circuit?",
+    "options": [
+      "Substance P",
+      "Gastrin-releasing peptide (GRP)",
+      "Calcitonin gene related peptide (CGRP)",
+      "B-type natriuretic peptide (BNP)"
+    ],
+    "correctIndex": 3,
+    "explanation": "B-type natriuretic peptide, an itch-selective neuropeptide found in dorsal root ganglia neurons, is believed to act upstream of the GRPR itch spinal circuit [4]."
+  },
+  {
+    "id": 10,
+    "chapterId": 6,
+    "question": "Pruriceptive C fibers synapse with secondary sensory neurons in which specific area of the spinal cord?",
+    "options": [
+      "Lamina I of the dorsal horn gray matter",
+      "Ventral horn white matter",
+      "Dorsal root ganglion",
+      "Periaqueductal gray matter"
+    ],
+    "correctIndex": 0,
+    "explanation": "In the spinal cord, pruriceptive C fibers synapse with secondary sensory neurons in the gray matter of the dorsal horn [5]."
+  },
+  {
+    "id": 11,
+    "chapterId": 6,
+    "question": "What is the typical sensory nerve classification for the nerve fibers that mediate pruritus (itch)?",
+    "options": [
+      "Peptidergic A-delta (A delta)",
+      "Large myelinated A-beta (A beta)",
+      "Non-peptidergic (NP) C fibers",
+      "Sympathetic postganglionic fibers"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pruritus (itch) is mediated by sensory nerves traditionally classified as non-peptidergic (NP) [6]."
+  },
+  {
+    "id": 12,
+    "chapterId": 6,
+    "question": "The finding that histamine-induced itch and cowhage-induced itch stimulate distinct populations of spinothalamic tract neurons supports the idea of:",
+    "options": [
+      "The Gate Control Theory of Pain",
+      "A single, dedicated central itch pathway",
+      "Parallel, distinct non-histaminergic pathways for itch transmission",
+      "A uniform response regardless of the peripheral mediator"
+    ],
+    "correctIndex": 2,
+    "explanation": "Neurophysiologic experiments in primates found that cowhage-induced itch stimulates a distinct population of spinothalamic tract neurons that are not involved in the transmission of histamine-mediated itch, supporting the existence of distinct parallel pathways [7, 8]."
+  },
+  {
+    "id": 13,
+    "chapterId": 6,
+    "question": "Which brain region is potentially involved in coordinating the itch–scratch cycle, based on studies showing its activation during scratching?",
+    "options": [
+      "Anterior cingulate cortex",
+      "Insula–claustrum complex",
+      "Thalamus",
+      "Cerebellum"
+    ],
+    "correctIndex": 3,
+    "explanation": "Scratching has been found to activate the prefrontal cortex and cerebellum. It is possible that the cerebellum plays a role in coordinating the itch–scratch cycle [9]."
+  },
+  {
+    "id": 14,
+    "chapterId": 6,
+    "question": "Removal of which layer of the skin largely abolishes the perception of itch?",
+    "options": [
+      "Dermis",
+      "Hypodermis",
+      "Epidermis",
+      "Subcutaneous fat"
+    ],
+    "correctIndex": 2,
+    "explanation": "Removal of the epidermis largely abolishes the perception of itch [10]."
+  },
+  {
+    "id": 15,
+    "chapterId": 6,
+    "question": "Which of the following receptors involved in itch sensation is expressed by keratinocytes?",
+    "options": [
+      "IL-31 receptor A (IL-31RA)",
+      "Neurotrophic tyrosine kinase receptor type 1 (NTRK1)",
+      "Gastrin-releasing peptide receptor (GRPR)",
+      "P-selectin glycoprotein ligand-1 (PSGL-1)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Keratinocytes express a variety of neural mediators and receptors involved in the sensation of itch... including neurotrophic tyrosine kinase receptor type 1 (NTRK1) [11]."
+  },
+  {
+    "id": 16,
+    "chapterId": 6,
+    "question": "A-delta fibers, compared to C fibers, are characterized by which combination of physical properties?",
+    "options": [
+      "Large diameter and myelinated",
+      "Small diameter and myelinated",
+      "Small diameter and unmyelinated",
+      "Large diameter and unmyelinated"
+    ],
+    "correctIndex": 1,
+    "explanation": "A-delta fibers are small and myelinated, with a conduction velocity of 2–30 m/s [12]."
+  },
+  {
+    "id": 17,
+    "chapterId": 6,
+    "question": "The high-affinity IgE receptor (FcεRI), the KIT receptor, and MRGPRX2 are all receptors that, upon activation, can lead to the release of histamine from which cell type?",
+    "options": [
+      "Keratinocytes",
+      "Macrophages",
+      "Dermal mast cells",
+      "Dorsal horn neurons"
+    ],
+    "correctIndex": 2,
+    "explanation": "Histamine can be released from mast cells upon activation of a range of receptors, including the high-affinity IgE receptor (FcεRI), the KIT receptor, MRGPRX2, and receptors for various neuropeptides [13]."
+  },
+  {
+    "id": 18,
+    "chapterId": 6,
+    "question": "Which protease, released by activated mast cells, cleaves PAR-2 on C-fiber terminals to expose a tethered ligand domain and initiate itch transmission?",
+    "options": [
+      "Mucunain",
+      "Cathepsin S",
+      "Tryptase",
+      "Kallikrein 7"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mast cells produce two proteases, tryptase and chymase. Tryptase, released by activated mast cells, cleaves PAR-2... this exposes a tethered ligand domain and thereby “self-activates” PAR-2, leading to itch transmission [14]."
+  },
+  {
+    "id": 19,
+    "chapterId": 6,
+    "question": "Generalized pruritus may occur due to an imbalance between the central and peripheral systems of which endogenous neuromediators?",
+    "options": [
+      "Histamine and Serotonin",
+      "Substance P and CGRP",
+      "The mu (μ)-opioid system (MOR) and kappa (κ)-opioid system ",
+      "IL-31 and TSLP"
+    ],
+    "correctIndex": 2,
+    "explanation": "Generalized pruritus may be induced by an imbalance between mu (μ)-opioid system (MOR) and kappa (κ)-opioid system, activation of which stimulates and inhibits itch perception, respectively [15]."
+  },
+  {
+    "id": 20,
+    "chapterId": 6,
+    "question": "Activation of which specific opioid receptor stimulates itch perception, and whose agonists (e.g., morphine) may cause generalized pruritus?",
+    "options": [
+      "kappa (κ)-opioid receptor",
+      "mu (μ)-opioid receptor",
+      "Delta -opioid receptor",
+      "Neurokinin-1 receptor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Activation of the mu (μ)-opioid stimulates itch perception. Morphine as well as other exogenous and endogenous mu (μ)-opioid receptor agonists may cause generalized pruritus [16]."
+  },
+  {
+    "id": 21,
+    "chapterId": 6,
+    "question": "Substance P, when released from cutaneous sensory nerves, causes immediate mast cell degranulation primarily by activating which receptor?",
+    "options": [
+      "H1 receptor",
+      "Neurokinin-1 (NK-1) receptor",
+      "MRGPRX2 receptor",
+      "PAR-2"
+    ],
+    "correctIndex": 2,
+    "explanation": "High concentrations of substance P can cause immediate mast cell degranulation via MRGPRX2 receptors [17]."
+  },
+  {
+    "id": 22,
+    "chapterId": 6,
+    "question": "Which primary mediator of pruritus is listed as 'highly active' (+++) for pruritus but having 'no activity' (-) for pain, according to Table 5.2?",
+    "options": [
+      "Histamine",
+      "Tryptase",
+      "Gastrin-releasing peptide (GRP)",
+      "Substance P"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gastrin-releasing peptide (GRP) is listed as highly active (+++) for pruritus and having no activity (−) for pain [18, 19]."
+  },
+  {
+    "id": 23,
+    "chapterId": 6,
+    "question": "Increased levels of Nerve Growth Factor (NGF) in involved skin are associated with which change in cutaneous nerve fibers?",
+    "options": [
+      "Vasodilation only",
+      "Inhibition of peptide release",
+      "Reduced axonal transport",
+      "Proliferation and sprouting of terminal cutaneous nerves"
+    ],
+    "correctIndex": 3,
+    "explanation": "Increased levels of epidermal NGF correlate with proliferation of terminal cutaneous nerves and upregu-lated expression of neuropeptides such as substance P [20]. NGF can also induce sprouting of nerve fibers [20]."
+  },
+  {
+    "id": 24,
+    "chapterId": 6,
+    "question": "The activity of prostaglandins, such as PGE1, in pruritus is characterized by:",
+    "options": [
+      "Directly causing intense itch",
+      "Blocking H1 receptors",
+      "Lowering the threshold to pruritus induced by other mediators",
+      "Inhibiting the function of C fibers"
+    ],
+    "correctIndex": 2,
+    "explanation": "Prostaglandins... enhance histamine-induced itch [21]. PGE1 is not itself pruritogenic but enhances pruritus due to lowering threshold to pruritus induced by other mediators [18, 21]."
+  },
+  {
+    "id": 25,
+    "chapterId": 6,
+    "question": "Which transient receptor potential (TRP) ion channel is located on C fibers, mediates heat pain, and is required for the experimental induction of histamine-mediated itch?",
+    "options": [
+      "TRPV3",
+      "TRPM8",
+      "TRPA1",
+      "TRPV1"
+    ],
+    "correctIndex": 3,
+    "explanation": "TRP vanilloid 1 (TRPV1) is located on C fibers... and experimental induction of histamine-mediated itch requires cooperation of TRPV1 ion channels [22]."
+  },
+  {
+    "id": 26,
+    "chapterId": 6,
+    "question": "Gain-of-function missense mutations in which TRP channel, expressed in keratinocytes and dorsal root ganglion neurons, result in chronic itch and atopic-like dermatitis in mice and Olmsted syndrome in humans?",
+    "options": [
+      "TRPA1",
+      "TRPV3",
+      "TRPM8",
+      "TRPV1"
+    ],
+    "correctIndex": 1,
+    "explanation": "TRPV3 is a thermosensor of warmth (>33°C, 91°F) that is expressed in keratinocytes and dorsal root ganglion neurons. Gain-of-function missense mutations in TRPV3 result in chronic itch [23]."
+  },
+  {
+    "id": 27,
+    "chapterId": 6,
+    "question": "What term describes the phenomenon in chronic itch where stimuli that normally do not induce itch (such as light touch or gentle warming) cause itch in the skin surrounding a pruritic area?",
+    "options": [
+      "Hyperalgesia",
+      "Allodynia",
+      "Hyperknesis",
+      "Alloknesis"
+    ],
+    "correctIndex": 3,
+    "explanation": "In alloknesis, stimuli that normally do not induce itch such as touch or gentle warming do so in the skin that surrounds a pruritic area [24]."
+  },
+  {
+    "id": 28,
+    "chapterId": 6,
+    "question": "Which neuropeptide, a proteolytically cleaved product of proenkephalin A, is a potent activator of MRGPRs and can stimulate itch accompanied by a stinging or burning sensation?",
+    "options": [
+      "Gastrin-releasing peptide (GRP)",
+      "Bovine adrenal medulla 8-22 (BAM8-22) peptide",
+      "Substance P",
+      "Neurotrophin 4"
+    ],
+    "correctIndex": 1,
+    "explanation": "The bovine adrenal medulla 8-22 (BAM8-22) peptide, a proteolytically cleaved product of proenkephalin A, is a potent activator of MRGPRs and can stimulate itch [25]."
+  },
+  {
+    "id": 29,
+    "chapterId": 6,
+    "question": "The IL-31 receptor (IL-31R), which is found on cutaneous C fibers, is composed of which heterodimer subunits?",
+    "options": [
+      "gp130 and IL-7Rα",
+      "Neurokinin-1 receptor and TSLP receptor",
+      "The oncostatin M receptor beta and interleukin-31 receptor A",
+      "TRPV1 and TRPA1"
+    ],
+    "correctIndex": 2,
+    "explanation": "The IL-31 receptor (IL-31R) is a heterodimer composed of the oncostatin M receptor (OSMR) beta protein plus the (IL-31) receptor A (IL-31RA)."
+  },
+  {
+    "id": 30,
+    "chapterId": 6,
+    "question": "Which systemic drug, used to treat pruritus, functions as a kappa-opioid receptor agonist and is FDA-approved for renal pruritus?",
+    "options": [
+      "Naltrexone",
+      "Butorphanol",
+      "Aprepitant",
+      "Difelikefalin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Difelikefalin, a kappa-opioid receptor agonist, is utilized as a therapy for chronic pruritus and controlled trials show efficacy for renal pruritus, with difelikefalin being FDA-approved for this indication."
+  },
+  {
+    "id": 1,
+    "chapterId": 7,
+    "question": "Chronic pruritus is formally defined as lasting for at least how many weeks?",
+    "options": [
+      "2 weeks",
+      "4 weeks",
+      "6 weeks",
+      "8 weeks"
+    ],
+    "correctIndex": 2,
+    "explanation": "The self-reported point, 12-month, and lifetime prevalences of chronic pruritus (lasting $\\geq 6$ weeks) were assessed in a German study [1]. Prurigo nodularis is associated with chronic itch (i.e. lasting $\\geq 6$ weeks) [2]."
+  },
+  {
+    "id": 2,
+    "chapterId": 7,
+    "question": "According to the International Forum for the Study of Itch classification proposed in 2007, which of the following is NOT one of the three major groups of chronic pruritus?",
+    "options": [
+      "Chronic pruritus of lesional (inflamed) skin",
+      "Chronic pruritus of psychogenic origin",
+      "Chronic pruritus of non-lesional (non-inflamed) skin",
+      "Chronic pruritus presenting with secondary scratch-induced lesions"
+    ],
+    "correctIndex": 1,
+    "explanation": "In this system, there are three major groups of pruritus: (1) chronic pruritus of lesional (inflamed) skin; (2) chronic pruritus of non-lesional (non-inflamed) skin; and (3) chronic pruritus presenting with secondary scratch-induced lesions (e.g. prurigo nodularis, lichen simplex chronicus) [3]."
+  },
+  {
+    "id": 3,
+    "chapterId": 7,
+    "question": "Generalized pruritus is a manifestation of an underlying systemic disease in approximately what percentage of affected individuals?",
+    "options": [
+      "Less than 5%",
+      "15%–50%",
+      "50%–75%",
+      "Greater than 75%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pruritus often arises from a primary cutaneous disorder but can be a manifestation of an underlying systemic disease in 15%–50% of affected individuals, especially when generalized [4]."
+  },
+  {
+    "id": 4,
+    "chapterId": 7,
+    "question": "In the physical examination of a patient with pruritus, lesions localized to the mid upper back, the 'butterfly sign,' typically suggest:",
+    "options": [
+      "An underlying systemic disease",
+      "A primary skin disease",
+      "Chronic kidney disease-associated pruritus",
+      "Generalized pruritus of unknown etiology"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lesions on the mid upper back suggest a primary skin disease, since this difficult-to-reach area is typically spared (the 'butterfly sign') in patients with skin lesions secondary to scratching [5]."
+  },
+  {
+    "id": 5,
+    "chapterId": 7,
+    "question": "Which specific condition listed in the sources has pruritus as a 100% diagnostic criterion?",
+    "options": [
+      "Psoriasis",
+      "Lichen planus",
+      "End-stage kidney disease",
+      "Atopic dermatitis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pruritus is such an important aspect of atopic dermatitis that 'the diagnosis of active atopic dermatitis cannot be made if there is no history of pruritus' [6]. Atopic dermatitis is listed with a reported prevalence of pruritus of 100% (diagnostic criterion) [7]."
+  },
+  {
+    "id": 6,
+    "chapterId": 7,
+    "question": "In urticaria, which mediator plays a primary role in pruritus, allowing H1-receptor antagonists to usually decrease or eliminate the sensation?",
+    "options": [
+      "Interleukin-31 (IL-31)",
+      "Substance P",
+      "Histamine",
+      "Calcitonin gene-related peptide (CGRP)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Histamine plays a primary role in the pruritus of urticaria, and H1-receptor antagonists usually decrease or eliminate this sensation as well as the wheals themselves [6]."
+  },
+  {
+    "id": 7,
+    "chapterId": 7,
+    "question": "Which group of cytokines plays a key role in the inflammation and subsequent pruritus associated with atopic dermatitis, leading to targeted therapies like dupilumab and nemolizumab?",
+    "options": [
+      "Th1 cytokines (e.g., IFN-γ, IL-2)",
+      "Th2 cytokines (e.g., IL-4, IL-13, IL-31)",
+      "Th17 cytokines (e.g., IL-17)",
+      "Regulatory T cell cytokines (e.g., TGF-β)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Type 2 cytokines such as IL-4, IL-13, IL-31, and thymic stromal lymphopoietin play a key role in the inflammation of atopic dermatitis. As a result, therapies that target Th2 signaling via IL-4/-13 (e.g. dupilumab, tralokinumab, lebrikizumab), IL-31 (nemolizumab), or Janus kinase (JAK) 1/2 have anti-pruritic effects [8]."
+  },
+  {
+    "id": 8,
+    "chapterId": 7,
+    "question": "What is the clinical finding in prurigo nodularis that corresponds to chronic, focused scratching or picking, and is one of the three major groups of chronic pruritus?",
+    "options": [
+      "Xerosis",
+      "Eczema craquelé",
+      "Lichenification",
+      "Multiple pruritic papulonodules"
+    ],
+    "correctIndex": 3,
+    "explanation": "Prurigo nodularis is associated with chronic itch (i.e. lasting $\\geq 6$ weeks), where skin lesions are produced by repetitive, focused scratching or picking of the skin [2]. Multiple pruritic papulonodules are the most commonly observed clinical lesions [9]."
+  },
+  {
+    "id": 9,
+    "chapterId": 7,
+    "question": "In prurigo nodularis, which of the following statements accurately describes the distribution of nerve fibers found on histological analysis?",
+    "options": [
+      "Increased density of epidermal nerve fibers",
+      "Hypertrophy and increased density of dermal nerve fibers",
+      "Normal number of nerve fibers in both dermis and epidermis",
+      "Complete atrophy of all dermal nerve fibers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Possibly as a result of intense scratching, pruriginous lesions demonstrate hypertrophy and an increased density of dermal nerve fibers. In contrast, the number of nerve fibers within the epidermis is reduced [10]."
+  },
+  {
+    "id": 10,
+    "chapterId": 7,
+    "question": "Which Janus kinase (JAK) inhibitor led to rapid improvement of polycythemia vera and its associated aquagenic pruritus in controlled trials?",
+    "options": [
+      "Tofacitinib",
+      "Upadacitinib",
+      "Ruxolitinib",
+      "Baricitinib"
+    ],
+    "correctIndex": 2,
+    "explanation": "In RCTs, the JAK 1/2 inhibitor ruxolitinib led to rapid improvement of polycythemia vera and its associated pruritus [11]."
+  },
+  {
+    "id": 11,
+    "chapterId": 7,
+    "question": "Pruritus in patients with scabies is typically characterized by which pattern?",
+    "options": [
+      "Generalized and most intense during the day",
+      "Localized to the head and neck, sparing the rest of the body",
+      "Localized or generalized, more intense at night, and typically spares the head",
+      "Sudden onset with blistering, irrespective of the time of day"
+    ],
+    "correctIndex": 2,
+    "explanation": "In patients with scabies, pruritus can be localized or generalized, and it may have a burning component. It is usually more intense at night and typically spares the head [12]."
+  },
+  {
+    "id": 12,
+    "chapterId": 7,
+    "question": "Which condition is characterized by epidermal hypertrophy secondary to chronic, habitual rubbing or scratching of localized areas of skin, resulting in plaques with exaggerated skin lines ('leathery' appearance)?",
+    "options": [
+      "Psoriasis",
+      "Lichen Simplex Chronicus (LSC)",
+      "Prurigo Nodularis",
+      "Urticaria"
+    ],
+    "correctIndex": 1,
+    "explanation": "In lichen simplex chronicus (LSC), there is epidermal hypertrophy secondary to chronic, habitual rubbing or scratching of localized areas of skin. Lesions of LSC are broader and thinner than those of prurigo and are characterized by well-defined plaques exhibiting exaggerated skin lines (lichenification) with a 'leathery' appearance [13]."
+  },
+  {
+    "id": 13,
+    "chapterId": 7,
+    "question": "What is the most frequent finding on the buttocks, extensor aspects of the extremities, and lumbosacral region in patients with prurigo nodularis?",
+    "options": [
+      "Pruritic papulonodules",
+      "Plaques of lichen simplex chronicus",
+      "Bullae and erosions",
+      "Targetoid lesions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Multiple pruritic papulonodules are most commonly observed on the extensor aspects of the extremities, and their distribution is usually symmetric. The upper back, lumbosacral region, and buttocks may also be involved [9]."
+  },
+  {
+    "id": 14,
+    "chapterId": 7,
+    "question": "Which IL-31 targeted therapy has been shown in Randomized Controlled Trials (RCTs) to significantly reduce pruritus and cutaneous lesions in adults with prurigo nodularis?",
+    "options": [
+      "Dupilumab",
+      "Tralokinumab",
+      "Nemolizumab",
+      "Omalizumab"
+    ],
+    "correctIndex": 2,
+    "explanation": "The IL-31 receptor inhibitor nemolizumab was also found in RCTs to significantly reduce pruritus and cutaneous lesions in adults with prurigo nodularis [13, 14]. Dupilumab (which targets IL-4/-13) was also FDA approved for prurigo nodularis [14]."
+  },
+  {
+    "id": 15,
+    "chapterId": 7,
+    "question": "Pruritus ani is localized to the anus and perianal skin and occurs in 1%–5% of the general population, with what approximate male-to-female ratio?",
+    "options": [
+      "1:4",
+      "1:1",
+      "2:1",
+      "4:1"
+    ],
+    "correctIndex": 3,
+    "explanation": "Pruritus localized to the anus and perianal skin occurs in 1%–5% of the general population, with a male : female ratio of $\\sim 4 : 1$ [15]."
+  },
+  {
+    "id": 16,
+    "chapterId": 7,
+    "question": "Which characteristic sensation is typical of aquagenic pruritus, occurring within 30 minutes of water contact?",
+    "options": [
+      "Intense burning followed by large wheals",
+      "Painful blistering and ulceration",
+      "Prickling, tingling, burning, or stinging sensations",
+      "Deep, unrelenting pressure"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aquagenic pruritus presents with prickling, tingling, burning, or stinging sensations within 30 minutes of water contact, irrespective of its temperature or salinity [16]."
+  },
+  {
+    "id": 17,
+    "chapterId": 7,
+    "question": "Which of the following is commonly spared in primary (idiopathic) aquagenic pruritus?",
+    "options": [
+      "Lower extremities",
+      "Trunk",
+      "Head, palms, soles, and mucosae",
+      "Upper arms"
+    ],
+    "correctIndex": 2,
+    "explanation": "Typically, symptoms begin on the lower extremities and then generalize, with sparing of the head, palms, soles, and mucosae [16]."
+  },
+  {
+    "id": 18,
+    "chapterId": 7,
+    "question": "Chronic kidney disease-associated pruritus (CKD-aP) is also known by the synonym 'uremic pruritus,' but this term is considered incorrect because:",
+    "options": [
+      "The symptoms are primarily psychogenic.",
+      "It incorrectly implies the symptom is secondary to elevated serum urea levels.",
+      "The condition is primarily mediated by histamine release.",
+      "It only occurs in patients receiving peritoneal dialysis."
+    ],
+    "correctIndex": 1,
+    "explanation": "Although the term 'uremic pruritus' is used synonymously [17], it incorrectly implies that the symptom is secondary to elevated serum urea levels [17]. Nowadays, chronic kidney disease-associated pruritus (CKD-aP), rather than renal pruritus, is the preferred term [17]."
+  },
+  {
+    "id": 19,
+    "chapterId": 7,
+    "question": "What is the FDA/EMA-approved treatment for CKD-aP in hemodialysis patients that functions as a peripherally acting $\\kappa$-opioid receptor agonist?",
+    "options": [
+      "Naltrexone",
+      "Gabapentin",
+      "Difelikefalin",
+      "Aprepitant"
+    ],
+    "correctIndex": 2,
+    "explanation": "Difelikefalin, a peripherally acting $\\kappa$-opioid receptor agonist, was shown in an RCT to significantly reduce itch intensity in hemodialysis patients and is now an FDA/EMA-approved treatment for CKD-aP [18]."
+  },
+  {
+    "id": 20,
+    "chapterId": 7,
+    "question": "Which endogenous enzyme, responsible for the production of lysophosphatidic acid (LPA), shows serum levels that correlate with the intensity of itch in patients with cholestasis?",
+    "options": [
+      "Alkaline phosphatase",
+      "Serum transaminase",
+      "Autotaxin (ATX)",
+      "Tryptase"
+    ],
+    "correctIndex": 2,
+    "explanation": "Other studies have provided evidence that lysophosphatidic acid (LPA), a neuronal activator, and autotaxin (ATX, lysophospholipase D), the enzyme responsible for production of LPA from lysophosphatidyl-choline, play significant roles in cholestatic pruritus. Unlike other putative mediators, ATX levels correlate with the intensity of itch in patients with cholestasis [19]."
+  },
+  {
+    "id": 21,
+    "chapterId": 7,
+    "question": "What is the primary bile acid receptor expressed in sensory neurons that is activated by bile acids and may contribute to cholestatic pruritus?",
+    "options": [
+      "MRGPRX4",
+      "NK1 receptor",
+      "IL-31 receptor",
+      "TRPV1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mas-related G-protein coupled receptor member X4 (MRGPRX4), a bile acid receptor expressed in sensory neurons, is involved in itch transmission and may represent a therapeutic target [20-22]."
+  },
+  {
+    "id": 22,
+    "chapterId": 7,
+    "question": "Aquagenic pruritus may precede the diagnosis of which myeloproliferative neoplasm by several years, eventually affecting 30%–50% of these patients?",
+    "options": [
+      "Chronic lymphocytic leukemia (CLL)",
+      "Hodgkin lymphoma",
+      "Polycythemia vera",
+      "Non-Hodgkin lymphoma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Aquagenic pruritus may precede the development of polycythemia vera by several years and eventually affects $\\sim 30\\%–50\\%$ of polycythemia vera patients [11]."
+  },
+  {
+    "id": 23,
+    "chapterId": 7,
+    "question": "In Polycythemia vera patients, the constitutive activation and agonist hypersensitivity in basophils are linked to which somatic mutation?",
+    "options": [
+      "EGFR inhibition",
+      "JAK2 (V617F) mutation",
+      "TTC7A mutation",
+      "SCN9A mutation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Approximately 97% of patients with polycythemia vera have a somatic mutation (V617F) in the Janus kinase 2 gene (JAK2) that results in constitutive activation and agonist hypersensitivity in basophils [11]."
+  },
+  {
+    "id": 24,
+    "chapterId": 7,
+    "question": "Paraneoplastic itch is most frequently associated with which group of malignancies?",
+    "options": [
+      "Solid tumors (e.g., breast or lung cancer)",
+      "Melanoma",
+      "Myeloproliferative neoplasms and lymphomas",
+      "Sarcomas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Paraneoplastic itch is most frequent with myeloproliferative neoplasms (e.g. polycythemia vera $>$ essential thrombocythemia), lymphoma (Hodgkin $>$ non-Hodgkin), and cancers of the liver or biliary system [23]."
+  },
+  {
+    "id": 25,
+    "chapterId": 7,
+    "question": "Notalgia paresthetica, a common sensory neuropathy of the upper back, is believed to result from the entrapment and injury of which spinal nerve rami?",
+    "options": [
+      "Posterior rami of T2–T6",
+      "Anterior rami of C5–C6",
+      "Lateral femoral cutaneous nerve",
+      "Superficial branch of the radial nerve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Most evidence suggests that notalgia paresthetica represents a sensory neuropathy. The posterior rami of T2–T6 pursue a right-angle course through the multifidus spinae muscle that extends along the vertebral column, potentially predisposing these nerves to entrapment and injury [24]."
+  },
+  {
+    "id": 26,
+    "chapterId": 7,
+    "question": "Brachioradial pruritus, a chronic sensory neuropathy, is exacerbated by which environmental factor due to hypersensitivity of cutaneous nerves?",
+    "options": [
+      "Cold water exposure",
+      "Cumulative sun exposure (UV light)",
+      "High concentrations of histamine",
+      "Heavy physical labour"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cumulative sun exposure represents another predisposing factor. Due to hypersensitivity of cutaneous nerves, acute UV light exposure can also exacerbate the condition, and patients living in temperate climates often experience remissions during the fall and winter [25]."
+  },
+  {
+    "id": 27,
+    "chapterId": 7,
+    "question": "Meralgia paresthetica is caused by pressure on which specific nerve as it passes under the inguinal ligament?",
+    "options": [
+      "Posterior tibial nerve",
+      "Sciatic nerve",
+      "Lateral femoral cutaneous nerve",
+      "Sural nerve"
+    ],
+    "correctIndex": 2,
+    "explanation": "Meralgia paresthetica occurs in the territory of the lateral femoral cutaneous nerve, and it results from pressure on this nerve as it passes under the inguinal ligament [26]."
+  },
+  {
+    "id": 28,
+    "chapterId": 7,
+    "question": "Which antimalarial drug is noted in the sources as a common pharmacologic etiology of pruritus via MRGPR stimulation?",
+    "options": [
+      "Hydroxychloroquine",
+      "Chloroquine",
+      "Quinine",
+      "Mefloquine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chloroquine (pruritus may be generalized, localized to the hands/feet, or aquagenic; most common in individuals of African descent) causes MRGPR stimulation [27]."
+  },
+  {
+    "id": 29,
+    "chapterId": 7,
+    "question": "Trigeminal Trophic Syndrome classically presents as a self-induced ulcerative condition that favors which specific facial location?",
+    "options": [
+      "Lower lip vermilion border",
+      "Medial cheek",
+      "Nasal ala (wing of the nose)",
+      "Ocular conjunctiva"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trigeminal trophic syndrome is a self-induced ulcerative condition of the central face that classically involves the nasal ala [28]."
+  },
+  {
+    "id": 30,
+    "chapterId": 7,
+    "question": "Which systemic drug class, due to its action on the central nervous system, is often associated with generalized pruritus (e.g., when administered intrathecally or epidurally)?",
+    "options": [
+      "NSAIDs",
+      "ACE inhibitors",
+      "Opioids (e.g., morphine, fentanyl)",
+      "Beta-blockers"
+    ],
+    "correctIndex": 2,
+    "explanation": "Neurologic medications associated with pruritus include tramadol, codeine, cocaine, and morphine, with pruritus being more likely with intrathecal/epidural than systemic administration [29]."
+  },
+
+  {
+    "id": 1,
+    "chapterId": 8,
+    "question": "In which category of psychodermatologic disorders are the cutaneous lesions typically self-induced, and the patient usually has no primary skin disease?",
+    "options": [
+      "Secondary psychodermatologic disorders",
+      "Psychophysiologic disorders",
+      "Primary psychodermatologic disorders",
+      "Psychogenic pruritus and dysesthesia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primary psychodermatologic disorders are those in which the patient typically has no primary skin disease and cutaneous lesions are self-induced (e.g., delusional infestation, body-focused repetitive behaviors) [1], [2]."
+  },
+  {
+    "id": 2,
+    "chapterId": 8,
+    "question": "Which term describes a primary skin disorder, such as psoriasis or atopic dermatitis, that is worsened by psychological or behavioral factors like stress or anxiety?",
+    "options": [
+      "Dermatitis artefacta",
+      "Psychophysiologic disorder",
+      "Secondary psychodermatologic disorder",
+      "Psychogenic dysesthesia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Psychophysiologic disorders are those in which a primary skin disorder (e.g. atopic dermatitis, psoriasis) is exacerbated by psychologic or behavioral factors (e.g. stress, anxiety) [3], [2]."
+  },
+  {
+    "id": 3,
+    "chapterId": 8,
+    "question": "Delusional Infestation (DI) is classified as a somatic type of delusional disorder, which falls under which broader DSM-5™ category?",
+    "options": [
+      "Obsessive-compulsive and related disorders",
+      "Somatic symptom and related disorders",
+      "Schizophrenia spectrum and other psychotic disorders",
+      "Adjustment disorders"
+    ],
+    "correctIndex": 2,
+    "explanation": "Delusional infestation (DI) is classified as a somatic type of delusional disorder within the broad group of schizophrenia spectrum and other psychotic disorders [4]."
+  },
+  {
+    "id": 4,
+    "chapterId": 8,
+    "question": "What fixed, false belief characterizes Delusional Infestation (DI)?",
+    "options": [
+      "That the patient has a non-existent or slight defect in appearance",
+      "That the skin is infested with animate organisms (e.g., parasites) or inanimate materials (e.g., fibers) despite contrary evidence",
+      "That recurrent, unwanted thoughts or urges (obsessions) must be neutralized by repetitive behaviors (compulsions)",
+      "That the patient has or is acquiring a serious illness despite mild or absent somatic symptoms"
+    ],
+    "correctIndex": 1,
+    "explanation": "Delusions are defined as fixed false beliefs that are not amenable to change despite conflicting evidence [4]. DI is characterized by the fixed, false belief that the skin is infested with animate organisms (e.g. insects, parasites) or inanimate materials (e.g. fibers) despite evidence to the contrary [3], [4]."
+  },
+  {
+    "id": 5,
+    "chapterId": 8,
+    "question": "The term 'Morgellons disease' is currently used by patients to describe what falsely perceived cutaneous element?",
+    "options": [
+      "Fungal plaques",
+      "Fibers extruding from their skin",
+      "Deep burrowing mites",
+      "Metallic shards"
+    ],
+    "correctIndex": 1,
+    "explanation": "More recently, the term 'Morgellons disease' has been used by patients to describe what they falsely perceive as fibers extruding from their skin [5]."
+  },
+  {
+    "id": 6,
+    "chapterId": 8,
+    "question": "The 'matchbox sign' refers to which clinical presentation in patients with Delusional Infestation?",
+    "options": [
+      "The collection of hypopigmented scars on the mid-back",
+      "The unique pattern of linear excoriations suggesting self-infliction",
+      "Samples of alleged 'parasites' or fibers (e.g., bits of skin, lint) brought in by the patient",
+      "The patient’s inability to grasp the concept of delusion"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patients frequently bring in bits of skin, lint, and other samples that they believe represent 'parasites'/fibers, which is referred to as the 'matchbox sign' (Fig. 7.2) [6]."
+  },
+  {
+    "id": 7,
+    "chapterId": 8,
+    "question": "For a patient to fulfill the DSM-5™ diagnostic criteria for a delusional disorder, the delusion must be present for at least how long?",
+    "options": [
+      "1 week",
+      "1 month",
+      "6 months",
+      "1 year"
+    ],
+    "correctIndex": 1,
+    "explanation": "The DSM-5™ diagnostic criteria for a delusional disorder require that the delusion must be present for $\\geq 1$ month [7]."
+  },
+  {
+    "id": 8,
+    "chapterId": 8,
+    "question": "Which demographic group experiences Delusional Infestation at least twice as often as men among individuals over 50 years of age?",
+    "options": [
+      "Men of lower socioeconomic status",
+      "Women",
+      "Younger patients with substance abuse history",
+      "Individuals of Asian descent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Among individuals over 50 years of age, women experience the disorder at least twice as often as men [7]."
+  },
+  {
+    "id": 9,
+    "chapterId": 8,
+    "question": "What phenomenon describes two people sharing the same delusion, sometimes seen with Delusional Infestation?",
+    "options": [
+      "Psychosis encapsulated",
+      "Somatic symptom disorder",
+      "Folie à deux",
+      "Illness anxiety disorder"
+    ],
+    "correctIndex": 2,
+    "explanation": "Folie à deux ('craziness for two') is the term used to describe two people who share the same delusion. Occasionally, larger numbers of people harbor the same delusion [8]."
+  },
+  {
+    "id": 10,
+    "chapterId": 8,
+    "question": "Which class of medication is the mainstay of therapy for Delusional Infestation?",
+    "options": [
+      "Selective serotonin reuptake inhibitors (SSRIs)",
+      "Mood stabilizers",
+      "Antipsychotics",
+      "Benzodiazepines"
+    ],
+    "correctIndex": 2,
+    "explanation": "The most challenging aspect of treatment is getting patients to agree to a trial of an antipsychotic agent, which is the mainstay of therapy for DI [9]."
+  },
+  {
+    "id": 11,
+    "chapterId": 8,
+    "question": "Which antipsychotic drug has traditionally been used first-line for Delusional Infestation and may be better accepted by patients because it has no psychiatric FDA indication?",
+    "options": [
+      "Risperidone",
+      "Pimozide",
+      "Olanzapine",
+      "Aripiprazole"
+    ],
+    "correctIndex": 1,
+    "explanation": "First-line treatment has traditionally been pimozide, which is usually effective at a very low dose and may be better accepted by patients because it has no psychiatric FDA indication [9], [10]."
+  },
+  {
+    "id": 12,
+    "chapterId": 8,
+    "question": "Which side effect of pimozide is rated '+++' (highest severity) in comparison to other listed side effects in Table 7.3?",
+    "options": [
+      "Sedation/somnolence",
+      "Weight gain",
+      "Tardive dyskinesia",
+      "Anticholinergic effects"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pimozide is associated with Tardive dyskinesia ($\text{+++}$) and Extrapyramidal effects ($\text{+++}$) [11]."
+  },
+  {
+    "id": 13,
+    "chapterId": 8,
+    "question": "What is the recommended starting dose for Risperidone when treating Delusional Infestation in dermatology patients?",
+    "options": [
+      "2.5 mg/day",
+      "0.5 mg/day",
+      "10 mg/day",
+      "2 mg/day"
+    ],
+    "correctIndex": 1,
+    "explanation": "The dosage for risperidone (Second-generation antipsychotic) in dermatologic indications is to start at 0.5 mg/day at bedtime [12]."
+  },
+  {
+    "id": 14,
+    "chapterId": 8,
+    "question": "Compared to first-generation antipsychotics like pimozide, second-generation antipsychotics (SGAs) are preferred in DI primarily due to a decreased risk of:",
+    "options": [
+      "Weight gain",
+      "Metabolic side effects",
+      "Extrapyramidal side effects (EPS) and Tardive Dyskinesia (TD)",
+      "QT prolongation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Second-generation antipsychotics (SGAs) such as risperidone have reduced neurologic sequelae and a decreased incidence of extrapyramidal side effects (EPS) and tardive dyskinesia, but a greater risk of metabolic side effects [13], [9]."
+  },
+  {
+    "id": 15,
+    "chapterId": 8,
+    "question": "What is the minimum duration a therapeutic dose of risperidone should typically be maintained once an adequate clinical response is reached for Delusional Infestation?",
+    "options": [
+      "1 week",
+      "1 month",
+      "3 months",
+      "1 year"
+    ],
+    "correctIndex": 2,
+    "explanation": "Once an adequate clinical response has been reached, maintain therapeutic dose for at least three months, followed by a gradual taper [14]."
+  },
+  {
+    "id": 16,
+    "chapterId": 8,
+    "question": "When initiating risperidone, monitoring guidelines recommend measuring the patient's weight at which frequency intervals initially?",
+    "options": [
+      "Baseline only",
+      "Baseline, 4 weeks, 8 weeks, 12 weeks, Quarterly, Annually",
+      "Annually only",
+      "Only if weight gain is reported"
+    ],
+    "correctIndex": 1,
+    "explanation": "Monitoring guidelines for risperidone suggest measuring weight at Baseline, 4 weeks, 8 weeks, 12 weeks, Quarterly, and Annually [14]."
+  },
+  {
+    "id": 17,
+    "chapterId": 8,
+    "question": "Which benzodiazepine is specifically listed for the treatment of acute anxiety, with the caveat that treatment should not exceed 4 weeks due to dependency risk?",
+    "options": [
+      "Buspirone",
+      "Alprazolam",
+      "Doxepin",
+      "Venlafaxine"
+    ],
+    "correctIndex": 1,
+    "explanation": "For acute anxiety, Benzodiazepines such as Alprazolam (0.125–0.25 mg every 6–8 hours, as needed) can be used, but treatment should not exceed 4 weeks because of dependency/addiction risk [15]."
+  },
+  {
+    "id": 18,
+    "chapterId": 8,
+    "question": "Which Selective Serotonin Reuptake Inhibitor (SSRI) is noted for potentially causing dose-dependent QT prolongation?",
+    "options": [
+      "Fluoxetine",
+      "Sertraline",
+      "Bupropion XL",
+      "Citalopram"
+    ],
+    "correctIndex": 3,
+    "explanation": "Citalopram and escitalopram can cause dose-dependent QT prolongation [16]."
+  },
+  {
+    "id": 19,
+    "chapterId": 8,
+    "question": "Which tricyclic antidepressant is often used at a low dose (e.g., 10–25 mg at bedtime) for pruritus due to its sedating and potent antihistamine properties?",
+    "options": [
+      "Clomipramine",
+      "Paroxetine",
+      "Doxepin",
+      "Venlafaxine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Doxepin (10–25 mg, at bedtime) is sedating and may be helpful for pruritus [17], [18], [19]."
+  },
+  {
+    "id": 20,
+    "chapterId": 8,
+    "question": "Body Dysmorphic Disorder (BDD) is estimated to affect what percentage of patients seen in dermatology and cosmetic surgery practices?",
+    "options": [
+      "~2%",
+      "~5%",
+      "10%–15%",
+      "Greater than 20%"
+    ],
+    "correctIndex": 2,
+    "explanation": "The prevalence of body dysmorphic disorder is estimated to be as high as 10%–15% in dermatology and cosmetic surgery patients [20], [21]."
+  },
+  {
+    "id": 21,
+    "chapterId": 8,
+    "question": "The OCD variant of Body Dysmorphic Disorder is primarily treated with which combination of therapies?",
+    "options": [
+      "Antipsychotics alone",
+      "Benzodiazepines and phototherapy",
+      "Cognitive behavioral therapy (CBT) typically combined with an SSRI",
+      "Pimozide and high-dose doxepin"
+    ],
+    "correctIndex": 2,
+    "explanation": "The first-line therapy for patients with the OCD variant of this disease includes cognitive behavioral therapy (CBT), typically in conjunction with an SSRI (often requiring a relatively high dose) [12]."
+  },
+  {
+    "id": 22,
+    "chapterId": 8,
+    "question": "Trichotillomania is characterized by the recurrent pulling out of one’s hair, most commonly from which sites?",
+    "options": [
+      "Axilla and chest",
+      "Scalp, eyebrows, and eyelashes",
+      "Pubic region and legs",
+      "Vellus hairs on the face and neck"
+    ],
+    "correctIndex": 1,
+    "explanation": "The most common sites of hair pulling are the scalp, eyebrows, eyelashes, and pubic region [22], [23]."
+  },
+  {
+    "id": 23,
+    "chapterId": 8,
+    "question": "What is the term for the chewing and swallowing of hair that has been pulled out by patients with trichotillomania, which can lead to intestinal obstruction?",
+    "options": [
+      "Trichoclasis",
+      "Trichophagy",
+      "Trichoptilosis",
+      "Trichodynia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Some patients practice trichophagy, the chewing and swallowing of the hair that has been pulled out, which can lead to intestinal obstruction from tricho bezoars [22]."
+  },
+  {
+    "id": 24,
+    "chapterId": 8,
+    "question": "The mainstay of treatment for Trichotillomania is:",
+    "options": [
+      "High-dose systemic steroids",
+      "Behavior modification therapy (e.g., habit reversal training)",
+      "First-generation antipsychotics",
+      "Antibiotics and antifungal agents"
+    ],
+    "correctIndex": 1,
+    "explanation": "Behavior modification therapy (e.g. habit reversal training, CBT) is the mainstay of treatment [23], [24]."
+  },
+  {
+    "id": 25,
+    "chapterId": 8,
+    "question": "Which mucocutaneous finding is associated with the body-focused repetitive behavior of lip licking?",
+    "options": [
+      "Bite fibroma",
+      "Paronychia",
+      "Irritant contact dermatitis",
+      "Pseudo-knuckle pads"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lip licking is associated with Irritant contact dermatitis, secondary bacterial or yeast infections [25]."
+  },
+  {
+    "id": 26,
+    "chapterId": 8,
+    "question": "Which agent, classified as a glutamatergic agent, has been shown in randomized controlled studies to lead to improvement in adults with trichotillomania and excoriation disorder?",
+    "options": [
+      "Mirtazapine",
+      "N-acetylcysteine",
+      "Venlafaxine",
+      "Gabapentin"
+    ],
+    "correctIndex": 1,
+    "explanation": "In other randomized controlled studies, treatment with... N-acetylcysteine (a glutamatergic agent; 1200–2400 mg/day) led to more improvement in adults with trichotillomania than did placebo [24]. $\text{N-acetylcysteine (1200–3000 mg/day)}$ led to more improvement than placebo in a randomized controlled study of adults with excoriation disorder [26]."
+  },
+  {
+    "id": 27,
+    "chapterId": 8,
+    "question": "Acne excoriée is categorized as a subset of which primary disorder?",
+    "options": [
+      "Body Dysmorphic Disorder",
+      "Somatic Symptom Disorder",
+      "Excoriation Disorder",
+      "Psychogenic Pruritus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Acne excoriée is a subset of excoriation disorder [27]."
+  },
+  {
+    "id": 28,
+    "chapterId": 8,
+    "question": "Dermatitis Artefacta is a type of factitious disorder where patients inflict cutaneous lesions upon themselves to satisfy a psychological need, and the motive is usually:",
+    "options": [
+      "For conscious financial gain (malingering)",
+      "To attract attention/sympathy for a diagnosed illness",
+      "Subconscious, with patients denying their role in causation",
+      "To reduce negative emotions (nonsuicidal self-injury)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dermatitis artefacta is characterized by the key feature that the motive is usually subconscious and patients deny their role in causation [28]. Patients inflict cutaneous lesions upon themselves to satisfy a psychologic need of which they are usually not consciously aware [29]."
+  },
+  {
+    "id": 29,
+    "chapterId": 8,
+    "question": "A characteristic clue to the diagnosis of Dermatitis Artefacta is the presentation of lesions with unusual shapes, particularly those with:",
+    "options": [
+      "A targetoid configuration",
+      "A 'butterfly' distribution",
+      "Angulated edges suggesting an external method of induction",
+      "Central clearing with surrounding scale"
+    ],
+    "correctIndex": 2,
+    "explanation": "A clue to the diagnosis is unusual shapes, particularly with angulated edges, that suggest an external method of induction [30]."
+  },
+  {
+    "id": 30,
+    "chapterId": 8,
+    "question": "Nonsuicidal self-injury, characterized by repeated self-cutting or burning, is primarily performed for what purpose?",
+    "options": [
+      "To fulfill the criteria for factitious disorder",
+      "To gain conscious monetary or social reward (malingering)",
+      "To reduce negative emotions or resolve an interpersonal difficulty, without suicidal intent",
+      "To extract perceived parasites from the skin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nonsuicidal self-injury features repeated infliction of shallow injuries... There is no suicidal intent, and the purpose is usually to reduce negative emotions or resolve an interpersonal difficulty [31]."
+  },
+  {
+    "id": 1,
+    "chapterId": 9,
+    "question": "Psoriasis was recognized as an entity distinct from leprosy during which historical period?",
+    "options": [
+      "460–377 BCE (Hippocrates era)",
+      "The nineteenth century",
+      "1879 (Koebner's description)",
+      "1910 (von Zumbusch's description)"
+    ],
+    "correctIndex": 1,
+    "explanation": "It was not until the nineteenth century that psoriasis was recognized as an entity distinct from leprosy [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 9,
+    "question": "What is the approximate worldwide prevalence of psoriasis commonly cited in reviews?",
+    "options": [
+      "0.4%–0.7%",
+      "2%",
+      "4.6%",
+      "10%"
+    ],
+    "correctIndex": 1,
+    "explanation": "In most reviews, the prevalence of psoriasis is said to be 2% of the world’s population [2]."
+  },
+  {
+    "id": 3,
+    "chapterId": 9,
+    "question": "Psoriatic arthritis is found to affect what percentage of patients with cutaneous psoriasis?",
+    "options": [
+      "Less than 5%",
+      "5%–30%",
+      "35%–50%",
+      "79%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Psoriatic arthritis has been found to affect 5%–30% of patients with cutaneous psoriasis, depending upon the series [3]."
+  },
+  {
+    "id": 4,
+    "chapterId": 9,
+    "question": "What are the two reported peaks in the age of onset for psoriasis?",
+    "options": [
+      "20–30 years of age and 50–60 years",
+      "Infancy and the eighth decade of life",
+      "10–19 years and 40–50 years",
+      "Before age 20 and after age 70"
+    ],
+    "correctIndex": 0,
+    "explanation": "Two peaks in age of onset have been reported: one at 20–30 years of age and a second peak at 50–60 years [3]."
+  },
+  {
+    "id": 5,
+    "chapterId": 9,
+    "question": "If both parents have psoriasis, what is the reported risk of their child developing the disease, according to a large German study?",
+    "options": [
+      "6%",
+      "14%",
+      "35%",
+      "41%"
+    ],
+    "correctIndex": 3,
+    "explanation": "Based on a large survey-based study in Germany, if both parents had psoriasis, the risk of their child developing psoriasis was 41% [4]."
+  },
+  {
+    "id": 6,
+    "chapterId": 9,
+    "question": "Psoriasis is fundamentally a chronic, immune-mediated disorder resulting from a polygenic predisposition combined with what general factors?",
+    "options": [
+      "Epidermal differentiation errors",
+      "Environmental triggers (e.g., trauma, infections, medications)",
+      "Primary biochemical defects in the keratinocyte",
+      "Constant activation of the IL-10 pathway"
+    ],
+    "correctIndex": 1,
+    "explanation": "Psoriasis is a chronic, immune-mediated disorder that results from a polygenic predisposition combined with environmental triggers, e.g. trauma, infections, medications, psychological stress [5]."
+  },
+  {
+    "id": 7,
+    "chapterId": 9,
+    "question": "Which of the following describes typical histologic findings in a psoriatic plaque?",
+    "options": [
+      "Epidermal atrophy and dermal fibrosis",
+      "Hypogranulosis and parakeratosis",
+      "Loss of lymphocytes and mast cell degranulation",
+      "Absent rete ridges and spongiosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Typical histologic findings include acanthosis with elongated rete ridges, hypogranulosis, hyper- and parakeratosis, dilated blood vessels, and a perivascular infiltrate of lymphocytes [6]."
+  },
+  {
+    "id": 8,
+    "chapterId": 9,
+    "question": "Which comorbidity has an increased relative risk in patients with moderate to severe psoriasis, alongside metabolic syndrome and depression?",
+    "options": [
+      "Rheumatoid arthritis",
+      "Atherosclerotic cardiovascular disease",
+      "Mycosis fungoides",
+      "Thyroid disease"
+    ],
+    "correctIndex": 1,
+    "explanation": "In addition, in patients with moderate to severe psoriasis, there is an increased relative risk for metabolic syndrome, atherosclerotic cardiovascular disease, and depression [7]."
+  },
+  {
+    "id": 9,
+    "chapterId": 9,
+    "question": "Which specific HLA allele is strongly associated with psoriasis, conferring a relative risk of 13 in the White population?",
+    "options": [
+      "HLA-B27",
+      "HLA-Cw6",
+      "HLA-DRB1*0701",
+      "HLA-A3"
+    ],
+    "correctIndex": 1,
+    "explanation": "Psoriasis is associated with HLA-Cw6, with the presence of HLA-Cw6 conferring a relative risk of 13 for developing psoriasis in the White population and 25 in the Japanese [8]."
+  },
+  {
+    "id": 10,
+    "chapterId": 9,
+    "question": "Which psoriasis susceptibility region (PSORS) is the most important genetic region, accounting for up to 50% of psoriasis risk?",
+    "options": [
+      "PSORS1 (on chromosome 6p)",
+      "PSORS2 (on chromosome 17q25)",
+      "PSORS13 (on chromosome 19p13)",
+      "PSORS9 (on chromosome 4q)"
+    ],
+    "correctIndex": 0,
+    "explanation": "By far the most important genetic region was PSORS1 (on chromosome 6p), which is estimated to account for up to 50% of psoriasis risk [9]."
+  },
+  {
+    "id": 11,
+    "chapterId": 9,
+    "question": "What is the chromosomal location of the major histocompatibility complex (MHC), which contains the PSORS1 region?",
+    "options": [
+      "The short arm (p) of chromosome 6",
+      "The long arm (q) of chromosome 17",
+      "Chromosome 4q31",
+      "Chromosome 1p"
+    ],
+    "correctIndex": 0,
+    "explanation": "The major histocompatibility complex (MHC) is situated on the short arm (p) of chromosome 6 [8]."
+  },
+  {
+    "id": 12,
+    "chapterId": 9,
+    "question": "Which gene, besides *HLA-C*, is contained within the highly linked PSORS1 region?",
+    "options": [
+      "*IL36RN*",
+      "*CDSN* (corneodesmosin)",
+      "*CARD14*",
+      "*ERAP1*"
+    ],
+    "correctIndex": 1,
+    "explanation": "PSORS1 contains genes such as HLA-C (with the HLA-Cw6 risk allele; see above) and corneodesmosin (CDSN) [9]."
+  },
+  {
+    "id": 13,
+    "chapterId": 9,
+    "question": "Which antimicrobial peptide released by stressed keratinocytes forms complexes with self DNA or RNA to trigger IFN-ɑ release by plasmacytoid DCs (pDCs)?",
+    "options": [
+      "β-defensin-1 (hBD1)",
+      "LL37 (cathelicidin)",
+      "SKALP/elafin",
+      "ADAMTSL5"
+    ],
+    "correctIndex": 1,
+    "explanation": "Complexes of self DNA or RNA (from keratinocytes) plus antimicrobial peptide LL37 trigger IFN-ɑ release by pDCs."
+  },
+  {
+    "id": 14,
+    "chapterId": 9,
+    "question": "What is the most common phenotype of T cells that infiltrate the epidermis of psoriatic lesions?",
+    "options": [
+      "CD4+ T cells",
+      "CD8+ T cells",
+      "Natural killer T cells (NKT)",
+      "B cells"
+    ],
+    "correctIndex": 1,
+    "explanation": "Most of the epidermal T cells are CD8+, whereas the dermal infiltrate is a mixture of CD4+ and CD8+ cells [12]."
+  },
+  {
+    "id": 15,
+    "chapterId": 9,
+    "question": "Which transcription factor is expressed by keratinocytes within psoriatic plaques and induces upregulation of genes like *ICAM1* and *TGF-ɑ*?",
+    "options": [
+      "NF-kappa B (NF-κB) ",
+      "STAT3",
+      "T-bet",
+      "IRF4"
+    ],
+    "correctIndex": 1,
+    "explanation": "Within psoriatic plaques, keratinocytes express the transcription factor STAT3, and STAT3 induces upregulation of a number of psoriasis-relevant genes (e.g. ICAM1, TGF-ɑ)."
+  },
+  {
+    "id": 16,
+    "chapterId": 9,
+    "question": "Which specific chemokine is believed to mediate the prominent infiltration of neutrophils often seen in psoriatic lesions?",
+    "options": [
+      "CCL17",
+      "CCL20",
+      "CXCL8",
+      "Chemerin"
+    ],
+    "correctIndex": 2,
+    "explanation": "CXCL8 is thought to mediate the often-prominent infiltration by neutrophils [14]. Neutrophil-recruiting chemokines include CXCL1, CXCL3, CXCL5, and CXCL8 [11]."
+  },
+  {
+    "id": 17,
+    "chapterId": 9,
+    "question": "What is the typical lag time between skin trauma and the appearance of psoriatic lesions in the Koebner (isomorphic) phenomenon?",
+    "options": [
+      "2–6 weeks",
+      "Within 48 hours",
+      "3 months",
+      "More than 6 months"
+    ],
+    "correctIndex": 0,
+    "explanation": "The lag time between the trauma and the appearance of skin lesions is usually 2–6 weeks [15]."
+  },
+  {
+    "id": 18,
+    "chapterId": 9,
+    "question": "Which endogenous factor, when released from fibroblasts, contributes to the initiation phase by recruiting plasmacytoid dendritic cells (pDCs) into the skin?",
+    "options": [
+      "Interferon-gamma (IFN-Ɣ)",
+      "Tumor necrosis factor (TNF)",
+      "Chemerin",
+      "Interleukin-17A (IL-17A)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Plasmacytoid dendritic cells (pDCs) are recruited into the skin via fibroblast-released chemerin [11, 14]."
+  },
+  {
+    "id": 19,
+    "chapterId": 9,
+    "question": "The Auspitz sign (pinpoint bleeding upon scale removal) is the clinical reflection of which histological abnormality?",
+    "options": [
+      "Elongated vessels in dermal papillae covered by a thinned suprapapillary epidermis",
+      "Microabscesses of Munro in the stratum corneum",
+      "Spongiform pustules of Kogoj in the stratum spinosum",
+      "Coalescence of rete ridges"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Auspitz sign... is the clinical reflection of elongated vessels in the dermal papillae together with thinning of the suprapapillary epidermis [16]."
+  },
+  {
+    "id": 20,
+    "chapterId": 9,
+    "question": "What is the clinical finding of a pale blanching ring sometimes observed surrounding psoriatic lesions?",
+    "options": [
+      "Woronoff’s ring",
+      "The butterfly sign",
+      "Koebner’s halo",
+      "Oil drop phenomenon"
+    ],
+    "correctIndex": 0,
+    "explanation": "Psoriatic lesions are sometimes surrounded by a pale blanching ring, which is referred to as Woronoff’s ring [17]."
+  },
+  {
+    "id": 21,
+    "chapterId": 9,
+    "question": "Guttate psoriasis is frequently preceded by an infection involving which pathogen?",
+    "options": [
+      "Staphylococcus aureus",
+      "Group A streptococci",
+      "Human Papillomavirus (HPV)",
+      "Candida species"
+    ],
+    "correctIndex": 1,
+    "explanation": "Guttate psoriasis is more commonly seen in children and adolescents and is frequently preceded by an upper respiratory tract infection... indicating a recent streptococcal infection [18]."
+  },
+  {
+    "id": 22,
+    "chapterId": 9,
+    "question": "Which severe, generalized pattern of pustular psoriasis is associated with fever, systemic illness, and abrupt onset of widespread erythema and pustulation?",
+    "options": [
+      "Localized pattern",
+      "Von Zumbusch pattern",
+      "Annular pattern",
+      "Exanthematic type"
+    ],
+    "correctIndex": 1,
+    "explanation": "The von Zumbusch pattern is a generalized eruption starting abruptly with erythema and pustulation... The patient has a fever and feels ill [19]."
+  },
+  {
+    "id": 23,
+    "chapterId": 9,
+    "question": "Pustulosis of the palms and soles is strongly associated with which syndrome that includes synovitis, acne, hyperostosis, and osteitis?",
+    "options": [
+      "Trigeminal Trophic Syndrome",
+      "SAPHO syndrome",
+      "DITRA syndrome",
+      "Reactive arthritis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pustulosis of the palms and soles is one of the entities most commonly associated with SAPHO syndrome, which consists of synovitis, acne, pustulosis, hyperostosis and osteitis [20]."
+  },
+  {
+    "id": 24,
+    "chapterId": 9,
+    "question": "Flexural psoriasis (inverse psoriasis) lesions primarily differ from chronic plaque psoriasis by exhibiting minimal to absent:",
+    "options": [
+      "Erythema",
+      "Induration",
+      "Scale",
+      "Sharp demarcation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Flexural lesions are characterized by shiny, pink to red, sharply demarcated thin plaques... There is much less scale than in untreated chronic plaque psoriasis [21]."
+  },
+  {
+    "id": 25,
+    "chapterId": 9,
+    "question": "Which nail finding is indicative of involvement of the nail bed in psoriasis?",
+    "options": [
+      "Nail pitting",
+      "Leukonychia",
+      "Oil drop or salmon patch phenomenon",
+      "Crumbly nail appearance (due to matrix involvement)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Psoriatic changes of the nail bed result in the “oil drop” or “salmon patch” phenomenon [22]."
+  },
+  {
+    "id": 26,
+    "chapterId": 9,
+    "question": "Involvement of the DIP and PIP joints of a single digit, leading to a 'sausage' digit, is a classic finding in which type of psoriatic arthritis?",
+    "options": [
+      "Arthritis mutilans",
+      "Mono- and asymmetric oligoarthritis",
+      "Symmetric polyarthritis (RA-like)",
+      "Spondylitis and sacroiliitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Involvement of the PIP or both the DIP and PIP joints of a single digit can result in the classic “sausage” digit (Fig. 8.18). This is characteristic of Mono- and asymmetric oligoarthritis [23, 24]."
+  },
+  {
+    "id": 27,
+    "chapterId": 9,
+    "question": "Psoriasiform lesions on the plantar surface in reactive arthritis, characterized by thick yellow scale and pustules, are known as:",
+    "options": [
+      "Acrodermatitis continua",
+      "Balanitis circinata",
+      "Keratoderma blennorrhagicum",
+      "Rupioid psoriasis"
+    ],
+    "correctIndex": 2,
+    "explanation": "The lesions on the plantar surface usually have thick yellow scale and are often pustular (keratoderma blennorrhagicum) [25]."
+  },
+  {
+    "id": 28,
+    "chapterId": 9,
+    "question": "Histologically, the accumulation of neutrophils and/or neutrophil remnants in the stratum corneum, surrounded by parakeratosis, is referred to as the:",
+    "options": [
+      "Spongiform pustule of Kogoj",
+      "Microabscess of Munro",
+      "Papillary edema",
+      "Acanthosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "The accumulation of neutrophils and/or neutrophil remnants in the stratum corneum, surrounded by parakeratosis, as a “microabscess of Munro” [26]."
+  },
+  {
+    "id": 29,
+    "chapterId": 9,
+    "question": "What is an absolute contraindication for the use of Methotrexate in treating psoriasis?",
+    "options": [
+      "Impaired kidney function (creatinine clearance <60 ml/min)",
+      "Pregnancy or lactation",
+      "History of excessive photo(chemo)therapy",
+      "Concomitant use of topical corticosteroids"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pregnancy or lactation is listed as an absolute contraindication for methotrexate [27]."
+  },
+  {
+    "id": 30,
+    "chapterId": 9,
+    "question": "Which classic systemic therapy for psoriasis is contraindicated in women of childbearing potential unless adequate contraception is guaranteed during and up to 3 years following discontinuation?",
+    "options": [
+      "Methotrexate",
+      "Cyclosporine",
+      "Acitretin (Systemic Retinoid)",
+      "Apremilast"
+    ],
+    "correctIndex": 2,
+    "explanation": "Acitretin is contraindicated for women of childbearing potential who cannot guarantee adequate contraception during and up to 3 years following discontinuation of acitretin [28, 29]. Acitretin is known for fetal exposure leading to 'retinoic acid embryopathy' [30]."
+  },
+  {
+    "id": 1,
+    "chapterId": 10,
+    "question": "Small Plaque Parapsoriasis (SPP) typically presents as round to oval patches generally measuring less than what diameter?",
+    "options": [
+      "2 cm",
+      "5 cm",
+      "10 cm",
+      "15 cm"
+    ],
+    "correctIndex": 1,
+    "explanation": "Small plaque parapsoriasis typically presents as round to oval patches that are generally <5 cm in diameter [1], [2]."
+  },
+  {
+    "id": 2,
+    "chapterId": 10,
+    "question": "Which specific presentation of Small Plaque Parapsoriasis is described as elongated, finger-like patches symmetrically distributed on the flanks?",
+    "options": [
+      "Xantho-erythrodermia perstans",
+      "Digitate dermatosis",
+      "Chronic superficial dermatitis",
+      "Parapsoriasis en gouttes"
+    ],
+    "correctIndex": 1,
+    "explanation": "A distinct and perhaps the most typical presentation is 'digitate dermatosis', which presents as elongated, finger-like patches symmetrically distributed on the flanks [1], [2]."
+  },
+  {
+    "id": 3,
+    "chapterId": 10,
+    "question": "The histologic findings in Small Plaque Parapsoriasis generally include a nonspecific spongiotic dermatitis with focal parakeratosis and a predominance of which cell type in the lymphocytic infiltrate?",
+    "options": [
+      "CD8+ T cells",
+      "Neutrophils",
+      "CD4+ T cells",
+      "B cells"
+    ],
+    "correctIndex": 2,
+    "explanation": "The sparse lymphoid infiltrates within the superficial dermis in Small Plaque Parapsoriasis are composed primarily of CD4+ T cells [2], [3]."
+  },
+  {
+    "id": 4,
+    "chapterId": 10,
+    "question": "Which specific finding is absent in the pathology of Small Plaque Parapsoriasis but characteristic of Mycosis Fungoides (MF)?",
+    "options": [
+      "Spongiotic dermatitis",
+      "Exocytosis of lymphocytes",
+      "Focal parakeratosis",
+      "Pautrier micro-abscesses"
+    ],
+    "correctIndex": 3,
+    "explanation": "Patches of small plaque parapsoriasis exhibit a mild, nonspecific spongiotic dermatitis, but there are neither Pautrier micro-abscesses nor atypical lymphocytes [4]."
+  },
+  {
+    "id": 5,
+    "chapterId": 10,
+    "question": "Small Plaque Parapsoriasis shows a male predominance with an approximate male to female ratio of:",
+    "options": [
+      "1:1",
+      "3:1",
+      "1:3",
+      "5:1"
+    ],
+    "correctIndex": 1,
+    "explanation": "There is a male predominance in Small Plaque Parapsoriasis (male : female ratio ~3 : 1) [3]."
+  },
+  {
+    "id": 6,
+    "chapterId": 10,
+    "question": "What is the reported risk of Small Plaque Parapsoriasis progressing to Mycosis Fungoides (MF)?",
+    "options": [
+      "5%–10%",
+      "25%",
+      "Very rare (<20 cases reported)",
+      "Approximately 50%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Progression of Small Plaque Parapsoriasis to MF is very rare, with <20 cases reported to date in the literature [1], [5]."
+  },
+  {
+    "id": 7,
+    "chapterId": 10,
+    "question": "Pityriasis Rosea is distinguished from Small Plaque Parapsoriasis based on which key clinical difference?",
+    "options": [
+      "Presence of a chronic, asymptomatic course",
+      "Larger lesion size (over 5 cm)",
+      "Spontaneous resolution within a few months and the presence of a herald patch",
+      "Predominantly CD8+ T cell infiltrate on biopsy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pityriasis rosea is distinguished from small plaque parapsoriasis by the presence of a herald patch and spontaneous resolution within a few months [6]."
+  },
+  {
+    "id": 8,
+    "chapterId": 10,
+    "question": "What is considered a standard therapy for Small Plaque Parapsoriasis, according to retrospective studies and case series?",
+    "options": [
+      "PUVA phototherapy (Psoralen plus UVA)",
+      "Topical calcineurin inhibitors",
+      "Topical corticosteroids and narrowband ultraviolet B (NB-UVB)",
+      "Topical nitrogen mustard"
+    ],
+    "correctIndex": 2,
+    "explanation": "Standard therapy for Small Plaque Parapsoriasis includes topical corticosteroids and narrowband ultraviolet B (NB-UVB) therapy [7], [8]."
+  },
+  {
+    "id": 9,
+    "chapterId": 10,
+    "question": "Many authorities in the field of cutaneous lymphomas consider Large Plaque Parapsoriasis to be an early manifestation of which condition?",
+    "options": [
+      "Pityriasis lichenoides chronica (PLC)",
+      "Mycosis Fungoides (MF)",
+      "Pityriasis Rubra Pilaris (PRP)",
+      "Pityriasis Rotunda"
+    ],
+    "correctIndex": 1,
+    "explanation": "While some authors believe that large plaque parapsoriasis represents an entity distinct from MF, many authorities in the field of cutaneous lymphomas consider it to be an early manifestation of MF [9], [10]."
+  },
+  {
+    "id": 10,
+    "chapterId": 10,
+    "question": "Pityriasis Lichenoides is an uncommon disorder that encompasses which two major forms on a disease spectrum?",
+    "options": [
+      "Small Plaque Parapsoriasis and Large Plaque Parapsoriasis",
+      "Pityriasis Rotunda and Granular Parakeratosis",
+      "Pityriasis lichenoides et varioliformis acuta (PLEVA) and Pityriasis lichenoides chronica (PLC)",
+      "Guttate Parapsoriasis and Febrile Ulceronecrotic Mucha–Habermann Disease (FUMHD)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pityriasis lichenoides is an uncommon disorder that encompasses pityriasis lichenoides et varioliformis acuta (PLEVA) and pityriasis lichenoides chronica (PLC) [11], [12]."
+  },
+  {
+    "id": 11,
+    "chapterId": 10,
+    "question": "The lesions of Pityriasis Lichenoides et Varioliformis Acuta (PLEVA) are characterized by being:",
+    "options": [
+      "Smooth, hypo-pigmented macules",
+      "Scattered, erythematous plaques with thick scale",
+      "Crusted and occasionally vesiculopustular",
+      "Waxy, orange-red follicular papules"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lesions of PLEVA are crusted and occasionally vesiculopustular, whereas in PLC they are scaly [11]. In patients with PLEVA, individual lesions develop crusts, ulcers, and occasionally vesicles or pustules [13]."
+  },
+  {
+    "id": 12,
+    "chapterId": 10,
+    "question": "Which entity was previously referred to as 'parapsoriasis en gouttes' but is no longer used?",
+    "options": [
+      "Small plaque parapsoriasis",
+      "Pityriasis lichenoides",
+      "Pityriasis rosea",
+      "Pityriasis rubra pilaris"
+    ],
+    "correctIndex": 1,
+    "explanation": "The term 'parapsoriasis en gouttes' is no longer used as it specifically refers to the entity pityriasis lichenoides [5]."
+  },
+  {
+    "id": 13,
+    "chapterId": 10,
+    "question": "Which clinical feature is characteristic of the chronic form, Pityriasis Lichenoides Chronica (PLC)?",
+    "options": [
+      "Large, confluent necrotic skin lesions",
+      "Recurrent crops of spontaneously regressing erythematous papules that are scaly",
+      "Widespread erythema with fever and malaise",
+      "Hypopigmented halo surrounding hyperpigmented centers"
+    ],
+    "correctIndex": 1,
+    "explanation": "Both entities [PLEVA and PLC] are characterized by recurrent crops of spontaneously regressing erythematous papules [11]. In PLC, the papules are erythematous to red–brown and scaly [14]."
+  },
+  {
+    "id": 14,
+    "chapterId": 10,
+    "question": "What severe variant of Pityriasis Lichenoides et Varioliformis Acuta (PLEVA) is associated with fever, systemic symptoms, and a reported mortality rate up to 15%?",
+    "options": [
+      "Atypical pityriasis lichenoides",
+      "Lymphomatoid papulosis",
+      "Febrile ulceronecrotic Mucha–Habermann disease (FUMHD)",
+      "Pityriasis lichenoides chronica (PLC)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The term febrile ulceronecrotic Mucha–Habermann disease (FUMHD) has been used to refer to such severe variants in which large, confluent necrotic skin lesions as well as mucosal, gastrointestinal, and pulmonary involvement can be observed [15], [12]. In the latter group, an associated mortality rate of up to 15% has been reported [15]."
+  },
+  {
+    "id": 15,
+    "chapterId": 10,
+    "question": "Which viral infection is supported by some evidence as a potential trigger for PLEVA?",
+    "options": [
+      "Human Papillomavirus (HPV)",
+      "Varicella–zoster virus (VZV)",
+      "Cytomegalovirus (CMV)",
+      "Measles virus"
+    ],
+    "correctIndex": 1,
+    "explanation": "There is some evidence to support PLEVA being associated with viral infections, especially varicella–zoster virus [16]."
+  },
+  {
+    "id": 16,
+    "chapterId": 10,
+    "question": "On histology, Pityriasis Lichenoides exhibits a superficial perivascular interface dermatitis. In the more acute lesions (PLEVA), the infiltrate is often described as:",
+    "options": [
+      "Top-heavy and wedge-shaped",
+      "Periadnexal and deep",
+      "Composed primarily of plasma cells",
+      "Lacking epidermal damage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pityriasis lichenoides exhibits a superficial perivascular interface dermatitis in all cases. Those lesions at the acute end of the spectrum contain a denser infiltrate that may be top-heavy and wedge-shaped [17]."
+  },
+  {
+    "id": 17,
+    "chapterId": 10,
+    "question": "For Pityriasis Lichenoides, which systemic therapy may be required for more fulminant cases?",
+    "options": [
+      "Oral Retinoids",
+      "Low-dose weekly methotrexate",
+      "Topical Calcineurin Inhibitors",
+      "Antihistamines"
+    ],
+    "correctIndex": 1,
+    "explanation": "More fulminant cases may require low-dose weekly methotrexate [18]."
+  },
+  {
+    "id": 18,
+    "chapterId": 10,
+    "question": "What is the typical clinical course duration for the classic adult form (Type I) of Pityriasis Rubra Pilaris (PRP)?",
+    "options": [
+      "Lifelong and progressive",
+      "Acute, resolving within weeks",
+      "Self-limited, typically clearing within 3–5 years",
+      "Chronic course lasting more than 10 years"
+    ],
+    "correctIndex": 2,
+    "explanation": "The classic types (adult and juvenile) typically resolve within 3–5 years [19]. Type I (classic adult) PRP is the most common form and is typically self-limited, clearing within 3 years in 80% of patients [20]."
+  },
+  {
+    "id": 19,
+    "chapterId": 10,
+    "question": "Which clinical finding in Pityriasis Rubra Pilaris results in rough papules on the dorsal aspect of the proximal fingers, resembling a 'nutmeg grater'?",
+    "options": [
+      "Ichthyosiform scaling",
+      "Follicular hyperkeratosis on an erythematous base",
+      "Scleroderma-like changes of the hands",
+      "Nodulocystic lesions"
+    ],
+    "correctIndex": 1,
+    "explanation": "Follicular hyperkeratosis on an erythematous base is a key finding, especially on the dorsal aspect of the proximal fingers, reminiscent of a nutmeg grater [21]."
+  },
+  {
+    "id": 20,
+    "chapterId": 10,
+    "question": "Pityriasis Rubra Pilaris is clinically characterized by the coalescence of orange–red plaques with distinctive:",
+    "options": [
+      "Targetoid lesions",
+      "Islands of sparing",
+      "Pautrier microabscesses",
+      "Rete ridge flattening"
+    ],
+    "correctIndex": 1,
+    "explanation": "The papules in PRP can coalesce to form large salmon-colored to orange–red plaques with distinctive 'islands of sparing' [21], [19]."
+  },
+  {
+    "id": 21,
+    "chapterId": 10,
+    "question": "What is the characteristic feature of the palms and soles involvement in classic Pityriasis Rubra Pilaris?",
+    "options": [
+      "Deep fissuring and pain",
+      "Prominent scaling without color change",
+      "A distinctive orange–red waxy keratoderma",
+      "Vesiculobullous lesions"
+    ],
+    "correctIndex": 2,
+    "explanation": "The palms and soles are commonly involved with a distinctive orange–red waxy keratoderma [21], [19]."
+  },
+  {
+    "id": 22,
+    "chapterId": 10,
+    "question": "The dominantly inherited form of PRP, specifically Type V (atypical juvenile), is associated with heterozygous gain-of-function mutations in which gene?",
+    "options": [
+      "HLA-Cw6",
+      "CARD14",
+      "IL-36RN",
+      "CARD15"
+    ],
+    "correctIndex": 1,
+    "explanation": "The dominantly inherited form of PRP is associated with heterozygous gain-of-function mutations in CARD14 [22]. Type V, the atypical juvenile form, is frequently due to CARD14 mutations [19], [23]."
+  },
+  {
+    "id": 23,
+    "chapterId": 10,
+    "question": "Which histologic feature is considered distinctive for Pityriasis Rubra Pilaris?",
+    "options": [
+      "Microabscesses of Munro",
+      "Spongiform pustules of Kogoj",
+      "Alternating vertical and horizontal ortho- and parakeratosis ('checkerboard pattern')",
+      "Lichenoid infiltrate with basal layer vacuolisation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Psoriasiform dermatitis with irregular hyperkeratosis and alternating vertical and horizontal ortho- and parakeratosis ('checkerboard pattern') is distinctive [24]."
+  },
+  {
+    "id": 24,
+    "chapterId": 10,
+    "question": "What is the primary first-line systemic treatment recommended for Pityriasis Rubra Pilaris in adults, yielding an excellent response in >40% of patients?",
+    "options": [
+      "Methotrexate",
+      "Systemic retinoids (Isotretinoin or Acitretin)",
+      "Cyclosporine",
+      "TNF inhibitors"
+    ],
+    "correctIndex": 1,
+    "explanation": "Systemic retinoids represent a first-line treatment for PRP in both adults and children; an excellent response is seen in >40% of patients [25]."
+  },
+  {
+    "id": 25,
+    "chapterId": 10,
+    "question": "Pityriasis Rosea is a common, self-limited eruption seen primarily in which age group?",
+    "options": [
+      "Infants (<2 years)",
+      "Middle-aged adults (40–60 years)",
+      "Adolescents and young adults (10–35 years)",
+      "Elderly individuals (>65 years)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Most cases of pityriasis rosea occur in young healthy persons, the majority of whom are between the ages of 10 and 35 years [26]."
+  },
+  {
+    "id": 26,
+    "chapterId": 10,
+    "question": "The initial solitary lesion in Pityriasis Rosea, which predates the widespread eruption, is called the:",
+    "options": [
+      "Satellite lesion",
+      "Collarette patch",
+      "Herald patch",
+      "Target lesion"
+    ],
+    "correctIndex": 2,
+    "explanation": "A solitary lesion appears on the trunk and is referred to as the 'herald patch' because it heralds the onset of the disease [27]."
+  },
+  {
+    "id": 27,
+    "chapterId": 10,
+    "question": "The orientation of the numerous oval plaques in Pityriasis Rosea on the posterior trunk, where their long axes follow Langer cleavage lines, results in the appearance known as the:",
+    "options": [
+      "Woronoff’s ring",
+      "Fir tree or Christmas tree pattern",
+      "Nutmeg grater appearance",
+      "Oil drop sign"
+    ],
+    "correctIndex": 1,
+    "explanation": "The lesions are usually round to oval in shape, with their long axis following Langer cleavage lines [28]. On the posterior trunk, such an orientation leads to what is often referred to as a 'fir tree' or 'Christmas tree' pattern [28]."
+  },
+  {
+    "id": 28,
+    "chapterId": 10,
+    "question": "Which term describes the atypical variant of Pityriasis Rosea localized to the axillae and inguinal areas?",
+    "options": [
+      "Inverse pityriasis rosea",
+      "Purpuric pityriasis rosea",
+      "Pityriasis lichenoides-like",
+      "Pityriasis rotunda-like"
+    ],
+    "correctIndex": 0,
+    "explanation": "Inverse pityriasis rosea involves the axillae and inguinal areas and sometimes the face [29]."
+  },
+  {
+    "id": 29,
+    "chapterId": 10,
+    "question": "Pityriasis Rotunda is an unusual asymptomatic dermatosis characterized by large, circular, and polycyclic scaly patches, predominantly observed in which populations?",
+    "options": [
+      "Northern European Caucasians",
+      "Individuals of Far Eastern and Mediterranean basin descent, and African descent",
+      "Native North Americans",
+      "Australasian Aboriginal populations"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pityriasis rotunda is most commonly observed in adults in their 30s and in children [30]. It has been described in the Far East (Japan and China), the Mediterranean basin (Morocco, Italy, and Israel), and in Africans, African-Americans, and Afro-Caribbeans [30]."
+  },
+  {
+    "id": 30,
+    "chapterId": 10,
+    "question": "What is the pathognomonic finding on histopathology for Granular Parakeratosis?",
+    "options": [
+      "Retention of basophilic keratohyalin granules within areas of parakeratosis in the stratum corneum",
+      "Spongiform pustules of Kogoj",
+      "Absent granular cell layer with basket-weave hyperkeratosis",
+      "Dense perivascular plasma cell infiltrate"
+    ],
+    "correctIndex": 0,
+    "explanation": "The characteristic feature [of Granular Parakeratosis] is an unusual form of parakeratosis [31]. There is visible retention of basophilic keratohyalin granules within these areas of parakeratosis in the stratum corneum [32], [31]."
+  },
+  {
+    "id": 1,
+    "chapterId": 11,
+    "question": "Erythroderma is clinically defined as generalized erythema and scaling involving more than what percentage of the body surface area (BSA)?",
+    "options": [
+      "50%",
+      "70%",
+      "80%",
+      "90%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Erythroderma is defined as generalized erythema and scaling involving >80% of the body surface area (BSA) [1]. Although originally more strictly defined as erythema and scaling involving >90% of BSA, nowadays the term erythroderma is often more liberally applied when there is >80% of involvement [2]."
+  },
+  {
+    "id": 2,
+    "chapterId": 11,
+    "question": "Based on large patient series, which underlying cause is the most common etiology of erythroderma in adults?",
+    "options": [
+      "Cutaneous T cell lymphoma (CTCL)",
+      "Psoriasis",
+      "Dermatitis",
+      "Drug reactions"
+    ],
+    "correctIndex": 2,
+    "explanation": "Based upon several large series of patients, dermatitis (24%), psoriasis (20%), drug reactions (19%), and CTCL (8%) represented the most common underlying causes of erythroderma [3]."
+  },
+  {
+    "id": 3,
+    "chapterId": 11,
+    "question": "What is the approximate male-to-female ratio commonly reported for erythroderma?",
+    "options": [
+      "1:1",
+      "2:1 to 4:1",
+      "4:1 to 6:1",
+      "Less than 1:1"
+    ],
+    "correctIndex": 1,
+    "explanation": "Men are more commonly affected, with the male-to-female ratio ranging from approximately 2:1 to 4:1 [4]."
+  },
+  {
+    "id": 4,
+    "chapterId": 11,
+    "question": "In approximately what percentage of adult patients is the underlying cause of erythroderma not found despite extensive investigation, leading to the designation of 'idiopathic erythroderma'?",
+    "options": [
+      "5%",
+      "15%",
+      "25%",
+      "50%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Despite multiple skin biopsies, an in-depth clinical investigation and a detailed medical history, the underlying cause of erythroderma is not found in at least 25% of patients [5]. In approximately one-quarter of the patients, no specific etiology is found, and these cases are called 'idiopathic erythroderma' [1], [6]."
+  },
+  {
+    "id": 5,
+    "chapterId": 11,
+    "question": "In chronic erythroderma, the daily loss of scales significantly increases. This large loss of material can lead to which systemic complications?",
+    "options": [
+      "Hypercalcemia and hypertension",
+      "Hypoalbuminemia and anemia of chronic disease",
+      "Thrombocytosis and hyperglycemia",
+      "Polycythemia and hyperthermia"
+    ],
+    "correctIndex": 1,
+    "explanation": "In chronic erythroderma protein loss can be significant, leading to hypoalbuminemia and contributing to anemia of chronic disease [7]. The daily loss of scales increases from 500–1000 mg to 20–30 g [7]."
+  },
+  {
+    "id": 6,
+    "chapterId": 11,
+    "question": "The historical term 'red man syndrome' is synonymous with idiopathic erythroderma, but should not be confused with the acute cutaneous reaction associated with the rapid infusion of which drug?",
+    "options": [
+      "Phenytoin",
+      "Vancomycin",
+      "Methotrexate",
+      "Lithium"
+    ],
+    "correctIndex": 1,
+    "explanation": "Idiopathic erythroderma is also referred to as 'red man syndrome' (not to be confused with the acute cutaneous reaction to rapid infusion of vancomycin) [4], [8]. The synonyms listed include 'Red man syndrome (becoming historical term)' [6]."
+  },
+  {
+    "id": 7,
+    "chapterId": 11,
+    "question": "What is the most frequent subjective complaint, reported in up to 90% of erythrodermic patients, which is most severe in patients with dermatitis or Sézary syndrome?",
+    "options": [
+      "Pain",
+      "Fatigue",
+      "Pruritus",
+      "Fever"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pruritus, the most frequent complaint, is observed in up to 90% of patients and it varies according to the underlying cause, but is most severe in patients with dermatitis or Sézary syndrome [9]."
+  },
+  {
+    "id": 8,
+    "chapterId": 11,
+    "question": "In psoriasis-associated erythroderma, the typical clinical features of psoriasis are often lost after generalization. What feature may still be visible, providing a clue to the diagnosis?",
+    "options": [
+      "Leonine facies",
+      "Widespread purpura",
+      "Oil-drop changes, onycholysis, or nail pits",
+      "Spongiotic vesicles"
+    ],
+    "correctIndex": 2,
+    "explanation": "After generalization of the erythema, the typical features of psoriasis are often lost... Due to a slower turnover rate, nail changes, such as oil-drop changes, onycholysis or nail pits, may still be visible and provide clues to the diagnosis of psoriatic erythroderma [10]."
+  },
+  {
+    "id": 9,
+    "chapterId": 11,
+    "question": "In infants and neonates, which of the following is considered a common cause of erythroderma?",
+    "options": [
+      "Systemic lupus erythematosus",
+      "Infections (e.g., staphylococcal scalded skin syndrome)",
+      "Pemphigus foliaceus",
+      "Chronic actinic dermatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Erythroderma in neonates and infants is rare and causes include inherited ichthyoses, dermatitides, psoriasis, immunodeficiencies (e.g. Omenn syndrome), and consequences of infection (e.g. staphylococcal scalded skin syndrome) [7]."
+  },
+  {
+    "id": 10,
+    "chapterId": 11,
+    "question": "What is the characteristic clinical sign that favors the diagnosis of erythrodermic Pityriasis Rubra Pilaris (PRP) over Psoriasis?",
+    "options": [
+      "Severe pruritus",
+      "Oil-drop nail changes",
+      "Salmon to orange–red color with islands of uninvolved skin (nappes claires)",
+      "Absence of lymphadenopathy"
+    ],
+    "correctIndex": 2,
+    "explanation": "The combination of follicular keratotic papules on the knees, elbows and dorsal aspects of the fingers plus nappes claires (islands of uninvolved skin within the erythroderma) favors the diagnosis of PRP [11]. Usually, the lesions have a salmon to orange–red color [11]."
+  },
+  {
+    "id": 11,
+    "chapterId": 11,
+    "question": "Which complication is a serious threat to erythrodermic patients due to markedly increased blood flow and fluid loss by transpiration?",
+    "options": [
+      "Bradycardia",
+      "High-output cardiac failure",
+      "Hypotension",
+      "Stroke"
+    ],
+    "correctIndex": 1,
+    "explanation": "Because of the markedly increased blood flow through the skin and increased fluid loss by transpiration, tachycardia affects 40% of patients, and there is a risk of high-output cardiac failure, particularly in the elderly [12]. Loss of fluid, electrolytes and albumin with subsequent tachycardia and cardiac failure are serious threats to the erythrodermic patient [2]."
+  },
+  {
+    "id": 12,
+    "chapterId": 11,
+    "question": "In which form of erythroderma is the onset typically acute and resolution usually occurs within 2–6 weeks after withdrawal of the causative agent?",
+    "options": [
+      "Psoriatic erythroderma",
+      "Idiopathic erythroderma",
+      "Drug reactions",
+      "Sézary syndrome"
+    ],
+    "correctIndex": 2,
+    "explanation": "An acute onset most commonly occurs when the underlying cause is a drug reaction or dermatitis [13]. While drug-induced erythrodermas have the shortest duration, usually resolving 2–6 weeks after withdrawal of the responsible drug, rarely erythroderma persists despite withdrawal of the putative drug [14]."
+  },
+  {
+    "id": 13,
+    "chapterId": 11,
+    "question": "The triad defining Sézary syndrome includes erythroderma, generalized lymphadenopathy, and:",
+    "options": [
+      "Eosinophilia",
+      "Peripheral blood lymphocytosis with morphologically abnormal Sézary cells",
+      "Nail pitting and oil-drop signs",
+      "Acute onset with facial edema"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sézary syndrome is defined by the triad of erythroderma, generalized lymphadenopathy, and peripheral blood lymphocytosis with morphologically abnormal Sézary cells [15]."
+  },
+  {
+    "id": 14,
+    "chapterId": 11,
+    "question": "Which laboratory finding, when elevated, is associated with Atopic Dermatitis-associated erythroderma?",
+    "options": [
+      "Serum urea nitrogen",
+      "Serum IgE and eosinophilia",
+      "C-reactive protein",
+      "Serum creatinine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Increased serum IgE and eosinophilia may accompany other signs and symptoms of atopy [16]. Atopic dermatitis is also listed with elevated serum IgE and eosinophilia as additional hints [17]."
+  },
+  {
+    "id": 15,
+    "chapterId": 11,
+    "question": "Which clinical manifestation of chronic erythroderma is seen in ~30% of patients and is often an early sign of pityriasis rubra pilaris?",
+    "options": [
+      "Diffuse non-scarring alopecia",
+      "Ectropion",
+      "Palmoplantar keratoderma",
+      "Prurigo nodularis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Palmoplantar keratoderma appears in ~30% of erythrodermic patients and is often an early sign in pityriasis rubra pilaris [9]. Chronic erythrodermas may also be accompanied by palmoplantar keratoderma [2]."
+  },
+  {
+    "id": 16,
+    "chapterId": 11,
+    "question": "In the idiopathic erythroderma group, lymphadenopathy is found in approximately what percentage of patients?",
+    "options": [
+      "20%",
+      "44%",
+      "54%",
+      "68%"
+    ],
+    "correctIndex": 3,
+    "explanation": "When this group [idiopathic erythroderma] was compared with the entire group of erythrodermic patients, lymphadenopathy (68% vs 44%) and peripheral edema (54% vs 40%) were found to be more common than in other types of erythroderma [8]."
+  },
+  {
+    "id": 17,
+    "chapterId": 11,
+    "question": "In infants, which finding is characteristic of Netherton syndrome?",
+    "options": [
+      "Classic epidermolytic hyperkeratosis on biopsy",
+      "Collodion baby presentation",
+      "Trichorrhexis invaginata ('bamboo hair')",
+      "Diaper area sparing"
+    ],
+    "correctIndex": 2,
+    "explanation": "Netherton syndrome manifests as an ichthyosiform erythroderma in neonates. It is associated with trichorrhexis invaginata (“bamboo hair”), elevated serum levels of IgE, and an immune defect [18]. Netherton syndrome: Examine eyebrows and eyelashes as well as scalp hairs for trichorrhexis invaginata (“bamboo hair”) [19]."
+  },
+  {
+    "id": 18,
+    "chapterId": 11,
+    "question": "Ectropion and purulent conjunctivitis are noted as ocular complications that can develop in patients with erythroderma [2], [20]. Which other chronic cutaneous manifestation can be seen?",
+    "options": [
+      "Alopecia",
+      "Urticaria",
+      "Lentigo maligna",
+      "Bullous lesions"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bilateral ectropion and purulent conjunctivitis can also develop as ocular complications [20]. Diffuse non-scarring alopecia of the scalp or other sites appears in 20% of patients with chronic erythroderma [21]. Chronic erythrodermas may also be accompanied by diffuse alopecia, nail dystrophy, and ectropion [2]."
+  },
+  {
+    "id": 19,
+    "chapterId": 11,
+    "question": "The mechanism of Staphylococcal Scalded Skin Syndrome (SSSS) involves the cleavage of which protein by exfoliative toxin A?",
+    "options": [
+      "Keratin 1",
+      "Desmoglein 1",
+      "Filaggrin",
+      "Transglutaminase 1"
+    ],
+    "correctIndex": 1,
+    "explanation": "SSSS is due to a circulating exfoliative toxin produced by *S. aureus*. Since desmoglein 1 is cleaved by exfoliative toxin A, pemphigus foliaceus and SSSS exhibit clinical similarities [22]. ET-A produced by *S. aureus* specifically cleaves desmoglein 1 [23]."
+  },
+  {
+    "id": 20,
+    "chapterId": 11,
+    "question": "Histologically, Psoriatic erythroderma is characterized by which finding that contrasts with Pityriasis Rubra Pilaris (PRP)?",
+    "options": [
+      "The presence of a normal granular layer",
+      "Alternating vertical and horizontal parakeratosis",
+      "Neutrophils within the epidermis, often forming microabscesses",
+      "Prominent spongiosis and eosinophils"
+    ],
+    "correctIndex": 2,
+    "explanation": "Histologic clues for Psoriasis include neutrophils within epidermis; sparse lymphohistiocytic infiltrate within dermis [24]. Histopathology of Psoriasis shows neutrophils within the stratum corneum, and a small subcorneal pustule [25]. In contrast, PRP histology is characterized by alternating vertical and horizontal ortho- and parakeratosis, and a normal granular layer is present [26], [25]. Psoriatic histology includes epidermal hyperplasia with bottleneck-like rete ridges and reduced or absent granular layer [24]."
+  },
+  {
+    "id": 21,
+    "chapterId": 11,
+    "question": "In drug-induced erythroderma, which histologic finding can be present irrespective of the specific pattern observed (perivascular, lichenoid, spongiotic, or pseudolymphomatous)?",
+    "options": [
+      "Pautrier micro-abscesses",
+      "Subcorneal bullae",
+      "Eosinophils",
+      "Acantholysis"
+    ],
+    "correctIndex": 2,
+    "explanation": "In drug reactions, variable patterns are seen, including perivascular, lichenoid, spongiotic, and pseudolymphomatous. Eosinophils can be present, irrespective of pattern [27]."
+  },
+  {
+    "id": 22,
+    "chapterId": 11,
+    "question": "What is the most common extracutaneous manifestation of erythroderma, found in approximately half of patients?",
+    "options": [
+      "Hepatomegaly",
+      "Splenomegaly",
+      "Peripheral lymphadenopathy",
+      "Nephrotic syndrome"
+    ],
+    "correctIndex": 2,
+    "explanation": "The most common extracutaneous manifestation of erythroderma is peripheral lymphadenopathy, which is found in approximately half of the patients [28]."
+  },
+  {
+    "id": 23,
+    "chapterId": 11,
+    "question": "Papuloerythroderma of Ofuji is a distinctive reaction pattern most often seen in elderly men, characterized clinically by widespread, pruritic, reddish-brown papules with sparing of which areas?",
+    "options": [
+      "Hands and feet",
+      "Central face",
+      "Skin folds ('deck-chair' sign)",
+      "Scalp and eyebrows"
+    ],
+    "correctIndex": 2,
+    "explanation": "Papuloerythroderma of Ofuji... is characterized by widespread, pruritic, flat-topped, red–brown papules that can become confluent. It includes sparing of skin folds (“deck-chair” sign) [29], [30]. It favors elderly men [29]."
+  },
+  {
+    "id": 24,
+    "chapterId": 11,
+    "question": "Which drug is specifically listed as a common cause of drug-associated erythroderma?",
+    "options": [
+      "Ciprofloxacin",
+      "Allopurinol",
+      "Lamotrigine",
+      "Codeine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Common drugs associated with erythroderma include Allopurinol, $\beta$-lactam antibiotics, Carbamazepine/oxcarbazepine, Gold, Phenobarbital, Phenytoins, Sulfasalazine, Sulfonamides, and Zalcitabine [31]."
+  },
+  {
+    "id": 25,
+    "chapterId": 11,
+    "question": "In infants, what is the term for the characteristic skin appearance in Congenital Ichthyosiform Erythroderma (CIE) within the first few days of life (in 90% of cases)?",
+    "options": [
+      "Harlequin ichthyosis",
+      "Collodion baby",
+      "Ichthyosis linearis circumflexa",
+      "Corrugated hyperkeratosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "As a rule, CIE presents as a collodion baby (90% of the cases), and within a few days after birth, an erythroderma with fine white scaling appears [18]."
+  },
+  {
+    "id": 26,
+    "chapterId": 11,
+    "question": "Erythroderma due to Psoriasis is most often caused by the withdrawal of which treatment modalities?",
+    "options": [
+      "Topical emollients or antihistamines",
+      "Topical or oral corticosteroids, cyclosporine, or methotrexate",
+      "Narrowband UVB phototherapy",
+      "Nonsteroidal anti-inflammatory drugs (NSAIDs)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Psoriatic erythroderma... is most often due to withdrawal of potent topical or oral corticosteroids, cyclosporine or methotrexate; occasionally, widespread flares follow a systemic infection... or withdrawal of targeted immunomodulators (“biologics”) [10]. It is also listed as a clinical hint that withdrawal of corticosteroids, methotrexate, cyclosporine or targeted immunomodulators can precede psoriatic erythroderma [24], [17]."
+  },
+  {
+    "id": 27,
+    "chapterId": 11,
+    "question": "For the initial management of erythroderma, which topical agents should be avoided in neonates and children due to increased transcutaneous absorption?",
+    "options": [
+      "Low-potency corticosteroid ointments",
+      "Bland emollients",
+      "Topical antibiotics",
+      "Salicylic and lactic acid"
+    ],
+    "correctIndex": 3,
+    "explanation": "Due to increased transcutaneous absorption, topical salicylic and lactic acid should be avoided [32]. Topical therapy includes bland emollients or low-potency corticosteroid ointments [33]."
+  },
+  {
+    "id": 28,
+    "chapterId": 11,
+    "question": "In the severe variant of drug reaction known as DRESS/DIHS, which organ system involvement is commonly seen in addition to fever and peripheral blood eosinophilia?",
+    "options": [
+      "Hepatitis",
+      "Renal failure requiring dialysis",
+      "Pulmonary fibrosis",
+      "Severe musculoskeletal myalgia"
+    ],
+    "correctIndex": 0,
+    "explanation": "A minority of patients with DRESS (drug reaction with eosinophilia and systemic symptoms) syndrome... can develop peripheral blood eosinophilia, hepatitis, and peripheral lymphadenopathy [8]."
+  },
+  {
+    "id": 29,
+    "chapterId": 11,
+    "question": "Which form of bullous dermatosis is the most likely, although rare, cause to present as erythroderma, often preceded by localized lesions on the face and upper trunk?",
+    "options": [
+      "Bullous pemphigoid",
+      "Dermatitis herpetiformis",
+      "Pemphigus foliaceus",
+      "Epidermolysis bullosa acquisita"
+    ],
+    "correctIndex": 2,
+    "explanation": "Among the bullous dermatoses, pemphigus foliaceus is the one most likely, albeit rarely, to present as erythroderma [18]. The erythroderma is usually preceded by localized lesions on the face and upper trunk [18]."
+  },
+  {
+    "id": 30,
+    "chapterId": 11,
+    "question": "Why is the administration of systemic corticosteroids generally preferred to be avoided in the treatment of psoriatic erythroderma?",
+    "options": [
+      "Increased risk of fungal infections",
+      "It is an absolute contraindication in all cases",
+      "Risk of a severe pustular flare when corticosteroids are tapered",
+      "It suppresses all immune responses indiscriminately"
+    ],
+    "correctIndex": 2,
+    "explanation": "In the case of psoriatic erythroderma, administration of methotrexate, acitretin, cyclosporine or targeted immunomodulators (“biologics”) is preferred over systemic corticosteroids, given the risk of a pustular flare when corticosteroids are tapered [32]."
+  },
+
+  {
+    "id": 1,
+    "chapterId": 12,
+    "question": "Lichen Planus (LP) most commonly has its onset during which decades of life?",
+    "options": [
+      "First or second decade",
+      "Third or fourth decade",
+      "Fifth or sixth decade",
+      "Eighth or ninth decade"
+    ],
+    "correctIndex": 2,
+    "explanation": "LP most commonly has its onset during the fifth or sixth decade, with two-thirds of patients developing the disease between the ages of 30 and 60 years [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 12,
+    "question": "What percentage of patients with cutaneous Lichen Planus (LP) are observed to also have mucosal involvement, particularly oral lesions?",
+    "options": [
+      "10%–20%",
+      "30%–50%",
+      "Up to 75%",
+      "Nearly 100%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mucosal involvement, particularly oral lesions, is observed in up to 75% of patients with cutaneous LP, but the former can be the only manifestation of the disease [2]."
+  },
+  {
+    "id": 3,
+    "chapterId": 12,
+    "question": "Which specific histological finding is characteristic of classic Lichen Planus?",
+    "options": [
+      "Epidermal atrophy with a perivascular lymphocytic infiltrate",
+      "Spongiosis and microvesiculation of the epidermis",
+      "A dense, band-like lymphocytic infiltrate with destruction of the basal cell layer",
+      "Suprapapillary thinning and microabscesses of Munro"
+    ],
+    "correctIndex": 2,
+    "explanation": "Histologically, there is a dense, band-like lymphocytic infiltrate and keratinocyte apoptosis with destruction of the epidermal basal cell layer [3]. The primary features are hyperkeratosis without parakeratosis, focal increases in the granular cell layer, irregular acanthosis with a 'sawtooth' appearance, vacuolar degeneration of the basal cell layer, and a band-like lymphocytic infiltrate at the dermal–epidermal junction [4]."
+  },
+  {
+    "id": 4,
+    "chapterId": 12,
+    "question": "What clinical feature in Lichen Planus (LP) corresponds histologically to focal thickening of the granular layer?",
+    "options": [
+      "Koebner phenomenon",
+      "Violaceous color",
+      "Umbilicated papules",
+      "Wickham striae"
+    ],
+    "correctIndex": 3,
+    "explanation": "The surface of the characteristic papule of LP is slightly shiny or transparent, and a network of fine white lines called 'Wickham striae' or small gray–white puncta are also seen. The latter correspond histologically to focal thickening of the granular layer [5]."
+  },
+  {
+    "id": 5,
+    "chapterId": 12,
+    "question": "The pathogenesis of Lichen Planus (LP) is primarily understood as a T cell-mediated autoimmune reaction targeting which epidermal layer?",
+    "options": [
+      "Stratum corneum",
+      "Stratum spinosum",
+      "Basal keratinocytes",
+      "Stratum lucidum"
+    ],
+    "correctIndex": 2,
+    "explanation": "There is a growing body of evidence that LP represents T cell-mediated autoimmune damage to basal keratinocytes that express altered self-antigens on their surface [6], [3]."
+  },
+  {
+    "id": 6,
+    "chapterId": 12,
+    "question": "What is the most common and characteristic form of oral Lichen Planus?",
+    "options": [
+      "Atrophic pattern",
+      "Plaque-like pattern",
+      "Erosive pattern",
+      "Reticular pattern"
+    ],
+    "correctIndex": 3,
+    "explanation": "The most common and characteristic form of oral LP is the reticular pattern, characterized by slightly raised, whitish linear lines in a lace-like pattern or in rings with short radiating spines [7]."
+  },
+  {
+    "id": 7,
+    "chapterId": 12,
+    "question": "Which type of Lichen Planus is defined by vesicles and bullae developing within pre-existing LP lesions due to intense lichenoid inflammation and epidermal damage?",
+    "options": [
+      "Annular LP",
+      "LP Pemphigoides",
+      "Bullous LP",
+      "Linear LP"
+    ],
+    "correctIndex": 2,
+    "explanation": "In bullous LP, vesicles and bullae develop within pre-existing lesions of LP as a result of intense lichenoid inflammation and significant epidermal damage [8]."
+  },
+  {
+    "id": 8,
+    "chapterId": 12,
+    "question": "Patients with Lichen Planus Pemphigoides (LPP) have circulating IgG autoantibodies directed against which antigen?",
+    "options": [
+      "Desmoglein 3",
+      "180 kDa BP antigen (BP180; BPAG2)",
+      "Type VII collagen",
+      "Laminin-5 subunits"
+    ],
+    "correctIndex": 1,
+    "explanation": "In contrast [to bullous LP], patients with LP pemphigoides have circulating IgG autoantibodies directed against the 180 kDa BP antigen (BP180; BPAG2), as in idiopathic BP [8]."
+  },
+  {
+    "id": 9,
+    "chapterId": 12,
+    "question": "Which clinical variant of LP is also referred to as LP verrucosus and is highly pruritic, primarily favoring the shins or dorsal aspects of the feet?",
+    "options": [
+      "Hypertrophic LP",
+      "Inverse LP",
+      "Lichen planopilaris",
+      "Actinic LP"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hypertrophic LP, also referred to as LP verrucosus, presents as extremely pruritic, thick, hyperkeratotic plaques seen primarily on the shins or dorsal aspect of the feet [9]."
+  },
+  {
+    "id": 10,
+    "chapterId": 12,
+    "question": "Which infectious agent has received significant attention as a possible exogenous trigger for LP, particularly the oral form, in certain geographic regions?",
+    "options": [
+      "Human Papillomavirus (HPV)",
+      "Varicella–zoster virus (VZV)",
+      "Hepatitis C virus (HCV)",
+      "Human herpesvirus (HHV)-6"
+    ],
+    "correctIndex": 2,
+    "explanation": "Significant attention has been focused on the possible role of viruses, particularly hepatitis C [10]. Of the various types of LP, it is the oral form that is most commonly viewed as a manifestation of HCV infection [11]."
+  },
+  {
+    "id": 11,
+    "chapterId": 12,
+    "question": "The cytotoxic activity against basal keratinocytes in LP is primarily mediated by the release of perforin and granzyme B, which is characteristic of which pathway?",
+    "options": [
+      "Fas/Fas-ligand system",
+      "Granule exocytosis",
+      "NF-kappa B (NF-κB) pathway",
+      "TLR signaling"
+    ],
+    "correctIndex": 1,
+    "explanation": "More recent studies have shown that granule exocytosis with release of perforin and granzyme B, rather than the Fas/Fas-ligand system, is the main pathway of cytotoxicity mediated by CD4+ and CD8+ T cells in humans [12]."
+  },
+  {
+    "id": 12,
+    "chapterId": 12,
+    "question": "Which of the following chemokines is critical for recruiting CXCR3-expressing effector memory T cells (Th1 cells) into the skin in the induction phase of LP?",
+    "options": [
+      "TARC (CCL17)",
+      "CTACK (CCL27)",
+      "IP-10 (CXCL10)",
+      "RANTES (CCL5)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Type 1 IFN signaling and type 1 IFN-inducible chemokines (e.g. IP-10/CXCL10) then serve to recruit chemokine receptor CXCR3-expressing effector memory T cells (Th1 cells) into the skin via CXCR3/IP-10 interactions [13], [14], [15]."
+  },
+  {
+    "id": 13,
+    "chapterId": 12,
+    "question": "Which drug is specifically listed as one of the most commonly incriminated medications causing lichenoid drug eruptions?",
+    "options": [
+      "Acetaminophen",
+      "Gold",
+      "Acyclovir",
+      "Furosemide"
+    ],
+    "correctIndex": 1,
+    "explanation": "The most commonly incriminated drugs include angiotensin-converting enzyme (ACE) inhibitors, thiazide diuretics, antimalarials, quinidine, and, especially in the past, gold [16]."
+  },
+  {
+    "id": 14,
+    "chapterId": 12,
+    "question": "Which key clinical feature is usually absent in lichenoid drug eruptions but commonly present in idiopathic Lichen Planus?",
+    "options": [
+      "Hyperpigmentation",
+      "Koebner phenomenon",
+      "Wickham striae",
+      "Generalized distribution"
+    ],
+    "correctIndex": 2,
+    "explanation": "Wickham striae are uncommon in Lichenoid drug eruption but present in Idiopathic lichen planus [17]."
+  },
+  {
+    "id": 15,
+    "chapterId": 12,
+    "question": "What is the typical mean age of a patient presenting with a lichenoid drug eruption, compared to idiopathic Lichen Planus?",
+    "options": [
+      "35 years (LDE) vs 30 years (LP)",
+      "50 years (LDE) vs 65 years (LP)",
+      "65 years (LDE) vs 50 years (LP)",
+      "25 years (LDE) vs 40 years (LP)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The mean age for Lichenoid drug eruption is 65 years, compared to 50 years for Idiopathic lichen planus [17]."
+  },
+  {
+    "id": 16,
+    "chapterId": 12,
+    "question": "In the vulvovaginal–gingival syndrome, vulvovaginal LP often coexists with mucosal involvement at which other common site?",
+    "options": [
+      "Esophagus",
+      "Buccal mucosa (oral LP)",
+      "Glans penis",
+      "Nail apparatus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vaginal involvement occurs in up to 70% of women with erosive vulvar LP, and because there is often oral mucosal involvement as well, the term 'vulvovaginal–gingival syndrome' has been introduced [18]."
+  },
+  {
+    "id": 17,
+    "chapterId": 12,
+    "question": "The lesions of Actinic Lichen Planus primarily involve which areas of the body?",
+    "options": [
+      "Flexor wrists and forearms",
+      "Intertriginous zones (axillae, groin)",
+      "Sun-exposed skin of the face, neck, and dorsal surfaces of the hands and arms",
+      "Shins and soles"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lesions primarily involve sun-exposed skin of the face, followed by the neck and dorsal surfaces of the hands and arms [19]."
+  },
+  {
+    "id": 18,
+    "chapterId": 12,
+    "question": "Which systemic drug, classified as a retinoid, has been reported to clear oral, esophageal, and cutaneous LP in case reports, and is a first-line systemic therapy for LP?",
+    "options": [
+      "Methotrexate",
+      "Cyclosporine",
+      "Alitretinoin",
+      "Hydroxychloroquine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Acitretin is the only systemic retinoid that has a relatively good level of evidence [20]. In case reports, alitretinoin, up to 25 mg/day for 4 weeks, was reported to clear oral, esophageal, and cutaneous LP [20]."
+  },
+  {
+    "id": 19,
+    "chapterId": 12,
+    "question": "In the pathology of Lichen Planus (LP), what term is used to describe the small separations between the epidermis and the dermis resulting from confluent vacuolar degeneration of the basal layer?",
+    "options": [
+      "Pautrier micro-abscesses",
+      "Munro microabscesses",
+      "Max-Joseph spaces",
+      "Civatte bodies"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vacuolar changes within the basal cell layer may become confluent and result in small separations between the epidermis and the dermis, termed 'Max-Joseph spaces' [4]."
+  },
+  {
+    "id": 20,
+    "chapterId": 12,
+    "question": "The term 'Lichen planopilaris' describes the involvement of which structure, leading to permanent alopecia?",
+    "options": [
+      "Nail bed",
+      "Hair follicle",
+      "Glans penis mucosa",
+      "Oral gingivae"
+    ],
+    "correctIndex": 1,
+    "explanation": "In lichen planopilaris, involvement of the hair follicle is observed, both clinically and histologically [21]. The inflammatory process may result in scarring and loss of follicular structure, i.e. a permanent alopecia [21]."
+  },
+  {
+    "id": 21,
+    "chapterId": 12,
+    "question": "Lichen Striatus (LS) is characterized by a linear distribution pattern that follows which specific anatomical lines?",
+    "options": [
+      "Langer cleavage lines",
+      "Lines of Blaschko",
+      "Dermatomal segments",
+      "Flexure creases"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lichen striatus... is an asymptomatic, uncommon, self-limited, linear dermatosis of unknown etiology that generally affects children. Its distribution along the lines of Blaschko plus the age of the patient usually narrows the differential diagnosis rather quickly [22]."
+  },
+  {
+    "id": 22,
+    "chapterId": 12,
+    "question": "What is the typical resolution time frame for Lichen Striatus (LS)?",
+    "options": [
+      "Lifelong and persistent",
+      "Chronic, lasting 3–5 years",
+      "Spontaneously resolves over months to a few years",
+      "Acute, resolving within days"
+    ],
+    "correctIndex": 2,
+    "explanation": "The eruption usually appears suddenly, develops fully over days to weeks, and after several months to a year or more, undergoes spontaneous resolution [23]."
+  },
+  {
+    "id": 23,
+    "chapterId": 12,
+    "question": "Lichen Nitidus (LN) is characterized histologically by a lymphohistiocytic infiltrate confined to the width of how many dermal papillae, exhibiting a 'ball and claw' configuration?",
+    "options": [
+      "One to three",
+      "Four to five",
+      "Six to ten",
+      "The entire papillary and reticular dermis"
+    ],
+    "correctIndex": 0,
+    "explanation": "The histologic correlate of the papule is a well-circumscribed infiltrate composed of lymphocytes and epithelioid cells confined to the width of two to three dermal papillae [24]. In most lesions, the infiltrate is confined to the width of one to three dermal papillae [25]."
+  },
+  {
+    "id": 24,
+    "chapterId": 12,
+    "question": "In Lichen Nitidus, the infiltrate is described as being 'clutched' by surrounding hyperplastic rete ridges, forming which characteristic configuration?",
+    "options": [
+      "Sawtooth appearance",
+      "Ball and claw configuration",
+      "Deck-chair sign",
+      "Fir tree pattern"
+    ],
+    "correctIndex": 1,
+    "explanation": "A dense, well-circumscribed infiltrate composed of lymphocytes, epithelioid cells, and occasional Langhans giant cells is typically 'clutched' by the surrounding hyperplastic rete ridges in a 'ball and claw' configuration [25]."
+  },
+  {
+    "id": 25,
+    "chapterId": 12,
+    "question": "Erythema Dyschromicum Perstans (EDP) is also known by which synonym, derived from the Spanish term 'los cenicientos'?",
+    "options": [
+      "Keratosis pilaris",
+      "Ashy dermatosis",
+      "Lichen ruber planus",
+      "Zosteriform lichen"
+    ],
+    "correctIndex": 1,
+    "explanation": "Erythema Dyschromicum Perstans is synonymous with 'Ashy dermatosis' [26]. Ramírez referred to these patients as los cenicientos (the ash-colored ones) and named the condition 'dermatitis cenicienta' [27]."
+  },
+  {
+    "id": 26,
+    "chapterId": 12,
+    "question": "The persistent gray, gray–blue, or gray–brown color of inactive Erythema Dyschromicum Perstans (EDP) lesions is a reflection of which primary histological finding?",
+    "options": [
+      "Epidermal necrosis",
+      "Parakeratotic cap",
+      "Dermal melanophages and pigment incontinence",
+      "Neutrophilic microabscesses"
+    ],
+    "correctIndex": 2,
+    "explanation": "In inactive ashy-colored lesions [of EDP], a considerable amount of pigment incontinence with variable epidermal change... is seen [28]. Histologic examination demonstrates primarily dermal melanophages [26]."
+  },
+  {
+    "id": 27,
+    "chapterId": 12,
+    "question": "Which population group is most commonly affected by Erythema Dyschromicum Perstans (EDP)?",
+    "options": [
+      "Northern European Caucasians",
+      "Individuals of Far Eastern descent",
+      "More darkly pigmented Latin Americans",
+      "Sub-Saharan Africans"
+    ],
+    "correctIndex": 2,
+    "explanation": "It has been observed that EDP occurs most often in more darkly pigmented Latin Americans [29]. The disorder clearly favors individuals with skin phototypes III and IV [29]."
+  },
+  {
+    "id": 28,
+    "chapterId": 12,
+    "question": "Keratosis Lichenoides Chronica is characterized by violaceous, keratotic, lichenoid papules arranged in a linear and reticulated pattern, along with a seborrheic dermatitis-like eruption primarily involving which area?",
+    "options": [
+      "Upper portion of the face (mediofacial)",
+      "Glans penis",
+      "Palms and soles",
+      "Flexural joints"
+    ],
+    "correctIndex": 0,
+    "explanation": "Another prominent feature [of Keratosis lichenoides chronica] is a greasy and scaly eruption involving the upper portion of the face which has been described as a seborrheic dermatitis-like medio facial eruption or psoriasiform scaling plaques [30]."
+  },
+  {
+    "id": 29,
+    "chapterId": 12,
+    "question": "Which chronic complication may arise in longstanding Hypertrophic Lichen Planus and Ulcerative Lichen Planus lesions?",
+    "options": [
+      "Basal cell carcinoma",
+      "Melanoma",
+      "Squamous cell carcinoma (SCC)",
+      "Dermatofibrosarcoma protuberans"
+    ],
+    "correctIndex": 2,
+    "explanation": "Squamous cell carcinoma (SCC) may arise within longstanding hypertrophic LP [9]. Chronic ulcerative lesions [of LP] are at risk of developing SCC [31]."
+  },
+  {
+    "id": 30,
+    "chapterId": 12,
+    "question": "In the initial management of severe, acute Lichen Planus, which systemic therapy remains a commonly employed intervention, typically tapered over several weeks?",
+    "options": [
+      "Low-dose weekly methotrexate",
+      "Systemic corticosteroids",
+      "Acitretin",
+      "Cyclosporine"
+    ],
+    "correctIndex": 1,
+    "explanation": "In severe, acute LP, systemic corticosteroids remain a commonly employed intervention. The dose is tapered over several weeks [32], [20]."
   }
+
 
 
 ]

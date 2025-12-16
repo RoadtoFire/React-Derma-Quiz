@@ -3,31 +3,961 @@
     "id": 1,
     "title": "Basic Principles of Dermatology",
     "description": "All students of dermatology, whether beginners or advanced scholars,require a conceptual framework upon which to organize thousands ofskin diseases.",
-    "image": "./images/BologniaChapters/Basic Principles of Dermatology.jpg"
+    "image": "/images/BologniaChapters/Basic Principles of Dermatology.jpg"
   },
   {
     "id": 2,
     "title": "Anatomy and Pathophysiology",
     "description": "Relationship between structure and function of the skin is best demonstrated by presenting diseases.",
-    "image": "./images/BologniaChapters/Anatomy and Pathophysiology.jpeg"
+    "image": "/images/BologniaChapters/Anatomy and Pathophysiology.jpeg"
   },
   {
     "id": 3,
     "title": "Skin Development and Maintenance",
     "description": "Development of the human embryo is a complex process involvinghighly orchestrated cell movements, proliferation, death, and differentiation.",
-    "image": "./images/BologniaChapters/Skin Development and Maintenance.jpg"
+    "image": "/images/BologniaChapters/Skin Development and Maintenance.jpg"
   },
   {
     "id": 4,
     "title": "Molecular Biology",
     "description": "Advances in molecular biology are rapidly changing our understanding of skin biology and disease. Increased knowledge is being translated into new molecular diagnostic tests that are transforming clinical practice.",
-    "image": "./images/BologniaChapters/Molecular Biology.jpg"
+    "image": "/images/BologniaChapters/Molecular Biology.jpg"
   },
   {
     "id": 5,
     "title": "Immunology",
     "description": "As a major barrier against the external environment, one of the skin’s major functions is defense against potential insults by microbial, chemical, and physical agents.",
-    "image": "./images/BologniaChapters/Immunology.jpg"
+    "image": "/images/BologniaChapters/Immunology.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Cutaneous Neurophysiology",
+    "description": "The skin contains a network of highly specialized afferent sensory nerves that convey sensations such as pain, itch, temperature, and touch.",
+    "image": "/images/BologniaChapters/cutaneous.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Pruritus and Dysesthesia",
+    "description": "Pruritus can be defined as an unpleasant sensation that elicits a desire to scratch. The presumed biologic purpose of pruritus is to provoke scratching to remove a parasite or other harmful pruritogen.",
+    "image": "/images/BologniaChapters/Pruritus and Dysesthesia.webp"
+  },
+  {
+    "id": 8,
+    "title": "Psychocutaneous Diseases",
+    "description": "'Psychodermatology' refers to any aspect of dermatology in which psychological factors play a significant role in the genesis, exacerbation, or sequelae of a skin condition.",
+    "image": "/images/BologniaChapters/Psychocutaneous Diseases.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "Psoriasis",
+    "description": "Psoriasis is an immune-mediated polygenic skin disorder1. Various environmental triggering factors, e.g. trauma, infections, medications, may elicit disease in predisposed individuals",
+    "image": "/images/BologniaChapters/Psoriasis.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "Other Papulosquamous Disorders",
+    "description": "Since the introduction of the term “parapsoriasis” by Brocq in 1902, there has been much confusion and debate regarding this controversial topic",
+    "image": "/images/BologniaChapters/Papulosquamous Disorders.webp"
+  },
+  {
+    "id": 11,
+    "title": "Erythroderma",
+    "description": "Erythroderma is defined as generalized erythema and scaling involving > 80% of the body surface area (BSA).",
+    "image": "/images/BologniaChapters/Erythroderma.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Lichen Planus and Lichenoid Dermatoses",
+    "description": "Lichen planus (LP), the prototype of lichenoid dermatoses, is an idiopathic inflammatory disease of the skin and mucous membranes. Classic LP is characterized by pruritic, violaceous papules that favor the extremities",
+    "image": "/images/BologniaChapters/Lichen Planus and Lichenoid Dermatoses.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Atopic Dermatitis",
+    "description": "Atopic dermatitis (AD) is the most common chronic inflammatory skindisease, and its increasing prevalence presents a major public healthproblem worldwide.",
+    "image": "/images/BologniaChapters/Atopic dermatitis.webp"
+  },
+  {
+    "id": 14,
+    "title": "Other Eczematous Eruptions",
+    "description": "In addition to contact and atopic dermatitis, there exists a heteroge- neous group of inflammatory skin diseases that obviously share thehallmarks of eczema, but display characteristic additional features.",
+    "image": "/images/BologniaChapters/Other Eczematous Eruptions.jpeg"
+  },
+  {
+    "id": 15,
+    "title": "Allergic Contact Dermatitis",
+    "description": "When the skin comes in contact with external agents, many adverse events can occur including contact dermatitis, which can be either allergic or irritant.",
+    "image": "/images/BologniaChapters/Allergic Contact Dermatitis.webp"
+  },
+  {
+    "id": 16,
+    "title": "Irritant Contact Dermatitis",
+    "description": "ICD is the most common form of occupational skin disease, estimated to constitute between 70% and 80% of all occupational skin disorders.",
+    "image": "./images/BologniaChapters/Irritant Contact Dermatitis.webp"
+  },
+  {
+    "id": 17,
+    "title": "Occupational Dermatoses",
+    "description": "",
+    "image": "./images/BologniaChapters/Occupational Dermatoses.jpeg"
+  },
+  {
+    "id": 18,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 19,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 20,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 21,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 22,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 23,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 24,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 25,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 26,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 27,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 28,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 29,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 30,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 31,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 32,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 33,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 34,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 35,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 36,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 37,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 38,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 39,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 40,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 41,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 42,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 43,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 44,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 45,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 46,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 47,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 48,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 49,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 50,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 51,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 52,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 53,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 54,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 55,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 56,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 57,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 58,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 59,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 60,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 61,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 62,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 63,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 64,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 65,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 66,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 67,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 68,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 69,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 70,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 71,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 72,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 73,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 74,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 75,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 76,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 77,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 78,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 79,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 80,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 81,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 82,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 83,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 84,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 85,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 86,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 87,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 88,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 89,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 90,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 91,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 92,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 93,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 94,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 95,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 96,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 97,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 98,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 99,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 100,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 101,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 102,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 103,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 104,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 105,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 106,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 107,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 108,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 109,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 110,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 111,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 112,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 113,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 114,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 115,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 116,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 117,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 118,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 119,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 120,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 121,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 122,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 123,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 124,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 125,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 126,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 127,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 128,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 129,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 130,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 131,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 132,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 133,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 134,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 135,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 136,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 137,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 138,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 139,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 140,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 141,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 142,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 143,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 144,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 145,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 146,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 147,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 148,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 149,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 150,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 151,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 152,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 153,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 154,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 155,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 156,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 157,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 158,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 159,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
+  },
+  {
+    "id": 160,
+    "title": "",
+    "description": "",
+    "image": "./images/BologniaChapters/.jpg"
   }
 
 ]

@@ -1,6 +1,7 @@
 import Bolognia from "../assets/Bolognia.png"
 import Rooks from "../assets/Rooks.jpeg"
-export default function QuizList({ onSelectQuiz }) {
+import { Link } from "react-router-dom";
+export default function QuizList() {
 
   const quizzes = [
     {
@@ -63,14 +64,15 @@ export default function QuizList({ onSelectQuiz }) {
                   📚 {quiz.chapters} chapters
                 </p>
 
+                <Link to="/BologniaQuizChapters">
                 <div className="mt-6">
                   <button
-                    onClick={() => onSelectQuiz(quiz.id)}
                     className="mt-6 w-full rounded-md bg-indigo-500 px-4 py-2 text-white hover:bg-indigo-400"
                 >
-                    View Chapters →
+                  View Chapters →
                   </button>
                 </div>
+                </Link>
               </div>
             </div>
           ))}

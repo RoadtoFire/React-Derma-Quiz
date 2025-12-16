@@ -1,9 +1,10 @@
 import { useState } from "react";
 import chapters from "../data/bologniaChapters.json";
+import { Link } from "react-router-dom";
 
 const CARDS_PER_PAGE = 12;
 
-export default function BologniaQuizChapters({ onStartChapter }) {
+export default function BologniaQuizChapters() {
   const [currentPage, setCurrentPage] = useState(1);
 
   const totalPages = Math.ceil(chapters.length / CARDS_PER_PAGE);
@@ -51,12 +52,13 @@ export default function BologniaQuizChapters({ onStartChapter }) {
                   {chapter.description}
                 </p>
 
+                <Link to={`/QuizTest/${chapter.id}`}>
                 <button
-                  onClick={() => onStartChapter(chapter.id)}
                   className="mt-6 w-full rounded-md bg-indigo-500 px-4 py-2 text-sm font-semibold text-white hover:bg-indigo-400 transition"
                 >
                   Start Quiz →
                 </button>
+                </Link>
               </div>
             </div>
           ))}

@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Link } from "react-router-dom";
 
 const navigation = [
   { name: "Dashboard", href: "#", current: true },
@@ -19,16 +20,15 @@ export default function Header({ onNavigate }) {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           
-          {/* Logo */}
-          <div className="flex items-center">
-            <span
-              onClick={() => onNavigate("home")}
-              className="cursor-pointer text-xl font-bold text-white"
-            >
-              MedQuiz<span className="text-indigo-400">Pro</span>
-            </span>
-          </div>
-
+          <Link to="/">  
+            <div className="flex items-center">
+              <span
+                className="cursor-pointer text-xl font-bold text-white"
+              >
+                MedQuiz<span className="text-indigo-400">Pro</span>
+              </span>
+            </div>
+          </Link>
           {/* Desktop navigation */}
           <div className="hidden sm:flex sm:space-x-4">
             {navigation.map((item) => (
