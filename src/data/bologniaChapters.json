@@ -98,32 +98,32 @@
   {
     "id": 17,
     "title": "Occupational Dermatoses",
-    "description": "",
+    "description": "Contact dermatitis accounts for the majority of occupational skin disease that predominantly affects the hands.",
     "image": "images/BologniaChapters/Occupational Dermatoses.jpeg"
   },
   {
     "id": 18,
-    "title": "",
-    "description": "",
-    "image": "images/BologniaChapters/.jpg"
+    "title": "Dermatoses Due to Plants",
+    "description": "Contrary to the belief of patients, just because a product is “natural” and not “artificial”, it doesn’t mean it is safe. When patients discover that a 'natural' skin care product is harming them, they are dumbfounded.",
+    "image": "images/BologniaChapters/Dermatoses due to plants.png"
   },
   {
     "id": 19,
-    "title": "",
-    "description": "",
-    "image": "images/BologniaChapters/.jpg"
+    "title": "Urticaria and Angioedema",
+    "description": "Urticaria is a common reason for patients to present to primary care practitioners, emergency rooms, dermatologists, and allergists. It is characterized by the rapidity of its fluctuation",
+    "image": "images/BologniaChapters/Urticaria and Angioedema.jpg"
   },
   {
     "id": 20,
-    "title": "",
-    "description": "",
-    "image": "images/BologniaChapters/.jpg"
+    "title": "Figurate Erythemas",
+    "description": "Erythema represents a change in the color of the skin that is due to thedilation of blood vessels, especially those in the papillary and reticular dermis",
+    "image": "images/BologniaChapters/Figurate Erythemas.jpg"
   },
   {
     "id": 21,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Erythema Multiforme, Stevens–Johnson Syndrome, and Toxic Epidermal Necrolysis",
+    "description": "Erythema multiforme (EM) is an acute, self-limited skin disease characterized by the abrupt onset of symmetric fixed red papules, some of which evolve into typical and/or occasionally 'atypical' papular ­targetlesions",
+    "image": "./images/BologniaChapters/Necrolysis.jpg"
   },
   {
     "id": 22,
