@@ -181,159 +181,159 @@
   },
   {
     "id": 31,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Pemphigoid Group",
+    "description": "Bullous pemphigoid (BP) is the most common autoimmune subepidermal blistering disease. It typically presents in older adults as a general-ized pruritic bullous eruption and is often associated with significant morbidity.",
+    "image": "./images/BologniaChapters/Pemphigoid Group.jpg"
   },
   {
     "id": 32,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Dermatitis Herpetiformis and Linear IgA B­ullous Dermatosis",
+    "description": "Dermatitis herpetiformis (DH) is a cutaneous manifestation of gluten sensitivity. Although over 90% of DH patients have evidence of a gluten- sensitive enteropathy (GSE), only about 20% have intestinal symptoms of celiac disease (CD).",
+    "image": "./images/BologniaChapters/Dermatitis Herpetiformis.jpg"
   },
   {
     "id": 33,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Epidermolysis Bullosa",
+    "description": "Inherited epidermolysis bullosa (EB), the prototypic mechanobullous disease, is characterized by the development of blisters following seemingly minor or insignificant trauma or traction to the skin",
+    "image": "./images/BologniaChapters/Epidermolysis Bullosa.webp"
   },
   {
     "id": 34,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Other Vesiculobullous Diseases",
+    "description": "Vesiculobullous diseases of the skin encompass a wide range of entities, including autoimmune bullous diseases and inherited blistering disorders.",
+    "image": "./images/BologniaChapters/Other Vesiculobullous Diseases.jpeg"
   },
   {
     "id": 35,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Vesiculopustular and Erosive Disorders in Newborns and Infants",
+    "description": "A wide variety of conditions can cause vesicles, pustules, bullae, erosions, and ulcerations during the newborn period and infancy.",
+    "image": "./images/BologniaChapters/Vesiculopustular.jpg"
   },
   {
     "id": 36,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Structure and Function of Eccrine, Apocrine, and Sebaceous Glands",
+    "description": "Humans have both eccrine and apocrine sweat glands, which are distinct from one another structurally, developmentally, and functionally.",
+    "image": "./images/BologniaChapters/Apocrine.jpeg"
   },
   {
     "id": 37,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Acne Vulgaris",
+    "description": "Acne vulgaris is a multifactorial disorder of the pilosebaceous unit. The clinical picture can vary significantly, from mild comedonal acne to fulminant systemic disease.",
+    "image": "./images/BologniaChapters/Acne Vulgaris.jpeg.jpg"
   },
   {
     "id": 38,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Rosacea and Related Disorders",
+    "description": "The term 'rosacea' encompasses a constellation of clinical findings, with either fixed centrofacial erythema in a characteristic patternthat may periodically intensify or phymatous changes classified as diagnostic features",
+    "image": "./images/BologniaChapters/Rosacea and Related Disorders.jpeg"
   },
   {
     "id": 39,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Folliculitis, Follicular Occlusion Tetrad and Other Follicular Disorders",
+    "description": "This chapter reviews both superficial and deep forms of folliculitis as well as disorders of follicular keratinization.",
+    "image": "./images/BologniaChapters/Follicular.jpg"
   },
   {
     "id": 40,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Diseases of the Eccrine and Apocrine Sweat Glands",
+    "description": "In humans, sweating is essential for thermoregulatory homeostasis. There are two main mechanisms for cooling the body: radiative cooling via cutaneous vasodilation and evaporative cooling via sweat.",
+    "image": "./images/BologniaChapters/apocrine-glands.jpg"
   },
   {
     "id": 41,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Autoantibodies Encountered in Patients with Autoimmune Connective Tissue Diseases",
+    "description": "Autoimmune connective tissue diseases (AI-CTDs) represent polygenic clinical disorders with heterogeneous and overlapping clinical features. AI-CTDs are characterized by an immune dysregulation that includes the production of antibodies to self-antigens, termed autoantibodies (aAb).",
+    "image": "./images/BologniaChapters/AutoAntibodies.jpg"
   },
   {
     "id": 42,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Lupus Erythematosus",
+    "description": "Lupus erythematosus is a multisystem disorder that often affects the skin. Cutaneous lesions can be a source of disability and, on many occasions, indicate and correlate with internal disease.",
+    "image": "./images/BologniaChapters/Lupus Erythematosus.jpg"
   },
   {
     "id": 43,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Dermatomyositis",
+    "description": "Along with polymyositis and inclusion body myositis, dermatomyo- sitis is classified as one of the idiopathic inflammatory myopathies. Dermatomyositis is a disease of presumed autoimmune pathogenesis that presents with a symmetric, proximal, extensor inflammatory myopathy and a characteristic cutaneous eruption.",
+    "image": "./images/BologniaChapters/Dermatomyositis.jpeg"
   },
   {
     "id": 44,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Systemic Sclerosis (Scleroderma) and Related Disorders",
+    "description": "Systemic sclerosis (SSc, scleroderma) is an autoimmune connective tissue disease (AI-CTD) of unknown etiology that affects the skin, blood vessels, and internal organs",
+    "image": "./images/BologniaChapters/Systemic Sclerosis.jpeg"
   },
   {
     "id": 45,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Morphea and Lichen Sclerosus",
+    "description": "Morphea and lichen sclerosus (LS) are inflammatory skin diseases that ultimately evolve into two distinct modes of cutaneous sclerosis. In morphea, there is inflammation of the dermis that may extend into subcutaneous structures.",
+    "image": "./images/BologniaChapters/Morphea and Lichen Sclerosus.jpeg"
   },
   {
     "id": 46,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Other Rheumatologic Disorders and Autoinflammatory Diseases",
+    "description": "Disorders such as systemic-onset juvenile idiopathic arthritis (Still disease) and inherited autoinflammatory diseases are related to abnormalities in the innate immune system whereas other disorders, including rheumatoid arthritis and Sjögren syndrome, are characterized by autoimmune-mediated tissue damage via autoreactive antigen-specific T cells and the presence of character- istic autoantibodies.",
+    "image": "./images/BologniaChapters/Rheumatologic.jpeg"
   },
   {
     "id": 47,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Mucinoses",
+    "description": "The cutaneous mucinoses are a heterogeneous group of disorders in which an abnormal amount of mucin accumulates in the skin, either diffusely or focally.",
+    "image": "./images/BologniaChapters/Mucinoses.jpg"
   },
   {
     "id": 48,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Amyloidosis",
+    "description": "Amyloidosis is not a single disease; rather, the term is used to refer to several diseases that share the common feature of abnormal extracel- lular deposition of amyloid, a fibrillar proteinaceous material, within tissues.",
+    "image": "./images/BologniaChapters/Amyloidosis.jpg"
   },
   {
     "id": 49,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Deposition Diseases",
+    "description": "The cutaneous deposition disorders are a heterogeneous group of condi- tions characterized by the presence of primarily endogenous substances within the dermis or the subcutis",
+    "image": "./images/BologniaChapters/Deposition Diseases.jpg"
   },
   {
     "id": 50,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Porphyria",
+    "description": "The porphyrias are metabolic disorders, each arising from a predominantly hereditary deficiency of one of the eight enzymes of the porphyrinheme biosynthetic pathway.",
+    "image": "./images/BologniaChapters/Porphyria.webp"
   },
   {
     "id": 51,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Calcifying and Ossifying Disorders of the Skin",
+    "description": "Calcifying disorders of the skin are generally divided into five broad categories: dystrophic, metastatic, idiopathic, iatrogenic, and mixed calcification.",
+    "image": "./images/BologniaChapters/Calcifying .jpg"
   },
   {
     "id": 52,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Nutritional Diseases",
+    "description": "Proper nutrition is fundamental to human life. From fetal development to adulthood, proper nutrition is essential for survival, physical growth, mental development, productivity, and overall health.",
+    "image": "./images/BologniaChapters/Nutritional Diseases.png"
   },
   {
     "id": 53,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Graft-versus-Host Disease",
+    "description": "Graft-versus-host disease (GVHD) is a multi-organ disorder most commonly due to the transfer of foreign donor hematopoietic stem cells into a host recipient via an allogeneic hematopoietic stem cell transplant (HSCT).",
+    "image": "./images/BologniaChapters/Graft-versus-Host Disease.webp"
   },
   {
     "id": 54,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Dermatologic Manifestations in Patients with Systemic Disease",
+    "description": "Skin disease is often associated with internal manifestations, e.g. psoriatic arthritis, and there are many cutaneous disorders that are traditionally associated with systemic disease",
+    "image": "./images/BologniaChapters/Dermatologic Manifestations in Patients.webp"
   },
   {
     "id": 55,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Basic Principles of Genetics",
+    "description": "The complete sequencing of the human genome, with an estimated size of 3.2 gigabases (Gb) containing ~20 000–25 000 genes, represented a major scientific accomplishment.",
+    "image": "./images/BologniaChapters/Basic Principles of Genetics.jpg"
   },
   {
     "id": 56,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Genetic Basis of Cutaneous Diseases",
+    "description": "In 1987, deletions in the steroid sulfatase gene were found to underlie X-linked recessive ichthyosis1. This heralded an era of tremendous progress in the elucidation of the genetic bases of inherited skin disorders, made possible by rapid advances in molecular technology.",
+    "image": "./images/BologniaChapters/Genetic Basis of Cutaneous Diseases.jpeg"
   },
   {
     "id": 57,
