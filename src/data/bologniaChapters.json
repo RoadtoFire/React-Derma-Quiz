@@ -219,7 +219,7 @@
     "id": 37,
     "title": "Acne Vulgaris",
     "description": "Acne vulgaris is a multifactorial disorder of the pilosebaceous unit. The clinical picture can vary significantly, from mild comedonal acne to fulminant systemic disease.",
-    "image": "./images/BologniaChapters/Acne Vulgaris.jpeg.jpg"
+    "image": "./images/BologniaChapters/Acne Vulgaris.jpeg"
   },
   {
     "id": 38,
@@ -337,87 +337,87 @@
   },
   {
     "id": 57,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Biology of Keratinocytes",
+    "description": "The main function of the epidermis is to provide a barrier between the organism and the environment.",
+    "image": "./images/BologniaChapters/Biology of Keratinocytes.jpeg"
   },
   {
     "id": 58,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Ichthyoses, Erythrokeratodermas, and Related Disorders",
+    "description": "Ichthyoses and erythrokeratodermas are disorders of cornification in which abnormal differentiation and desquamation of the epidermis result in a defective cutaneous barrier.",
+    "image": "./images/BologniaChapters/Erythrokeratodermas.jpeg"
   },
   {
     "id": 59,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Palmoplantar Keratodermas",
+    "description": "Palmoplantar keratodermas (PPKs) represent a heterogeneous group of hereditary and acquired disorders of cornification characterized by prominent hyperkeratosis of the skin on the palms and soles.",
+    "image": "./images/BologniaChapters/Palmoplantar Keratodermas.jpeg"
   },
   {
     "id": 60,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Darier Disease and Hailey–Hailey Disease",
+    "description": "Darier disease is an autosomal dominant genodermatosis with characteristic mucocutaneous findings such as keratotic papules on the upper trunk and longitudinal erythronychia.",
+    "image": "./images/BologniaChapters/Darier Disease and Hailey–Hailey Disease.jpeg"
   },
   {
     "id": 61,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Primary Immunodeficiencies",
+    "description": "Primary immunodeficiencies represent a heterogeneous group of inherited disorders characterized by immune system defects that result in susceptibility to infections as well as additional manifestations such as autoimmunity, allergy, and malignancy.",
+    "image": "./images/BologniaChapters/Immunodeficiencies.webp"
   },
   {
     "id": 62,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Neurofibromatosis and Tuberous Sclerosis Complex",
+    "description": "Neurofibromatosis (NF) and tuberous sclerosis complex (TSC) are neurocutaneous disorders, or phakomatoses. They are characterized by cutaneous lesions as well as peripheral and/or central nervous system neoplasms.",
+    "image": "./images/BologniaChapters/Neurofibromatosis and Tuberous.png"
   },
   {
     "id": 63,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Mosaicism and Linear Lesions",
+    "description": "The term “mosaic” is used to describe individuals composed of cells of different genotypes that are derived from a genetically homogeneous zygote.",
+    "image": "./images/BologniaChapters/Mosaicism and Linear Lesions.webp"
   },
   {
     "id": 64,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Other Genodermatoses",
+    "description": "Disorders characterized by cutaneous or mucosal tumors in conjunction with a variety of extracutaneous neoplasias, both benign and malignant.",
+    "image": "./images/BologniaChapters/Other Genodermatoses.jpeg"
   },
   {
     "id": 65,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Developmental Anomalies",
+    "description": "Developmental anomalies are a diverse group of congenital disorders that result from faulty morphogenesis.",
+    "image": "./images/BologniaChapters/Developmental Anomalies.jpg"
   },
   {
     "id": 66,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Melanocyte Biology",
+    "description": "In order to understand the underlying pathophysiology of cutaneous disorders of hypopigmentation and hyperpigmentation, as well as the process of normal physiologic pigment production, an appreciation of the structure and function of the melanocyte is required.",
+    "image": "./images/BologniaChapters/Melanocyte Biology.jpg"
   },
   {
     "id": 67,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Vitiligo and Other Disorders of Hypopigmentation",
+    "description": "Leukoderma and hypopigmentation are general terms used to designate disorders characterized by lightening of the skin.",
+    "image": "./images/BologniaChapters/Vitiligo and Other Disorders.jpg"
   },
   {
     "id": 68,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Disorders of Hyperpigmentation",
+    "description": "Skin color depends upon the amount and distribution of melanin and other pigments such as hemoglobin, which can influence light absorption, reflection, and scattering.",
+    "image": "./images/BologniaChapters/Disorders of Hyperpigmentation.jpeg"
   },
   {
     "id": 69,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Biology of Hair and Nails",
+    "description": "Skin adnexa in mammals develop through evolutionarily conserved mechanisms. Similar processes lead to modifications of epithelial cells and proteins in order to form functional structures such as hairs, feathers, nails, glands, and teeth.",
+    "image": "./images/BologniaChapters/Biology of Hair and Nails.jpg"
   },
   {
     "id": 70,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Alopecias",
+    "description": "Androgenetic alopecia (AGA) is an androgen-dependent disorder charac- terized by the conversion of terminal scalp hairs into miniaturized vellus hairs in a characteristic pattern.",
+    "image": "./images/BologniaChapters/Alopecias.jpeg"
   },
   {
     "id": 71,
