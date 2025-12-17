@@ -2350,7 +2350,7 @@
       "8 weeks"
     ],
     "correctIndex": 2,
-    "explanation": "The self-reported point, 12-month, and lifetime prevalences of chronic pruritus (lasting $\\geq 6$ weeks) were assessed in a German study [1]. Prurigo nodularis is associated with chronic itch (i.e. lasting $\\geq 6$ weeks) [2]."
+    "explanation": "The self-reported point, 12-month, and lifetime prevalences of chronic pruritus (lasting ≥ 6 weeks) were assessed in a German study [1]. Prurigo nodularis is associated with chronic itch (i.e. lasting ≥ 6 weeks) [2]."
   },
   {
     "id": 2,
@@ -2441,7 +2441,7 @@
       "Multiple pruritic papulonodules"
     ],
     "correctIndex": 3,
-    "explanation": "Prurigo nodularis is associated with chronic itch (i.e. lasting $\\geq 6$ weeks), where skin lesions are produced by repetitive, focused scratching or picking of the skin [2]. Multiple pruritic papulonodules are the most commonly observed clinical lesions [9]."
+    "explanation": "Prurigo nodularis is associated with chronic itch (i.e. lasting ≥ 6 weeks), where skin lesions are produced by repetitive, focused scratching or picking of the skin [2]. Multiple pruritic papulonodules are the most commonly observed clinical lesions [9]."
   },
   {
     "id": 9,
@@ -2532,7 +2532,7 @@
       "4:1"
     ],
     "correctIndex": 3,
-    "explanation": "Pruritus localized to the anus and perianal skin occurs in 1%–5% of the general population, with a male : female ratio of $\\sim 4 : 1$ [15]."
+    "explanation": "Pruritus localized to the anus and perianal skin occurs in 1%–5% of the general population, with a male : female ratio of  4 : 1."
   },
   {
     "id": 16,
@@ -2576,7 +2576,7 @@
   {
     "id": 19,
     "chapterId": 7,
-    "question": "What is the FDA/EMA-approved treatment for CKD-aP in hemodialysis patients that functions as a peripherally acting $\\kappa$-opioid receptor agonist?",
+    "question": "What is the FDA/EMA-approved treatment for CKD-aP in hemodialysis patients that functions as a peripherally acting Κ-opioid receptor agonist?",
     "options": [
       "Naltrexone",
       "Gabapentin",
@@ -2584,7 +2584,7 @@
       "Aprepitant"
     ],
     "correctIndex": 2,
-    "explanation": "Difelikefalin, a peripherally acting $\\kappa$-opioid receptor agonist, was shown in an RCT to significantly reduce itch intensity in hemodialysis patients and is now an FDA/EMA-approved treatment for CKD-aP [18]."
+    "explanation": "Difelikefalin, a peripherally acting Κ-opioid receptor agonist, was shown in an RCT to significantly reduce itch intensity in hemodialysis patients and is now an FDA/EMA-approved treatment for CKD-aP [18]."
   },
   {
     "id": 20,
@@ -2623,7 +2623,7 @@
       "Non-Hodgkin lymphoma"
     ],
     "correctIndex": 2,
-    "explanation": "Aquagenic pruritus may precede the development of polycythemia vera by several years and eventually affects $\\sim 30\\%–50\\%$ of polycythemia vera patients [11]."
+    "explanation": "Aquagenic pruritus may precede the development of polycythemia vera by several years and eventually affects 30% – 50% of polycythemia vera patients [11]."
   },
   {
     "id": 23,
@@ -2649,7 +2649,7 @@
       "Sarcomas"
     ],
     "correctIndex": 2,
-    "explanation": "Paraneoplastic itch is most frequent with myeloproliferative neoplasms (e.g. polycythemia vera $>$ essential thrombocythemia), lymphoma (Hodgkin $>$ non-Hodgkin), and cancers of the liver or biliary system [23]."
+    "explanation": "Paraneoplastic itch is most frequent with myeloproliferative neoplasms (e.g. polycythemia vera > essential thrombocythemia), lymphoma (Hodgkin > non-Hodgkin), and cancers of the liver or biliary system [23]."
   },
   {
     "id": 25,
@@ -2819,7 +2819,7 @@
       "1 year"
     ],
     "correctIndex": 1,
-    "explanation": "The DSM-5™ diagnostic criteria for a delusional disorder require that the delusion must be present for $\\geq 1$ month [7]."
+    "explanation": "The DSM-5™ diagnostic criteria for a delusional disorder require that the delusion must be present for ≥ 1 month."
   },
   {
     "id": 8,
@@ -2832,7 +2832,7 @@
       "Individuals of Asian descent"
     ],
     "correctIndex": 1,
-    "explanation": "Among individuals over 50 years of age, women experience the disorder at least twice as often as men [7]."
+    "explanation": "Among individuals over 50 years of age, women experience the disorder at least twice as often as men."
   },
   {
     "id": 9,
@@ -2884,7 +2884,7 @@
       "Anticholinergic effects"
     ],
     "correctIndex": 2,
-    "explanation": "Pimozide is associated with Tardive dyskinesia ($\text{+++}$) and Extrapyramidal effects ($\text{+++}$) [11]."
+    "explanation": "Pimozide is associated with Tardive dyskinesia (+++) and Extrapyramidal effects (+++)."
   },
   {
     "id": 13,
@@ -3066,7 +3066,7 @@
       "Gabapentin"
     ],
     "correctIndex": 1,
-    "explanation": "In other randomized controlled studies, treatment with... N-acetylcysteine (a glutamatergic agent; 1200–2400 mg/day) led to more improvement in adults with trichotillomania than did placebo [24]. $\text{N-acetylcysteine (1200–3000 mg/day)}$ led to more improvement than placebo in a randomized controlled study of adults with excoriation disorder [26]."
+    "explanation": "In other randomized controlled studies, treatment with... N-acetylcysteine (a glutamatergic agent; 1200–2400 mg/day) led to more improvement in adults with trichotillomania than did placebo [24]. N-acetylcysteine (1200–3000 mg/day)} led to more improvement than placebo in a randomized controlled study of adults with excoriation disorder [26]."
   },
   {
     "id": 27,
@@ -4210,7 +4210,7 @@
       "Codeine"
     ],
     "correctIndex": 1,
-    "explanation": "Common drugs associated with erythroderma include Allopurinol, $\beta$-lactam antibiotics, Carbamazepine/oxcarbazepine, Gold, Phenobarbital, Phenytoins, Sulfasalazine, Sulfonamides, and Zalcitabine [31]."
+    "explanation": "Common drugs associated with erythroderma include Allopurinol, β-lactam antibiotics, Carbamazepine/oxcarbazepine, Gold, Phenobarbital, Phenytoins, Sulfasalazine, Sulfonamides, and Zalcitabine [31]."
   },
   {
     "id": 25,
@@ -7189,7 +7189,7 @@
       "The Fc portion of IgE"
     ],
     "correctIndex": 1,
-    "explanation": "The majority of these autoantibodies bind the extracellular $\\alpha$ subunit of FcεRI [14]. Those directed against the terminal $\\alpha 1$ domain are non-competitive [15]."
+    "explanation": "The majority of these autoantibodies bind the extracellular ɑ subunit of FcεRI [14]. Those directed against the terminal ɑ 1 domain are non-competitive [15]."
   },
   {
     "id": 14,
@@ -7534,13 +7534,13 @@
     "chapterId": 20,
     "question": "The primary cause of Erythema Marginatum (EM) is an abnormal immunologic response to a preceding infection with:",
     "options": [
-      "Group B $\\beta$-hemolytic streptococci",
-      "Group A $\\beta$-hemolytic streptococci",
+      "Group B β-hemolytic streptococci",
+      "Group A β-hemolytic streptococci",
       "*Borrelia burgdorferi*",
       "*Staphylococcus aureus*"
     ],
     "correctIndex": 1,
-    "explanation": "Rheumatic fever (RF) is characterized by an abnormal immunologic response to a preceding infection with group A $\\beta$-hemolytic streptococci [13]. Erythema marginatum is a cutaneous manifestation of acute rheumatic fever [14]."
+    "explanation": "Rheumatic fever (RF) is characterized by an abnormal immunologic response to a preceding infection with group A β-hemolytic streptococci [13]. Erythema marginatum is a cutaneous manifestation of acute rheumatic fever [14]."
   },
   {
     "id": 11,
@@ -7644,7 +7644,7 @@
       "10 cm"
     ],
     "correctIndex": 2,
-    "explanation": "A single primary lesion must reach $\\ge 5$ cm in diameter for the definition of Erythema Migrans according to the abridged 2022 CDC Lyme Disease Surveillance Case Definition [23]."
+    "explanation": "A single primary lesion must reach ≥ 5 cm in diameter for the definition of Erythema Migrans according to the abridged 2022 CDC Lyme Disease Surveillance Case Definition [23]."
   },
   {
     "id": 19,
@@ -8177,7 +8177,7 @@
       "Lesions characterized by dusky macules with confluence"
     ],
     "correctIndex": 1,
-    "explanation": "MIRM/RIME is characterized by a predominance of severe mucosal involvement (typically $\\ge 2$ mucosal sites) and absent or sparse polymorphic cutaneous involvement (<10% BSA detachment) [45], [46]."
+    "explanation": "MIRM/RIME is characterized by a predominance of severe mucosal involvement (typically ≥ 2 mucosal sites) and absent or sparse polymorphic cutaneous involvement (<10% BSA detachment) [45], [46]."
   },
   {
     "id": 30,
@@ -8187,10 +8187,3522 @@
       "Sirolimus",
       "Cyclosporine",
       "Infliximab",
-      "Interferon $\\alpha$"
+      "Interferon ɑ"
     ],
     "correctIndex": 1,
     "explanation": "In patients with recurrent EM that is resistant to prophylactic antiviral therapy, especially severe cases, several therapeutic approaches have been described, including thalidomide, dapsone, cyclosporine, mycophenolate mofetil, and PUVA [47], [48], [49]."
+  },
+
+  {
+    "id": 1,
+    "chapterId": 22,
+    "question": "Adverse cutaneous reactions (CARs) to drugs occur in up to what percentage of hospitalized patients?",
+    "options": [
+      "1%",
+      "4%",
+      "8%",
+      "15%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cutaneous Adverse Reactions (CARs) to drugs occur in up to 8% of hospitalized patients, and represent approximately 5% of admissions to an inpatient dermatology service [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 22,
+    "question": "Which two forms represent the most common types of cutaneous drug reactions?",
+    "options": [
+      "Fixed drug eruption and lichenoid reaction",
+      "Pustular reaction and vasculitis",
+      "Exanthematous (morbilliform) eruption and urticaria",
+      "Bullous reaction and Stevens–Johnson syndrome"
+    ],
+    "correctIndex": 2,
+    "explanation": "Exanthematous (morbilliform) eruptions and urticaria are the two most common forms of cutaneous drug reactions [2]."
+  },
+  {
+    "id": 3,
+    "chapterId": 22,
+    "question": "The incidence of fatalities due to drug reactions (systemic and cutaneous) among hospitalized inpatients is estimated to be between:",
+    "options": [
+      "0.01% and 0.03%",
+      "0.1% and 0.3%",
+      "1% and 3%",
+      "5% and 10%"
+    ],
+    "correctIndex": 1,
+    "explanation": "The incidence of fatalities due to drug reactions (systemic and cutaneous) among inpatients is between 0.1% and 0.3% [1]."
+  },
+  {
+    "id": 4,
+    "chapterId": 22,
+    "question": "In which high-risk population is there a 10- to 50-fold greater risk of developing an exanthematous eruption to sulfamethoxazole?",
+    "options": [
+      "Patients with chronic renal failure",
+      "Patients with autoimmune thyroid disease",
+      "Patients infected with HIV",
+      "Patients with severe cardiovascular disease"
+    ],
+    "correctIndex": 2,
+    "explanation": "Immunosuppression, such as in HIV-infected individuals, poses a risk factor for adverse drug reactions, where these patients have a 10- to 50-fold greater risk of developing an exanthematous eruption to sulfamethoxazole [1]."
+  },
+  {
+    "id": 5,
+    "chapterId": 22,
+    "question": "Which of the following is considered a Severe Cutaneous Adverse Reaction (SCAR) to drugs?",
+    "options": [
+      "Pityriasis rosea-like eruption",
+      "Acute generalized exanthematous pustulosis (AGEP)",
+      "Acneiform reaction",
+      "Hyperpigmentation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Severe cutaneous adverse reactions (SCARs) include Anaphylaxis, Anticoagulant-induced skin necrosis, Acute generalized exanthematous pustulosis (AGEP), DRESS/DIHS, Generalized bullous fixed drug eruption, and Stevens–Johnson syndrome and toxic epidermal necrolysis [3]."
+  },
+  {
+    "id": 6,
+    "chapterId": 22,
+    "question": "In the Gell–Coombs classification, IgE-dependent drug reactions such as urticaria and anaphylaxis correspond to which type of immunologically mediated reaction?",
+    "options": [
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type IV"
+    ],
+    "correctIndex": 0,
+    "explanation": "IgE-dependent drug reactions (formerly type I, Gell–Coombs classification) include urticaria, angioedema, and anaphylaxis [4]."
+  },
+  {
+    "id": 7,
+    "chapterId": 22,
+    "question": "Delayed-type, cell-mediated drug reactions (formerly type IV) are responsible for which major category of cutaneous adverse reactions?",
+    "options": [
+      "Urticaria and anaphylaxis",
+      "Serum sickness and vasculitis",
+      "Exanthematous, fixed, and lichenoid drug eruptions, SJS/TEN",
+      "Petechiae secondary to drug-induced thrombocytopenia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Delayed-type, cell-mediated drug reactions (formerly type IV) are responsible for exanthematous, fixed, and lichenoid drug eruptions, as well as Stevens–Johnson syndrome (SJS) and TEN [4]."
+  },
+  {
+    "id": 8,
+    "chapterId": 22,
+    "question": "The concept where drugs induce the formation of HLA–drug complexes that directly activate T cell immune responses without the need for a specific peptide ligand is known as:",
+    "options": [
+      "The hapten/pro-hapten concept",
+      "The pharmacoimmune reaction (p-i concept)",
+      "The Th2 immune reaction (IVb)",
+      "Delayed toxicity mechanism"
+    ],
+    "correctIndex": 1,
+    "explanation": "The pharmacoimmune reaction ('p-i concept') describes how drugs induce the formation of HLA–drug complexes that can directly activate T cell immune responses without the need for a specific peptide ligand [5]."
+  },
+  {
+    "id": 9,
+    "chapterId": 22,
+    "question": "Drug reactions mediated by a non-immunologic mechanism are sometimes predictable because they relate to the drug's dose and/or:",
+    "options": [
+      "HLA allele association",
+      "Patient age (>75 years)",
+      "Pharmacologic properties",
+      "Prior sensitization"
+    ],
+    "correctIndex": 2,
+    "explanation": "Non-immunologic drug reactions are sometimes predictable given their relationship to the dose and/or the pharmacologic properties of the drug [6], [7]."
+  },
+  {
+    "id": 10,
+    "chapterId": 22,
+    "question": "Which HLA allele is strongly associated with an increased risk of Stevens–Johnson Syndrome (SJS) and Toxic Epidermal Necrolysis (TEN) in Han Chinese and other Asian populations exposed to carbamazepine?",
+    "options": [
+      "HLA-B*57:01",
+      "HLA-B*58:01",
+      "HLA-B*15:02",
+      "HLA-A*31:01"
+    ],
+    "correctIndex": 2,
+    "explanation": "HLA-B*15:02 is strongly associated with SJS/TEN in Han Chinese and other Asian populations exposed to carbamazepine [8], [9]."
+  },
+  {
+    "id": 11,
+    "chapterId": 22,
+    "question": "Allopurinol-induced SJS/TEN in Asian populations (Han Chinese) is strongly associated with which HLA allele?",
+    "options": [
+      "HLA-B*15:02",
+      "HLA-B*57:01",
+      "HLA-B*58:01",
+      "HLA-A*31:01"
+    ],
+    "correctIndex": 2,
+    "explanation": "HLA-B*58:01 is associated with SJS/TEN in Asians (Han Chinese) who take allopurinol [8], [10]."
+  },
+  {
+    "id": 12,
+    "chapterId": 22,
+    "question": "Methotrexate toxicity leading to epidermal necrosis, particularly in patients with reduced renal function or dosing errors, is an example of which non-immunologic mechanism?",
+    "options": [
+      "Photosensitivity",
+      "Overdose",
+      "Delayed toxicity",
+      "Drug-drug interaction"
+    ],
+    "correctIndex": 1,
+    "explanation": "The clinical manifestations of a drug overdose, such as methotrexate toxicity leading to epidermal necrosis, are predictable and represent an exaggeration of the medication’s pharmacologic actions, often due to altered metabolism or excretion [11]."
+  },
+  {
+    "id": 13,
+    "chapterId": 22,
+    "question": "Accumulation of minocycline within the skin, leading to cutaneous discoloration, is classified as which type of non-immunologic adverse reaction?",
+    "options": [
+      "Pharmacologic side effect",
+      "Cumulative toxicity",
+      "Exacerbation of disease",
+      "Alteration in metabolism"
+    ],
+    "correctIndex": 1,
+    "explanation": "Prolonged exposure to a medication or its metabolites may lead to cumulative toxicity, such as accumulation of minocycline leading to cutaneous discoloration [12]."
+  },
+  {
+    "id": 14,
+    "chapterId": 22,
+    "question": "How long after initial drug administration does a morbilliform (exanthematous) eruption classically begin?",
+    "options": [
+      "Minutes to hours",
+      "4 to 14 days",
+      "15 to 40 days",
+      "2 to 6 months"
+    ],
+    "correctIndex": 1,
+    "explanation": "A morbilliform eruption classically begins 4 to 14 days after the initial drug administration [13], [14]."
+  },
+  {
+    "id": 15,
+    "chapterId": 22,
+    "question": "The mortality rate associated with an uncomplicated exanthematous (morbilliform) drug eruption is typically:",
+    "options": [
+      "0%",
+      "1% to 2%",
+      "5% to 10%",
+      "More than 30%"
+    ],
+    "correctIndex": 0,
+    "explanation": "Exanthematous (morbilliform) eruptions have a reported mortality of 0% [13]."
+  },
+  {
+    "id": 16,
+    "chapterId": 22,
+    "question": "Which clinical feature appearing in an exanthematous eruption strongly suggests the possibility of a Severe Cutaneous Adverse Reaction (SCAR)?",
+    "options": [
+      "Low-grade fever",
+      "Pruritus",
+      "Edema of the face",
+      "Resolution within 7 days"
+    ],
+    "correctIndex": 2,
+    "explanation": "Signs and symptoms that point to the possibility of a more severe drug-induced eruption (SCAR) include skin pain, edema of the face, pustules, vesicles, purpuric macules, skin fragility (Nikolsky sign), mucous membrane involvement, and/or marked peripheral blood eosinophilia [15], [16]."
+  },
+  {
+    "id": 17,
+    "chapterId": 22,
+    "question": "Approximately what percentage of all cases of urticaria are thought to be caused by drugs?",
+    "options": [
+      "<10%",
+      "20%",
+      "50%",
+      "80%"
+    ],
+    "correctIndex": 0,
+    "explanation": "Although drugs are thought to be responsible for <10% of all cases of urticaria, they are more often associated with acute rather than chronic urticaria [17], [13]."
+  },
+  {
+    "id": 18,
+    "chapterId": 22,
+    "question": "IgE-mediated drug-induced urticaria typically occurs within which time frame after drug administration?",
+    "options": [
+      "Minutes to less than an hour",
+      "4 to 14 days",
+      "7 to 21 days",
+      "30 minutes to 12 hours"
+    ],
+    "correctIndex": 0,
+    "explanation": "In IgE-mediated urticaria, lesions typically appear within minutes to less than an hour after drug administration, especially when there has been prior sensitization [17], [13]."
+  },
+  {
+    "id": 19,
+    "chapterId": 22,
+    "question": "The majority of cases of Angiotensin-converting enzyme (ACE) inhibitor-induced angioedema appear within which time frame after starting the drug?",
+    "options": [
+      "Within 1 day",
+      "Within the first year",
+      "1 to 3 years",
+      "More than 5 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "In the case of ACE inhibitor-induced angioedema, lesions may appear from 1 day to several years after starting the drug, but most appear within the first year [18]."
+  },
+  {
+    "id": 20,
+    "chapterId": 22,
+    "question": "What is the primary treatment for life-threatening angioedema and anaphylaxis?",
+    "options": [
+      "High-dose systemic corticosteroids",
+      "Intravenous C1 esterase inhibitor concentrate",
+      "Subcutaneous or intramuscular epinephrine (adrenaline)",
+      "High-dose H1 antihistamines"
+    ],
+    "correctIndex": 2,
+    "explanation": "Subcutaneous epinephrine (adrenaline) is the primary treatment for life-threatening angioedema and anaphylaxis [19]."
+  },
+  {
+    "id": 21,
+    "chapterId": 22,
+    "question": "In a Fixed Drug Eruption (FDE), how quickly do lesions usually appear upon re-exposure to the causative drug?",
+    "options": [
+      "1 to 2 weeks",
+      "Less than 48 hours, usually within 24 hours",
+      "7 to 21 days",
+      "2 to 8 weeks"
+    ],
+    "correctIndex": 1,
+    "explanation": "In FDE, upon subsequent exposures, lesions usually appear within 24 hours, but less than 48 hours [13], [20]."
+  },
+  {
+    "id": 22,
+    "chapterId": 22,
+    "question": "Which highly characteristic clinical feature is seen in Fixed Drug Eruption (FDE) upon readministration of the causative drug?",
+    "options": [
+      "Generalized urticarial eruption",
+      "Recurrence of lesions in exactly the same sites",
+      "Development of new target lesions on the extremities",
+      "Rapid epidermal detachment (>30% BSA)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Upon readministration of the causative drug, FDE lesions recur in exactly the same sites [21]."
+  },
+  {
+    "id": 23,
+    "chapterId": 22,
+    "question": "DRESS (Drug Reaction With Eosinophilia and Systemic Symptoms) typically develops how long after the initial drug initiation?",
+    "options": [
+      "1 to 3 days",
+      "7 to 14 days",
+      "7 to 21 days",
+      "2 to 8 weeks"
+    ],
+    "correctIndex": 3,
+    "explanation": "Clinically, DRESS develops 2 to 8 weeks after drug initiation, which is later than most other immunologically mediated skin reactions [22], [23]."
+  },
+  {
+    "id": 24,
+    "chapterId": 22,
+    "question": "What are the two major internal organ manifestations most commonly seen in patients with DRESS?",
+    "options": [
+      "Renal failure and myocarditis",
+      "Hepatitis and lymphadenopathy",
+      "Interstitial pneumonitis and thyroiditis",
+      "Pancreatitis and central nervous system involvement"
+    ],
+    "correctIndex": 1,
+    "explanation": "The major internal manifestations in DRESS include lymphadenopathy and hepatitis, seen in approximately 80% of patients [24]."
+  },
+  {
+    "id": 25,
+    "chapterId": 22,
+    "question": "Systemic corticosteroids used to treat moderate-to-severe DRESS typically require a slow taper over what time frame to prevent relapse?",
+    "options": [
+      "1 week",
+      "1 month",
+      "3 to 6 months",
+      "More than 1 year"
+    ],
+    "correctIndex": 2,
+    "explanation": "Although guidelines for DRESS treatment are still lacking, systemic corticosteroids are typically first-line therapy, and a slow taper over a period of 3 to 6 months is required because relapse can occur when the dosage is reduced [25]."
+  },
+  {
+    "id": 26,
+    "chapterId": 22,
+    "question": "Acute Generalized Exanthematous Pustulosis (AGEP) typically occurs within how many days after drug administration?",
+    "options": [
+      "Less than 4 days",
+      "7 to 14 days",
+      "15 to 40 days",
+      "2 to 8 weeks"
+    ],
+    "correctIndex": 0,
+    "explanation": "AGEP is characterized by a short interval (<4 days) between drug administration and the onset of the eruption [22], [26]."
+  },
+  {
+    "id": 27,
+    "chapterId": 22,
+    "question": "The primary cutaneous feature of Acute Generalized Exanthematous Pustulosis (AGEP) is:",
+    "options": [
+      "Target lesions with epidermal bullae",
+      "Palpable purpura on the lower legs",
+      "Numerous small, non-follicular, sterile pustules within edematous erythema",
+      "Large, violaceous fixed plaques"
+    ],
+    "correctIndex": 2,
+    "explanation": "AGEP is characterized by numerous small (<5 mm), primarily non-follicular, sterile pustules arising within large areas of edematous erythema [26], [27]."
+  },
+  {
+    "id": 28,
+    "chapterId": 22,
+    "question": "Drug-induced cutaneous small vessel vasculitis (CSVV) usually presents clinically as:",
+    "options": [
+      "Erythematous macules on the trunk",
+      "Urticarial wheals lasting less than 24 hours",
+      "Purpuric papules, primarily on the lower extremities",
+      "Fixed, targetoid lesions on acral sites"
+    ],
+    "correctIndex": 2,
+    "explanation": "Drug-induced CSVV usually presents as purpuric papules, primarily on the lower extremities [28]."
+  },
+  {
+    "id": 29,
+    "chapterId": 22,
+    "question": "Neutrophilic Eccrine Hidradenitis (NEH) is most frequently seen 7–14 days after initiating chemotherapy, particularly the combination of cytarabine plus:",
+    "options": [
+      "Taxanes",
+      "Anthracyclines",
+      "Tyrosine kinase inhibitors",
+      "Alkylating agents"
+    ],
+    "correctIndex": 1,
+    "explanation": "NEH is most frequently seen 7–14 days after initiating chemotherapy, in particular cytarabine plus an anthracycline (e.g. idarubicin, mitoxantrone) [29]."
+  },
+  {
+    "id": 30,
+    "chapterId": 22,
+    "question": "Which clinical criteria is essential for the diagnosis of Symmetrical Drug-Related Intertriginous and Flexural Exanthema (SDRIFE)?",
+    "options": [
+      "Fixed, purpuric plaques on sun-exposed sites",
+      "Sharply demarcated, symmetrical erythema of the anogenital and at least one other flexural area",
+      "Absence of fever, leukocytosis, or lymphadenopathy",
+      "Onset within 48 hours of re-exposure"
+    ],
+    "correctIndex": 1,
+    "explanation": "SDRIFE requires sharply demarcated, symmetrical erythema of the gluteal/perianal area and/or V-shaped erythema of the inguinal/perigenital area, and involvement of at least one other intertriginous site/flexural fold [30]."
+  },
+
+  {
+    "id": 1,
+    "chapterId": 23,
+    "question": "What is the definition of purpura addressed in the sources?",
+    "options": [
+      "Visible inflammation without hemorrhage",
+      "Visible hemorrhage within the skin or mucous membranes",
+      "Hemorrhage secondary only to trauma or scratching",
+      "Blanchable erythema of the superficial dermis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Purpura is defined as visible hemorrhage within the skin or mucous membranes [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 23,
+    "question": "The diagnostic approach to purpura is initially based on identifying one of three broad categories of pathomechanism. Which category is NOT one of these three?",
+    "options": [
+      "Simple hemorrhage (vascular breach)",
+      "Inflammatory hemorrhage (vessel-directed inflammation)",
+      "Microvascular occlusion/ischemia",
+      "Platelet hyperaggregation (thrombocytosis)"
+    ],
+    "correctIndex": 3,
+    "explanation": "The initial goal is to identify the most plausible of three broad categories: simple hemorrhage (vascular breach), inflammatory hemorrhage (vessel-directed inflammation), or microvascular occlusion/ischemia [2]."
+  },
+  {
+    "id": 3,
+    "chapterId": 23,
+    "question": "Which size criteria define macular petechiae?",
+    "options": [
+      "≤ 4 mm in diameter",
+      "5–9 mm in diameter",
+      "≥ 1 cm in diameter",
+      "≥ 5 mm in diameter and palpable"
+    ],
+    "correctIndex": 0,
+    "explanation": "The macular group consists of petechiae, defined as ≤ 4 mm in diameter."
+  },
+  {
+    "id": 4,
+    "chapterId": 23,
+    "question": "Purpuric lesions appearing in a generalized pattern composed only of petechiae most often suggest exclusion of severe thrombocytopenia or:",
+    "options": [
+      "Hypergammaglobulinemic purpura of Waldenström",
+      "Thrombotic thrombocytopenic purpura",
+      "Viral or drug eruption",
+      "Calciphylaxis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Petechiae appearing in a generalized pattern... are most often due to a viral or drug eruption. If only petechiae are present, severe thrombocytopenia should also be excluded [5], [6]."
+  },
+  {
+    "id": 5,
+    "chapterId": 23,
+    "question": "Widespread, generalized retiform purpura in a severely ill patient with multi-organ disease suggests which diagnosis?",
+    "options": [
+      "Hypergammaglobulinemic purpura",
+      "Erythema multiforme",
+      "Fulminant microvascular disease (e.g., catastrophic antiphospholipid syndrome or sepsis/DIC)",
+      "Warfarin-induced skin necrosis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Generalized retiform purpura in the setting of multi-organ disease suggests fulminant microvascular disease (e.g. catastrophic antiphospholipid syndrome) or sepsis-associated disseminated intravascular coagulation (DIC) with purpura fulminans [7], [8]."
+  },
+  {
+    "id": 6,
+    "chapterId": 23,
+    "question": "A Pauci-random distribution pattern of purpura is typical for which group of disorders?",
+    "options": [
+      "Pigmented purpuric eruptions",
+      "ANCA-associated vasculitides",
+      "Cryoglobulinemia (cold-induced)",
+      "Severe thrombocytopenia"
+    ],
+    "correctIndex": 1,
+    "explanation": "A pauci-random distribution pattern is typical of ANCA-associated vasculitides, various microvascular occlusive diseases, or lymphomatoid papulosis [8]."
+  },
+  {
+    "id": 7,
+    "chapterId": 23,
+    "question": "Retiform purpura is generally used to denote a frequent marker of which primary pathomechanism?",
+    "options": [
+      "Simple hemorrhage",
+      "Thrombotic or occlusive microvascular disease",
+      "IgE-mediated mast cell degranulation",
+      "Immunosuppression"
+    ],
+    "correctIndex": 1,
+    "explanation": "Retiform purpura is generally used to denote a frequent marker of thrombotic or occlusive microvascular disease [3]."
+  },
+  {
+    "id": 8,
+    "chapterId": 23,
+    "question": "Retiform purpura results from involvement of the same dermal vessels that produce which classic non-purpuric pattern?",
+    "options": [
+      "Erythema annulare centrifugum",
+      "Acanthosis nigricans",
+      "Livedo reticularis",
+      "Urticarial wheals"
+    ],
+    "correctIndex": 2,
+    "explanation": "Retiform purpura morphology results from involvement of the same vessels that produce the livedo reticularis pattern [9]."
+  },
+  {
+    "id": 9,
+    "chapterId": 23,
+    "question": "Palpable purpura is classically described as inflammatory purpura with prominent early erythema, often due to:",
+    "options": [
+      "Poor dermal support of vessels",
+      "Leukocytoclastic vasculitis due to immune complex disease",
+      "Drug overdose leading to systemic toxicity",
+      "Fixed increased venous pressure"
+    ],
+    "correctIndex": 1,
+    "explanation": "Palpable purpura is defined as inflammatory purpura with prominent early erythema, such as leukocytoclastic vasculitis due to immune complex disease [10]."
+  },
+  {
+    "id": 10,
+    "chapterId": 23,
+    "question": "Histologically, a biopsy of a late lesion of microvascular occlusion, characterized by necrosis and a wound healing response, may sometimes resemble a lesion of:",
+    "options": [
+      "Psoriasis",
+      "Erythema multiforme",
+      "Leukocytoclastic vasculitis",
+      "Angioedema"
+    ],
+    "correctIndex": 2,
+    "explanation": "A late lesion of occlusion with some resulting dermal necrosis may on histologic examination show features characteristic of leukocytoclastic vasculitis (LCV) [11]. The wound response in occlusive lesions may also lead to secondary vasculitis [12]."
+  },
+  {
+    "id": 11,
+    "chapterId": 23,
+    "question": "Purpuric lesions in the macular group (non-palpable) are categorized on the basis of size and typically develop via which pathomechanism?",
+    "options": [
+      "Inflammatory hemorrhage",
+      "Simple hemorrhage",
+      "Vessel-invasive organisms",
+      "Antiphospholipid antibody syndrome"
+    ],
+    "correctIndex": 1,
+    "explanation": "The three subsets of macular (non-palpable) purpura typically develop via simple hemorrhage, with extravasated red blood cells and minimal inflammation observed in biopsy specimens [3], [13]."
+  },
+  {
+    "id": 12,
+    "chapterId": 23,
+    "question": "Petechial hemorrhage occurs when platelet counts fall below which threshold, due to inadequate support of endothelial cell junctions?",
+    "options": [
+      "10,000–20,000 mm³",
+      "<50,000 mm³",
+      "<100,000 mm³",
+      "<500,000 mm³"
+    ],
+    "correctIndex": 0,
+    "explanation": "When counts fall below 10,000–20,000 mm³, inadequate platelet support leads to degradation of junction function, increased permeability, and hemorrhage, resulting in petechiae [14], [15]."
+  },
+  {
+    "id": 13,
+    "chapterId": 23,
+    "question": "The intrinsic (contact activation) coagulation pathway is assessed by which laboratory test?",
+    "options": [
+      "Prothrombin time (PT)",
+      "Activated partial thromboplastin time (aPTT)",
+      "Bleeding time",
+      "D-dimer level"
+    ],
+    "correctIndex": 1,
+    "explanation": "The intrinsic (contact activation) pathway is assessed by the activated partial thromboplastin time (aPTT) [16]."
+  },
+  {
+    "id": 14,
+    "chapterId": 23,
+    "question": "The extrinsic coagulation pathway is monitored by which laboratory test and is primarily triggered by what?",
+    "options": [
+      "aPTT; Factor XII activation",
+      "PT; Tissue factor released from endothelial cells",
+      "PT; Factor IXa",
+      "aPTT; Thrombin binding to thrombomodulin"
+    ],
+    "correctIndex": 1,
+    "explanation": "The extrinsic pathway is monitored by the prothrombin time (PT). It is triggered by tissue factor released from endothelial and other cells [16]."
+  },
+  {
+    "id": 15,
+    "chapterId": 23,
+    "question": "Which molecule greatly enhances the ability of Antithrombin III (ATIII) to neutralize activated clotting factors?",
+    "options": [
+      "Protein C",
+      "Heparan sulfate or heparin",
+      "Tissue Factor Pathway Inhibitor (TFPI)",
+      "Factor V Leiden"
+    ],
+    "correctIndex": 1,
+    "explanation": "The ability of ATIII to neutralize thrombin as well as factors IXa, Xa, and XIIa is greatly enhanced by heparan sulfate or heparin binding to ATIII [17]."
+  },
+  {
+    "id": 16,
+    "chapterId": 23,
+    "question": "The thrombomodulin/Protein C/Protein S system is considered critical for the normal function of which vascular system?",
+    "options": [
+      "Large arteries (e.g., aorta)",
+      "Medium-sized muscular arteries (e.g., polyarteritis nodosa)",
+      "Microvasculature (small vessels)",
+      "Deep venous system (DVT)"
+    ],
+    "correctIndex": 2,
+    "explanation": "While both ATIII and protein C pathways are important in large vessels, the protein C system seems to be critical for normal function of the microvasculature [18], [19]."
+  },
+  {
+    "id": 17,
+    "chapterId": 23,
+    "question": "Which condition is classified as a non-inflammatory retiform purpura primarily due to occlusion related to cold-related precipitation?",
+    "options": [
+      "Warfarin-induced skin necrosis",
+      "Disseminated Strongyloidiasis",
+      "Cryoglobulinemia, primarily type I",
+      "Levamisole-adulterated cocaine toxicity"
+    ],
+    "correctIndex": 2,
+    "explanation": "Non-inflammatory retiform purpura due to cold-related precipitation includes Cryoglobulinemia, usually monoclonal (primarily type I) [6], [20]."
+  },
+  {
+    "id": 18,
+    "chapterId": 23,
+    "question": "A prolonged PT and a prolonged aPTT suggest a combined deficiency of multiple procoagulant factors, which can be caused by:",
+    "options": [
+      "Heparin administration",
+      "Factor VII deficiency",
+      "Severe vitamin K deficiency",
+      "Thrombocytosis secondary to myeloproliferative disorders"
+    ],
+    "correctIndex": 2,
+    "explanation": "A prolonged PT and prolonged aPTT suggests a combined deficiency of multiple procoagulant factors, such as severe vitamin K deficiency or high-dose oral anticoagulant [21]."
+  },
+  {
+    "id": 19,
+    "chapterId": 23,
+    "question": "Which syndrome, a variant of pigmented purpuric dermatosis, is characterized by a solitary patch whose color varies from golden to rust to purple–brown, often over a perforator vein?",
+    "options": [
+      "Schamberg disease",
+      "Purpura annularis telangiectodes of Majocchi",
+      "Lichen aureus",
+      "Eczematid-like purpura of Doucas and Kapetanakis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lichen aureus is a rare variant characterized by a solitary patch whose color varies from golden to rust to purple–brown, usually on the lower extremity, often over a perforator vein [22], [23]."
+  },
+  {
+    "id": 20,
+    "chapterId": 23,
+    "question": "The presence of pinpoint petechiae within yellow–brown patches, often likened to 'cayenne pepper,' is characteristic of which pigmented purpuric dermatosis variant?",
+    "options": [
+      "Purpura annularis telangiectodes of Majocchi",
+      "Lichen aureus",
+      "Schamberg disease",
+      "Linear pigmented purpura"
+    ],
+    "correctIndex": 2,
+    "explanation": "Schamberg disease is characterized by yellow–brown patches with pinpoint petechiae within them, likened to 'cayenne pepper' [24]."
+  },
+  {
+    "id": 21,
+    "chapterId": 23,
+    "question": "Histopathologic features of pigmented purpuric dermatoses (capillaritis) include red cell extravasation, endothelial cell swelling, and:",
+    "options": [
+      "A tight perivascular infiltrate resembling a 'coat sleeve'",
+      "A perivascular lymphocytic infiltrate and hemosiderin-containing macrophages",
+      "Leukocytoclastic vasculitis and fibrinoid necrosis",
+      "Subcorneal pustules"
+    ],
+    "correctIndex": 1,
+    "explanation": "Histopathologic features include red cell extravasation, endothelial cell swelling, a perivascular lymphocytic infiltrate, and hemosiderin-containing macrophages [25], [26]."
+  },
+  {
+    "id": 22,
+    "chapterId": 23,
+    "question": "The clinical presentation of pigmented purpuric eruptions needs to be distinguished from dermal hemorrhage secondary to venous hypertension (stasis purpura), which presents with:",
+    "options": [
+      "Discrete yellow–brown patches (Schamberg-like)",
+      "Petechiae superimposed on diffuse hemosiderosis",
+      "Annular plaques with central telangiectasias",
+      "Linear array of purpura"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pigmented purpuric eruptions on the legs must be differentiated from dermal hemorrhage secondary to venous hypertension, which presents with petechiae superimposed on diffuse hemosiderosis (referred to as 'stasis purpura') [27], [28]."
+  },
+  {
+    "id": 23,
+    "chapterId": 23,
+    "question": "Benign Hypergammaglobulinemic Purpura of Waldenström is often associated with which autoimmune connective tissue disease (AI-CTD)?",
+    "options": [
+      "Systemic lupus erythematosus (LE)",
+      "Rheumatoid arthritis (RA)",
+      "Sjögren syndrome",
+      "Systemic sclerosis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hypergammaglobulinemic purpura of Waldenström is often associated with an autoimmune connective tissue disease (AI-CTD), especially Sjögren syndrome [29], [30]."
+  },
+  {
+    "id": 24,
+    "chapterId": 23,
+    "question": "In Hypergammaglobulinemic Purpura of Waldenström, lesions on the lower extremities are most commonly characterized as:",
+    "options": [
+      "Painful, deep nodules",
+      "Fixed, ulcerating purpuric plaques",
+      "Recurrent crops of petechiae and larger purpuric macules",
+      "Non-pruritic urticarial wheals"
+    ],
+    "correctIndex": 2,
+    "explanation": "The purpura is often preceded by a slight itch, mild tingling or burning. Macular hemorrhage (e.g. petechiae or larger purpuric macules) on the lower extremities represents the most common presentation [31], [28]."
+  },
+  {
+    "id": 25,
+    "chapterId": 23,
+    "question": "What is the primary distinguishing feature of the lesions in Gardner–Diamond Syndrome?",
+    "options": [
+      "Fixed, painless purpuric macules",
+      "Painful, swollen ecchymoses occurring spontaneously or at trauma sites",
+      "Retiform purpura associated with cold exposure",
+      "Annular lesions with trailing scale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gardner–Diamond syndrome is characterized by painful, swollen ecchymoses occurring spontaneously or at trauma sites [32], [33]."
+  },
+  {
+    "id": 26,
+    "chapterId": 23,
+    "question": "Paroxysmal Finger Hematoma (Achenbach syndrome) is characterized by recurrent acute episodes of painful ecchymoses on which specific site?",
+    "options": [
+      "The dorsum of the hand",
+      "The palmar surface of one or more fingers",
+      "The tips of the toes",
+      "The ears and nose"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paroxysmal Finger Hematoma is characterized by recurrent acute episodes of painful ecchymoses on the palmar surface of one or more fingers [33], [34]."
+  },
+  {
+    "id": 27,
+    "chapterId": 23,
+    "question": "Mondor disease is characterized by superficial thrombophlebitis of subcutaneous veins, most specifically affecting which anatomical wall?",
+    "options": [
+      "The anterior abdominal wall",
+      "The lateral thoracic, thoracoepigastric, and superior epigastric veins (anterolateral thoracoabdominal wall)",
+      "The saphenous vein in the thigh",
+      "The antecubital fossa veins"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mondor disease is characterized by superficial thrombophlebitis of subcutaneous veins within the anterolateral thoracoabdominal wall (e.g., lateral thoracic, thoracoepigastric, and superior epigastric veins) [34]."
+  },
+  {
+    "id": 28,
+    "chapterId": 23,
+    "question": "Up to 10% of patients diagnosed with Mondor syndrome affecting the chest wall have an underlying association with:",
+    "options": [
+      "Systemic lupus erythematosus",
+      "Breast carcinoma",
+      "A congenital heart defect",
+      "Chronic venous insufficiency"
+    ],
+    "correctIndex": 1,
+    "explanation": "Common pathogenic factors include trauma and surgery, and up to 10% of patients with Mondor syndrome have an underlying breast carcinoma [35]."
+  },
+  {
+    "id": 29,
+    "chapterId": 23,
+    "question": "Recurrent superficial thrombophlebitis (migratory thrombophlebitis or Trousseau syndrome), a differential diagnosis for Mondor disease, is frequently associated with an underlying malignancy, most often:",
+    "options": [
+      "Carcinoma of the lung or pancreas",
+      "Basal cell carcinoma",
+      "Thyroid carcinoma",
+      "Chronic myelogenous leukemia"
+    ],
+    "correctIndex": 0,
+    "explanation": "Recurrent superficial thrombophlebitis (migratory thrombophlebitis) is frequently associated with an underlying malignancy (Trousseau syndrome; most often pancreatic or lung carcinoma) [36]."
+  },
+  {
+    "id": 30,
+    "chapterId": 23,
+    "question": "Onyalai, a disease often presenting with hemorrhagic blisters in the mouth, results from the consumption of sorghum grains contaminated with which organism?",
+    "options": [
+      "Candida albicans",
+      "Epicoccum sorghinum (fungus)",
+      "Plasmodium falciparum",
+      "Staphylococcus aureus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Onyalai results from the consumption of sorghum grains contaminated with the fungus *Epicoccum sorghinum*, which produces compounds that inhibit platelet aggregation and angiogenesis [37], [15]."
+  },
+  {
+    "id": 1,
+    "chapterId": 24,
+    "question": "Heparin-Induced Thrombocytopenia (HIT) syndrome typically presents cutaneous lesions in which morphology?",
+    "options": [
+      "Widespread, non-blanchable petechiae",
+      "Non-necrotic hemorrhagic bullae",
+      "Retiform purpura or non-inflammatory necrosis",
+      "Palpable purpuric papules limited to the injection site"
+    ],
+    "correctIndex": 2,
+    "explanation": "Heparin-induced skin necrosis typically presents as retiform purpura or non-inflammatory necrosis [1]. The cutaneous lesions are usually tender, sharply demarcated, non-inflammatory, and purpuric or necrotic [2]. Non-necrotic hemorrhage and bullae are unrelated to HIT [3, 4]."
+  },
+  {
+    "id": 2,
+    "chapterId": 24,
+    "question": "The pathologic pathway underlying Heparin-Induced Thrombocytopenia (HIT) involves the formation of ultralarge complexes (ULCs) composed of heparin bound to:",
+    "options": [
+      "Protein C",
+      "Antithrombin III",
+      "Platelet factor 4 (PF4)",
+      "Tissue factor"
+    ],
+    "correctIndex": 2,
+    "explanation": "HIT involves the binding of platelet factor 4 (PF4) to a polyanion, usually unfractionated heparin, to form ultralarge complexes (ULCs) [5]."
+  },
+  {
+    "id": 3,
+    "chapterId": 24,
+    "question": "Consideration of HIT syndrome should be prompted by a decrease in the platelet count of more than 50% from the most recent highest value, occurring approximately how many days after heparin exposure?",
+    "options": [
+      "1–2 days",
+      "5–10 days",
+      "15–20 days",
+      "40–60 days"
+    ],
+    "correctIndex": 1,
+    "explanation": "HIT usually occurs between days 5 and 10 of heparin therapy [6]. A decline in the platelet count of >50% from the most recent highest value prior to the administration of heparin should prompt consideration of HIT [1, 2]."
+  },
+  {
+    "id": 4,
+    "chapterId": 24,
+    "question": "The risk of developing HIT is highest with which type of heparin?",
+    "options": [
+      "Low-molecular-weight heparin (LMWH)",
+      "Unfractionated heparin (UFH)",
+      "Synthetic pentasaccharide fondaparinux",
+      "Oral Factor Xa inhibitors"
+    ],
+    "correctIndex": 1,
+    "explanation": "The risk of developing HIT is highest with unfractionated heparin, lower with low-molecular-weight heparin, and negligible with the synthetic pentasaccharide fondaparinux [7]."
+  },
+  {
+    "id": 5,
+    "chapterId": 24,
+    "question": "What is the FDA-approved first-line therapeutic anticoagulation agent for acute HIT?",
+    "options": [
+      "Warfarin",
+      "Low-dose aspirin",
+      "Argatroban (a direct thrombin inhibitor)",
+      "Recombinant C1 esterase inhibitor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Treatment requires cessation of heparin therapy and initiation of therapeutic anticoagulation. Argatroban and bivalirudin, direct thrombin inhibitors, are FDA-approved for the treatment of HIT [8]."
+  },
+  {
+    "id": 6,
+    "chapterId": 24,
+    "question": "Vitamin K antagonists (e.g., warfarin) are contraindicated during the acute phase of HIT because of an increased risk of developing:",
+    "options": [
+      "Systemic lupus erythematosus",
+      "Venous limb gangrene secondary to decreased protein C levels",
+      "Severe bleeding due to thrombocytopenia",
+      "Delayed-onset allergic contact dermatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vitamin K antagonists (e.g. warfarin) are contraindicated during the acute phase because of an increased risk of developing venous limb gangrene secondary to decreased protein C levels [9]."
+  },
+  {
+    "id": 7,
+    "chapterId": 24,
+    "question": "In the differential diagnosis of microvascular syndromes, the finding of retiform purpura or non-inflammatory (bland) necrosis strongly suggests which type of injury?",
+    "options": [
+      "Inflammatory injury (vasculitis)",
+      "Simple hemorrhage (vascular breach)",
+      "Non-inflammatory occlusive injury to vessels",
+      "IgE-mediated degranulation"
+    ],
+    "correctIndex": 2,
+    "explanation": "The diagnosis of occlusive syndromes in the skin is greatly facilitated by recognizing the telltale lesions of retiform purpura or non-inflammatory (bland) necrosis [10]."
+  },
+  {
+    "id": 8,
+    "chapterId": 24,
+    "question": "Approximately 90%–95% of patients with Polycythemia Vera (PV) harbor a somatic phenotypic driver mutation in which gene?",
+    "options": [
+      "BCR-ABL",
+      "PIG-A",
+      "ADAMTS13",
+      "JAK2 (V617F)"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Philadelphia chromosome-negative MPNs are clonal disorders driven by mutations in JAK2, CALR, or MPL [11]. A single mutation, JAK2 V617F, is present in 90%–95% of PV patients and 50%–70% of those with Essential Thrombocythemia (ET) and Primary Myelofibrosis (PMF) [12]."
+  },
+  {
+    "id": 9,
+    "chapterId": 24,
+    "question": "Erythromelalgia secondary to thrombocythemic Essential Thrombocythemia (ET) characteristically responds dramatically to which medication?",
+    "options": [
+      "Low-dose aspirin",
+      "High-dose systemic corticosteroids",
+      "Ruxolitinib",
+      "Warfarin"
+    ],
+    "correctIndex": 0,
+    "explanation": "This version of secondary erythromelalgia (most closely associated with ET) typically responds dramatically to aspirin administration [13, 14]."
+  },
+  {
+    "id": 10,
+    "chapterId": 24,
+    "question": "In patients with myeloproliferative neoplasms (MPNs), at what extreme platelet count range does bleeding typically predominate over thrombosis?",
+    "options": [
+      "400–1000 times 10^9/µL",
+      "1000–2000 times 10^9/µL",
+      ">2000 times 10^9/ µL",
+      "Within the normal range"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bleeding predominates when the platelet count is  >2000 times 10^9µL in MPNs."
+  },
+  {
+    "id": 11,
+    "chapterId": 24,
+    "question": "Paroxysmal Nocturnal Hemoglobinuria (PNH) is caused by a somatic mutation in the *PIG-A* gene, which prevents the proper anchoring of which class of proteins required for protection against complement-mediated injury?",
+    "options": [
+      "GPI-anchored proteins",
+      "HLA Class I molecules",
+      "Platelet Factor 4",
+      "CD40 ligand"
+    ],
+    "correctIndex": 0,
+    "explanation": "PNH is due to a somatic mutation in *PIG-A* (phosphatidyl inositol glycan class A), which encodes a glycosylphosphatidylinositol (GPI)-anchored protein that is required for the cell membrane attachment of several important membrane proteins [16]."
+  },
+  {
+    "id": 12,
+    "chapterId": 24,
+    "question": "The therapeutic agents eculizumab and ravulizumab for PNH function by inhibiting which phase of the complement cascade?",
+    "options": [
+      "C1 activation",
+      "C3 tickover (Factors B and D)",
+      "Terminal phase at the C5 stage",
+      "MAC formation via CD59 stabilization"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patients can receive life-long IV therapy with eculizumab or ravulizumab which inhibit the terminal phase of the complement cascade at the C5 stage [17]."
+  },
+  {
+    "id": 13,
+    "chapterId": 24,
+    "question": "Thrombotic Microangiopathy (TMA) is a syndrome characterized by the simultaneous presence of microangiopathic hemolytic anemia and:",
+    "options": [
+      "Leukocytosis",
+      "Thrombocytopenia",
+      "Hyperfibrinogenemia",
+      "Severe neutropenia"
+    ],
+    "correctIndex": 1,
+    "explanation": "TMA is a syndrome characterized by microangiopathic hemolytic anemia and thrombocytopenia [18, 19]."
+  },
+  {
+    "id": 14,
+    "chapterId": 24,
+    "question": "Hereditary Thrombotic Thrombocytopenic Purpura (TTP) is due to biallelic mutations in *ADAMTS13*. This enzyme is responsible for cleaving ultra-large multimers of:",
+    "options": [
+      "Fibrinogen",
+      "Tissue factor",
+      "Protein C",
+      "von Willebrand factor (vWF)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hereditary TTP (Upshaw–Schulman syndrome) is due to biallelic mutations of *ADAMTS13*. Its protein product is an enzyme responsible for cleaving ultra-large multimers of von Willebrand factor (vWF) [20]."
+  },
+  {
+    "id": 15,
+    "chapterId": 24,
+    "question": "What is the first-line therapy for acquired (immune-related) TTP, which can lead to a reduction in mortality of up to 90%?",
+    "options": [
+      "Plasma exchange",
+      "High-dose intravenous corticosteroids",
+      "Eculizumab",
+      "Rituximab"
+    ],
+    "correctIndex": 0,
+    "explanation": "Since TTP is usually due to acquired antibodies to ADAMTS13, total plasma exchange represents first-line therapy, leading to a reduction in mortality of up to 90% [21]."
+  },
+  {
+    "id": 16,
+    "chapterId": 24,
+    "question": "The cardinal clinical sign of cold occlusion, including that due to cryoglobulinemia (Type I), is typically found in which location?",
+    "options": [
+      "The trunk and proximal extremities",
+      "Acral sites (hands, feet, nose, ears) upon cold exposure",
+      "The palms and soles independent of temperature",
+      "Pressure areas (buttocks, sacrum)"
+    ],
+    "correctIndex": 1,
+    "explanation": "The cardinal sign of cold occlusion, including that due to cryoglobulinemia, is purpuric or necrotic lesions, often retiform, at sites of cold exposure that are typically acral [22]."
+  },
+  {
+    "id": 17,
+    "chapterId": 24,
+    "question": "Type I cryoglobulinemia, characterized by a monoclonal antibody, primarily causes disease via which mechanism?",
+    "options": [
+      "Immune complex-mediated vasculitis (LCV)",
+      "Induction of hyperviscosity or precipitation in the cold",
+      "Complement-mediated T-cell activation",
+      "Angioinvasion by opportunistic pathogens"
+    ],
+    "correctIndex": 1,
+    "explanation": "Type I cryoglobulin is a monoclonal antibody. Because type I cryoglobulins are not part of an immune complex, they typically affect vessels via induction of hyperviscosity or precipitation in the cold [23]. Simple occlusion with minimal early inflammation and often retiform purpura/necrosis develops when cryoproteins precipitate upon cold exposure [24]."
+  },
+  {
+    "id": 18,
+    "chapterId": 24,
+    "question": "Cold agglutinins cause vascular occlusion in cold-exposed sites primarily through:",
+    "options": [
+      "IgG precipitation and hyperviscosity",
+      "Fibrinogen consumption",
+      "Red cell agglutination and sludging",
+      "Direct endothelial cell toxicity"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cold agglutinins bind to red cells in the cold, leading to occlusion. Pentameric IgM antibodies more readily agglutinate these cells, leading to occlusion [25, 26]."
+  },
+  {
+    "id": 19,
+    "chapterId": 24,
+    "question": "Ecthyma Gangrenosum is a syndrome of occlusion by organisms proliferating in the adventitia of subcutaneous blood vessels. The classic causative organism is:",
+    "options": [
+      "*Staphylococcus aureus*",
+      "*Pseudomonas aeruginosa*",
+      "*Candida albicans*",
+      "*Strongyloides stercoralis*"
+    ],
+    "correctIndex": 1,
+    "explanation": "The classic organism is *Pseudomonas aeruginosa*, but ecthyma gangrenosum-like skin lesions have also been described with other organisms [27]."
+  },
+  {
+    "id": 20,
+    "chapterId": 24,
+    "question": "Poorly controlled diabetes mellitus is a specific risk factor for which angioinvasive fungal infection that may present with cutaneous necrosis, presumably originating from a sinus cavity infection?",
+    "options": [
+      "*Aspergillus* spp.",
+      "*Fusarium* spp.",
+      "Mucormycosis (e.g., *Rhizopus, Mucor* spp.)",
+      "*Candida* spp."
+    ],
+    "correctIndex": 2,
+    "explanation": "In diabetic patients, mucormycosis may present in the central face with cutaneous necrosis, presumably originating from a sinus cavity infection [28]. Poorly controlled diabetes mellitus is listed as a risk factor for vessel-invasive opportunistic fungi [29]."
+  },
+  {
+    "id": 21,
+    "chapterId": 24,
+    "question": "The Lucio phenomenon in Hansen disease (leprosy) is typically distinguished from Erythema Nodosum Leprosum by the absence of:",
+    "options": [
+      "Purpuric lesions",
+      "Ulceration",
+      "Fever, leukocytosis, and tenderness",
+      "Endothelial swelling and thrombus formation"
+    ],
+    "correctIndex": 2,
+    "explanation": "The associated thrombotic lesions of Lucio phenomenon are distinguished from erythema nodosum leprosum by an absence of fever, leukocytosis, and tenderness [30]."
+  },
+  {
+    "id": 22,
+    "chapterId": 24,
+    "question": "Which clinical setting is considered a major trigger for Cholesterol Embolus syndrome?",
+    "options": [
+      "Initiation of intravenous heparin",
+      "Arterial or coronary catheterization",
+      "Short-term prophylactic anticoagulation",
+      "Severe Vitamin K deficiency"
+    ],
+    "correctIndex": 1,
+    "explanation": "The first clinical setting known to prompt embolization is arterial or coronary catheterization, which may disrupt a plaque, leading to emboli within hours to days of catheterization [31]."
+  },
+  {
+    "id": 23,
+    "chapterId": 24,
+    "question": "The characteristic histologic finding used to diagnose Cholesterol Embolus in a skin biopsy specimen is:",
+    "options": [
+      "Fibrin thrombi within the vessel lumen without crystals",
+      "Leukocytoclastic vasculitis",
+      "Elongated clefts within the lumina of small vessels at the dermal–subcutaneous junction",
+      "Dense perivascular plasma cell infiltrate"
+    ],
+    "correctIndex": 2,
+    "explanation": "Histologically, cholesterol emboli produce elongated clefts within lumina of small vessels [32] (Fig. 23.5E). The affected arteriole is usually at the dermal–subcutaneous junction [32]."
+  },
+  {
+    "id": 24,
+    "chapterId": 24,
+    "question": "What finding distinguishes oxalate embolus from calciphylaxis in a skin biopsy specimen, despite both often occurring in renal failure?",
+    "options": [
+      "Presence of cholesterol clefts",
+      "Presence of birefringent rectangular or radial crystals that stain with alizarin red S",
+      "Extensive subepidermal bullae",
+      "Leukocytoclastic vasculitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Skin biopsy specimens demonstrate yellow–brown, birefringent crystals in a rectangular or radial pattern within and around vessels [33]. Although clinical lesions may mimic those of cutaneous calciphylaxis, calcium deposition in vessels is not a characteristic finding in cutaneous oxalate emboli [33]."
+  },
+  {
+    "id": 25,
+    "chapterId": 24,
+    "question": "Neonatal purpura fulminans is caused by severe congenital deficiency or dysfunction of which proteins?",
+    "options": [
+      "Antithrombin III only",
+      "Factor V Leiden",
+      "Protein C or Protein S",
+      "ADAMTS13"
+    ],
+    "correctIndex": 2,
+    "explanation": "Homozygous (or compound heterozygous) deficiency or severe dysfunction of either protein C or protein S leads to neonatal purpura fulminans within a few hours to 5 days after birth [34]."
+  },
+  {
+    "id": 26,
+    "chapterId": 24,
+    "question": "Warfarin necrosis usually develops within which time frame after initiating warfarin therapy, particularly if loading doses are used?",
+    "options": [
+      "6 to 12 months",
+      "2 to 8 weeks",
+      "2 to 5 days",
+      "More than 1 year"
+    ],
+    "correctIndex": 2,
+    "explanation": "Warfarin necrosis usually develops within 2–5 days of warfarin initiation in the absence of heparin, and it is much more likely to occur if loading doses of warfarin are used [35]."
+  },
+  {
+    "id": 27,
+    "chapterId": 24,
+    "question": "The development of Purpura Fulminans in a septic patient with Disseminated Intravascular Coagulation (DIC) is believed to be caused by an inability of which pathway to prevent clot propagation?",
+    "options": [
+      "Intrinsic coagulation pathway",
+      "Extrinsic coagulation pathway",
+      "Protein C–thrombomodulin pathway",
+      "Plasminogen activator inhibitor system"
+    ],
+    "correctIndex": 2,
+    "explanation": "Development of retiform purpura can be the first sign of microvascular thrombosis, possibly due to an inability of the protein C–thrombomodulin pathway to prevent propagation of clot [36]."
+  },
+  {
+    "id": 28,
+    "chapterId": 24,
+    "question": "A definite diagnosis of Antiphospholipid Antibody Syndrome (APS) requires at least one clinical criterion and one laboratory criterion, with laboratory criteria needing to be present on two or more occasions at least how many weeks apart?",
+    "options": [
+      "4 weeks",
+      "8 weeks",
+      "12 weeks",
+      "24 weeks"
+    ],
+    "correctIndex": 2,
+    "explanation": "The definite diagnosis of antiphospholipid antibody syndrome requires at least one clinical and one laboratory criterion [37]. Laboratory criteria must be present on two or more occasions at least 12 weeks apart [38]."
+  },
+  {
+    "id": 29,
+    "chapterId": 24,
+    "question": "The combination of persistent livedo reticularis/racemosa and recurrent neurologic symptoms due to cerebrovascular disease in a young woman characterizes which disorder?",
+    "options": [
+      "Livedoid vasculopathy",
+      "Sneddon syndrome",
+      "Erythema annulare centrifugum",
+      "Cutaneous calciphylaxis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sneddon syndrome is characterized by the association of persistent livedo reticularis or livedo racemosa with an increased risk of transient ischemic attacks (TIAs) and cerebrovascular accidents (CVAs). It usually affects young women [39, 40]."
+  },
+  {
+    "id": 30,
+    "chapterId": 24,
+    "question": "The resolution of the painful, punched-out ulcers characteristic of Livedoid Vasculopathy typically results in which distinctive skin finding?",
+    "options": [
+      "Hyperpigmentation (Schamberg-like)",
+      "Annular, erythematous rings (EAC-like)",
+      "White, round, or stellate scars with peripheral telangiectasias (atrophie blanche)",
+      "Hyperkeratotic, fissured plaques"
+    ],
+    "correctIndex": 2,
+    "explanation": "Resolution of Livedoid Vasculopathy ulcers classically results in small atrophic white macules with surrounding telangiectasias, referred to as atrophie blanche [41]."
+  },
+   {
+    "id": 1,
+    "chapterId": 25,
+    "question": "Vasculitis is fundamentally defined as inflammation and destruction of blood vessels leading to:",
+    "options": [
+      "Angiogenesis and collateral formation",
+      "Resultant downstream ischemic tissue damage",
+      "Generalized lymphadenopathy",
+      "Pauci-immune complex deposition"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vasculitis is defined as inflammation and destruction of blood vessels with resultant downstream ischemic tissue damage [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 25,
+    "question": "The widely accepted classification scheme for vasculitis, including cutaneous forms, is based primarily upon the predominant size of the affected:",
+    "options": [
+      "Infiltrating immune cells",
+      "Involved blood vessels",
+      "Extravasated erythrocytes",
+      "Fibrinoid deposits"
+    ],
+    "correctIndex": 1,
+    "explanation": "The classification scheme employed in the sources is based upon the predominant size of the involved blood vessels, as this helps predict the clinical presentation and corresponding histopathologic findings [2]."
+  },
+  {
+    "id": 3,
+    "chapterId": 25,
+    "question": "In the skin, which structures are categorized as small vessels involved in vasculitis?",
+    "options": [
+      "Aorta and named arteries",
+      "Small arteries and veins of the deep dermis",
+      "Arterioles, capillaries, and postcapillary venules",
+      "Arteries within the subcutaneous fat"
+    ],
+    "correctIndex": 2,
+    "explanation": "Small vessels include arterioles, capillaries, and postcapillary venules, which are found in the superficial and mid dermis of the skin [3]."
+  },
+  {
+    "id": 4,
+    "chapterId": 25,
+    "question": "Which term is strictly a histologic designation referring to transmural infiltration of vessel walls by neutrophils undergoing karyorrhexis?",
+    "options": [
+      "Cutaneous small vessel vasculitis (CSVV)",
+      "Cutaneous vasculitis",
+      "Leukocytoclastic vasculitis (LCV)",
+      "Acute hemorrhagic edema of infancy (AHEI)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Leukocytoclastic vasculitis (LCV) is a histologic designation, defined by transmural infiltration of vessel walls (primarily postcapillary venules) by neutrophils undergoing karyorrhexis and fibrinoid necrosis [4], [5]."
+  },
+  {
+    "id": 5,
+    "chapterId": 25,
+    "question": "Which is the most common type of vasculitis observed in children?",
+    "options": [
+      "Polyarteritis nodosa (PAN)",
+      "Urticarial vasculitis",
+      "IgA vasculitis (Henoch–Schönlein purpura)",
+      "Granulomatosis with polyangiitis (GPA)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The most common type of vasculitis in children is IgA vasculitis (Henoch–Schönlein purpura) [6], [7]."
+  },
+  {
+    "id": 6,
+    "chapterId": 25,
+    "question": "Cutaneous small vessel vasculitis (CSVV) resulting from immune complex deposition most commonly presents clinically as:",
+    "options": [
+      "Fixed subcutaneous nodules",
+      "Digital necrosis",
+      "Palpable purpura",
+      "Ulceration with overlying eschar"
+    ],
+    "correctIndex": 2,
+    "explanation": "The most common clinical manifestation of CSVV is palpable purpura [8], [9]."
+  },
+  {
+    "id": 7,
+    "chapterId": 25,
+    "question": "The skin lesions of Cutaneous Small Vessel Vasculitis (CSVV) usually appear how long after the inciting event?",
+    "options": [
+      "Within hours",
+      "7–10 days",
+      "1 month",
+      "6 months"
+    ],
+    "correctIndex": 1,
+    "explanation": "The skin lesions of CSVV usually appear 7–10 days after the inciting event [10]."
+  },
+  {
+    "id": 8,
+    "chapterId": 25,
+    "question": "The pathogenesis of ANCA-associated vasculitis is distinguished from immune complex-mediated vasculitis by which feature?",
+    "options": [
+      "It primarily involves large vessels.",
+      "Vessel damage is directly mediated by neutrophils, resulting in \"pauci-immune\" disease.",
+      "It requires activation of the classic complement pathway.",
+      "It is defined by deposition of IgA in the vessel walls."
+    ],
+    "correctIndex": 1,
+    "explanation": "In ANCA-associated vasculitis, vessel wall damage is directly mediated by neutrophils rather than by immune complex deposition, hence the term “pauci-immune” vasculitis [11], [12]."
+  },
+  {
+    "id": 9,
+    "chapterId": 25,
+    "question": "Which cytokine is involved in ANCA-mediated vasculitis by priming neutrophils and endothelial cells to express adhesion molecules?",
+    "options": [
+      "Interleukin-4 (IL-4)",
+      "Tumor necrosis factor (TNF)",
+      "Transforming growth factor beta (TGF-β)",
+      "Interleukin-10 (IL-10)"
+    ],
+    "correctIndex": 1,
+    "explanation": "In ANCA-mediated vasculitis, following primary activation by cytokines such as tumor necrosis factor (TNF), intracellular proteins from neutrophils... become expressed on the cell surface [12]."
+  },
+  {
+    "id": 10,
+    "chapterId": 25,
+    "question": "Which clinical finding most strongly suggests involvement of medium-sized vessels in cutaneous vasculitis?",
+    "options": [
+      "Palpable purpura limited to the ankles",
+      "Macular petechiae that are non-blanching",
+      "Livedo racemosa, retiform purpura, or ulcers",
+      "Transient urticarial papules that resolve within 24 hours"
+    ],
+    "correctIndex": 2,
+    "explanation": "In medium-sized vessel vasculitis, the affected blood vessels reside within the reticular dermis or subcutis... it typically presents with livedo racemosa, retiform purpura, ulcers, subcutaneous nodules, and/or digital necrosis [13]."
+  },
+  {
+    "id": 11,
+    "chapterId": 25,
+    "question": "A skin biopsy for Direct Immunofluorescence (DIF) is ideally obtained from lesions of small vessel vasculitis within which time frame to maximize detection of immunoreactants?",
+    "options": [
+      "Within 4 hours of onset",
+      "Within the first 24 to 48 hours of appearance",
+      "After 72 hours but before 1 week",
+      "Only after systemic symptoms have begun"
+    ],
+    "correctIndex": 1,
+    "explanation": "For routine processing and DIF, lesions should be biopsied within the first 24 to 48 hours of appearance. Immunoglobulin deposition is highest (up to 100%) in skin lesions present for ≤ 48 hours."
+  },
+  {
+    "id": 12,
+    "chapterId": 25,
+    "question": "Which systemic manifestation is characteristic of small vessel disease, rather than medium-sized vessel vasculitis?",
+    "options": [
+      "Renal artery aneurysms",
+      "Renovascular hypertension",
+      "Glomerulonephritis",
+      "Digital necrosis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Systemic manifestations tend to correlate with the size of the affected blood vessels; for example, glomerulonephritis is a manifestation of small vessel disease, while renal artery aneurysms and renovascular hypertension are features of medium-sized vessel vasculitis [16]."
+  },
+  {
+    "id": 13,
+    "chapterId": 25,
+    "question": "In ANCA-associated vasculitis, the skin biopsy for Direct Immunofluorescence (DIF) is typically:",
+    "options": [
+      "Positive for IgA deposition",
+      "Positive for C3 and IgM",
+      "Negative (pauci-immune)",
+      "Diagnostic for IgE complexes"
+    ],
+    "correctIndex": 2,
+    "explanation": "In patients with ANCA-associated vasculitis, the DIF of lesional skin is usually negative [15]."
+  },
+  {
+    "id": 14,
+    "chapterId": 25,
+    "question": "IgA vasculitis (Henoch–Schönlein purpura) is defined by which key pathologic feature?",
+    "options": [
+      "IgM and IgG immune complex deposition",
+      "IgA-dominant immune deposits in the small vessel walls",
+      "ANCA-mediated pauci-immune infiltration",
+      "Granulomatous inflammation of the vessel wall"
+    ],
+    "correctIndex": 1,
+    "explanation": "IgA vasculitis (IgAV), also referred to as Henoch–Schönlein purpura (HSP), is a type of vasculitis affecting small blood vessels in which vascular IgA deposition is a key diagnostic and pathophysiologic feature [7]."
+  },
+  {
+    "id": 15,
+    "chapterId": 25,
+    "question": "The development of nephritis in IgA vasculitis typically occurs within which time frame after the appearance of cutaneous lesions?",
+    "options": [
+      "Within 1 week",
+      "Within the first month of diagnosis (85%)",
+      "After 6 months",
+      "1 year later"
+    ],
+    "correctIndex": 1,
+    "explanation": "Renal involvement usually appears within the first month of diagnosis (85%) and develops within six months in > 95% of patients."
+  },
+  {
+    "id": 16,
+    "chapterId": 25,
+    "question": "Which factor in children with IgA vasculitis is identified as a risk factor for the development of nephritis?",
+    "options": [
+      "Age <2 years at onset",
+      "Female sex",
+      "Severe gastrointestinal symptoms",
+      "Isolated palpable purpura"
+    ],
+    "correctIndex": 2,
+    "explanation": "In pediatric patients, risk factors for the development of nephritis include male sex, age > 10 years at onset, severe gastrointestinal symptoms, arthritis/arthralgia, persistent or recurrent purpura, and several laboratory abnormalities [17]."
+  },
+  {
+    "id": 17,
+    "chapterId": 25,
+    "question": "Which medication is NOT effective in preventing renal disease due to IgA vasculitis and is therefore not recommended for this specific purpose?",
+    "options": [
+      "Prednisone (systemic corticosteroids)",
+      "ACE inhibitor",
+      "Angiotensin receptor blocker (ARB)",
+      "Dapsone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Corticosteroids have not been shown to be effective in preventing renal disease due to IgAV and are therefore not recommended [18]."
+  },
+  {
+    "id": 18,
+    "chapterId": 25,
+    "question": "Acute Hemorrhagic Edema of Infancy (AHEI) most commonly affects children within which age range?",
+    "options": [
+      "Birth to 4 months",
+      "4 to 24 months",
+      "2 to 5 years",
+      "5 to 10 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "Acute hemorrhagic edema of infancy (AHEI) is an unusual form of small vessel vasculitis that usually affects children 4 to 24 months of age [19]."
+  },
+  {
+    "id": 19,
+    "chapterId": 25,
+    "question": "The hallmark clinical features distinguishing Acute Hemorrhagic Edema of Infancy (AHEI) from IgA Vasculitis include:",
+    "options": [
+      "Chronic renal failure and severe abdominal pain",
+      "Tender, non-pitting edema of acral sites and targetoid purpuric plaques",
+      "Persistent purpura lasting months and frank arthritis",
+      "Fever, leukocytosis, and profound illness"
+    ],
+    "correctIndex": 1,
+    "explanation": "AHEI key features include annular, circular, or targetoid purpuric plaques on the face and extremities, and tender, non-pitting edema of acral sites [20]. Children typically do not appear ill [21]."
+  },
+  {
+    "id": 20,
+    "chapterId": 25,
+    "question": "Urticarial vasculitis is clinically distinguished from typical chronic urticaria by the persistence of individual wheal-like lesions for:",
+    "options": [
+      "Less than 12 hours",
+      "Less than 24 hours",
+      "More than 24 hours",
+      "Exactly 7 days"
+    ],
+    "correctIndex": 2,
+    "explanation": "Urticarial vasculitis is distinguished from chronic urticaria by the persistence of individual lesions beyond 24 hours [22]."
+  },
+  {
+    "id": 21,
+    "chapterId": 25,
+    "question": "The hypocomplementemic form of urticarial vasculitis (HUVS) is strongly associated with which autoimmune connective tissue disease?",
+    "options": [
+      "Psoriatic arthritis",
+      "Rheumatoid arthritis (RA)",
+      "Systemic lupus erythematosus (SLE)",
+      "Systemic sclerosis"
+    ],
+    "correctIndex": 2,
+    "explanation": "The hypocomplementemic urticarial vasculitis syndrome (HUVS) is typically a more severe syndrome... and is associated with autoimmune connective tissue disease, especially systemic lupus erythematosus (SLE) [23], [24]."
+  },
+  {
+    "id": 22,
+    "chapterId": 25,
+    "question": "Which clinical feature is characteristic of Erythema Elevatum Diutinum (EED)?",
+    "options": [
+      "Transient target lesions on the trunk",
+      "Symmetric, violaceous plaques favoring the extensor surfaces of joints",
+      "Painful vesicles and bullae on the face and oral mucosa",
+      "Non-blanchable petechiae that are strongly pruritic"
+    ],
+    "correctIndex": 1,
+    "explanation": "The typical cutaneous lesions of EED are violaceous, red–brown or yellowish papules, plaques, or nodules that are symmetrically distributed. They favor acral and periarticular sites, in particular the extensor surfaces of the elbows, knees, ankles, hands, and fingers [25]."
+  },
+  {
+    "id": 23,
+    "chapterId": 25,
+    "question": "The histopathology of late-stage Erythema Elevatum Diutinum (EED) is characterized by a fibrosing leukocytoclastic vasculitis with prominent:",
+    "options": [
+      "Epidermal bulla formation",
+      "Transmural eosinophilic infiltration",
+      "Granulation tissue and perivascular/concentric fibrosis",
+      "Sarcoidal granulomas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Older lesions [of EED] are characterized by the presence of granulation tissue and perivascular, concentric, or storiform fibrosis plus mixed inflammation [26]."
+  },
+  {
+    "id": 24,
+    "chapterId": 25,
+    "question": "Erythema Elevatum Diutinum (EED) is strongly associated with which specific hematologic disorder?",
+    "options": [
+      "Chronic lymphocytic leukemia (CLL)",
+      "IgA monoclonal gammopathy",
+      "Essential thrombocythemia",
+      "Acute myeloid leukemia"
+    ],
+    "correctIndex": 1,
+    "explanation": "EED has been described in association with... hematologic disorders, especially IgA monoclonal gammopathy [27]."
+  },
+  {
+    "id": 25,
+    "chapterId": 25,
+    "question": "Cryoglobulinemic vasculitis involving small and medium-sized vessels (Types II and III) is most commonly secondary to infection with:",
+    "options": [
+      "Hepatitis B virus (HBV)",
+      "Hepatitis C virus (HCV)",
+      "Human immunodeficiency virus (HIV)",
+      "Epstein–Barr virus (EBV)"
+    ],
+    "correctIndex": 1,
+    "explanation": "While 40%–60% of patients with HCV infection have cryoglobulinemia, overt cryoglobulinemic vasculitis develops in 5% – 30% of these individuals."
+  },
+  {
+    "id": 26,
+    "chapterId": 25,
+    "question": "In Granulomatosis with Polyangiitis (GPA), the most commonly detected ANCA pattern and antigen specificity are:",
+    "options": [
+      "p-ANCA, anti-MPO",
+      "c-ANCA, anti-PR3",
+      "p-ANCA, anti-elastase",
+      "ANCA-negative"
+    ],
+    "correctIndex": 1,
+    "explanation": "Patients with GPA most frequently have circulating c-ANCAs and anti-PR3 antibodies [29], [30]."
+  },
+  {
+    "id": 27,
+    "chapterId": 25,
+    "question": "Which feature is classically present in Granulomatosis with Polyangiitis (GPA) but absent in Microscopic Polyangiitis (MPA)?",
+    "options": [
+      "Pauci-immune glomerulonephritis",
+      "Constitutional symptoms (fever, malaise)",
+      "Necrotizing granulomatous inflammation of the respiratory tracts",
+      "Purpuric macules and papules"
+    ],
+    "correctIndex": 2,
+    "explanation": "GPA is classically described as the triad of **granulomatous inflammation** of the upper and lower respiratory tracts, systemic necrotizing vasculitis, and pauci-immune glomerulonephritis [30]. Granulomatous inflammation is absent in MPA [31]."
+  },
+  {
+    "id": 28,
+    "chapterId": 25,
+    "question": "Microscopic Polyangiitis (MPA) is most frequently associated with which ANCA pattern and antigen specificity?",
+    "options": [
+      "p-ANCA, anti-MPO",
+      "c-ANCA, anti-PR3",
+      "ANCA-negative",
+      "p-ANCA, anti-lactoferrin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Anti-MPO antibodies (55%–65% of patients) are detected more often than anti-PR3 antibodies (20%–30%) in MPA (p-ANCA) [31]."
+  },
+  {
+    "id": 29,
+    "chapterId": 25,
+    "question": "Eosinophilic Granulomatosis with Polyangiitis (EGPA) is distinguished by a prodromal phase characterized by:",
+    "options": [
+      "Severe renal failure and hematuria",
+      "Recurrent episodes of mononeuritis multiplex",
+      "Asthma and allergic rhinitis",
+      "Necrotizing vasculitis of the upper respiratory tract"
+    ],
+    "correctIndex": 2,
+    "explanation": "EGPA is distinguished by an association with asthma and eosinophilia. The prodromal phase involves symptoms of allergic rhinitis, nasal polyps, and asthma [32], [33]."
+  },
+  {
+    "id": 30,
+    "chapterId": 25,
+    "question": "The characteristic histologic feature of Polyarteritis Nodosa (PAN) in the skin involves segmental necrotizing vasculitis of which specific vessel size?",
+    "options": [
+      "Capillaries and postcapillary venules (small vessels)",
+      "Medium-sized muscular arteries in the deep dermis/subcutis",
+      "Aorta and named large arteries",
+      "Arterioles in the papillary dermis"
+    ],
+    "correctIndex": 1,
+    "explanation": "The histology of PAN is characterized by segmental necrotizing vasculitis of medium-sized muscular arteries [34]. In the skin, affected medium-sized vessels are located within the deep dermis and subcutaneous fat [34]."
+  },
+  {
+    "id": 1,
+    "chapterId": 26,
+    "question": "Histologically, neutrophilic dermatoses are characterized by perivascular and diffuse dermal or subcutaneous neutrophilic infiltrates without the presence of:",
+    "options": [
+      "Identifiable infectious agents",
+      "Leukocytoclasia",
+      "Fibrinoid necrosis",
+      "Associated edema"
+    ],
+    "correctIndex": 0,
+    "explanation": "Histologically, these disorders are characterized by perivascular and diffuse dermal or subcutaneous neutrophilic infiltrates without identifiable infectious agents."
+  },
+  {
+    "id": 2,
+    "chapterId": 26,
+    "question": "Granulocyte colony-stimulating factor (G-CSF) plays a critical role in regulating the development of which cell type?",
+    "options": [
+      "Eosinophils",
+      "Basophils",
+      "Neutrophils",
+      "Monocytes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Granulocyte colony-stimulating factor (G-CSF) plays a critical role in regulation of neutrophil development."
+  },
+  {
+    "id": 3,
+    "chapterId": 26,
+    "question": "Which term refers to the process where neutrophils set extracellular traps composed of histones and antimicrobial granular proteins?",
+    "options": [
+      "Apoptosis",
+      "NETosis",
+      "Phagocytosis",
+      "Diapedesis"
+    ],
+    "correctIndex": 1,
+    "explanation": "NETosis also occurs, representing the process of setting neutrophil extracellular traps; these traps are composed of histones and antimicrobial granular and cytoplasmic proteins."
+  },
+  {
+    "id": 4,
+    "chapterId": 26,
+    "question": "The contents of primary (azurophilic) granules, which are acquired at the promyelocyte stage of neutrophil maturation, include:",
+    "options": [
+      "Myeloperoxidase, lysozyme, and defensins",
+      "Lactoferrin and neutrophil collagenase",
+      "Gelatinase B (MMP9)",
+      "Vascular cell adhesion molecule (VCAM)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Primary (azurophilic) granules – acquired at the promyelocyte stage and their contents include myeloperoxidase, lysozyme, neutrophil elastase, defensins, proteinase 3, cathepsin 3, and bactericidal/permeability-increasing protein."
+  },
+  {
+    "id": 5,
+    "chapterId": 26,
+    "question": "Which proinflammatory cytokine plays a key role in neutrophilic inflammation by upregulating G-CSF activity and enhancing production of IL-8?",
+    "options": [
+      "IL-1β",
+      "TNF",
+      "IL-17",
+      "IL-23"
+    ],
+    "correctIndex": 2,
+    "explanation": "Proinflammatory cytokines that play a key role in neutrophilic inflammation include IL-1β, TNF, and IL-17. The latter [IL-17] upregulates G-CSF activity, which is important for neutrophil differentiation and release, and it enhances production of IL-8."
+  },
+  {
+    "id": 6,
+    "chapterId": 26,
+    "question": "Sweet syndrome is defined as Acute Febrile Neutrophilic Dermatosis. Which systemic sign is common (≥50%) in this condition?",
+    "options": [
+      "Fever and Leukocytosis",
+      "Aseptic meningitis",
+      "Mesangial glomerulonephritis",
+      "Sensorineural hearing loss"
+    ],
+    "correctIndex": 0,
+    "explanation": "Common (≥50%) systemic manifestations of Sweet syndrome include Fever and Leukocytosis."
+  },
+  {
+    "id": 7,
+    "chapterId": 26,
+    "question": "Sweet syndrome disproportionately affects women, with a reported female to male predominance of:",
+    "options": [
+      "4 to 1",
+      "2 to 1",
+      "1 to 1",
+      "1 to 3"
+    ],
+    "correctIndex": 0,
+    "explanation": "The average age of onset is 30–60 years... there is a female predominance of 4 to 1."
+  },
+  {
+    "id": 8,
+    "chapterId": 26,
+    "question": "Histologically, the characteristic presentation of Sweet syndrome is a dense, diffuse dermal infiltrate predominantly composed of neutrophils without definitive evidence of:",
+    "options": [
+      "Leukocytoclasia",
+      "Dermal edema",
+      "A dense perivascular infiltrate",
+      "Vasculitis"
+    ],
+    "correctIndex": 3,
+    "explanation": "The characteristic histologic presentation is a dense, diffuse dermal nodular and perivascular neutrophilic infiltrate without evidence of vasculitis, although occasionally leukocytoclastic vasculitis (LCV) can be observed."
+  },
+  {
+    "id": 9,
+    "chapterId": 26,
+    "question": "Which malignancy category is the most frequent associated disorder with Sweet syndrome (15%–30% of cases)?",
+    "options": [
+      "Hematologic malignancies (e.g., AML)",
+      "Solid organ carcinomas (e.g., lung)",
+      "Cutaneous T-cell lymphoma",
+      "Melanoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "At least half of patients have an identifiable associated disorder or trigger: 15%–30% have an internal malignancy (hematologic >> solid organ)."
+  },
+  {
+    "id": 10,
+    "chapterId": 26,
+    "question": "Which severe clinical manifestation is a recognized variant of Sweet syndrome that may mimic necrotizing fasciitis?",
+    "options": [
+      "Subcutaneous Sweet syndrome",
+      "Targetoid variant",
+      "Necrotizing neutrophilic dermatosis",
+      "Pseudovesicular appearance"
+    ],
+    "correctIndex": 2,
+    "explanation": "A subset of patients, often with systemic involvement, can develop lesions that mimic necrotizing fasciitis, referred to as necrotizing neutrophilic dermatosis."
+  },
+  {
+    "id": 11,
+    "chapterId": 26,
+    "question": "Which drug class is listed among the most common triggers for drug-induced Sweet syndrome?",
+    "options": [
+      "Colony stimulating factors (e.g., G-CSF)",
+      "NSAIDs (e.g., celecoxib)",
+      "Antibiotics (e.g., minocycline)",
+      "TNF inhibitors (e.g., adalimumab)"
+    ],
+    "correctIndex": 0,
+    "explanation": "The most common associated drugs are Colony stimulating factors (e.g. G-CSF, GM-CSF, pegfilgrastim) and All-trans-retinoic acid (ATRA) > other retinoids."
+  },
+  {
+    "id": 12,
+    "chapterId": 26,
+    "question": "A relapsing localized variant of Sweet syndrome has been described to occur within areas of lymphedema or at sites of:",
+    "options": [
+      "Prior exposure to ultraviolet light",
+      "Orthopedic implants",
+      "Deep vein thrombosis",
+      "Previous arthropod bites"
+    ],
+    "correctIndex": 1,
+    "explanation": "A relapsing localized variant can develop within areas of lymphedema or at sites of orthopedic implants."
+  },
+  {
+    "id": 13,
+    "chapterId": 26,
+    "question": "Which of the following is NOT a major criterion for the diagnosis of Sweet syndrome, according to the widely accepted criteria?",
+    "options": [
+      "Abrupt onset of typical cutaneous lesions",
+      "Histopathology consistent with Sweet syndrome",
+      "Excellent response to systemic corticosteroids",
+      "Both major criteria are required"
+    ],
+    "correctIndex": 2,
+    "explanation": "The major criteria are: 1. Abrupt onset of typical cutaneous lesions and 2. Histopathology consistent with Sweet syndrome. Excellent response to systemic corticosteroids is a minor criterion."
+  },
+  {
+    "id": 14,
+    "chapterId": 26,
+    "question": "The histiocytoid variant of Sweet syndrome is characterized by cells that represent immature myeloid cells and stain positively for:",
+    "options": [
+      "Factor VIII",
+      "CD30",
+      "Myeloperoxidase (MPO)",
+      "S100"
+    ],
+    "correctIndex": 2,
+    "explanation": "The histiocytoid variant is characterized by a dermal... infiltrate composed of histiocyte-like immature myeloid cells. These cells have myeloperoxidase activity."
+  },
+  {
+    "id": 15,
+    "chapterId": 26,
+    "question": "What is the most effective first-line systemic therapy for Sweet syndrome, typically initiated at a dose of 0.5–1.0 mg/kg/day?",
+    "options": [
+      "Dapsone",
+      "Oral prednisone",
+      "Colchicine",
+      "Potassium iodide"
+    ],
+    "correctIndex": 1,
+    "explanation": "The most effective therapy for Sweet syndrome is oral prednisone (0.5–1.0 mg/kg/day) for 2–6 weeks."
+  },
+  {
+    "id": 16,
+    "chapterId": 26,
+    "question": "The characteristic lesion of Pyoderma Gangrenosum (PG) is an expanding ulcer with an irregular, necrotic undermined border, and a base that may be:",
+    "options": [
+      "Hyperkeratotic and fissured",
+      "Purulent or vegetative",
+      "Fixed and hemorrhagic",
+      "Dusky and non-inflammatory"
+    ],
+    "correctIndex": 1,
+    "explanation": "Characteristic lesion is an expanding ulcer with a necrotic undermined border; the base may be purulent or vegetative."
+  },
+  {
+    "id": 17,
+    "chapterId": 26,
+    "question": "Nearly half of patients with Pyoderma Gangrenosum have an underlying systemic disease, most commonly involving:",
+    "options": [
+      "Autoimmune thyroiditis",
+      "Sarcoidosis",
+      "Systemic lupus erythematosus",
+      "Inflammatory bowel disease, arthritis, or a hematologic disorder"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nearly half of the patients have an underlying systemic disease, most commonly inflammatory bowel disease, arthritis, or a hematologic disorder."
+  },
+  {
+    "id": 18,
+    "chapterId": 26,
+    "question": "The bullous variant of PG (atypical PG) frequently favors the face and upper extremities and occurs most commonly in the setting of:",
+    "options": [
+      "Rheumatoid arthritis",
+      "Acute myelogenous leukemia and myelodysplasia",
+      "Crohn disease",
+      "Hepatitis C virus infection"
+    ],
+    "correctIndex": 1,
+    "explanation": "The bullous variant... occurs most commonly in the setting of acute myelogenous leukemia, myelodysplasia, IgA monoclonal gammopathy, and myeloproliferative disorders."
+  },
+  {
+    "id": 19,
+    "chapterId": 26,
+    "question": "The phenomenon where new lesions develop in PG following minor trauma, such as needle sticks, is known as:",
+    "options": [
+      "Pathergy",
+      "Koebner phenomenon",
+      "Nikolsky sign",
+      "Darier sign"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pathergy is seen in 20%–30% of patients with PG and not only does this phenomenon lead to new cutaneous lesions but it can also aggravate them."
+  },
+  {
+    "id": 20,
+    "chapterId": 26,
+    "question": "In patients with typical (classic) Pyoderma Gangrenosum, the ulcers most frequently occur on which body site?",
+    "options": [
+      "The face and neck",
+      "The trunk and axillae",
+      "The palms and soles",
+      "The lower extremities, especially the pretibial area"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cutaneous lesions are painful and most frequently occur on the lower extremities in patients with typical (classic) PG, especially the pretibial area."
+  },
+  {
+    "id": 21,
+    "chapterId": 26,
+    "question": "Healing of Pyoderma Gangrenosum ulcers typically results in which distinctive skin finding?",
+    "options": [
+      "Hypertrophic scars and keloids",
+      "Atrophic cribriform pigmented scars",
+      "Pustular plaques with surrounding edema",
+      "Annular, non-scarring erythema"
+    ],
+    "correctIndex": 1,
+    "explanation": "Re-epithelialization occurs from the margins and the ulcers heal with atrophic cribriform pigmented scars."
+  },
+  {
+    "id": 22,
+    "chapterId": 26,
+    "question": "Which medication, alongside systemic corticosteroids, is considered a first-line therapeutic option for severe Pyoderma Gangrenosum, based upon an evidence-based review?",
+    "options": [
+      "Cyclosporine",
+      "Methotrexate",
+      "Dapsone",
+      "Colchicine"
+    ],
+    "correctIndex": 0,
+    "explanation": "The standard medical treatment of PG is local or combined local and systemic corticosteroid therapy, with or without adjunctive systemic therapy; based upon an evidence-based review, cyclosporine is also considered first-line therapy."
+  },
+  {
+    "id": 23,
+    "chapterId": 26,
+    "question": "In the Delphi Consensus Criteria for PG diagnosis, which feature is listed as a major criterion?",
+    "options": [
+      "Cribriform or wrinkled paper scars at healed ulcer sites",
+      "Progressive course",
+      "Absence of relevant differential diagnoses",
+      "Amelioration due to immunosuppressant"
+    ],
+    "correctIndex": 2,
+    "explanation": "Major criterion [Delphi Consensus]: Absence of relevant differential diagnoses."
+  },
+  {
+    "id": 24,
+    "chapterId": 26,
+    "question": "Behçet disease is geographically most prevalent in regions along which ancient trade route?",
+    "options": [
+      "The Amber Road",
+      "The Silk Route",
+      "The Spice Route",
+      "The Trans-Saharan Trade Route"
+    ],
+    "correctIndex": 1,
+    "explanation": "Most patients are from regions along the ancient Silk Route, which stretched from the Korean peninsula and Japan to the Mediterranean Sea."
+  },
+  {
+    "id": 25,
+    "chapterId": 26,
+    "question": "Which clinical manifestation is listed as the major criterion required for the diagnosis of Behçet disease, according to the International Study Group criteria?",
+    "options": [
+      "Recurrent genital ulceration",
+      "Ocular lesions (e.g., uveitis)",
+      "Positive pathergy test",
+      "Recurrent oral ulceration (aphthous stomatitis)"
+    ],
+    "correctIndex": 3,
+    "explanation": "The major criterion required is Recurrent oral ulceration: Aphthous (idiopathic) oral ulceration observed by physician or patient, recurring at least three times in a 12-month period."
+  },
+  {
+    "id": 26,
+    "chapterId": 26,
+    "question": "In Behçet disease, which ocular finding is described as the most characteristic, often leading to severe morbidity and potential blindness?",
+    "options": [
+      "Conjunctivitis",
+      "Posterior uveitis",
+      "Scleritis",
+      "Anterior uveitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Posterior uveitis (most characteristic ocular finding) [is seen in Behçet disease]."
+  },
+  {
+    "id": 27,
+    "chapterId": 26,
+    "question": "Bowel-associated dermatosis–arthritis syndrome (BADAS) is thought to be mediated by resultant immune complexes containing:",
+    "options": [
+      "Bacterial antigens",
+      "Immunoglobulin A (IgA)",
+      "Neutrophil elastase",
+      "Fibrinogen"
+    ],
+    "correctIndex": 0,
+    "explanation": "It is postulated that resultant immune complexes containing bacterial antigens are then deposited within the skin and synovium."
+  },
+  {
+    "id": 28,
+    "chapterId": 26,
+    "question": "The characteristic skin lesions of BADAS (erythematous macules progressing to papules and purpuric vesiculopustules) typically appear within how long after constitutional symptoms begin?",
+    "options": [
+      "12 hours",
+      "48 hours",
+      "7 to 10 days",
+      "4 to 6 weeks"
+    ],
+    "correctIndex": 1,
+    "explanation": "The characteristic skin lesions are erythematous macules which progress to papules and purpuric vesiculopustules within 48 hours and last for 2–4 weeks."
+  },
+  {
+    "id": 29,
+    "chapterId": 26,
+    "question": "The acronym SAPHO syndrome stands for Synovitis, Acne, Pustulosis, Hyperostosis, and:",
+    "options": [
+      "Ophthalmopathy",
+      "Osteomyelitis",
+      "Otorrhea",
+      "Osteitis"
+    ],
+    "correctIndex": 3,
+    "explanation": "The acronym SAPHO (synovitis, acne, pustulosis, hyperostosis and osteitis) syndrome was coined to describe this clinicoradiologic entity that involves skin, bone, and joints."
+  },
+  {
+    "id": 30,
+    "chapterId": 26,
+    "question": "Erosive Pustular Dermatosis (EPD) most commonly develops within which specific location on older adults?",
+    "options": [
+      "The feet and ankles (stasis dermatitis area)",
+      "Photodamaged, atrophic skin of the midline scalp",
+      "The intertriginous folds (axillae and groin)",
+      "The dorsal hands (similar to neutrophilic dermatosis of the dorsal hands)"
+    ],
+    "correctIndex": 1,
+    "explanation": "The most common site of involvement is the photodamaged skin of the midline scalp in an elderly adult."
+  },
+  {
+    "id": 1,
+    "chapterId": 27,
+    "question": "What is the typical size and nuclear structure of an eosinophil leukocyte?",
+    "options": [
+      "~5–8 microns with a polysegmented nucleus",
+      "~10–16 microns with a segmented (usually bi-lobed) nucleus",
+      "~20–25 microns with an unsegmented, large nucleus",
+      "~10–16 microns with a ring-shaped nucleus"
+    ],
+    "correctIndex": 1,
+    "explanation": "The eosinophil is a leukocyte approximately 10–16 microns in diameter that possesses a segmented (usually bi-lobed) nucleus [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 27,
+    "question": "Under normal conditions, the circulating eosinophil count in human blood ranges from:",
+    "options": [
+      "0 to 50 cells/mcl",
+      "0 to 500 cells/mcl",
+      "500 to 1500 cells/mcl",
+      "1500 to 5000 cells/mcl"
+    ],
+    "correctIndex": 1,
+    "explanation": "Under normal conditions, circulating eosinophil counts range from 0 to 500 cells/mcl of human blood [1]."
+  },
+  {
+    "id": 3,
+    "chapterId": 27,
+    "question": "Which cytokine is the most potent activator of eosinophils, followed by IL-3 and IL-5, in order of potency?",
+    "options": [
+      "IL-4",
+      "Granulocyte-macrophage colony-stimulating factor (GM-CSF)",
+      "Interleukin-10 (IL-10)",
+      "Tumor necrosis factor (TNF)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eosinophils are activated by GM-CSF, followed by IL-3, IL-5, TNF, and IL-4, in order of potency [2]."
+  },
+  {
+    "id": 4,
+    "chapterId": 27,
+    "question": "Glucocorticoids help treat eosinophil-driven conditions, in part by inducing which process in eosinophils?",
+    "options": [
+      "Chemotaxis",
+      "Prolonged survival",
+      "Apoptosis",
+      "Granulocyte colony-stimulating factor (G-CSF) release"
+    ],
+    "correctIndex": 2,
+    "explanation": "Glucocorticoids can counteract the prolonged survival induced by IL-3, IL-5, and GM-CSF, which may in part explain their therapeutic efficacy in most eosinophil-driven conditions, as they induce apoptosis [2]."
+  },
+  {
+    "id": 5,
+    "chapterId": 27,
+    "question": "Which surface receptors, expressed on eosinophils and mast cells, mediate apoptosis?",
+    "options": [
+      "VLA-4 and VCAM-1",
+      "Toll-like receptors (TLR) 7 and 9",
+      "Siglec-8 and Siglec-10",
+      "CCR-3"
+    ],
+    "correctIndex": 2,
+    "explanation": "The surface receptors sialic acid-binding immunoglobulin-like lectins (Siglec)-8 and -10, which are expressed on eosinophils and mast cells, have been shown to mediate apoptosis [2]."
+  },
+  {
+    "id": 6,
+    "chapterId": 27,
+    "question": "Eotaxins (CCL11, 2, and 3) are crucial chemotactic factors for eosinophils and signal primarily through which receptor?",
+    "options": [
+      "VLA-4",
+      "CCR-3",
+      "FcγRIII (Fc gamma Receptor III)",
+      "P2X4"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eotaxins 1, 2, and 3 signal primarily through C-C chemokine receptor (CCR)-3, which is highly expressed on eosinophils [3, 4]."
+  },
+  {
+    "id": 7,
+    "chapterId": 27,
+    "question": "Eosinophil Major Basic Protein 1 (eMBP1), the constituent of the granules' crystalline cores, performs which specific function?",
+    "options": [
+      "Cleaving ultra-large von Willebrand factor multimers",
+      "Inducing basophil histamine release",
+      "Inhibiting complement activation at C5",
+      "Neutralizing histamine and serotonin"
+    ],
+    "correctIndex": 1,
+    "explanation": "eMBP1 directly damages helminths and mammalian cells [5]. In addition, eMBP1, but none of the other eosinophil granule proteins, induces basophil histamine release [5]."
+  },
+  {
+    "id": 8,
+    "chapterId": 27,
+    "question": "Eosinophil peroxidase (EPO) kills microorganisms in the presence of hydrogen peroxide and halides. This combination of products also initiates secretion from which cell type?",
+    "options": [
+      "Keratinocytes",
+      "T lymphocytes",
+      "Mast cells",
+      "Fibroblasts"
+    ],
+    "correctIndex": 2,
+    "explanation": "Eosinophil peroxidase (EPO) kills numerous microorganisms in the presence of hydrogen peroxide... and halides [6]. This combination of products also initiates mast cell secretion [6]."
+  },
+  {
+    "id": 9,
+    "chapterId": 27,
+    "question": "Cytolytic degranulation, which occurs in hypereosinophilic syndromes (HES) and atopic dermatitis, is characterized by extensive deposition of eosinophil granule products and:",
+    "options": [
+      "Fusion of mast cells and basophils",
+      "Organelle rupture and loss of morphologic integrity of the eosinophil nucleus",
+      "Increased surface expression of VCAM-1",
+      "Conversion of arachidonic acid to leukotriene B4"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cytolytic degranulation is characterized by organelle rupture, chromatolysis of nuclei with loss of morphologic integrity, and extensive deposition of eosinophil granules and granule products within tissue [7, 8]."
+  },
+  {
+    "id": 10,
+    "chapterId": 27,
+    "question": "Which adhesion molecule is constitutively expressed by eosinophils to facilitate their transmigration across blood vessels by adhering to endothelial VCAM-1?",
+    "options": [
+      "Very late antigen (VLA)-4",
+      "P-selectin",
+      "ICAM-1",
+      "Charcot–Leyden crystal protein"
+    ],
+    "correctIndex": 0,
+    "explanation": "Eosinophils constitutively express very late antigen (VLA)-4, the ligand for vascular cell adhesion molecule (VCAM)-1, which is important for transmigration [3]."
+  },
+  {
+    "id": 11,
+    "chapterId": 27,
+    "question": "Mucocutaneous lesions occur in over 50% of patients with Hypereosinophilic Syndromes (HES), most commonly presenting as:",
+    "options": [
+      "Fixed brown hyperpigmentation and alopecia",
+      "Pruritic erythematous papules or nodules, urticaria, and angioedema",
+      "Palpable purpura limited to the lower extremities",
+      "Subcorneal pustules without pruritus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mucocutaneous lesions occur in over 50% of patients with hypereosinophilic syndromes (HESs), most commonly presenting as pruritic erythematous papules or nodules, urticaria, angioedema, and/or mucosal ulcers [9, 10]."
+  },
+  {
+    "id": 12,
+    "chapterId": 27,
+    "question": "Histologically, the hallmark finding of Wells syndrome (Eosinophilic cellulitis) is the presence of:",
+    "options": [
+      "Dense, diffuse dermal nodular neutrophilic infiltrates",
+      "Extensive subepidermal bullae due to basement membrane antibodies",
+      "Foci of amorphous/granular material termed 'flame figures'",
+      "Segmental necrotizing vasculitis of medium-sized arteries"
+    ],
+    "correctIndex": 2,
+    "explanation": "Histologically, a diffuse dermal infiltrate composed of eosinophils and histiocytes is seen as are foci of amorphous/granular material, termed “flame figures”, which reflect localized degranulation of eosinophils [11]. The classic histopathologic findings consist of a diffuse dermal infiltrate of eosinophils plus characteristic “flame figures” [12]."
+  },
+  {
+    "id": 13,
+    "chapterId": 27,
+    "question": "In Wells syndrome, the markedly edematous plaques most frequently affect which body sites?",
+    "options": [
+      "The face and neck",
+      "The trunk only",
+      "The extremities",
+      "The palms and soles"
+    ],
+    "correctIndex": 2,
+    "explanation": "The extremities are most frequently affected, but involvement of the trunk can also be seen [13]."
+  },
+  {
+    "id": 14,
+    "chapterId": 27,
+    "question": "Patients presenting with Wells syndrome are often misdiagnosed clinically as having:",
+    "options": [
+      "Chronic spontaneous urticaria",
+      "Livedoid vasculopathy",
+      "Erysipelas or acute cellulitis",
+      "Granuloma annulare"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patients are often misdiagnosed as having erysipelas or acute cellulitis [13]. Early on, bacterial cellulitis and erysipelas are the most common clinical mimics [14]."
+  },
+  {
+    "id": 15,
+    "chapterId": 27,
+    "question": "Flame figures, seen in Wells syndrome and other eosinophil-rich dermatoses, histologically consist of:",
+    "options": [
+      "Apoptotic keratinocytes forming membrane-bound vesicles",
+      "Eosinophil granule proteins coating collagen fibers",
+      "Deposits of C3 and C4 complement components",
+      "Microthrombi composed of fibrin and platelets"
+    ],
+    "correctIndex": 1,
+    "explanation": "The characteristic brightly eosinophilic flame figures consist of collagen fibers coated with eosinophil granule proteins [15]. Extracellular eMBP1 from eosinophil granules has been localized to flame figures [15, 16]."
+  },
+  {
+    "id": 16,
+    "chapterId": 27,
+    "question": "Eosinophilic annular erythema (EAE) is considered by many authors to be a subset of which specific eosinophil-associated dermatosis?",
+    "options": [
+      "Urticaria multiforme",
+      "Hypereosinophilic syndrome (HES)",
+      "Wells syndrome",
+      "Atopic dermatitis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Eosinophilic annular erythema (EAE) is also in the differential diagnosis [of Wells syndrome], but this entity is considered by many to be a subset of Wells syndrome [17]."
+  },
+  {
+    "id": 17,
+    "chapterId": 27,
+    "question": "What is the typical first-line treatment for Wells syndrome, known for producing dramatic improvement within a few days?",
+    "options": [
+      "Topical calcineurin inhibitors",
+      "Oral prednisone",
+      "Dapsone",
+      "Anti-IL-5 monoclonal antibodies (e.g., Mepolizumab)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Initial therapy with prednisone 10–80 mg daily results in dramatic improvement within a few days in most patients [18]. Dramatic improvement after administration of systemic corticosteroids is a key feature [12]."
+  },
+  {
+    "id": 18,
+    "chapterId": 27,
+    "question": "Primary (neoplastic) Hypereosinophilic Syndrome (HES), including eosinophilic leukemia, is frequently caused by a fusion gene involving:",
+    "options": [
+      "BCR-ABL",
+      "FIP1L1-PDGFRA",
+      "JAK2 V617F",
+      "HLA-B*15:02"
+    ],
+    "correctIndex": 1,
+    "explanation": "The *FIP1L1-PDGFRA* fusion gene, due to a chromosomal translocation, leads to a constitutively activated tyrosine kinase and is present in patients with primary (neoplastic) HES [19-23]."
+  },
+  {
+    "id": 19,
+    "chapterId": 27,
+    "question": "The *FIP1L1-PDGFRA* fusion protein, a constitutively activated tyrosine kinase, is specifically targeted by which medication?",
+    "options": [
+      "Cyclosporine",
+      "Imatinib mesylate",
+      "Benralizumab",
+      "Interferon-ɑ"
+    ],
+    "correctIndex": 1,
+    "explanation": "The protein product of the *FIP1L1-PDGFRA* fusion gene is a constitutively activated tyrosine kinase that is 100 times more sensitive to inhibition by imatinib [20]. If *FIP1L1-PDGFRA* or other genetic abnormalities involving *PDGFRA* or *PDGFRB* are present, imatinib therapy is warranted [24]."
+  },
+  {
+    "id": 20,
+    "chapterId": 27,
+    "question": "The lymphocytic (lymphoid) subtype of secondary (reactive) HES is characterized by hypereosinophilia driven by clonal T cells producing an excess of which cytokines?",
+    "options": [
+      "Th2 cytokines, particularly IL-5",
+      "Th1 cytokines, particularly IFN-Ɣ",
+      "GM-CSF and IL-1β",
+      "TGF-β and TNF"
+    ],
+    "correctIndex": 0,
+    "explanation": "The lymphocytic (lymphoid) subtype of secondary (reactive) HES is characterized by a clonal proliferation of T cells with increased production of Th2 cytokines, particularly IL-5 [20, 25]."
+  },
+  {
+    "id": 21,
+    "chapterId": 27,
+    "question": "Peripheral blood hypereosinophilia, a diagnostic criterion for HES, is defined as a count greater than:",
+    "options": [
+      "500 times 10^9/µL on one occasion",
+      "1.0 times 10^9/µL on one occasion",
+      "1.5 times 10^9/µL on two examinations at an interval of one month or greater",
+      "5.0 times 10^9/µL on any occasion"
+    ],
+    "correctIndex": 2,
+    "explanation": "Peripheral blood hypereosinophilia is defined as > 1.5 eosinophils times 10^9 µL blood >1500 eosinophils/mcl) on two examinations at an interval of one month or greater."
+  },
+  {
+    "id": 22,
+    "chapterId": 27,
+    "question": "Which complication due to sustained tissue eosinophilia is described as a life-threatening form of end-organ damage in HES?",
+    "options": [
+      "Bullous pemphigoid",
+      "Endomyocardial fibrosis and/or thrombosis",
+      "Severe acne conglobata",
+      "Myasthenia gravis"
+    ],
+    "correctIndex": 1,
+    "explanation": "End-organ damage may occur from sustained tissue eosinophilia, including life-threatening endomyocardial fibrosis and/or thrombosis [20]."
+  },
+  {
+    "id": 23,
+    "chapterId": 27,
+    "question": "Eosinophils elaborate several inflammatory and regulatory cytokines, including which transforming growth factor that is associated with tissue remodeling and fibrosis?",
+    "options": [
+      "IL-4",
+      "TGF-ɑ and TGF-β 1",
+      "IL-12",
+      "IL-10"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eosinophils themselves elaborate important inflammatory and regulatory cytokines, including... TGF-ɑ and TGF-β 1 . Eosinophil infiltration is associated with tissue remodeling and fibrosis [28]."
+  },
+  {
+    "id": 24,
+    "chapterId": 27,
+    "question": "In patients receiving imatinib therapy for HES, which cardiac biomarker should be routinely monitored due to the risk of endomyocardial disease worsening during the first several weeks of treatment?",
+    "options": [
+      "Troponin I",
+      "N-terminal pro-brain natriuretic peptide (NT-proBNP)",
+      "Creatine kinase (CK-MB)",
+      "D-dimer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Because endomyocardial disease may worsen during the first several weeks of imatinib therapy, N-terminal pro-brain natriuretic peptide (NT-proBNP) should be monitored [24, 29]."
+  },
+  {
+    "id": 25,
+    "chapterId": 27,
+    "question": "A key characteristic finding in the histopathology of affected organs in IgG4-related disease (IgG4-RD) is the presence of dense infiltrates of lymphocytes and plasma cells, where IgG4+ to IgG+ plasma cells exceed:",
+    "options": [
+      "10%",
+      "40%",
+      "75%",
+      "90%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Histopathology of affected organ(s)/tissue(s) in IgG4-RD shows IgG4+ to IgG+ plasma cells >40% and >10 IgG4+ plasma cells/hpf."
+  },
+  {
+    "id": 26,
+    "chapterId": 27,
+    "question": "Which cutaneous disorder is proposed as a potential cutaneous manifestation of IgG4-related disease (IgG4-RD)?",
+    "options": [
+      "Bullous Pemphigoid",
+      "Granuloma faciale",
+      "Erythema toxicum neonatorum",
+      "Scabies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Proposed cutaneous manifestations [of IgG4-RD] are granuloma faciale and lesions that resemble angiolymphoid hyperplasia with eosinophilia [31]."
+  },
+  {
+    "id": 27,
+    "chapterId": 27,
+    "question": "Which cutaneous presentation in patients with Hypereosinophilic Syndromes (HES) occurs almost exclusively in the primary (neoplastic) HES variant and suggests thrombosis?",
+    "options": [
+      "Annular erythema centrifugum-like lesions",
+      "Livedo reticularis, retiform purpura, or superficial thrombophlebitis",
+      "Pruritic papules on the face and upper trunk",
+      "Urticaria limited to the trunk"
+    ],
+    "correctIndex": 1,
+    "explanation": "Other cutaneous manifestations include erythema annulare centrifugum-like lesions, livedo reticularis, retiform purpura, and superficial thrombophlebitis, with the thrombotic entities occurring almost exclusively in primary HES [10]. Signs of cutaneous thromboses (e.g., retiform purpura) are noted in Myeloid HES [21]."
+  },
+  {
+    "id": 28,
+    "chapterId": 27,
+    "question": "Eosinophilic dermatosis associated with hematologic malignancy is most common in patients with:",
+    "options": [
+      "Acute myelogenous leukemia (AML)",
+      "Chronic lymphocytic leukemia (CLL)",
+      "Multiple myeloma",
+      "Myelodysplastic syndrome (MDS)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eosinophilic dermatosis associated with hematological disorders is most common in patients with CLL, but reported in patients with other hematologic malignancies [32, 33]."
+  },
+  {
+    "id": 29,
+    "chapterId": 27,
+    "question": "Papuloerythroderma of Ofuji is characterized clinically by widespread, pruritic, red–brown papules with which distinctive feature?",
+    "options": [
+      "Palpable purpura on the lower legs",
+      "Recurrent subcutaneous masses of the head and neck",
+      "Characteristic sparing of the skin folds ('deck-chair' sign)",
+      "Fixed, painful ulcers with undermined borders"
+    ],
+    "correctIndex": 2,
+    "explanation": "Papuloerythroderma of Ofuji is characterized by widespread, pruritic, red–brown papules that may become more confluent with characteristic sparing of the skin folds ('deck-chair' sign) [34]."
+  },
+  {
+    "id": 30,
+    "chapterId": 27,
+    "question": "Which severe eosinophil-associated vasculitis is characterized by prominent IgG4 and IgE responses, peripheral blood eosinophilia, and a history of asthma or allergic rhinitis?",
+    "options": [
+      "Polyarteritis nodosa (PAN)",
+      "Eosinophilic Granulomatosis with Polyangiitis (EGPA) (Churg–Strauss syndrome)",
+      "IgA vasculitis",
+      "Erythema Elevatum Diutinum (EED)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eosinophilic granulomatosis with polyangiitis (EGPA; Churg–Strauss syndrome) presents with peripheral blood eosinophilia; pulmonary (e.g. asthma), neurologic (e.g. mononeuritis multiplex), and cardiac involvement; prominent IgG4 and IgE responses [35, 36]. EGPA is listed as an eosinophil-associated dermatosis [37]."
+  },
+  {
+    "id": 1,
+    "chapterId": 28,
+    "question": "The IgG1 autoantibodies in Gestational Pemphigoid are directed against which transmembrane hemidesmosomal protein?",
+    "options": [
+      "BP230",
+      "BP180; BPAG2; collagen XVII",
+      "Laminin 5",
+      "Type VII collagen"
+    ],
+    "correctIndex": 1,
+    "explanation": "IgG1 autoantibodies in Gestational Pemphigoid are directed against a 180 kDa transmembrane hemidesmosomal protein (BP180; BPAG2; collagen XVII) [1, 2]."
+  },
+  {
+    "id": 2,
+    "chapterId": 28,
+    "question": "What is the essential immunofluorescence finding for the diagnosis of gestational pemphigoid, seen in 100% of patients?",
+    "options": [
+      "Linear IgG along the basement membrane zone (BMZ)",
+      "Granular IgA in the dermis",
+      "Linear C3 deposition along the BMZ",
+      "Granular C3 in the superficial dermis"
+    ],
+    "correctIndex": 2,
+    "explanation": "The essential component for the diagnosis of gestational pemphigoid is a linear deposition of C3 along the BMZ of perilesional skin by direct IF microscopy, which is observed in 100% of patients [3-5]."
+  },
+  {
+    "id": 3,
+    "chapterId": 28,
+    "question": "Gestational Pemphigoid classically presents during late pregnancy with abrupt onset of cutaneous lesions typically within or immediately adjacent to which site?",
+    "options": [
+      "The flexural extremities",
+      "The soles and palms",
+      "The umbilicus",
+      "The face"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gestational pemphigoid classically presents during late pregnancy with an abrupt onset of cutaneous lesions on the trunk, in particular the abdomen and often within or immediately adjacent to the umbilicus [5, 6]."
+  },
+  {
+    "id": 4,
+    "chapterId": 28,
+    "question": "In what percentage of patients with Gestational Pemphigoid does a flare occur at the time of delivery?",
+    "options": [
+      "10%",
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "correctIndex": 3,
+    "explanation": "Spontaneous improvement during late gestation is common, but this is followed by a flare at the time of delivery in 75% of patients [6]."
+  },
+  {
+    "id": 5,
+    "chapterId": 28,
+    "question": "Gestational Pemphigoid is associated with an increased risk of prematurity and small-for-gestational age neonates. This risk correlates with what specific factor?",
+    "options": [
+      "Maternal age > 35 years",
+      "Disease severity (blistering and early onset)",
+      "The presence of anti-HLA antibodies",
+      "Simultaneous presence of HLA DR3 and DR4"
+    ],
+    "correctIndex": 1,
+    "explanation": "There seems to be an increased risk of prematurity and small-for-gestational age neonates, and this risk correlates with disease severity, i.e., occurrence of blistering and early onset [1, 7, 8]."
+  },
+  {
+    "id": 6,
+    "chapterId": 28,
+    "question": "Which term did Milton first use in 1872 for the condition now known as Gestational Pemphigoid?",
+    "options": [
+      "Pemphigoid gestationis",
+      "Herpes gestationis",
+      "Toxaemic rash of pregnancy",
+      "Papular dermatitis of pregnancy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Milton first coined the term 'herpes gestationis' in 1872 [9]."
+  },
+  {
+    "id": 7,
+    "chapterId": 28,
+    "question": "Histologically, the most constant feature of gestational pemphigoid, even in the absence of a subepidermal vesicle, is the presence of a variable number of:",
+    "options": [
+      "Plasma cells",
+      "Neutrophils",
+      "Eosinophils",
+      "Giant cells"
+    ],
+    "correctIndex": 2,
+    "explanation": "The presence of eosinophils is the most constant histologic feature of gestational pemphigoid [3]."
+  },
+  {
+    "id": 8,
+    "chapterId": 28,
+    "question": "The most effective systemic therapy for Gestational Pemphigoid is oral prednisolone, usually started at 0.5 mg/kg daily. Why is prednisolone preferred over other systemic corticosteroids?",
+    "options": [
+      "It has a lower risk of fetal adrenal suppression.",
+      "It is largely inactivated in the placenta (mother:fetus = 10:1).",
+      "It does not cause oral clefts in the first trimester.",
+      "It is not excreted in breast milk."
+    ],
+    "correctIndex": 1,
+    "explanation": "Prednisolone is the systemic corticosteroid of choice for dermatologic indications as it is largely inactivated in the placenta (mother : fetus = 10 : 1) [10, 11]."
+  },
+  {
+    "id": 9,
+    "chapterId": 28,
+    "question": "Polymorphic Eruption of Pregnancy (PEP) is a common gestational dermatosis formerly known by which acronym, which describes its initial clinical findings?",
+    "options": [
+      "AEP",
+      "ICP",
+      "PUPPP",
+      "HUVS"
+    ],
+    "correctIndex": 2,
+    "explanation": "Polymorphic eruption of pregnancy (PEP), formerly known as PUPPP (Pruritic urticarial papules and plaques of pregnancy), is a common gestational dermatosis [12, 13]."
+  },
+  {
+    "id": 10,
+    "chapterId": 28,
+    "question": "The initial lesions of PEP, which typically appear within the abdominal striae, are usually:",
+    "options": [
+      "Tense bullae",
+      "Purpuric papules",
+      "Urticarial papules and plaques",
+      "Widespread eczematous plaques"
+    ],
+    "correctIndex": 2,
+    "explanation": "While pruritic urticarial papules are the initial lesions in almost all patients [14, 15], PEP is characterized by urticarial papules and plaques that usually first appear within striae distensae [12]."
+  },
+  {
+    "id": 11,
+    "chapterId": 28,
+    "question": "Polymorphic Eruption of Pregnancy onset is most often during which time period?",
+    "options": [
+      "First trimester",
+      "Second trimester",
+      "Latter part of the third trimester or immediate postpartum period",
+      "More than 6 months postpartum"
+    ],
+    "correctIndex": 2,
+    "explanation": "Onset is most often during the latter part of the third trimester (85%) or in the immediate postpartum period (15%) [14]."
+  },
+  {
+    "id": 12,
+    "chapterId": 28,
+    "question": "Which characteristic typically distinguishes PEP lesions from Gestational Pemphigoid lesions on the abdomen?",
+    "options": [
+      "Involvement of the umbilicus",
+      "Periumbilical sparing",
+      "The presence of urticarial papules",
+      "The presence of vesicles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pruritic erythematous and edematous papules and plaques usually first appear within the abdominal striae, typically with periumbilical sparing (Fig. 27.4) [14, 15]."
+  },
+  {
+    "id": 13,
+    "chapterId": 28,
+    "question": "PEP has been suggested to be caused by damage to connective tissue in stretched abdominal skin. Which related factor is suggested to prevent recurrence in subsequent pregnancies?",
+    "options": [
+      "Increased progesterone levels",
+      "Fetal DNA deposition (peripheral chimerism)",
+      "Immune tolerance",
+      "Increased maternal weight gain"
+    ],
+    "correctIndex": 2,
+    "explanation": "Immune tolerance during subsequent pregnancies might prevent recurrence [16]."
+  },
+  {
+    "id": 14,
+    "chapterId": 28,
+    "question": "Intrahepatic Cholestasis of Pregnancy (ICP) is the most important diagnosis to exclude in a pregnant patient with pruritus because it is associated with significant fetal risk, specifically increased risk of:",
+    "options": [
+      "Congenital heart defects and neural tube defects",
+      "Intrapartum fetal distress and stillbirths",
+      "Neonatal lupus and permanent skin scarring",
+      "Severe anemia and thrombocytopenia"
+    ],
+    "correctIndex": 1,
+    "explanation": "ICP is associated with significant fetal risk, in particular an increase in premature labor (20%–60%), intrapartal fetal distress (20%–30%), and stillbirths (1%–2%) [17-20]."
+  },
+  {
+    "id": 15,
+    "chapterId": 28,
+    "question": "What is the key clinical characteristic of Intrahepatic Cholestasis of Pregnancy (ICP) upon presentation?",
+    "options": [
+      "Tense bullae on the umbilical area",
+      "Eczematous lesions on flexural surfaces",
+      "Pruritus without primary skin lesions",
+      "Purulent folliculitis of the trunk"
+    ],
+    "correctIndex": 2,
+    "explanation": "ICP is characterized by pruritus without primary skin lesions, with an onset during the third trimester [17, 21]."
+  },
+  {
+    "id": 16,
+    "chapterId": 28,
+    "question": "Pruritus in ICP typically starts on which specific sites?",
+    "options": [
+      "The palms and soles",
+      "The abdominal striae",
+      "The back and buttocks",
+      "The face and scalp"
+    ],
+    "correctIndex": 0,
+    "explanation": "Patients typically present during their last trimester with a sudden onset of intense, generalized pruritus that often starts on the palms and soles [21]."
+  },
+  {
+    "id": 17,
+    "chapterId": 28,
+    "question": "In ICP, fetal risk correlates with serum bile acid levels. Prompt diagnosis and treatment are essential, especially when levels exceed which threshold?",
+    "options": [
+      "Normal non-pregnant range (0-6µ mol/l",
+      "11µ mol/l",
+      "40µ mol/l",
+      "100µ mol/l"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fetal risk correlates with the elevation in serum bile acid levels, especially when levels exceed 40µ mol/l."
+  },
+  {
+    "id": 18,
+    "chapterId": 28,
+    "question": "Which medication is the only successful oral agent to date for treating ICP, though its use is off-label?",
+    "options": [
+      "Dexamethasone",
+      "Oral ursodeoxycholic acid (UDCA)",
+      "Prednisolone",
+      "Cholestyramine"
+    ],
+    "correctIndex": 1,
+    "explanation": "To date, the only successful agent has been oral ursodeoxycholic acid (UDCA) [22, 23]."
+  },
+  {
+    "id": 19,
+    "chapterId": 28,
+    "question": "Why is Cholestyramine contraindicated in the treatment of ICP?",
+    "options": [
+      "It causes severe hypertension.",
+      "It exacerbates pruritus.",
+      "It can further reduce vitamin K absorption and increase bleeding risk.",
+      "It is highly teratogenic."
+    ],
+    "correctIndex": 2,
+    "explanation": "Cholestyramine is contraindicated as it can further reduce vitamin K absorption and increase the risk of bleeding [23]."
+  },
+  {
+    "id": 20,
+    "chapterId": 28,
+    "question": "Atopic Eruption of Pregnancy (AEP) is the most common pruritic disorder during gestation and typically appears earlier than the other pregnancy-related dermatoses, with 75% of patients presenting before the:",
+    "options": [
+      "End of the first trimester",
+      "Second trimester",
+      "Third trimester",
+      "Immediate postpartum period"
+    ],
+    "correctIndex": 2,
+    "explanation": "AEP generally appears earlier than the other pregnancy-related dermatoses (75% before the third trimester) [24-26]."
+  },
+  {
+    "id": 21,
+    "chapterId": 28,
+    "question": "The pathogenesis of AEP is thought to be favored by the physiologic shift during pregnancy towards a dominant immune response driven by:",
+    "options": [
+      "Th1 cytokines (IL-12, IFN-Ɣ",
+      "Th2 cytokines (IL-4, IL-10)",
+      "T regulatory cells",
+      "Neutrophil extracellular traps (NETs)"
+    ],
+    "correctIndex": 1,
+    "explanation": "This natural switch towards a dominant Th2 response, which worsens the imbalance already present in most atopic patients, is thought to favor the development of AEP [27]."
+  },
+  {
+    "id": 22,
+    "chapterId": 28,
+    "question": "In AEP, the eczematous lesions (seen in two-thirds of patients) often involve which typical 'atopic sites'?",
+    "options": [
+      "The face, neck, and flexural aspects of the extremities",
+      "The umbilicus and abdominal striae",
+      "The palms and soles",
+      "The lower legs (pretibial area)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Two-thirds of patients present with eczematous lesions... often involving 'atopic sites' such as the face, neck, and flexural aspects of the extremities [25]."
+  },
+  {
+    "id": 23,
+    "chapterId": 28,
+    "question": "What is the maternal and fetal prognosis for Atopic Eruption of Pregnancy?",
+    "options": [
+      "High risk of prematurity and fetal distress",
+      "High risk of recurrence but excellent prognosis",
+      "Low risk of recurrence but risk of fetal growth restriction",
+      "Associated with autoimmune disease in the mother"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fetal and maternal prognoses are excellent and recurrences in subsequent pregnancies are common [20, 25]."
+  },
+  {
+    "id": 24,
+    "chapterId": 28,
+    "question": "Which former diagnosis of pregnancy dermatosis is now generally recognized as pustular psoriasis, perhaps induced by relative hypocalcemia of pregnancy?",
+    "options": [
+      "Prurigo gestationis",
+      "Impetigo herpetiformis",
+      "Toxaemic rash of pregnancy",
+      "Papular dermatitis of pregnancy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Impetigo herpetiformis is now generally recognized as pustular psoriasis, perhaps induced by the relative hypocalcemia of pregnancy [28]."
+  },
+  {
+    "id": 25,
+    "chapterId": 28,
+    "question": "Which pre-existing dermatosis commonly improves during pregnancy but flares within 6–12 weeks following delivery due to the down-regulation of the Th1 immune response?",
+    "options": [
+      "Atopic dermatitis",
+      "Psoriasis",
+      "Acne",
+      "Rosacea"
+    ],
+    "correctIndex": 1,
+    "explanation": "Psoriasis commonly improves during pregnancy, then flares within 6–12 weeks following delivery. This is explained by the down-regulation of the Th1 immune response during a normal pregnancy [29]."
+  },
+  {
+    "id": 26,
+    "chapterId": 28,
+    "question": "Which non-sedating systemic antihistamine is recommended as the first choice during pregnancy, based on safety data?",
+    "options": [
+      "Diphenhydramine",
+      "Loratadine",
+      "Cetirizine",
+      "Hydroxyzine"
+    ],
+    "correctIndex": 1,
+    "explanation": "If a non-sedating agent is requested, loratadine is the first choice and cetirizine the second choice; both are considered safe throughout pregnancy [30, 31]."
+  },
+  {
+    "id": 27,
+    "chapterId": 28,
+    "question": "Which of the following physiologic changes during pregnancy results from distention, instability, and new vessel formation, and is most pronounced during the third trimester?",
+    "options": [
+      "Melasma",
+      "Linea nigra",
+      "Pyogenic granulomas and spider angiomas",
+      "Postpartum telogen effluvium"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vascular changes, including spider angiomas, palmar erythema, and pyogenic granulomas, result from distention, instability, and new vessel formation. Clinically obvious changes are most pronounced during the third trimester [32]."
+  },
+  {
+    "id": 28,
+    "chapterId": 28,
+    "question": "Which highly teratogenic systemic dermatologic agent is strictly contraindicated in pregnancy, requiring the iPLEDGE Program for risk management?",
+    "options": [
+      "Dapsone",
+      "Cyclosporine",
+      "Methotrexate (for non-neoplastic disease)",
+      "Azathioprine"
+    ],
+    "correctIndex": 2,
+    "explanation": "Methotrexate is contraindicated in pregnancy for non-neoplastic diseases; embryo-fetal toxicity warning. Use effective contraception during and 6 months after the final dose [33, 34]."
+  },
+  {
+    "id": 29,
+    "chapterId": 28,
+    "question": "Which topical retinoid is classified as Category X (Contraindicated in pregnancy) due to teratogenicity in animal studies and potential for embryo-fetal toxicity?",
+    "options": [
+      "Tretinoin",
+      "Adapalene",
+      "Tazarotene",
+      "Azelaic acid"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tazarotene is contraindicated in pregnancy; embryo-fetal toxicity warning. It is classified as former FDA Category X [35, 36]."
+  },
+  {
+    "id": 30,
+    "chapterId": 28,
+    "question": "The use of potent topical corticosteroids during pregnancy should be limited, especially due to a reported risk of fetal growth restriction with extensive use, particularly exceeding what amount during pregnancy?",
+    "options": [
+      "30 g",
+      "100 g",
+      "300 g",
+      "500 g"
+    ],
+    "correctIndex": 2,
+    "explanation": "Because fetal growth restriction has been reported with extensive use of potent corticosteroids, particularly > 300 g during the pregnancy, mild to moderate CS are recommended over potent CS [10]."
+  },
+  {
+    "id": 1,
+    "chapterId": 29,
+    "question": "The epidermal basement membrane (BM) is a highly specialized structure. Which of the following is NOT one of the four distinct ultrastructural subregions identified via transmission electron microscopy?",
+    "options": [
+      "Lamina lucida",
+      "Lamina reticularis",
+      "Lamina densa",
+      "Sublamina densa region"
+    ],
+    "correctIndex": 1,
+    "explanation": "The four distinct subregions of the epidermal basement membrane are: basal keratinocytes, the lamina lucida, the lamina densa, and the sublamina densa region [1-4]."
+  },
+  {
+    "id": 2,
+    "chapterId": 29,
+    "question": "Which layer of the epidermal basement membrane is described as an electron-lucent region that contains delicate anchoring filaments, connecting hemidesmosomes to the underlying lamina densa?",
+    "options": [
+      "Basal keratinocyte membrane",
+      "Lamina lucida",
+      "Lamina densa",
+      "Sublamina densa region"
+    ],
+    "correctIndex": 1,
+    "explanation": "The lamina lucida is an electron-lucent region containing delicate anchoring filaments; the latter connect hemidesmosomes in basal keratinocytes to the underlying lamina densa [2, 3, 5]."
+  },
+  {
+    "id": 3,
+    "chapterId": 29,
+    "question": "Specialized studies of cryopreserved skin suggest that the lamina lucida may represent an artifact of which laboratory process?",
+    "options": [
+      "Immunofluorescent staining",
+      "Tissue dehydration (fixation artifact)",
+      "Transmission electron microscopy preparation",
+      "Cryopreservation itself"
+    ],
+    "correctIndex": 1,
+    "explanation": "Specialized transmission electron microscopy studies of cryopreserved skin have suggested that the lamina lucida may actually represent an artifact of tissue dehydration [2]."
+  },
+  {
+    "id": 4,
+    "chapterId": 29,
+    "question": "Which function is common to virtually all basement membranes?",
+    "options": [
+      "Synthesizing laminin 511 (laminin 10)",
+      "Providing a template for tissue repair",
+      "Mediating muscular contraction",
+      "Regulating neurotransmitter release"
+    ],
+    "correctIndex": 1,
+    "explanation": "Functions common to virtually all basement membranes include serving as: (1) a substrate for cell attachment; (2) a template for tissue repair; (3) a matrix for cell migration; (4) a foundation for infrastructure influencing epithelial differentiation, morphogenesis, and apoptosis; and (5) a permeability barrier [1, 3, 6]."
+  },
+  {
+    "id": 5,
+    "chapterId": 29,
+    "question": "The epidermal basement membrane is comprised of proteins derived from basal keratinocytes (ectodermal origin) and which other cell type (mesodermal origin)?",
+    "options": [
+      "Melanocytes",
+      "Langerhans cells",
+      "Dermal fibroblasts",
+      "Schwann cells"
+    ],
+    "correctIndex": 2,
+    "explanation": "The epidermal basement membrane is comprised of proteins derived from both keratinocytes of ectodermal origin and dermal fibroblasts of mesodermal origin [7]."
+  },
+  {
+    "id": 6,
+    "chapterId": 29,
+    "question": "Which structural element primarily tethers the lamina densa and the overlying epidermis to the papillary dermis in the 'laminated' model?",
+    "options": [
+      "Anchoring filaments",
+      "Hemidesmosomes",
+      "Anchoring fibrils",
+      "Integrin ɑ 6β 4"
+    ],
+    "correctIndex": 2,
+    "explanation": "The lamina densa is tethered to the dermis by anchoring fibrils that begin and end on the underside of the lamina densa, forming ultrastructural loops [8, 9]."
+  },
+  {
+    "id": 7,
+    "chapterId": 29,
+    "question": "Which collagen type is the major component of anchoring fibrils localized to the sublamina densa region?",
+    "options": [
+      "Type I collagen",
+      "Type III collagen",
+      "Type IV collagen",
+      "Type VII collagen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Type VII collagen is the major component of anchoring fibrils and is restricted to the basement membrane of stratified squamous epithelia, where it localizes to the sublamina densa region [7, 10-12]."
+  },
+  {
+    "id": 8,
+    "chapterId": 29,
+    "question": "Plectin, BPAG1e, desmoplakin, and envoplakin are all members of which protein family, known for connecting cytoskeletal networks to each other and to adhesive junctions?",
+    "options": [
+      "Integrin family",
+      "Tetraspan superfamily",
+      "Plakin family",
+      "Fibrillin family"
+    ],
+    "correctIndex": 2,
+    "explanation": "Plectin, like BPAG1, desmoplakin, periplakin, and envoplakin, is a member of the plakin family. Plakins are large, multidomain cytolinkers [13]."
+  },
+  {
+    "id": 9,
+    "chapterId": 29,
+    "question": "Bullous Pemphigoid Antigen 2 (BPAG2), a transmembrane collagen associated with hemidesmosome-anchoring filament complexes, is also known by which synonym?",
+    "options": [
+      "BP230",
+      "Dystonin",
+      "Type XVII collagen",
+      "Epiligrin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bullous Pemphigoid Antigen 2 is synonymous with BP180 and type XVII collagen [13, 14]."
+  },
+  {
+    "id": 10,
+    "chapterId": 29,
+    "question": "Bullous Pemphigoid Antigen 1 (BPAG1e or BP230) is localized to which specific structure within basal keratinocytes?",
+    "options": [
+      "The extracellular domain (lamina lucida)",
+      "The cytoplasmic plaque of hemidesmosomes",
+      "Anchoring fibrils (sublamina densa)",
+      "The lamina densa"
+    ],
+    "correctIndex": 1,
+    "explanation": "BPAG1e is a 230 kDa plakin protein localized to the cytoplasmic plaque of hemidesmosomes (HDs) [15, 16]."
+  },
+  {
+    "id": 11,
+    "chapterId": 29,
+    "question": "Proteolytic processing (shedding) of the extracellular domain of BPAG2 is mediated by 'sheddases' belonging to which family?",
+    "options": [
+      "Matrix metalloproteinases (MMPs)",
+      "A disintegrin and metalloproteinase (ADAM) family",
+      "Caspases",
+      "Cathepsins"
+    ],
+    "correctIndex": 1,
+    "explanation": "Proteolytic processing of BPAG2 is mediated by 'sheddases' of the a disintegrin and metalloproteinase (ADAM) family, in particular ADAM metallopeptidase domain 17 (ADAM17) [17]."
+  },
+  {
+    "id": 12,
+    "chapterId": 29,
+    "question": "BPAG1 knockout mice show signs of epithelial fragility and unexpected neurologic impairment (dystonia and ataxia) due to the concomitant inactivation of which type of BPAG1 isoforms?",
+    "options": [
+      "Endothelial isoforms",
+      "Neuronal isoforms (BPAG1n)",
+      "Vascular isoforms",
+      "Dermal isoforms"
+    ],
+    "correctIndex": 1,
+    "explanation": "BPAG1 knockout mice show neurologic impairment (dystonia and ataxia), which results from concomitant inactivation of neuronal isoforms of BPAG1 (BPAG1n) [18]."
+  },
+  {
+    "id": 13,
+    "chapterId": 29,
+    "question": "Which integrin heterodimer is concentrated within hemidesmosomes (HDs) of epithelial cells?",
+    "options": [
+      "Integrin ɑ 2β 1",
+      "Integrin ɑ 3β 1",
+      "Integrin ɑ 6β 4",
+      "Integrin ɑ 5β 3"
+    ],
+    "correctIndex": 2,
+    "explanation": "The cytoplasmic domains and associations of integrin ɑ 6β 4 are concentrated within HDs of epithelial cells [19, 20]. Basal keratinocytes produce integrin subunits ɑ 6 and β 4 for HDs [7]."
+  },
+  {
+    "id": 14,
+    "chapterId": 29,
+    "question": "Which integrin subunit has a cytoplasmic domain that is unusually large (﹥ 1000 amino acid residues), in contrast to most subunits with ≤ 50 residues?",
+    "options": [
+      "Integrin subunit ɑ 6",
+      "Integrin subunit β 1",
+      "Integrin subunit β 4",
+      "Integrin subunit ɑ 3"
+    ],
+    "correctIndex": 2,
+    "explanation": "Integrin subunit β 4 has a larger cytoplasmic domain of >1000 amino acid residues."
+  },
+  {
+    "id": 15,
+    "chapterId": 29,
+    "question": "Mutations in *FERMT1*, the gene encoding kindlin-1, are responsible for which specific type of Epidermolysis Bullosa (EB)?",
+    "options": [
+      "Dystrophic EB",
+      "Junctional EB",
+      "EB simplex with muscular dystrophy",
+      "Kindler EB (Kindler syndrome)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mutations in *FERMT1*, which encodes kindlin-1, are responsible for Kindler EB (Kindler syndrome) [22]."
+  },
+  {
+    "id": 16,
+    "chapterId": 29,
+    "question": "Which non-hemidesmosomal integrin is found along the lateral and apical aspects of basal keratinocytes and is used in culture to mediate initial adhesion to the extracellular matrix via interaction with laminin 332?",
+    "options": [
+      "Integrin ɑ 6β 4",
+      "Integrin ɑ 3β 1",
+      "Integrin ɑ 5β 1",
+      "Integrin ɑ 2β 1"
+    ],
+    "correctIndex": 1,
+    "explanation": "Keratinocytes in culture utilize integrin ɑ 3β 1 to mediate initial adhesion to extracellular matrix via interaction with laminin 332 [23, 24]."
+  },
+  {
+    "id": 17,
+    "chapterId": 29,
+    "question": "The predominant laminin isoforms in the epidermal basement membrane are 332, 311, and 511. Which previous numerical name corresponds to Laminin 332?",
+    "options": [
+      "Laminin 1",
+      "Laminin 5",
+      "Laminin 6",
+      "Laminin 10"
+    ],
+    "correctIndex": 1,
+    "explanation": "Laminin 332 (ɑ 3β 3Ɣ 2) is formerly known as laminin 5, epiligrin, kalinin, nicein, GB3 antigen, or BM600 [13, 25-27]."
+  },
+  {
+    "id": 18,
+    "chapterId": 29,
+    "question": "Inherited disruptions in the genes encoding the subunits of laminin 332 (*LAMA3, LAMB3, LAMC2*) lead to subtypes of which inherited blistering disease?",
+    "options": [
+      "Epidermolysis Bullosa Simplex (EBS)",
+      "Recessive Dystrophic EB (RDEB)",
+      "Junctional EB (JEB)",
+      "Kindler EB"
+    ],
+    "correctIndex": 2,
+    "explanation": "Inherited disruptions in the genes that encode laminin 332 subunits (*LAMA3, LAMB3, LAMC2*), lead to subtypes of junctional EB characterized by subepidermal blister formation [28, 29]."
+  },
+  {
+    "id": 19,
+    "chapterId": 29,
+    "question": "Unlike classic fibrillar collagens, the structure of Type IV collagen is unique because it links in which configuration, forming a two-dimensional lattice?",
+    "options": [
+      "Head-to-head (non-parallel)",
+      "Side-to-side only",
+      "In parallel (fibrillar)",
+      "Helix-to-helix via disulfide bonds"
+    ],
+    "correctIndex": 0,
+    "explanation": "Type IV collagen links head-to-head rather than in parallel, forming a type IV collagen lattice (two-dimensional network) that serves as a key matrix within the lamina densa [30, 31]."
+  },
+  {
+    "id": 20,
+    "chapterId": 29,
+    "question": "Goodpasture disease, a lethal autoimmune disorder, is caused by anti-basement membrane antibodies directed against the NC1 domain of which Type IV collagen ɑ-chain subunit?",
+    "options": [
+      "ɑ 1 (IV)",
+      "ɑ 2 (IV)",
+      "ɑ 3 (IV)",
+      "ɑ 6 (IV)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Goodpasture disease is caused by anti-basement membrane antibodies directed against the NC1 domain of ɑ 3(IV) and ɑ 5(IV)."
+  },
+  {
+    "id": 21,
+    "chapterId": 29,
+    "question": "Which dumbbell-shaped 150 kDa glycoprotein localized to the lamina densa binds both laminin isoforms (containing Ɣ 1) and Type IV collagen, stabilizing macromolecules within the lamina densa?",
+    "options": [
+      "Perlecan",
+      "Nidogen",
+      "Fibulin 2",
+      "Elastin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nidogen is a dumbbell-shaped 150 kDa glycoprotein localized to the lamina densa. Nidogen binds laminin isoforms containing the Ɣ 1-subunit with high affinity and the G2 domain binds with high affinity to type IV collagen, thus thought to stabilize macromolecules [33]."
+  },
+  {
+    "id": 22,
+    "chapterId": 29,
+    "question": "Which proteoglycan is thought to have a more important role than nidogen in connecting laminin- and collagen IV-containing networks (spot welding) in the epidermal basement membrane?",
+    "options": [
+      "Dermatopontin",
+      "Heparan sulfate proteoglycan (HSPG) / Perlecan",
+      "Aggrecan",
+      "Syndecan"
+    ],
+    "correctIndex": 1,
+    "explanation": "More recent studies have found that perlecan (a heparan sulfate proteoglycan) may have a more important role in linking Type IV collagen and laminin networks together [11, 33, 34]."
+  },
+  {
+    "id": 23,
+    "chapterId": 29,
+    "question": "Anchoring fibrils are formed by Type VII collagen dimers aggregating laterally into bundles. How does the initial assembly of these dimers begin?",
+    "options": [
+      "NC1 domains bind to hemidesmosomes.",
+      "NC2 'tails' align in an antiparallel fashion and unite via disulfide bonds.",
+      "The central rod portion coils around laminin 332.",
+      "They are cross-linked by fibulins."
+    ],
+    "correctIndex": 1,
+    "explanation": "The assembly of anchoring fibrils initiates when NC2 'tails' of individual type VII collagen molecules align in an antiparallel fashion and unite via disulfide bonds [12]."
+  },
+  {
+    "id": 24,
+    "chapterId": 29,
+    "question": "The phenotype of patients with severe recessive dystrophic EB is often characterized by premature termination codons in *COL7A1*, resulting in what outcome?",
+    "options": [
+      "Abnormal-appearing Type VII collagen",
+      "A complete lack of detectable Type VII collagen and anchoring fibrils",
+      "Increased production of Type VII collagen",
+      "Blistering limited to acral sites"
+    ],
+    "correctIndex": 1,
+    "explanation": "Patients with severe recessive dystrophic EB typically have mutations that lead to premature termination codons and nonsense-mediated mRNA decay, resulting in no detectable type VII collagen and no anchoring fibrils [35]."
+  },
+  {
+    "id": 25,
+    "chapterId": 29,
+    "question": "In Dominant Dystrophic EB, missense mutations in one *COL7A1* allele disrupt the function of the protein derived from the normal allele. This mechanism is classified as:",
+    "options": [
+      "Loss-of-function",
+      "Haploinsufficiency",
+      "Dominant-negative effect",
+      "Mosaicism"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patients with dominant dystrophic EB usually have a missense mutation in one *COL7A1* allele that creates a dominant-negative effect on protein derived from their other, normal *COL7A1* allele [35]."
+  },
+  {
+    "id": 26,
+    "chapterId": 29,
+    "question": "Epidermolysis Bullosa Acquisita (EBA) and the Bullous Eruption of Systemic Lupus Erythematosus (SLE) are autoimmune diseases that target which specific structural protein?",
+    "options": [
+      "BPAG1e (BP230)",
+      "Laminin 332",
+      "Integrin ɑ 6 β 4",
+      "Type VII collagen"
+    ],
+    "correctIndex": 3,
+    "explanation": "The antigen targeted in EBA is type VII collagen, and the bullous eruption of SLE is also caused by IgG autoantibodies directed against immunodominant epitopes in type VII collagen [36-38]."
+  },
+  {
+    "id": 27,
+    "chapterId": 29,
+    "question": "Which component of the epidermal basement membrane is targeted by autoantibodies in Gestational Pemphigoid (PG)?",
+    "options": [
+      "Plectin",
+      "BPAG2 (Type XVII collagen)",
+      "Type VII collagen",
+      "Laminin 332"
+    ],
+    "correctIndex": 1,
+    "explanation": "The autoantigen in Pemphigoid Gestationis (PG) is BPAG2 (180 kDa) localized to the hemidesmosome-anchoring filament complexes [16, 38]."
+  },
+  {
+    "id": 28,
+    "chapterId": 29,
+    "question": "In an indirect immunofluorescence (IF) study using 1 M NaCl salt-split skin, where do IgG autoantibodies from patients with classic Bullous Pemphigoid (BP) typically bind?",
+    "options": [
+      "The epidermal side of the split",
+      "The dermal side of the split",
+      "Only the lamina densa",
+      "The subcutaneous fat"
+    ],
+    "correctIndex": 0,
+    "explanation": "Patients with classic BP can be distinguished by their IgG anti-basement membrane autoantibodies binding the epidermal side of salt-split skin [39-41]."
+  },
+  {
+    "id": 29,
+    "chapterId": 29,
+    "question": "In the direct immunofluorescence (DIF) microscopy technique utilizing 1 M NaCl salt-split skin, the cleavage plane occurs within which specific ultrastructural region?",
+    "options": [
+      "The basal keratinocyte cytoplasm",
+      "The lower portion of the lamina lucida",
+      "The middle of the lamina densa",
+      "The sublamina densa region"
+    ],
+    "correctIndex": 1,
+    "explanation": "One example of these techniques is the use of 1 M NaCl salt-split skin, cleaved within the lamina lucida [39]. The cleavage plane in 1 M NaCl salt-split skin is in the lower portion of the lamina lucida [40]."
+  },
+  {
+    "id": 30,
+    "chapterId": 29,
+    "question": "CD151, a tetraspan cell surface protein concentrated in hemidesmosomes (HDs), is considered a component of pre-HDs whose recruitment is regulated by which integrin heterodimer?",
+    "options": [
+      "Integrin ɑ 3 β 1",
+      "Integrin ɑ 6 β 4",
+      "Integrin ɑ 2 β 1",
+      "Integrin ɑ 5 β 1"
+    ],
+    "correctIndex": 1,
+    "explanation": "CD151 is therefore considered to be a component of pre-HDs wh,ose recruitment is regulated by integrin ɑ 6 β 4."
+  },
+  {
+    "id": 1,
+    "chapterId": 30,
+    "question": "Pemphigus describes a group of chronic blistering skin diseases where autoantibodies are directed against the cell surface of keratinocytes, resulting in the loss of cell–cell adhesion known as:",
+    "options": [
+      "Cytolysis",
+      "Acantholysis",
+      "Spongiosis",
+      "Keratinocyte necrosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "The term pemphigus describes a group of chronic blistering skin diseases in which autoantibodies are directed against the cell surface of keratinocytes, resulting in the loss of cell–cell adhesion of keratinocytes through a process called acantholysis [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 30,
+    "question": "What finding, made by Beutner and Jordon in 1964, formed the basis of understanding pemphigus as a tissue-specific autoimmune disease?",
+    "options": [
+      "The identification of the Dsg3 antigen",
+      "The discovery of circulating antibodies directed against the cell surface of keratinocytes",
+      "The confirmation of T cell-mediated cytotoxicity",
+      "The use of plasma exchange to reduce autoantibody titers"
+    ],
+    "correctIndex": 1,
+    "explanation": "The modern history of pemphigus began with the discovery by Beutner and Jordon in 1964 of circulating antibodies directed against the cell surface of keratinocytes in the sera of pemphigus vulgaris patients [2]."
+  },
+  {
+    "id": 3,
+    "chapterId": 30,
+    "question": "In Pemphigus vulgaris, intraepidermal blisters typically develop at which specific location?",
+    "options": [
+      "Within the stratum corneum",
+      "Just above the basal cell layer (suprabasilar)",
+      "Between the epidermis and dermis (subepidermal)",
+      "In the superficial portion, mostly at the granular layer"
+    ],
+    "correctIndex": 1,
+    "explanation": "The blisters of pemphigus vulgaris develop within the deeper portion of the epidermis, just above the basal cell layer [3, 4]."
+  },
+  {
+    "id": 4,
+    "chapterId": 30,
+    "question": "Pemphigus foliaceus is clinically defined by cutaneous involvement without mucosal lesions, and the splits typically occur in which layer of the epidermis?",
+    "options": [
+      "Basal layer",
+      "Stratum spinosum",
+      "Superficial portion, mostly at the granular layer",
+      "Sublamina densa region"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patients with pemphigus foliaceus only have cutaneous involvement without mucosal lesions, and the splits occur in the superficial portion of the epidermis, mostly at the granular layer [3]."
+  },
+  {
+    "id": 5,
+    "chapterId": 30,
+    "question": "Which specific desmoglein is the primary target antigen for IgG autoantibodies in patients with Pemphigus vulgaris?",
+    "options": [
+      "Desmoglein 1 (Dsg1)",
+      "Desmoglein 2 (Dsg2)",
+      "Desmoglein 3 (Dsg3)",
+      "Desmocollin 1 (Dsc1)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patients with pemphigus vulgaris and pemphigus foliaceus have IgG autoantibodies against desmoglein 3 and desmoglein 1, respectively [5]."
+  },
+  {
+    "id": 6,
+    "chapterId": 30,
+    "question": "The mucosal-dominant type of Pemphigus vulgaris is characterized by IgG autoantibodies directed against:",
+    "options": [
+      "Only Desmoglein 1 (Dsg1)",
+      "Only Desmoglein 3 (Dsg3)",
+      "Both Dsg1 and Dsg3",
+      "Plectin and Envoplakin"
+    ],
+    "correctIndex": 1,
+    "explanation": "While patients with pemphigus foliaceus have only anti-Dsg1 IgG autoantibodies, individuals with the mucosal-dominant type of pemphigus vulgaris have only anti-Dsg3 IgG autoantibodies [6]."
+  },
+  {
+    "id": 7,
+    "chapterId": 30,
+    "question": "According to the desmoglein compensation theory, why do sera containing only anti-Dsg3 IgG cause mucosal erosions but only limited or no cutaneous blisters?",
+    "options": [
+      "Dsg3 is only expressed in mucosa.",
+      "Dsg1 expression in the skin compensates for the impaired Dsg3 function.",
+      "Anti-Dsg3 IgG is unable to penetrate the skin epidermis.",
+      "Mucosa is a Th1 environment, unlike skin."
+    ],
+    "correctIndex": 1,
+    "explanation": "When sera contain only anti-Dsg3 IgG, they are inefficient in producing cutaneous blisters because coexpressed Dsg1 compensates for the impaired function of Dsg3, resulting in no, or only limited, skin lesions [7]."
+  },
+  {
+    "id": 8,
+    "chapterId": 30,
+    "question": "What is the primary mechanism by which pemphigus autoantibodies are thought to directly inhibit the adhesive function of desmogleins?",
+    "options": [
+      "Activation of complement components",
+      "Steric hindrance, interfering with adhesive interaction",
+      "Internalization of plakoglobin",
+      "Activation of Matrix Metalloproteinases (MMPs)"
+    ],
+    "correctIndex": 1,
+    "explanation": "The direct inhibition is mediated by steric hindrance, i.e. the binding of autoantibodies to desmogleins spatially interferes with the adhesive interaction of desmogleins between cells [8]."
+  },
+  {
+    "id": 9,
+    "chapterId": 30,
+    "question": "The incidence of pemphigus is notably higher (16 to 32 cases per million per year) in individuals of which specific ancestry?",
+    "options": [
+      "Japanese",
+      "Finnish",
+      "Ashkenazi Jews",
+      "Brazilian Pardo"
+    ],
+    "correctIndex": 2,
+    "explanation": "The incidence is much higher (16 to 32 cases per million per year) in those of Jewish ancestry, particularly Ashkenazi Jews [9]."
+  },
+  {
+    "id": 10,
+    "chapterId": 30,
+    "question": "The endemic variant of pemphigus foliaceus, known as Fogo selvagem, is strongly associated with which environmental factor in rural Brazil?",
+    "options": [
+      "Consumption of contaminated grain",
+      "Exposure to black flies (*Simulium spp.*)",
+      "Exposure to asbestos",
+      "Use of specific pesticides"
+    ],
+    "correctIndex": 1,
+    "explanation": "The majority of patients [with fogo selvagem] live close to rivers and within the 10–15 km flying range of black flies (*Simulium spp.*), which may be the vector that precipitates the disease [10]."
+  },
+  {
+    "id": 11,
+    "chapterId": 30,
+    "question": "The presence of flaccid blisters and widespread cutaneous erosions in addition to mucosal involvement defines which subtype of Pemphigus vulgaris?",
+    "options": [
+      "Mucosal-dominant type",
+      "Pemphigus vegetans (Neumann type)",
+      "Mucocutaneous type",
+      "Herpetiform pemphigus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pemphigus vulgaris is divided into two subgroups: (1) the mucosal-dominant type with mucosal erosions but minimal skin involvement; and (2) the mucocutaneous type with extensive skin blisters and erosions in addition to mucosal involvement [11]."
+  },
+  {
+    "id": 12,
+    "chapterId": 30,
+    "question": "Which clinical sign in active pemphigus is demonstrated by applying gentle pressure to an intact bulla, causing the fluid to spread laterally under the skin?",
+    "options": [
+      "Nikolsky sign",
+      "Darier sign",
+      "Asboe–Hansen sign",
+      "Koebner phenomenon"
+    ],
+    "correctIndex": 2,
+    "explanation": "The lack of cohesion of the skin may also be demonstrated with the “bulla-spread phenomenon” – gentle pressure on an intact bulla forces the fluid to spread under the skin away from the site of pressure (Asboe–Hansen sign, also referred to as the 'indirect Nikolsky' or 'Nikolsky II' sign) [12]."
+  },
+  {
+    "id": 13,
+    "chapterId": 30,
+    "question": "A rare vegetative variant of Pemphigus vulgaris characterized by fungoid vegetations, particularly in intertriginous areas, is known as:",
+    "options": [
+      "Pemphigus erythematosus",
+      "Pemphigus vegetans",
+      "Herpetiform pemphigus",
+      "Fogo selvagem"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pemphigus vegetans is a rare vegetative variant of pemphigus vulgaris, characterized by flaccid blisters that become erosions and then form fungoid vegetations or papillomatous proliferations, especially in intertriginous areas [13]."
+  },
+  {
+    "id": 14,
+    "chapterId": 30,
+    "question": "Drug-induced pemphigus foliaceus is seen more commonly than pemphigus vulgaris in patients taking which drug class?",
+    "options": [
+      "Penicillamine and ACE inhibitors",
+      "Immune checkpoint inhibitors",
+      "Methotrexate",
+      "Beta-lactam antibiotics"
+    ],
+    "correctIndex": 0,
+    "explanation": "There are sporadic cases of pemphigus associated with the use of drugs, in particular penicillamine and captopril [14]. In patients receiving penicillamine, pemphigus foliaceus is seen more commonly than pemphigus vulgaris, with a ratio of approximately 4:1 [14]."
+  },
+  {
+    "id": 15,
+    "chapterId": 30,
+    "question": "Paraneoplastic Pemphigus is distinct from classic forms of pemphigus as it involves autoantibodies directed against desmogleins as well as multiple members of which specific protein family?",
+    "options": [
+      "Cadherin family (classic cadherins)",
+      "Integrin family",
+      "Plakin family",
+      "Laminin family"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patients with paraneoplastic pemphigus develop characteristic IgG autoantibodies against multiple antigens [15], including Dsg3 and/or Dsg1 [16], multiple members of the plakin family (plectin, epiplakin, desmoplakins I and II, bullous pemphigoid antigen 1, envoplakin, and periplakin) [15]."
+  },
+  {
+    "id": 16,
+    "chapterId": 30,
+    "question": "The most commonly associated neoplasms with Paraneoplastic Pemphigus (accounting for two-thirds of patients) are:",
+    "options": [
+      "Adenocarcinomas of the breast or colon",
+      "Squamous cell carcinomas and basal cell carcinomas",
+      "Non-Hodgkin lymphoma and chronic lymphocytic leukemia",
+      "Melanoma and sarcomas"
+    ],
+    "correctIndex": 2,
+    "explanation": "The most commonly associated neoplasms are non-Hodgkin lymphoma and chronic lymphocytic leukemia, followed by Castleman disease, malignant and benign thymomas, sarcomas, and Waldenström macroglobulinemia [17]. Non-Hodgkin lymphoma and chronic lymphocytic leukemia together account for two-thirds of patients [17]."
+  },
+  {
+    "id": 17,
+    "chapterId": 30,
+    "question": "Which severe complication of Paraneoplastic Pemphigus involves the lung and can be fatal due to respiratory failure?",
+    "options": [
+      "Pulmonary hypertension",
+      "Bronchiolitis obliterans",
+      "Eosinophilic pneumonia",
+      "Diffuse alveolar hemorrhage"
+    ],
+    "correctIndex": 1,
+    "explanation": "Some patients with paraneoplastic pemphigus develop bronchiolitis obliterans, which can be fatal as a result of respiratory failure [18, 19]."
+  },
+  {
+    "id": 18,
+    "chapterId": 30,
+    "question": "The occurrence of blisters and erythema multiforme-like lesions on the palms and soles is often used to differentiate Paraneoplastic Pemphigus from Pemphigus vulgaris because in PV, lesions on the palms and soles are:",
+    "options": [
+      "More common and severe",
+      "Rare and highly unusual",
+      "Typically targetoid",
+      "Subcorneal"
+    ],
+    "correctIndex": 1,
+    "explanation": "The occurrence of blisters and erythema multiforme-like lesions on the palms and soles is often used to differentiate paraneoplastic pemphigus from pemphigus vulgaris, in which lesions on the palms and soles are unusual [18]."
+  },
+  {
+    "id": 19,
+    "chapterId": 30,
+    "question": "IgA Pemphigus is a group of intraepidermal blistering diseases characterized by autoantibodies of the IgA class directed against the keratinocyte cell surface, with the two major subtypes being intraepidermal neutrophilic (IEN) type and:",
+    "options": [
+      "Mucosal-dominant type",
+      "Pemphigus erythematosus",
+      "Subcorneal pustular dermatosis (SPD) type",
+      "Herpetiform type"
+    ],
+    "correctIndex": 2,
+    "explanation": "IgA pemphigus... is divided into two major subtypes: intraepidermal neutrophilic (IEN) type and subcorneal pustular dermatosis (SPD) type [20, 21]."
+  },
+  {
+    "id": 20,
+    "chapterId": 30,
+    "question": "The characteristic configuration of pustules in the intraepidermal neutrophilic (IEN) type of IgA Pemphigus is often described as:",
+    "options": [
+      "Annular or circinate pattern",
+      "Linear configuration",
+      "Sunflower-like configuration",
+      "Reticular pattern"
+    ],
+    "correctIndex": 2,
+    "explanation": "The pustules tend to coalesce to form an annular or circinate pattern with crusts in the center of the lesion... although a sunflower-like configuration of pustules is a characteristic sign of the intraepidermal neutrophilic type [19, 22]."
+  },
+  {
+    "id": 21,
+    "chapterId": 30,
+    "question": "Which desmosomal protein is recognized by IgA autoantibodies in the subcorneal pustular dermatosis (SPD) type of IgA Pemphigus?",
+    "options": [
+      "Desmoglein 3",
+      "Desmocollin 1",
+      "Plakoglobin",
+      "BPAG1"
+    ],
+    "correctIndex": 1,
+    "explanation": "IgA autoantibodies in the subcorneal pustular dermatosis type were shown to recognize desmocollin 1 [23, 24]."
+  },
+  {
+    "id": 22,
+    "chapterId": 30,
+    "question": "For routine histology in pemphigus, the biopsy specimen should ideally include:",
+    "options": [
+      "Nearby normal skin only",
+      "The oldest, crusted lesion",
+      "The edge of a fresh vesicle or bulla plus the inflammatory rim",
+      "A large area of denuded erosion only"
+    ],
+    "correctIndex": 2,
+    "explanation": "For routine histology... the biopsy specimen should include the edge of a fresh vesicle or bulla plus the inflammatory rim [25]."
+  },
+  {
+    "id": 23,
+    "chapterId": 30,
+    "question": "Histologically, Pemphigus vulgaris is characterized by suprabasilar acantholysis, with basal cells maintaining attachment to the basement membrane, creating the appearance of:",
+    "options": [
+      "Dilapidated brick wall",
+      "Row of tombstones",
+      "Interface dermatitis",
+      "Eosinophilic spongiosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Although the basal cells lose lateral desmosomal contact with their neighbors, they maintain their attachment to the basement membrane via hemidesmosomes, thus giving the appearance of a 'row of tombstones' [4]."
+  },
+  {
+    "id": 24,
+    "chapterId": 30,
+    "question": "In Pemphigus foliaceus, the detached, superficial roof of the fragile blister is often difficult to obtain, resulting in scale-crusts sometimes likened to:",
+    "options": [
+      "Cigarette paper",
+      "Cornflakes",
+      "Cayenne pepper",
+      "Wet tissue paper"
+    ],
+    "correctIndex": 1,
+    "explanation": "The scales [of pemphigus foliaceus] have been likened to cornflakes [26, 27]."
+  },
+  {
+    "id": 25,
+    "chapterId": 30,
+    "question": "What is the gold standard diagnostic test for pemphigus, demonstrating in vivo bound IgG deposition on the keratinocyte cell surfaces?",
+    "options": [
+      "Tzanck smear cytology",
+      "Indirect Immunofluorescence (IIF) on monkey esophagus",
+      "Direct Immunofluorescence (DIF) microscopy of perilesional skin",
+      "Enzyme-Linked Immunosorbent Assay (ELISA) targeting BP230"
+    ],
+    "correctIndex": 2,
+    "explanation": "DIF examines patients’ skin or mucous membranes in order to demonstrate in vivo bound IgG deposition on the keratinocyte cell surfaces [28, 29]. DIF is the most reliable and sensitive diagnostic test for all forms of pemphigus [28]."
+  },
+  {
+    "id": 26,
+    "chapterId": 30,
+    "question": "In a patient with Pemphigus vulgaris, the detection of circulating autoantibodies by Indirect Immunofluorescence (IIF) traditionally recommends the use of which substrate to optimize sensitivity for anti-Dsg3 IgG?",
+    "options": [
+      "Human skin, salt-split",
+      "Rat bladder",
+      "Monkey esophagus",
+      "Guinea pig esophagus"
+    ],
+    "correctIndex": 2,
+    "explanation": "For Pemphigus vulgaris, the recommended substrate for Indirect Immunofluorescence is monkey esophagus (to detect anti-Dsg3) [30, 31]."
+  },
+  {
+    "id": 27,
+    "chapterId": 30,
+    "question": "Which laboratory assay can serologically distinguish between the subtypes of Pemphigus vulgaris (mucosal-dominant, mucocutaneous) and Pemphigus foliaceus?",
+    "options": [
+      "Direct Immunofluorescence (DIF)",
+      "Tzanck smear",
+      "Enzyme-linked immunosorbent assay (ELISA)",
+      "Routine histology"
+    ],
+    "correctIndex": 2,
+    "explanation": "ELISA is increasingly being used to detect antigen-specific autoantibodies for the diagnosis of pemphigus [32]. This assay has enabled investigators to serologically distinguish subtypes of pemphigus vulgaris and foliaceus [32]."
+  },
+  {
+    "id": 28,
+    "chapterId": 30,
+    "question": "What is considered the mainstay of systemic therapy for Pemphigus vulgaris, typically started at 1 mg/kg/day due to its rapid clinical response?",
+    "options": [
+      "Cyclophosphamide",
+      "Azathioprine",
+      "Oral prednisone",
+      "Dapsone"
+    ],
+    "correctIndex": 2,
+    "explanation": "Systemic corticosteroids are a mainstay of therapy in pemphigus vulgaris, given the rapidity of clinical response [20]. Systemic corticosteroid therapy, usually in the form of oral prednisone, is standard treatment [33]. Prednisone at 1 mg/kg/day (usually 60 mg/day) is a typical initial dosage [33]."
+  },
+  {
+    "id": 29,
+    "chapterId": 30,
+    "question": "Which therapeutic agent, a potent B cell-depleting chimeric anti-CD20 monoclonal antibody, is an FDA-approved first-line option for moderate-to-severe pemphigus?",
+    "options": [
+      "IVIg",
+      "Rituximab",
+      "Cyclosporine",
+      "Methotrexate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rituximab represents a first-line, FDA-approved therapeutic option for moderate-to-severe pemphigus [1]. Rituximab is a potent B cell-depleting chimeric anti-CD20 monoclonal antibody [34]."
+  },
+  {
+    "id": 30,
+    "chapterId": 30,
+    "question": "What is the drug of choice for most patients with IgA Pemphigus, leading to clinical response typically within 24–48 hours?",
+    "options": [
+      "Systemic corticosteroids",
+      "Dapsone",
+      "Mycophenolate mofetil",
+      "Rituximab"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dapsone is the drug of choice for most patients with IgA pemphigus [35]. A clinical response usually occurs within 24–48 hours [35]."
   }
 
 
