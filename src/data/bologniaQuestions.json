@@ -4680,7 +4680,3519 @@
     ],
     "correctIndex": 1,
     "explanation": "In severe, acute LP, systemic corticosteroids remain a commonly employed intervention. The dose is tapered over several weeks [32], [20]."
+  },
+   {
+    "id": 1,
+    "chapterId": 13,
+    "question": "According to the World Allergy Organization (WAO) consensus nomenclature, the non-IgE-associated form of dermatitis in patients displaying the clinical phenotype of Atopic Dermatitis (AD) was formerly known as:",
+    "options": [
+      "Extrinsic AD",
+      "Intrinsic AD",
+      "Allergic Rhinoconjunctivitis",
+      "Eosinophilic Esophagitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Patients exhibiting the clinical phenotype of AD but showing no evidence of IgE-sensitization are categorized as having a non-IgE-associated or non-allergic form of dermatitis, formerly known as intrinsic AD [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 13,
+    "question": "What is the approximate current prevalence of Atopic Dermatitis (AD) in children in most high-income countries?",
+    "options": [
+      "2%–5%",
+      "5%–10%",
+      "10%–30%",
+      "30%–50%"
+    ],
+    "correctIndex": 2,
+    "explanation": "The current prevalence of AD in most high-income and some low-income countries is approximately 10%–30% in children [2]."
+  },
+  {
+    "id": 3,
+    "chapterId": 13,
+    "question": "The age-dependent sequence in which Atopic Dermatitis and food allergy favor infants, followed by asthma and then allergic rhinoconjunctivitis in adolescents, is referred to as:",
+    "options": [
+      "The Allergic Cascade",
+      "The Atopic March",
+      "The Th2 Shift",
+      "The Epidermal Defect Pathway"
+    ],
+    "correctIndex": 1,
+    "explanation": "This age-dependent sequence, where AD and food allergy favor infants and young children, while asthma favors older children and rhinoconjunctivitis predominates in adolescents, is referred to as the 'atopic march' [3], [4]."
+  },
+  {
+    "id": 4,
+    "chapterId": 13,
+    "question": "The definition of 'early-onset AD' is Atopic Dermatitis beginning within which time frame?",
+    "options": [
+      "The first 6 months of life",
+      "The first year of life",
+      "The first 2 years of life",
+      "Before 5 years of age"
+    ],
+    "correctIndex": 2,
+    "explanation": "Early-onset AD is defined as AD beginning in the first 2 years of life [5]."
+  },
+  {
+    "id": 5,
+    "chapterId": 13,
+    "question": "Which of the following conditions is an essential feature that must be present and is sufficient for the clinical diagnosis of Atopic Dermatitis?",
+    "options": [
+      "Xerosis",
+      "Onset during infancy or early childhood",
+      "Pruritus",
+      "Personal history of atopy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pruritus is listed as an essential feature that must be present and is sufficient for the diagnosis of Atopic Dermatitis [6]."
+  },
+  {
+    "id": 6,
+    "chapterId": 13,
+    "question": "The pathogenesis of Atopic Dermatitis is divided into three major interacting categories. Which of the following is NOT one of these primary categories?",
+    "options": [
+      "Epidermal barrier dysfunction",
+      "Immune dysregulation",
+      "Alteration of the microbiome",
+      "Systemic vasculitis"
+    ],
+    "correctIndex": 3,
+    "explanation": "The pathogenesis of AD is divided into three major categories: (1) epidermal barrier dysfunction; (2) immune dysregulation; and (3) alteration of the microbiome [7], [8], [9]."
+  },
+  {
+    "id": 7,
+    "chapterId": 13,
+    "question": "Loss-of-function (LOF) variants in the gene encoding which protein represent the strongest known genetic risk factor for Atopic Dermatitis?",
+    "options": [
+      "Claudin-1",
+      "Corneodesmosin",
+      "Loricrin",
+      "Filaggrin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Filaggrin is a major structural component of the stratum corneum, and *FLG* loss-of-function (LOF) variants represent the strongest known genetic risk factor for AD [10]."
+  },
+  {
+    "id": 8,
+    "chapterId": 13,
+    "question": "A defective epidermal permeability barrier in Atopic Dermatitis is consistently characterized by an increase in which measurable parameter?",
+    "options": [
+      "Serum IgE levels",
+      "Filaggrin expression",
+      "Transepidermal water loss (TEWL)",
+      "Stratum corneum lipid organization"
+    ],
+    "correctIndex": 2,
+    "explanation": "Manifestations of epidermal barrier dysfunction include increases in transepidermal water loss (TEWL), pH, and permeability [11]."
+  },
+  {
+    "id": 9,
+    "chapterId": 13,
+    "question": "Loss-of-function mutations in the *FLG* gene have been linked to an increased risk for all the following conditions in patients with pre-existing Atopic Dermatitis, EXCEPT:",
+    "options": [
+      "Ichthyosis vulgaris",
+      "Irritant contact dermatitis",
+      "Development of asthma",
+      "Pemphigus foliaceus"
+    ],
+    "correctIndex": 3,
+    "explanation": "*FLG* LOF variants are associated with ichthyosis vulgaris, irritant contact dermatitis, hand eczema, HSV infections, food allergy, and enhanced epicutaneous sensitization [10], [12]. The association with asthma is seen only in patients with pre-existing AD [12]. Pemphigus foliaceus is mentioned in the differential diagnosis but not directly linked to *FLG* mutations [13]."
+  },
+  {
+    "id": 10,
+    "chapterId": 13,
+    "question": "LEKTI (lymphoepithelial Kazal-type trypsin inhibitor) deficiency, seen in conditions like Netherton syndrome and modulated in AD, leads to excessive degradation of which corneodesmosomal component?",
+    "options": [
+      "Filaggrin",
+      "Loricrin",
+      "Desmoglein-1 (Dsg1)",
+      "Involucrin"
+    ],
+    "correctIndex": 2,
+    "explanation": "LEKTI deficiency results in excessive degradation of the corneodesmosomal component desmoglein-1 (Dsg1), causing abnormal stratum corneum detachment and disrupting the epidermal barrier [14]."
+  },
+  {
+    "id": 11,
+    "chapterId": 13,
+    "question": "Acute Atopic Dermatitis lesions are primarily dominated by which type of cytokine response?",
+    "options": [
+      "Th1",
+      "Th2",
+      "Th17",
+      "Th22"
+    ],
+    "correctIndex": 1,
+    "explanation": "Acute AD lesions have a predominance of Th2 cytokines (IL-4, IL-5, and IL-13) [9], [15]."
+  },
+  {
+    "id": 12,
+    "chapterId": 13,
+    "question": "Which keratinocyte-derived cytokine is known as the 'master-switch of allergic inflammation' due to its central role in evoking a Th2 response via dendritic cell activation?",
+    "options": [
+      "IL-4",
+      "IL-33",
+      "IL-25",
+      "Thymic stromal lymphopoietin (TSLP)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Thymic stromal lymphopoietin (TSLP) is an IL-7-like cytokine known as the 'master-switch of allergic inflammation' because of its central role in evoking a Th2 response via dendritic cell activation [16], [17]."
+  },
+  {
+    "id": 13,
+    "chapterId": 13,
+    "question": "Which Th2 cytokine, highly expressed in lesional skin of AD patients, targets receptors on cutaneous C nerve fibers and has been successfully targeted by nemolizumab to reduce pruritus?",
+    "options": [
+      "IL-4",
+      "IL-13",
+      "IL-31",
+      "IL-17"
+    ],
+    "correctIndex": 2,
+    "explanation": "IL-31 is a Th2 cytokine highly expressed in lesional skin and serum of AD patients; its heterodimeric receptor is expressed by cutaneous C nerve fibers, and blocking it with nemolizumab significantly reduces pruritus [18]."
+  },
+  {
+    "id": 14,
+    "chapterId": 13,
+    "question": "Approximately what percentage of patients with Atopic Dermatitis have skin colonisation with *Staphylococcus aureus*?",
+    "options": [
+      "5%",
+      "35%",
+      "50%",
+      "More than 90%"
+    ],
+    "correctIndex": 3,
+    "explanation": "More than 90% of patients with AD have skin colonised with *S. aureus*, compared to about 5% of unaffected individuals [19]."
+  },
+  {
+    "id": 15,
+    "chapterId": 13,
+    "question": "Infantile Atopic Dermatitis (age <2 years) typically involves which body areas, often with sparing of the central face and diaper area?",
+    "options": [
+      "Flexural folds (antecubital/popliteal fossae)",
+      "Cheeks, scalp, and extensor aspects of the extremities",
+      "Hands and feet only",
+      "Axillae and groin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Infantile AD typically involves edematous papules and papulovesicles on the cheeks, with sparing of the central face, as well as the scalp, neck, and extensor aspects of the extremities, usually sparing the diaper area [20]."
+  },
+  {
+    "id": 16,
+    "chapterId": 13,
+    "question": "The classic sites of predilection for lesions in childhood Atopic Dermatitis (age 2 to 12 years) are:",
+    "options": [
+      "The face and central trunk",
+      "The diaper area and lower legs",
+      "The antecubital and popliteal fossae (flexural eczema)",
+      "Palms and soles"
+    ],
+    "correctIndex": 2,
+    "explanation": "In childhood AD, the classic sites of predilection are the antecubital and popliteal fossae, often referred to as flexural eczema [21]."
+  },
+  {
+    "id": 17,
+    "chapterId": 13,
+    "question": "Which regional variant of Atopic Dermatitis typically occurs after puberty, primarily involves the face, scalp, and neck, and may be aggravated by *Malassezia* yeasts?",
+    "options": [
+      "Juvenile plantar dermatosis",
+      "Head and neck dermatitis",
+      "Cheilitis sicca",
+      "Dyshidrotic eczema"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Head and neck dermatitis' represents a variant of AD occurring typically after puberty, involving the face, scalp, and neck, where *Malassezia* yeasts may be an aggravating factor [22], [23]."
+  },
+  {
+    "id": 18,
+    "chapterId": 13,
+    "question": "Eyelid eczema, when it occurs as a manifestation of Atopic Dermatitis, is specifically characterized by which finding, distinguishing it from eyelid eczema due to other causes?",
+    "options": [
+      "Prominent oozing and crusting",
+      "Lichenification of the periorbital skin",
+      "Pustules and vesicles",
+      "Hypopigmentation (pityriasis alba)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eyelid eczema in AD is characterized by lichenification of the periorbital skin, in contrast to eyelid eczema due to other causes [24]."
+  },
+  {
+    "id": 19,
+    "chapterId": 13,
+    "question": "Atopic Hand Eczema affects what approximate percentage of adults with Atopic Dermatitis, sometimes as the sole manifestation?",
+    "options": [
+      "~10%",
+      "~30%",
+      "~60%",
+      "~90%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Atopic hand eczema affects approximately ~60% of adults with AD and may be the only manifestation of the condition [23]."
+  },
+  {
+    "id": 20,
+    "chapterId": 13,
+    "question": "The morphological change defined by thickened and leathery skin with exaggerated markings, resulting from repeated rubbing and scratching in AD, is known as:",
+    "options": [
+      "Spongiosis",
+      "Lichenification",
+      "Keratosis pilaris",
+      "Pityriasis alba"
+    ],
+    "correctIndex": 1,
+    "explanation": "With repeated rubbing and scratching, the skin becomes thickened and leathery with exaggerated skin markings, referred to as lichenification [25]."
+  },
+  {
+    "id": 21,
+    "chapterId": 13,
+    "question": "A physical finding defined as symmetric, prominent horizontal fold(s) just beneath the margin of the lower eyelid is known as:",
+    "options": [
+      "Hertoghe sign",
+      "Periorbital darkening ('allergic shiners')",
+      "White dermographism",
+      "Dennie–Morgan folds ('atopic pleats')"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dennie–Morgan folds ('atopic pleats') are defined as symmetric, prominent horizontal fold(s) just beneath the margin of the lower lid [26], [27]."
+  },
+  {
+    "id": 22,
+    "chapterId": 13,
+    "question": "The hypopigmented macules and patches known as Pityriasis alba are thought to result from low-grade dermatitis that disrupts the transfer of which cellular components?",
+    "options": [
+      "Melanocyte destruction",
+      "Melanosomes from melanocytes to keratinocytes",
+      "Lipids across the stratum corneum",
+      "Keratin filaments in the upper epidermis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Pityriasis alba is thought to result from a low-grade eczematous dermatitis that disrupts the transfer of melanosomes from melanocytes to keratinocytes [28]."
+  },
+  {
+    "id": 23,
+    "chapterId": 13,
+    "question": "A severe viral infection complication of AD, presenting most often with numerous monomorphic, punched-out erosions with hemorrhagic crusting, is known as:",
+    "options": [
+      "Impetiginization",
+      "Eczema herpeticum",
+      "Molluscum contagiosum",
+      "Dermatophytosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eczema herpeticum represents rapid dissemination of a herpes simplex viral infection over eczematous skin and affected individuals often present with numerous monomorphic, punched-out erosions with hemorrhagic crusting [29]."
+  },
+  {
+    "id": 24,
+    "chapterId": 13,
+    "question": "Which extracutaneous complication is associated with Atopic Dermatitis in adulthood, as identified in a systematic review and meta-analysis of cohort studies?",
+    "options": [
+      "Type 1 Diabetes Mellitus",
+      "Major cardiovascular outcomes (e.g., angina, myocardial infarction)",
+      "Rheumatoid Arthritis",
+      "Chronic Kidney Disease"
+    ],
+    "correctIndex": 1,
+    "explanation": "A recent meta-analysis of cohort studies found that AD is associated with an increased risk of cardiovascular complications such as angina and myocardial infarction, cerebrovascular accidents, and heart failure during adulthood [30], [31]."
+  },
+  {
+    "id": 25,
+    "chapterId": 13,
+    "question": "The Harmonizing Outcome Measures for Eczema (HOME) initiative recommends which validated scoring system as the core instrument to measure symptoms in all future clinical trials?",
+    "options": [
+      "EASI (Eczema Area Scoring Index)",
+      "SCORAD (SCORing Atopic Dermatitis)",
+      "vIGA-AD (Validated Investigator Global Assessment)",
+      "POEM (Patient-Oriented Eczema Measure)"
+    ],
+    "correctIndex": 3,
+    "explanation": "The Harmonizing Outcome Measures for Eczema (HOME) initiative recommends that the Patient-Oriented Eczema Measure (POEM) be utilized as the core instrument in all future clinical trials [32], [33]."
+  },
+  {
+    "id": 26,
+    "chapterId": 13,
+    "question": "What is the hallmark histologic feature of acute, exudative eczematous lesions in Atopic Dermatitis?",
+    "options": [
+      "Acanthosis",
+      "Lichenification",
+      "Spongiosis",
+      "Dermal fibrosis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Acute, exudative eczema is characterized by marked spongiosis, with intraepidermal fluid collection leading to the formation of vesicles [34]."
+  },
+  {
+    "id": 27,
+    "chapterId": 13,
+    "question": "For the proactive maintenance phase of Atopic Dermatitis management, RCTs have shown that the risk of relapse can be significantly reduced by applying a mid-potency topical corticosteroid how often to the usual areas of involvement when clear?",
+    "options": [
+      "Daily",
+      "Twice-weekly",
+      "Monthly",
+      "Only during flares"
+    ],
+    "correctIndex": 1,
+    "explanation": "Randomized Controlled Trials (RCTs) have demonstrated that the risk of relapse can be significantly reduced by proactive maintenance with twice-weekly application of a mid-potency topical corticosteroid to the usual areas of involvement when clear [35]."
+  },
+  {
+    "id": 28,
+    "chapterId": 13,
+    "question": "Topical Calcineurin Inhibitors (TCIs) are particularly advantageous for Atopic Dermatitis affecting which areas due to heightened concern over corticosteroid-induced skin atrophy?",
+    "options": [
+      "Thick, lichenified plaques on extremities",
+      "Palms and soles",
+      "Face and intertriginous areas",
+      "Scalp"
+    ],
+    "correctIndex": 2,
+    "explanation": "TCIs are particularly useful for AD affecting the face and intertriginous areas, where corticosteroid-induced skin atrophy is of increased concern [36]."
+  },
+  {
+    "id": 29,
+    "chapterId": 13,
+    "question": "Which injectable systemic agent, FDA-approved for moderate to severe AD in patients ≥6 months of age, targets the IL-4Rα subunit to block IL-4 and IL-13 signaling?",
+    "options": [
+      "Tralokinumab",
+      "Nemolizumab",
+      "Omalizumab",
+      "Dupilumab"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dupilumab is a human monoclonal antibody that targets the IL-4Rα subunit of heterodimeric IL-4 and IL-13 receptors, blocking signaling by these cytokines [37]."
+  },
+  {
+    "id": 30,
+    "chapterId": 13,
+    "question": "Why are systemic corticosteroids generally not recommended for routine long-term management of Atopic Dermatitis?",
+    "options": [
+      "Lack of efficacy in chronic disease",
+      "High incidence of anaphylaxis",
+      "Propensity for significant rebound flares upon discontinuation",
+      "Minimal systemic absorption"
+    ],
+    "correctIndex": 2,
+    "explanation": "Systemic corticosteroids are not recommended for routine AD management due to a propensity for significant rebound flares upon discontinuation and the unacceptable side effects of long-term administration [38], [39]."
+  },
+  {
+    "id": 1,
+    "chapterId": 14,
+    "question": "Which of the following describes the key sites favored by Seborrheic Dermatitis lesions?",
+    "options": [
+      "Extensor aspects of extremities and trunk",
+      "Flexural folds (antecubital/popliteal fossae)",
+      "Scalp, ears, face, central chest, and intertriginous areas",
+      "Palms and soles exclusively"
+    ],
+    "correctIndex": 2,
+    "explanation": "Seborrheic dermatitis lesions favor the scalp, ears, face, central chest, and intertriginous areas, which are regions with high sebum production [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 14,
+    "question": "The commensal yeast strongly linked to the etiology and aggravation of Seborrheic Dermatitis is a species of which genus?",
+    "options": [
+      "Candida",
+      "Cutibacterium",
+      "Malassezia",
+      "Trichophyton"
+    ],
+    "correctIndex": 2,
+    "explanation": "Seborrheic dermatitis has an etiologic link to the commensal yeast *Malassezia* (Pityrosporum) species, including *M. furfur* [1], [2]."
+  },
+  {
+    "id": 3,
+    "chapterId": 14,
+    "question": "In the pathogenesis of Seborrheic Dermatitis, which finding regarding skin surface lipids is typically observed?",
+    "options": [
+      "Decreased triglycerides and elevated free fatty acids",
+      "Elevated squalene and decreased cholesterol",
+      "Elevated triglycerides and cholesterol but decreased squalene and free fatty acids",
+      "Normalisation of all lipid components compared to controls"
+    ],
+    "correctIndex": 2,
+    "explanation": "In patients with seborrheic dermatitis, triglycerides and cholesterol are elevated but squalene and free fatty acids are significantly decreased in the skin surface lipids [3]."
+  },
+  {
+    "id": 4,
+    "chapterId": 14,
+    "question": "A severe or extensive presentation of Seborrheic Dermatitis in an adult should raise suspicion for which underlying condition?",
+    "options": [
+      "Langerhans cell histiocytosis",
+      "Chronic renal failure",
+      "HIV infection",
+      "Systemic Lupus Erythematosus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Extensive and severe seborrheic dermatitis should raise the suspicion of underlying HIV infection, with 2% of patients tested for HIV in one study found positive, often in a late stage of their disease [1], [4]."
+  },
+  {
+    "id": 5,
+    "chapterId": 14,
+    "question": "Which mildest form of Seborrheic Dermatitis of the scalp is defined by diffuse, fine white or greasy scaling without significant erythema or irritation?",
+    "options": [
+      "Cradle cap",
+      "Pityriasis simplex capillitii (dandruff)",
+      "Sebopsoriasis",
+      "Pityriasis amiantacea"
+    ],
+    "correctIndex": 1,
+    "explanation": "*Pityriasis simplex capillitii* (dandruff) is considered the mildest form of seborrheic dermatitis of the scalp, characterized by diffuse, slight to moderate, fine white or greasy scaling without significant erythema [5]."
+  },
+  {
+    "id": 6,
+    "chapterId": 14,
+    "question": "Infantile Seborrheic Dermatitis presenting as a coherent, scaly, and crusty mass covering most of the scalp is commonly referred to as:",
+    "options": [
+      "Psoriasiform diaper dermatitis",
+      "Cradle cap",
+      "Leiner disease",
+      "Pityriasis alba"
+    ],
+    "correctIndex": 1,
+    "explanation": "Initially mild greasy scales that extend over the entire scalp, potentially resulting in a coherent scaly and crusty mass, are referred to as 'cradle cap' in infantile seborrheic dermatitis [6], [7]."
+  },
+  {
+    "id": 7,
+    "chapterId": 14,
+    "question": "What is the primary class of topical therapy recommended as the mainstay for treating adult Seborrheic Dermatitis?",
+    "options": [
+      "Topical calcineurin inhibitors",
+      "High-potency topical steroids",
+      "Topical azoles (e.g., ketoconazole)",
+      "Systemic retinoids"
+    ],
+    "correctIndex": 2,
+    "explanation": "The mainstay of therapy for adult seborrheic dermatitis is the use of topical azoles (e.g., ketoconazole), utilized as shampoos or creams [8]."
+  },
+  {
+    "id": 8,
+    "chapterId": 14,
+    "question": "Seborrheic Dermatitis-like eruptions have been reported as a side effect with which class of antineoplastic agents?",
+    "options": [
+      "Alkylating agents",
+      "Tyrosine kinase inhibitors",
+      "Anthracyclines",
+      "Platinum-based compounds"
+    ],
+    "correctIndex": 1,
+    "explanation": "Seborrheic dermatitis-like eruptions have been reported with antineoplastic agents such as tyrosine kinase inhibitors [9]."
+  },
+  {
+    "id": 9,
+    "chapterId": 14,
+    "question": "Asteatotic Eczema is characterized by superficial cracking that resembles a 'dried riverbed' and has which synonym?",
+    "options": [
+      "Pompholyx",
+      "Eczema craquelé",
+      "Dyshidrotic eczema",
+      "Nummular eczema"
+    ],
+    "correctIndex": 1,
+    "explanation": "Asteatotic Eczema is synonymous with 'Eczema craquelé', 'Winter eczema', 'Winter itch', and 'Desiccation dermatitis'. It exhibits a criss-cross pattern of superficial cracks ('crazy-paving', 'dried riverbed') [10], [11]."
+  },
+  {
+    "id": 10,
+    "chapterId": 14,
+    "question": "Asteatotic Eczema most commonly begins on which area of the body?",
+    "options": [
+      "The face and neck",
+      "The shins",
+      "The palms and soles",
+      "The intertriginous areas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Xerosis, which precedes asteatotic eczema, first arises on the shins [11]. The shins, lower flanks, and posterior axillary line are the sites of predilection for the eczema [12]."
+  },
+  {
+    "id": 11,
+    "chapterId": 14,
+    "question": "What is the primary mechanism responsible for xerosis in aging skin leading to Asteatotic Eczema?",
+    "options": [
+      "Increased sebum production",
+      "Deficient stratum corneum lipid production and reduced water-binding capacity",
+      "Loss of sweat gland function only",
+      "Fungal infection of the stratum corneum"
+    ],
+    "correctIndex": 1,
+    "explanation": "Xerosis of aging skin is caused by a complex dysfunction of the stratum corneum, including a decrease of intercellular lipids, an altered ratio of fatty acids to ceramide 1, and reduced synthesis of 'natural moisturizing factor' (NMF), leading to reduced water-binding capacity [13]."
+  },
+  {
+    "id": 12,
+    "chapterId": 14,
+    "question": "Disseminated Eczema (Autosensitization) is defined by secondary lesions that appear distant from the primary site of exposure and most frequently develops in association with:",
+    "options": [
+      "Acne vulgaris and rosacea",
+      "Allergic contact dermatitis and stasis dermatitis",
+      "Psoriasis and dermatomyositis",
+      "Tinea corporis and impetigo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Disseminated Eczema, or secondary dissemination, is most often observed in allergic contact dermatitis, particularly if associated with stasis dermatitis [14], [15]."
+  },
+  {
+    "id": 13,
+    "chapterId": 14,
+    "question": "The hypothesized underlying physiological mechanism that allows distant skin to react in Disseminated Eczema is known as:",
+    "options": [
+      "The Atopic March",
+      "The Koebner phenomenon",
+      "The excited skin syndrome ('angry back')",
+      "The Seborrheic Cascade"
+    ],
+    "correctIndex": 2,
+    "explanation": "Inflammatory processes of the skin, whether allergic or irritant, lower the irritancy threshold of distant skin, facilitating an eczematous reaction. This is referred to as 'excited skin syndrome' or 'angry back' [16]."
+  },
+  {
+    "id": 14,
+    "chapterId": 14,
+    "question": "Which type of generalized condition often presents with numerous monomorphic, punched-out erosions with hemorrhagic crusting, which must be distinguished from disseminated eczema?",
+    "options": [
+      "Eczematous drug eruption (e.g., due to calcium channel blockers)",
+      "Allergic contact dermatitis (ACD) to nickel",
+      "Mycosis fungoides",
+      "Eczema herpeticum (based on previous chapter knowledge, though not explicit in this excerpt, it fits the description of a widely disseminated infectious complication)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Conditions to be distinguished from disseminated eczema include atopic dermatitis, airborne contact dermatitis, contact dermatitis caused by constituents of textiles, photo-allergic dermatitis, and eczematous drug eruptions [17]. (Note: While the provided excerpts do not explicitly list all classic differential diagnoses, eczematous drug eruptions are listed as one of the differential diagnoses [17].)"
+  },
+  {
+    "id": 15,
+    "chapterId": 14,
+    "question": "Nummular Dermatitis is characterized by lesions that are primarily described as:",
+    "options": [
+      "Polygonal papules",
+      "Coin-shaped (discoid) plaques",
+      "Serpiginous tracts",
+      "Linear streaks"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nummular dermatitis is characterized by its coin-shaped (discoid), disseminated, eczematous lesions [18], [19]."
+  },
+  {
+    "id": 16,
+    "chapterId": 14,
+    "question": "In a study of Nummular Dermatitis patients undergoing patch testing, which allergen was most commonly associated with a positive reaction?",
+    "options": [
+      "Formaldehyde resins",
+      "Potassium dichromate",
+      "Neomycin",
+      "Nickel sulfate"
+    ],
+    "correctIndex": 3,
+    "explanation": "In a study of nummular dermatitis patients who underwent patch testing, the most frequent positive patch test reactions were to nickel sulfate, potassium dichromate, and cobalt chloride [20]."
+  },
+  {
+    "id": 17,
+    "chapterId": 14,
+    "question": "Stasis Dermatitis is strongly linked to chronic venous insufficiency and is primarily triggered by:",
+    "options": [
+      "Systemic hypercoagulability",
+      "Chronic venous hypertension",
+      "Allergic reaction to compression stockings",
+      "Lymphatic obstruction"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chronic venous hypertension *per se* is cited as the initial trigger for stasis dermatitis [21], [22]."
+  },
+  {
+    "id": 18,
+    "chapterId": 14,
+    "question": "Which feature seen on a skin biopsy specimen is characteristic of Stasis Dermatitis, reflecting the underlying vascular pathology?",
+    "options": [
+      "Confluent parakeratosis with Munro microabscesses",
+      "Subepidermal bullae formation",
+      "Increased capillaries surrounded by fibrin cuffs and hemosiderin deposits",
+      "Psoriasiform epidermal hyperplasia without spongiosis"
+    ],
+    "correctIndex": 2,
+    "explanation": "In stasis dermatitis, biopsy specimens display signs of venous hypertension, specifically an increased number of capillaries which are dilated and surrounded by cuffs of fibrin, along with hemosiderin deposits [23]."
+  },
+  {
+    "id": 19,
+    "chapterId": 14,
+    "question": "Acute Lipodermatosclerosis, a stage of chronic venous insufficiency, may clinically mimic:",
+    "options": [
+      "Psoriasis",
+      "Cellulitis ('pseudoerysipelas')",
+      "Tinea pedis",
+      "Systemic sclerosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Acute lipodermatosclerosis (LDS) involves inflammation that may mimic cellulitis, sometimes referred to as 'pseudoerysipelas' [24], [25]."
+  },
+  {
+    "id": 20,
+    "chapterId": 14,
+    "question": "Dyshidrotic Eczema, also known as Pompholyx when large vesicles are present, is characterized by vesicles caused by:",
+    "options": [
+      "Trapped sweat within sweat ducts",
+      "A neutrophilic reaction (pustule formation)",
+      "Spongiosis within the epidermis",
+      "Dermal inflammation below the basement membrane"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dyshidrotic eczema is characterized by firm, pruritic vesicles and bullae. While the term may suggest sweat gland dysfunction, the vesicles are actually due to spongiosis within the epidermis [26]."
+  },
+  {
+    "id": 21,
+    "chapterId": 14,
+    "question": "Dyshidrotic Eczema lesions, when small and clustered, are often clinically likened to the appearance of:",
+    "options": [
+      "Tapioca pudding",
+      "A dried riverbed",
+      "Petals of a flower",
+      "Asbestos-like scales"
+    ],
+    "correctIndex": 0,
+    "explanation": "When smaller lesions of Dyshidrotic Eczema are clustered, they have been likened to tapioca pudding [27]."
+  },
+  {
+    "id": 22,
+    "chapterId": 14,
+    "question": "Which metal ingestant, when chronically ingested, has been debated as a potential flare factor for dyshidrotic eczema in sensitized individuals?",
+    "options": [
+      "Lead",
+      "Cadmium",
+      "Aluminum",
+      "Nickel and cobalt"
+    ],
+    "correctIndex": 3,
+    "explanation": "The role of ingestants, in particular nickel and cobalt, has been debated as a trigger for dyshidrotic eczema flares [27]. Improvement with a low-nickel diet in nickel-sensitive patients has been observed [27]."
+  },
+  {
+    "id": 23,
+    "chapterId": 14,
+    "question": "Infective Dermatitis associated with Human T cell lymphotropic virus type I (HTLV-1) typically begins during which life stage?",
+    "options": [
+      "Adolescence",
+      "Early childhood",
+      "Late adulthood",
+      "In utero"
+    ],
+    "correctIndex": 1,
+    "explanation": "Infective dermatitis typically appears only after protective maternal antibodies have disappeared, meaning the onset is during early childhood [28], [29]."
+  },
+  {
+    "id": 24,
+    "chapterId": 14,
+    "question": "Which combination of sites is typically affected by the eczematous dermatosis in HTLV-associated Infective Dermatitis?",
+    "options": [
+      "Palms and soles only",
+      "Trunk and proximal extremities",
+      "Head and neck region, axillae, and groin",
+      "Antecubital and popliteal fossae"
+    ],
+    "correctIndex": 2,
+    "explanation": "Infective dermatitis affects primarily the head and neck region, including the scalp, ears, eyelid margins, and paranasal skin, as well as the axillae and groin [30], [31]."
+  },
+  {
+    "id": 25,
+    "chapterId": 14,
+    "question": "A key criterion for diagnosing HTLV-associated Infective Dermatitis is a rapid response to antibiotics followed by:",
+    "options": [
+      "Permanent cure",
+      "Recrudescence into ATLL (Adult T cell leukemia/lymphoma)",
+      "Prompt relapse after withdrawal",
+      "Development of strong pruritus"
+    ],
+    "correctIndex": 2,
+    "explanation": "A major criterion for HTLV-associated infective dermatitis is a chronic relapsing dermatitis which responds quickly to antibiotics but relapses promptly after withdrawal [29], [32]."
+  },
+  {
+    "id": 26,
+    "chapterId": 14,
+    "question": "Juvenile Plantar Dermatosis is strongly linked to an atopic diathesis and is primarily seen in which population?",
+    "options": [
+      "Infants (<1 year old)",
+      "Prepubertal children",
+      "Adolescents after puberty",
+      "Elderly, immunosuppressed adults"
+    ],
+    "correctIndex": 1,
+    "explanation": "Juvenile plantar dermatosis occurs in prepubertal children, from the age of 3 years and upwards, and is a characteristic condition occurring primarily in children with an atopic diathesis [33]."
+  },
+  {
+    "id": 27,
+    "chapterId": 14,
+    "question": "The clinical presentation of Juvenile Plantar Dermatosis usually spares which areas of the foot?",
+    "options": [
+      "The balls of the feet",
+      "The toe pads",
+      "The dorsa of the feet, the interdigital spaces, and the instep",
+      "The heels"
+    ],
+    "correctIndex": 2,
+    "explanation": "Juvenile plantar dermatosis typically involves the balls of the feet and the toe pads, but the dorsa of the feet, the interdigital spaces, and the instep are usually spared [34]."
+  },
+  {
+    "id": 28,
+    "chapterId": 14,
+    "question": "The pathogenesis of Irritant Diaper Dermatitis is increasingly blamed on which factor, facilitating skin barrier breakdown and secondary infection?",
+    "options": [
+      "Ammonia derived from urea",
+      "The alkaline pH resulting from fecal bacteria and ureases",
+      "Contact allergy to diaper elastics",
+      "Systemic zinc deficiency"
+    ],
+    "correctIndex": 1,
+    "explanation": "While ammonia was previously blamed, the alkaline pH of the urine, enhanced by fecal bacteria and their urease products, increases the urinary pH, leading to horny layer barrier breakdown and facilitating secondary *C. albicans* infection [35], [36], [37]."
+  },
+  {
+    "id": 29,
+    "chapterId": 14,
+    "question": "In the common irritant form of Diaper Dermatitis, which areas are typically spared, in contrast to secondary candidiasis?",
+    "options": [
+      "The convex surfaces of the buttocks",
+      "The lower abdomen and genitalia",
+      "The skin folds (creases)",
+      "The diaper margins"
+    ],
+    "correctIndex": 2,
+    "explanation": "The common irritant form of diaper dermatitis typically spares the skin folds (creases) [38], whereas candidiasis favors the folds and genitalia [39]."
+  },
+  {
+    "id": 30,
+    "chapterId": 14,
+    "question": "What is the hallmark histologic feature seen in acute, exudative eczematous eruptions, such as those found in the acute phases of Stasis Dermatitis or Dyshidrotic Eczema?",
+    "options": [
+      "Dermal fibrosis",
+      "Spongiosis (intraepithelial edema)",
+      "Acanthosis in a psoriasiform pattern",
+      "Confluent parakeratosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "In acute eczematous eruptions, intraepithelial edema (spongiosis) predominates, often leading to the formation of micro- or macrovesicles [40]."
+  },
+
+  {
+    "id": 1,
+    "chapterId": 15,
+    "question": "Allergic Contact Dermatitis (ACD) accounts for approximately what percentage of all contact dermatitis cases?",
+    "options": [
+      "~80%",
+      "~50%",
+      "~20%",
+      "~5%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Irritant contact dermatitis (ICD) accounts for approximately 80% of all contact dermatitis, with allergic contact dermatitis (ACD) accounting for the remainder, meaning about 20% [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 15,
+    "question": "Allergic Contact Dermatitis (ACD) is classified pathophysiologically as which type of immune reaction?",
+    "options": [
+      "Immediate-type hypersensitivity (Type I)",
+      "Cytotoxic hypersensitivity (Type II)",
+      "Immune complex reaction (Type III)",
+      "Delayed-type hypersensitivity (Type IV)"
+    ],
+    "correctIndex": 3,
+    "explanation": "ACD is defined as a delayed-type hypersensitivity reaction that requires prior sensitization of the individual to the chemical in question [1, 2]."
+  },
+  {
+    "id": 3,
+    "chapterId": 15,
+    "question": "Which diagnostic procedure remains the 'gold standard' for the accurate and consistent diagnosis of Allergic Contact Dermatitis (ACD), except when exposure is obvious (e.g., poison ivy)?",
+    "options": [
+      "Skin prick testing",
+      "Serological IgE measurement",
+      "Patch testing",
+      "Repeat Open Application Test (ROAT)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patch testing remains the gold standard for accurate and consistent diagnosis of ACD [1, 3]."
+  },
+  {
+    "id": 4,
+    "chapterId": 15,
+    "question": "Who is generally credited with describing the technique of patch testing over 100 years ago?",
+    "options": [
+      "Sulzberger and Wise",
+      "Jadassohn",
+      "Von Pirquet",
+      "Fisher"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jadassohn has been credited with describing the technique of patch testing over 100 years ago [4]."
+  },
+  {
+    "id": 5,
+    "chapterId": 15,
+    "question": "The pathogenesis of ACD involves two main phases. The first phase, when the patient initially encounters the chemical that penetrates the skin and elicits a cascade of events, is known as:",
+    "options": [
+      "Elicitation phase",
+      "Challenge phase",
+      "Sensitization phase",
+      "Irritation phase"
+    ],
+    "correctIndex": 2,
+    "explanation": "The pathogenesis of ACD involves an initial sensitization phase when the patient first comes in contact with the chemical, which penetrates the skin and then elicits a cascade of events that results in sensitization [2]."
+  },
+  {
+    "id": 6,
+    "chapterId": 15,
+    "question": "Which two allergens are cited as prototypic reactions and are among the most common causes of ACD worldwide (Nickel) and in the US (Poison Ivy)?",
+    "options": [
+      "Formaldehyde and Bacitracin",
+      "Nickel and poison ivy",
+      "Gold and Neomycin",
+      "Chromate and Rubber mix"
+    ],
+    "correctIndex": 1,
+    "explanation": "The prototypic reactions are ACD caused by nickel and poison ivy, and related plants [1]. Nickel (worldwide) and poison ivy (US) are among the most common etiologies of ACD [5]."
+  },
+  {
+    "id": 7,
+    "chapterId": 15,
+    "question": "The classic clinical picture of acute Allergic Contact Dermatitis is characterized by lesions that are often:",
+    "options": [
+      "Deep-seated, urticarial plaques",
+      "Well-demarcated, erythematous, and vesicular plaques",
+      "Hypopigmented macules",
+      "Symmetric, non-scaly papules"
+    ],
+    "correctIndex": 1,
+    "explanation": "The classic picture of contact dermatitis is a well-demarcated, erythematous, vesicular, and/or scaly patch or plaque with well-defined margins corresponding to the area of contact [3]."
+  },
+  {
+    "id": 8,
+    "chapterId": 15,
+    "question": "Which morphological characteristic typically dominates in chronic ACD lesions?",
+    "options": [
+      "Blistering and weeping",
+      "Lichenified or scaly plaques",
+      "Urticarial wheals",
+      "Hemorrhagic crusting"
+    ],
+    "correctIndex": 1,
+    "explanation": "The typical appearance of ACD may be chronic (lichenified or scaly plaques) [6]."
+  },
+  {
+    "id": 9,
+    "chapterId": 15,
+    "question": "ACD lesions presenting with erythematous streaks and linear vesicles are often due to contact with:",
+    "options": [
+      "Jewelry",
+      "Gloves",
+      "A leaf or branch rubbed against the skin",
+      "Topical antibiotics"
+    ],
+    "correctIndex": 2,
+    "explanation": "The distribution can be linear, when an object such as a leaf or branch is rubbed against the skin [3]."
+  },
+  {
+    "id": 10,
+    "chapterId": 15,
+    "question": "Which morphological variant of ACD is described as symmetric erythema of the gluteal and inguinal area, often associated with systemic exposure to an allergen?",
+    "options": [
+      "Erythema multiforme",
+      "Lichenoid ACD",
+      "Baboon syndrome",
+      "Pigmented purpura"
+    ],
+    "correctIndex": 2,
+    "explanation": "Baboon syndrome is an uncommon presentation of ACD defined by symmetric erythema of the gluteal and inguinal area in addition to other flexural sites, and it has clinical overlap with systemic contact dermatitis [7, 8]."
+  },
+  {
+    "id": 11,
+    "chapterId": 15,
+    "question": "What is the recommended maximum equivalent daily oral dose of prednisone during patch testing to avoid reducing the individual’s ability to elicit a reaction (false-negative test)?",
+    "options": [
+      "5 mg",
+      "10 mg",
+      "20 mg",
+      "40 mg"
+    ],
+    "correctIndex": 2,
+    "explanation": "The daily oral AM dose of corticosteroids should not exceed the equivalent of 20 mg of prednisone during testing, as higher doses may result in a false-negative test [9]."
+  },
+  {
+    "id": 12,
+    "chapterId": 15,
+    "question": "When performing patch testing, patches are typically removed at the second visit (Day 2 or 48 hours). When should the final reading for definitive interpretation be performed?",
+    "options": [
+      "Immediately upon removal (48 hours)",
+      "1 week after initial application (Day 7)",
+      "24 hours after removal (72 hours to 1 week)",
+      "Only if a positive reaction is noted at 48 hours"
+    ],
+    "correctIndex": 2,
+    "explanation": "The patient returns at 48 hours for patch removal and initial scoring. The second reading is performed from 72 hours to 1 week after the initial application of patches [10, 11]."
+  },
+  {
+    "id": 13,
+    "chapterId": 15,
+    "question": "Which of the following allergens commonly causes delayed patch test responses, necessitating a reading later than 48 hours?",
+    "options": [
+      "Nickel",
+      "Poison ivy (urushiol)",
+      "Neomycin",
+      "Methylisothiazolinone (MI)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The later reading is necessary as patch test responses to some allergens such as gold, neomycin, and corticosteroids may be delayed [11]."
+  },
+  {
+    "id": 14,
+    "chapterId": 15,
+    "question": "According to the International Grading System for Patch Tests, a 'Strong, vesicular reaction with erythema, infiltration and papules' is scored as:",
+    "options": [
+      "+/−",
+      "+",
+      "++",
+      "+++"
+    ],
+    "correctIndex": 2,
+    "explanation": "A '++' reaction indicates a Strong, vesicular reaction with erythema, infiltration and papules [12]."
+  },
+  {
+    "id": 15,
+    "chapterId": 15,
+    "question": "What is the most common site utilized for the application of patch tests?",
+    "options": [
+      "Volar forearm",
+      "Lateral neck",
+      "Upper back",
+      "Inner thigh"
+    ],
+    "correctIndex": 2,
+    "explanation": "The most common site for patch testing is the upper back [9]."
+  },
+  {
+    "id": 16,
+    "chapterId": 15,
+    "question": "The Repeat Open Application Test (ROAT), sometimes called the 'poor man’s patch test', involves applying the product in question to a predetermined site (e.g., flexor forearm) how often for 1–2 weeks?",
+    "options": [
+      "Once daily",
+      "Twice daily",
+      "Once weekly",
+      "Only when pruritus occurs"
+    ],
+    "correctIndex": 1,
+    "explanation": "In an open use test, the patient applies the product in question to the same predetermined location twice daily for 1–2 weeks [13]."
+  },
+  {
+    "id": 17,
+    "chapterId": 15,
+    "question": "Acute Allergic Contact Dermatitis is histologically the prototype of spongiotic dermatitis, with severe reactions leading to:",
+    "options": [
+      "Subepidermal bullae",
+      "Intraepidermal vesiculation",
+      "Basal cell vacuolization",
+      "Dermal granuloma formation"
+    ],
+    "correctIndex": 1,
+    "explanation": "In the acute stage of ACD, marked spongiosis results in intraepidermal vesiculation [14, 15]."
+  },
+  {
+    "id": 18,
+    "chapterId": 15,
+    "question": "The histologic picture of chronic ACD typically includes:",
+    "options": [
+      "Necrosis and vasculitis",
+      "Marked spongiosis",
+      "Epidermal hyperplasia (often psoriasiform)",
+      "Lymphocytic infiltration of the basement membrane zone"
+    ],
+    "correctIndex": 2,
+    "explanation": "In subacute to chronic stages, epidermal hyperplasia, often psoriasiform, develops [14, 15]."
+  },
+  {
+    "id": 19,
+    "chapterId": 15,
+    "question": "According to the North American Contact Dermatitis Group (NACDG) 2017–2018 data, which specific allergen ranked as the most common positive reaction among patch test clinic patients?",
+    "options": [
+      "Methylisothiazolinone (MI)",
+      "Fragrance mix I",
+      "Nickel sulfate",
+      "Formaldehyde"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nickel sulfate ranked as the most common allergen tested by the NACDG in 2017–2018 [16]. In patch test clinics worldwide, nickel is the most common allergen [17]."
+  },
+  {
+    "id": 20,
+    "chapterId": 15,
+    "question": "What test can be performed in the office setting to determine if a particular metal item (like a belt buckle or jewelry) releases nickel, resulting in a pink color indicator if positive?",
+    "options": [
+      "Dimethylglyoxime test",
+      "Potassium dichromate test",
+      "Cobalt spot test",
+      "Roxarsone test"
+    ],
+    "correctIndex": 0,
+    "explanation": "A useful test to determine whether a particular item contains nickel is the dimethylglyoxime test, which identifies objects that release nickel using a pink color indicator [18, 19]."
+  },
+  {
+    "id": 21,
+    "chapterId": 15,
+    "question": "Methylisothiazolinone (MI) became a leading allergen after 2005 when regulatory changes allowed its concentration in rinse-off products to increase to:",
+    "options": [
+      "3.75 ppm",
+      "20 ppm",
+      "100 ppm",
+      "500 ppm"
+    ],
+    "correctIndex": 2,
+    "explanation": "In 2005, regulatory changes allowed MI concentration to increase to 100 ppm, followed by a current epidemic of sensitization [20]."
+  },
+  {
+    "id": 22,
+    "chapterId": 15,
+    "question": "Fragrance Mix I contains how many different fragrance components, typically used at 1% concentration each?",
+    "options": [
+      "Four",
+      "Six",
+      "Eight",
+      "Ten"
+    ],
+    "correctIndex": 2,
+    "explanation": "The current fragrance mix I contains eight different fragrance components (at 1% each) [21, 22]."
+  },
+  {
+    "id": 23,
+    "chapterId": 15,
+    "question": "Patients allergic to fragrance must avoid products labeled 'unscented' because they may contain:",
+    "options": [
+      "High concentrations of alcohol",
+      "Formaldehyde releasers",
+      "Masking fragrances",
+      "Hydroperoxides of linalool only"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fragrances can be used to mask an unpleasant odor, resulting in products labeled 'unscented' that patients allergic to fragrance must still avoid [23]."
+  },
+  {
+    "id": 24,
+    "chapterId": 15,
+    "question": "An individual with known formaldehyde sensitivity should generally avoid all the following substances, EXCEPT:",
+    "options": [
+      "Quaternium-15",
+      "Imidazolidinyl urea",
+      "DMDM hydantoin",
+      "Lanolin alcohol"
+    ],
+    "correctIndex": 3,
+    "explanation": "Formaldehyde-sensitive individuals should generally avoid formaldehyde-releasing preservatives such as quaternium-15, imidazolidinyl urea, and DMDM hydantoin [24]."
+  },
+  {
+    "id": 25,
+    "chapterId": 15,
+    "question": "Which topical antibiotic is reported to be the most common sensitizer among the topical antibiotics and is frequently combined with bacitracin and polymyxin B?",
+    "options": [
+      "Gentamicin",
+      "Mupirocin",
+      "Clindamycin",
+      "Neomycin"
+    ],
+    "correctIndex": 3,
+    "explanation": "Neomycin is the most commonly used topical antibiotic and is the most common sensitizer among them. It is frequently used in conjunction with bacitracin and polymyxin B (e.g., Neosporin®) [25]."
+  },
+  {
+    "id": 26,
+    "chapterId": 15,
+    "question": "Which of the following classes of systemic exposure can cause systemic contact dermatitis in a patient previously sensitized topically?",
+    "options": [
+      "Vaccines (without thimerosal)",
+      "Oral quinolones",
+      "Statins",
+      "NSAIDs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Other causes of systemic contact dermatitis due to ingestion of allergens that have previously caused an ACD include antibiotics (e.g., quinolones) [26, 27]."
+  },
+  {
+    "id": 27,
+    "chapterId": 15,
+    "question": "Which combination of screening agents is suggested to detect approximately 75% of allergic reactions to topical corticosteroids?",
+    "options": [
+      "Betamethasone-17-valerate and Clobetasol propionate",
+      "Hydrocortisone and Flucinonide",
+      "Tixocortol-21-pivalate and budesonide",
+      "Triamcinolone and Dexamethasone"
+    ],
+    "correctIndex": 2,
+    "explanation": "The combination of tixocortol-21-pivalate and budesonide provides reasonable screening for corticosteroid allergy, detecting ~75% of reactions [28, 29]."
+  },
+  {
+    "id": 28,
+    "chapterId": 15,
+    "question": "When an airborne allergen causes ACD, the dermatitis is predominantly located in exposed portions of the skin, with which site being especially common?",
+    "options": [
+      "The lower back",
+      "The abdomen (belt line)",
+      "The buttocks",
+      "The eyelids"
+    ],
+    "correctIndex": 3,
+    "explanation": "Prolonged and repetitive exposure to airborne allergens generally produces an ACD that is predominantly located in the exposed portions of the skin: especially the eyelids, but also the face, V of the neck, arms, and legs [30]."
+  },
+  {
+    "id": 29,
+    "chapterId": 15,
+    "question": "Which allergen, used in permanent hair colorants, has seen a resurgence in a new population due to its high concentration use in temporary tattoos?",
+    "options": [
+      "Toluene diamine sulphate (TDS)",
+      "p-Phenylenediamine (PPD)",
+      "Quaternium-15",
+      "Methyl methacrylate"
+    ],
+    "correctIndex": 1,
+    "explanation": "*p-Phenylenediamine* (PPD) is the most commonly used permanent hair colorant. Since 1998, PPD has been found in temporary tattoos in higher concentrations than in hair color products, leading to a resurgence in sensitization [31]."
+  },
+  {
+    "id": 30,
+    "chapterId": 15,
+    "question": "When treating ACD, even after identified allergens are completely avoided, approximately how long may it take to see complete and prolonged clearing of the dermatitis?",
+    "options": [
+      "2 days",
+      "1 week",
+      "2-4 weeks",
+      "6 weeks or more"
+    ],
+    "correctIndex": 3,
+    "explanation": "It may take 6 weeks or more to see complete and prolonged clearing, even when allergens are being avoided [32]."
+  },
+  {
+    "id": 1,
+    "chapterId": 16,
+    "question": "What is the primary pathophysiological mechanism of Irritant Contact Dermatitis (ICD)?",
+    "options": [
+      "Delayed-type hypersensitivity mediated by hapten-specific T cells",
+      "Immune complex deposition in the basement membrane zone",
+      "Activation of the innate immune system by direct cytotoxic effect",
+      "Immediate IgE-mediated mast cell degranulation"
+    ],
+    "correctIndex": 2,
+    "explanation": "Irritant contact dermatitis (ICD) is a cutaneous inflammatory disorder resulting from activation of the innate immune system by the direct cytotoxic effect of a chemical or physical agent [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 16,
+    "question": "Irritant Contact Dermatitis (ICD) is estimated to constitute what percentage of all occupational skin disorders?",
+    "options": [
+      "10% to 20%",
+      "30% to 50%",
+      "70% to 80%",
+      "90% or more"
+    ],
+    "correctIndex": 2,
+    "explanation": "ICD is the most common form of occupational skin disease, estimated to constitute between 70% and 80% of all occupational skin disorders [2]."
+  },
+  {
+    "id": 3,
+    "chapterId": 16,
+    "question": "Which term is used vernacularly to describe the severe presentation of ICD resulting from exposure to strong or absolute irritants like concentrated acids or alkalis, often leading to necrosis and ulceration?",
+    "options": [
+      "Eczema craquelé",
+      "Chemical burn",
+      "Baboon syndrome",
+      "Degreaser’s flush"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strong or absolute irritants such as strong acids and alkalis, as well as oxidants, produce severe erythema, edema, vesicles, and in severe cases, necrosis and ulceration. The latter is vernacularly termed a 'chemical burn' [3]."
+  },
+  {
+    "id": 4,
+    "chapterId": 16,
+    "question": "Which pre-existing condition increases an individual's risk of developing occupational dermatitis by 13.5 times?",
+    "options": [
+      "Ichthyosis vulgaris",
+      "Psoriasis",
+      "Atopic dermatitis",
+      "Seborrheic dermatitis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patients with a history of atopic dermatitis have a 13.5 times greater risk of developing occupational dermatitis [4]."
+  },
+  {
+    "id": 5,
+    "chapterId": 16,
+    "question": "What is the most commonly affected site in patients diagnosed with Irritant Contact Dermatitis?",
+    "options": [
+      "The face",
+      "The lower legs (shins)",
+      "The hands",
+      "The torso"
+    ],
+    "correctIndex": 2,
+    "explanation": "The most commonly affected sites are exposed areas such as the hands and the face, with hand involvement seen in approximately 80% of patients [4]."
+  },
+  {
+    "id": 6,
+    "chapterId": 16,
+    "question": "Which activity is considered one of the most important risk factors for developing irritant dermatitis, defined as immersion in water for >2 hours or hand washing >20 times/day?",
+    "options": [
+      "Exposure to organic solvents",
+      "Wet work",
+      "Repetitive frictional trauma",
+      "Exposure to strong alkalis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Excessive exposure to water, soaps and detergents, common causes of ICD, play a critical role given that wet work (immersion in water for >2 hours, occlusive protective gear, and/ or hand washing >20 times/day) represents one of the most important risk factors for developing irritant dermatitis [4]."
+  },
+  {
+    "id": 7,
+    "chapterId": 16,
+    "question": "In the pathogenesis of Irritant Contact Dermatitis (ICD), which cellular component acts as a signal transducer and key immunoregulator, initiating the innate immune response?",
+    "options": [
+      "Dermal fibroblasts",
+      "Langerhans cells",
+      "Keratinocytes",
+      "Hapten-specific T cells"
+    ],
+    "correctIndex": 2,
+    "explanation": "Increasing evidence suggests that activated keratinocytes act as signal transducers in the control of host homeostatic responses to exogenous stimuli and they serve as key immunoregulators [5]."
+  },
+  {
+    "id": 8,
+    "chapterId": 16,
+    "question": "Which acute phase cytokine is listed as a major mediator in ICD, capable of inducing the production of other inflammatory molecules and contributing to leukocyte recruitment?",
+    "options": [
+      "Interleukin-4 (IL-4)",
+      "Tumor necrosis factor (TNF)",
+      "Interleukin-17 (IL-17)",
+      "Interleukin-31 (IL-31)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tumor necrosis factor (TNF) and interleukin (IL-1ɑ) are the major mediators in the acute phase of ICD, capable of inducing production of other cytokines, chemokines, and adhesion molecules [6]."
+  },
+  {
+    "id": 9,
+    "chapterId": 16,
+    "question": "What is the clinical term for the rapid healing of acute ICD lesions, which reach their peak quickly (minutes to hours) after exposure?",
+    "options": [
+      "Accommodation phenomenon",
+      "Decrescendo phenomenon",
+      "Koebner phenomenon",
+      "Hardening response"
+    ],
+    "correctIndex": 1,
+    "explanation": "The acute reaction reaches its peak quickly, usually within minutes to hours after exposure, and then starts to heal. This is termed the decrescendo phenomenon [7]."
+  },
+  {
+    "id": 10,
+    "chapterId": 16,
+    "question": "Acute delayed Irritant Contact Dermatitis, often seen with chemicals like benzalkonium chloride or anthralin, is typically characterized by which predominant symptom, aiding in differentiation from ACD?",
+    "options": [
+      "Pruritus",
+      "Burning and soreness",
+      "Urticaria",
+      "Fever"
+    ],
+    "correctIndex": 1,
+    "explanation": "Acute delayed ICD may mimic allergic contact dermatitis; however, the associated symptom is more frequently burning rather than pruritus [8]."
+  },
+  {
+    "id": 11,
+    "chapterId": 16,
+    "question": "Which type of chemical irritant causes tissue damage primarily through disruption of barrier lipids, protein denaturation, and fatty acid saponification, leading to cellular swelling and cytotoxicity?",
+    "options": [
+      "Inorganic acids",
+      "Organic solvents",
+      "Alkalis (bases)",
+      "Reducing agents"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alkalis disrupt barrier lipids and denature proteins with subsequent fatty acid saponification, thus subjecting the cell to edema and resultant cytotoxicity [9]."
+  },
+  {
+    "id": 12,
+    "chapterId": 16,
+    "question": "Which strong acid is uniquely dangerous because its limited dissociation constant allows it to penetrate intact skin, causing intense pain and potential systemic toxicity, even at low concentrations?",
+    "options": [
+      "Sulfuric acid",
+      "Hydrochloric acid",
+      "Phosphoric acid",
+      "Hydrofluoric acid"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hydrofluoric acid causes severe burns, even at low concentrations, and significant absorption may lead to systemic toxicity. It penetrates intact skin due to its limited dissociation constant [10, 11]."
+  },
+  {
+    "id": 13,
+    "chapterId": 16,
+    "question": "Exposure to wet cement can cause acute ulcerative damage because of the liberation of which strong alkaline compound?",
+    "options": [
+      "Sodium hydroxide",
+      "Calcium hydroxide",
+      "Potassium carbonate",
+      "Trisodium phosphate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Acute ulcerative damage from wet cement is a result of the high alkalinity due to liberation of calcium hydroxide [9, 12]."
+  },
+  {
+    "id": 14,
+    "chapterId": 16,
+    "question": "Which category of irritant acts mainly by dissolving the intercellular lipid barrier of the epidermis, thereby substantially compromising barrier function?",
+    "options": [
+      "Detergents",
+      "Acids",
+      "Alcohols",
+      "Solvents"
+    ],
+    "correctIndex": 3,
+    "explanation": "Solvents act mainly by dissolving the intercellular lipid barrier of the epidermis, thereby substantially compromising barrier function [13]."
+  },
+  {
+    "id": 15,
+    "chapterId": 16,
+    "question": "Which anionic detergent is frequently used as a reference irritant in studies due to its consistent, non-allergic, and rapid toxic response?",
+    "options": [
+      "Cocamidopropyl betaine",
+      "Cocamide DEA",
+      "Sodium lauryl sulfate",
+      "Alkyl carboxylate salts (soap)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sodium lauryl sulfate, an anionic detergent, is often used as a reference irritant in studies because of its consistent, non-allergic, rapid toxic response [14]."
+  },
+  {
+    "id": 16,
+    "chapterId": 16,
+    "question": "Detergents and cleansers most commonly cause which form of ICD?",
+    "options": [
+      "Acute chemical burns",
+      "Folliculitis or acneiform lesions",
+      "Chronic forms of ICD",
+      "Airborne ICD"
+    ],
+    "correctIndex": 2,
+    "explanation": "Detergents most commonly cause chronic forms of ICD and are present in skin cleansers, cosmetics, and household cleaning products [15]."
+  },
+  {
+    "id": 17,
+    "chapterId": 16,
+    "question": "Which type of dermatitis develops from repeated low-grade frictional trauma, often involving the fingers of the dominant hand, such as from repetitive handling of paper or driving?",
+    "options": [
+      "Asteatotic dermatitis",
+      "Frictional Irritant Contact Dermatitis",
+      "Traumatic Irritant Contact Dermatitis",
+      "Airborne Irritant Contact Dermatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Frictional ICD is a distinct ICD subtype resulting from repeated low-grade frictional trauma. It often involves the fingers of the dominant hand [16]."
+  },
+  {
+    "id": 18,
+    "chapterId": 16,
+    "question": "What is the key clinical feature that distinguishes the common irritant form of diaper dermatitis from secondary candidiasis?",
+    "options": [
+      "Presence of erosions and ulcerations",
+      "Sparing of the skin folds (creases)",
+      "Location on the convex surfaces of the buttocks",
+      "Associated intense pruritus"
+    ],
+    "correctIndex": 1,
+    "explanation": "In babies, irritant diaper dermatitis is often characterized by glazed erythema of convex surfaces and at the diaper margins, with sparing of the skin folds [17]."
+  },
+  {
+    "id": 19,
+    "chapterId": 16,
+    "question": "Chronic irritant dermatitis in the anogenital region of children or adults, caused by prolonged exposure to bodily fluids, can lead to papules and nodules referred to as:",
+    "options": [
+      "Erythema multiforme",
+      "Granuloma gluteale infantum",
+      "Keratolysis exfoliativa",
+      "Stasis dermatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "In both children and adults, long-standing irritant dermatitis in the anogenital region can lead to papules and nodules (granuloma gluteale infantum [adultorum]; pseudoverrucous papules and nodules) [18]."
+  },
+  {
+    "id": 20,
+    "chapterId": 16,
+    "question": "What is the primary mechanism of action by which alkalis cause severe cutaneous damage compared to most acids?",
+    "options": [
+      "Protein denaturation only",
+      "Solubilization of membrane lipids",
+      "Disruption of barrier lipids and fatty acid saponification",
+      "Strong oxidizing action"
+    ],
+    "correctIndex": 2,
+    "explanation": "Alkalis disrupt barrier lipids and denature proteins with subsequent fatty acid saponification, thus subjecting the cell to edema and resultant cytotoxicity [9]."
+  },
+  {
+    "id": 21,
+    "chapterId": 16,
+    "question": "Asteatotic Dermatitis, a special variant of ICD, is characterized by a pattern of superficially cracked skin resembling a 'dried riverbed' and is also referred to as:",
+    "options": [
+      "Irritant reaction",
+      "Eczema craquelé",
+      "Toxic contact dermatitis",
+      "Baboon syndrome"
+    ],
+    "correctIndex": 1,
+    "explanation": "Asteatotic dermatitis is also referred to as asteatotic eczema, eczema craquelé, or exsiccation eczematid ICD [19]."
+  },
+  {
+    "id": 22,
+    "chapterId": 16,
+    "question": "Which of the following is NOT typically a clinical sign of chronic ICD caused by repeated exposure to low-grade irritants?",
+    "options": [
+      "Lichenification",
+      "Excoriations",
+      "Fissures",
+      "Acute vesiculation and weeping"
+    ],
+    "correctIndex": 3,
+    "explanation": "The clinical features of chronic ICD include erythema, lichenification, excoriations, scaling, and fissures [20]. Acute vesiculation and weeping are hallmarks of acute ICD [21]."
+  },
+  {
+    "id": 23,
+    "chapterId": 16,
+    "question": "The development of pustular or acneiform ICD is typically associated with exposure to irritants such as:",
+    "options": [
+      "Strong organic acids",
+      "Bleaching agents and iodines",
+      "Oils, greases, and mineral oils",
+      "Inorganic acids"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pustular and acneiform ICD results from exposure to certain irritants, such as metals, croton oil, mineral oils, tars, greases, cutting and metal working fluids, and naphthalenes [22, 23]."
+  },
+  {
+    "id": 24,
+    "chapterId": 16,
+    "question": "In the histopathology of acute Irritant Contact Dermatitis, what is the characteristic finding that differentiates it from other forms of eczema (though not specific to ICD)?",
+    "options": [
+      "Neutrophil-rich inflammatory infiltrate and necrotic keratinocytes",
+      "Perivascular lymphocytic infiltrate without spongiosis",
+      "Absence of inflammation",
+      "Epithelioid granulomas"
+    ],
+    "correctIndex": 0,
+    "explanation": "The histopathologic features often include variable spongiosis, necrosis of keratinocytes, and an inflammatory infiltrate rich in neutrophils. The combination of a neutrophil-rich superficial perivascular infiltrate plus widely scattered necrotic keratinocytes is most typical [24]."
+  },
+  {
+    "id": 25,
+    "chapterId": 16,
+    "question": "Exposure to which airborne substance is specifically noted to cause ICD predominantly located on exposed portions of the skin, especially the eyelids, philtrum, and submental regions?",
+    "options": [
+      "Latex powder",
+      "Fiberglass and floating dusts",
+      "Chromate dust",
+      "Nickel particles"
+    ],
+    "correctIndex": 1,
+    "explanation": "Airborne ICD results from exposure to floating dusts, fibers (particularly fiberglass), fragrances, woods, and volatile solvents and sprays, affecting exposed areas like the face, periorbital regions (eyelids), philtrum, and submental regions [16, 25]."
+  },
+  {
+    "id": 26,
+    "chapterId": 16,
+    "question": "What is the term for the process in which an individual develops spontaneous tolerance and resolution of ICD even with continuous exposure to the irritant?",
+    "options": [
+      "Systemic hyporeactivity",
+      "Accommodation or 'hardening'",
+      "Desensitization",
+      "T-cell anergy"
+    ],
+    "correctIndex": 1,
+    "explanation": "In many individuals, ICD resolves spontaneously even with continuous exposure, a process referred to as 'accommodation' or 'hardening' [26]."
+  },
+  {
+    "id": 27,
+    "chapterId": 16,
+    "question": "The worsening of ICD prognosis is related to all the following factors, EXCEPT:",
+    "options": [
+      "A previous history of atopy",
+      "Female sex",
+      "The presence of allergic contact dermatitis (as well as ICD)",
+      "Early diagnosis and patient education"
+    ],
+    "correctIndex": 3,
+    "explanation": "Poor prognosis is related to a previous history of atopy, female sex, and the presence of allergic contact dermatitis (as well as ICD). Factors that can potentially improve prognosis are early diagnosis, treatment, and patient knowledge about the disease [27]."
+  },
+  {
+    "id": 28,
+    "chapterId": 16,
+    "question": "In the management of chronic, hyperkeratotic palmoplantar ICD refractory to other treatments, systemic agents such as acitretin, alitretinoin, or methotrexate may be considered, similar to treatment for:",
+    "options": [
+      "Atopic dermatitis flares",
+      "Psoriasis",
+      "Dermatophytosis",
+      "Lupus erythematosus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hyperkeratotic palmoplantar dermatitis, which may simulate psoriasis, may benefit from the adjunctive use of systemic retinoids such as acitretin and alitretinoin or systemic immunomodulators such as methotrexate [28]."
+  },
+  {
+    "id": 29,
+    "chapterId": 16,
+    "question": "Which type of surfactant, often used in therapeutic formulations and personal care products, has the lowest irritation potential?",
+    "options": [
+      "Anionic detergents (e.g., sodium lauryl sulfate)",
+      "Cationic surfactants (e.g., benzalkonium chloride)",
+      "Non-ionic surfactants (e.g., cocamide DEA)",
+      "Amphoteric surfactants (e.g., cocamidopropyl betaine)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Amphoteric surfactants such as cocamidopropyl betaine... have the lowest irritation potential, [14]."
+  },
+  {
+    "id": 30,
+    "chapterId": 16,
+    "question": "Which fruit contains the proteolytic enzyme bromelain (bromelin), which can lead to irritant contact dermatitis?",
+    "options": [
+      "Garlic",
+      "Apple",
+      "Pineapple",
+      "Lemon"
+    ],
+    "correctIndex": 2,
+    "explanation": "Examples of foods that can lead to ICD include pineapples, which contain the proteolytic enzyme bromelain (bromelin), [29]."
+  },
+  {
+    "id": 1,
+    "chapterId": 17,
+    "question": "In a UK household survey, what was the reported rate of occupational dermatosis per 10,000 individuals who had ever been employed?",
+    "options": [
+      "23%",
+      "5.1/10,000",
+      "15/10,000",
+      "45/10,000"
+    ],
+    "correctIndex": 2,
+    "explanation": "In a UK household survey, a rate of occupational dermatosis of 15/10,000 for those who had ever been employed demonstrates the high frequency of affected individuals [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 17,
+    "question": "Among the most common physical illnesses due to occupation, where do skin diseases rank in frequency?",
+    "options": [
+      "First (highest percentage)",
+      "Second (23%)",
+      "Third (10.5%)",
+      "Fourth (8%)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Of the most common physical illnesses due to occupation, skin diseases (23%) rank second, after musculoskeletal disorders (45%) [1]."
+  },
+  {
+    "id": 3,
+    "chapterId": 17,
+    "question": "Which material is cited as the most common cause of occupational allergic contact dermatitis in an extensive surveillance report?",
+    "options": [
+      "Nickel",
+      "Epoxy and other resins",
+      "Rubber",
+      "Fragrances and cosmetics"
+    ],
+    "correctIndex": 2,
+    "explanation": "The most common cause of occupational allergic contact dermatitis was rubber (23.4% of cases) [2]."
+  },
+  {
+    "id": 4,
+    "chapterId": 17,
+    "question": "Which factor is the most frequently cited cause of occupational irritant contact dermatitis, accounting for 22% of cases?",
+    "options": [
+      "Cutting oils and coolants",
+      "Wet work",
+      "Soaps",
+      "Petroleum products"
+    ],
+    "correctIndex": 2,
+    "explanation": "Soaps (22% of cases), wet work (20%), petroleum products (9%), solvents (8%), and cutting oils and coolants (8%) are the most frequently cited causes of occupational irritant dermatitis [3]."
+  },
+  {
+    "id": 5,
+    "chapterId": 17,
+    "question": "What percentage of patients with occupational skin disease are estimated to have contact dermatitis, as reported by dermatologists?",
+    "options": [
+      "21%",
+      "71%",
+      "3%",
+      "95%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Contact dermatitis is reported by dermatologists in 71% of occupational skin disease cases [4]."
+  },
+  {
+    "id": 6,
+    "chapterId": 17,
+    "question": "What is the most common site affected by occupational contact dermatitis?",
+    "options": [
+      "The face",
+      "The feet",
+      "The hands",
+      "The trunk"
+    ],
+    "correctIndex": 2,
+    "explanation": "Contact dermatitis accounts for the majority of occupational skin disease that predominantly affects the hands [5]. In 90% of cases, the primary site of disease is the hands [6]."
+  },
+  {
+    "id": 7,
+    "chapterId": 17,
+    "question": "Which condition associated with allergic contact dermatitis is characterized by symmetric erythema of the gluteal and inguinal area in addition to other flexural sites?",
+    "options": [
+      "Post-traumatic eczema",
+      "Baboon syndrome",
+      "Lichenification",
+      "Eczema craquelé"
+    ],
+    "correctIndex": 1,
+    "explanation": "Baboon syndrome is an uncommon presentation of ACD defined by symmetric erythema of the gluteal and inguinal area in addition to other flexural sites [7]."
+  },
+  {
+    "id": 8,
+    "chapterId": 17,
+    "question": "What is the most important clue suggesting that a patient's dermatitis has an occupational cause?",
+    "options": [
+      "The presence of vesicles",
+      "Spread to distant sites (face and feet)",
+      "Improvement during periods away from work",
+      "Coexistence with psoriasis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Improvement of the dermatitis during periods away from work is an important clue to an occupational cause [8]."
+  },
+  {
+    "id": 9,
+    "chapterId": 17,
+    "question": "Which type of personal protective equipment (PPE) is most frequently associated with causing occupational contact dermatitis?",
+    "options": [
+      "Face masks",
+      "Gloves",
+      "Safety glasses",
+      "Respirators"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hand dermatitis due to gloves is the most common PPE-related dermatitis [7]."
+  },
+  {
+    "id": 10,
+    "chapterId": 17,
+    "question": "Which strong acid is unique because it causes liquefactive necrosis and can penetrate down to bone, continuing for several days after exposure?",
+    "options": [
+      "Sulfuric acid",
+      "Hydrochloric acid",
+      "Chromic acid",
+      "Hydrofluoric acid"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hydrofluoric acid differs from other strong acids in that it causes a liquefactive necrosis; penetration, even down to bone, can continue for several days after exposure. Pain, which can last several days, is typical [9]."
+  },
+  {
+    "id": 11,
+    "chapterId": 17,
+    "question": "Why are chemical burns caused by strong alkalis generally more severe than those caused by most strong acids (apart from hydrofluoric acid)?",
+    "options": [
+      "Alkalis act primarily as oxidants.",
+      "Alkalis cause vasoconstriction leading to necrosis.",
+      "Alkalis aid penetration deeper into the skin by degrading lipids and saponifying fatty acids.",
+      "Alkalis are more easily absorbed systemically."
+    ],
+    "correctIndex": 2,
+    "explanation": "Degradation of lipids and saponification of the resulting fatty acids form soaps which aid the penetration of alkalis deeper into the skin. As a consequence, damage is more severe than with most acids (apart from hydrofluoric acid) [9]."
+  },
+  {
+    "id": 12,
+    "chapterId": 17,
+    "question": "Which underlying factor increases an employee's risk of developing occupational dermatitis, especially with hand involvement?",
+    "options": [
+      "Previous history of psoriasis",
+      "Previous atopic dermatitis",
+      "Male gender",
+      "Lack of sensitization to formaldehyde"
+    ],
+    "correctIndex": 1,
+    "explanation": "Employees with previous atopic dermatitis, especially with hand involvement, are particularly at risk, as are those with mutations in the filaggrin gene [3]."
+  },
+  {
+    "id": 13,
+    "chapterId": 17,
+    "question": "What is the primary mechanism of skin injury in Fiberglass dermatitis?",
+    "options": [
+      "IgE-mediated reaction to chemical coatings",
+      "Direct chemical toxicity leading to necrosis",
+      "Direct mechanical penetration of the glass fibers",
+      "Delayed-type hypersensitivity to fiber material"
+    ],
+    "correctIndex": 2,
+    "explanation": "The mechanism of skin injury in fiberglass dermatitis is via direct penetration, which is directly proportional to the diameter (>3.5 microns) of the fiber and inversely proportional to its length [10]."
+  },
+  {
+    "id": 14,
+    "chapterId": 17,
+    "question": "What physical finding may develop at sites of friction and repeated rubbing, often specific to a particular job?",
+    "options": [
+      "Vesicles",
+      "White fingers",
+      "Sclerodactyly",
+      "Callus or lichenification"
+    ],
+    "correctIndex": 3,
+    "explanation": "Occupational marks are usually areas of lichenification or calluses and corns that develop at sites of friction and are specific to a particular job [11], [12]."
+  },
+  {
+    "id": 15,
+    "chapterId": 17,
+    "question": "In the hierarchy of occupational disease prevention, which measure is categorized as 'Tertiary prevention'?",
+    "options": [
+      "Workforce education in skin care",
+      "Health surveillance",
+      "Treatment of active disease (medical management)",
+      "Chemical substitution"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tertiary prevention involves the Treatment of active disease and avoidance measures [13]."
+  },
+  {
+    "id": 16,
+    "chapterId": 17,
+    "question": "What is the recommended guideline regarding wearing rings in the workplace to prevent contact dermatitis?",
+    "options": [
+      "Wear waterproof rings only.",
+      "Do not wear rings, as chemicals/water accumulate underneath.",
+      "Only wear rings with a cotton inner liner.",
+      "Rings should be worn only during wet work."
+    ],
+    "correctIndex": 1,
+    "explanation": "A guideline aimed at preventing contact dermatitis is: Do not wear rings, because chemicals/water accumulate underneath [14]."
+  },
+  {
+    "id": 17,
+    "chapterId": 17,
+    "question": "The phototoxic reaction known as 'tar/pitch smarts' is caused by exposure to coal tar and its products, resulting in what initial sensation after sun exposure?",
+    "options": [
+      "Intense pruritus",
+      "Burning or stinging sensation",
+      "Painless blanching",
+      "Immediate blistering"
+    ],
+    "correctIndex": 1,
+    "explanation": "Coal tar and its products, including creosote, can cause a reaction known as tar/pitch smarts. A burning or stinging sensation develops after as little as 15 minutes of sun exposure [15]."
+  },
+  {
+    "id": 18,
+    "chapterId": 17,
+    "question": "What percentage of cases of occupational skin cancer reported in the UK are attributed to solar UV exposure?",
+    "options": [
+      "~2%",
+      "~22%",
+      "~50%",
+      "~95%"
+    ],
+    "correctIndex": 3,
+    "explanation": "Solar UV exposure has risen to account for ~95% of cases of occupational skin cancer reported in the UK [16]."
+  },
+  {
+    "id": 19,
+    "chapterId": 17,
+    "question": "Which type of chemical carcinogen is historically associated with scrotal cancer in chimney sweeps, often preceded by 'soot warts'?",
+    "options": [
+      "Aromatic amines",
+      "Ionizing radiation",
+      "Inorganic arsenic",
+      "Polycyclic aromatic hydrocarbons (e.g., tars, pitches)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sir Percivall Pott described the occurrence of scrotal cancer in chimney sweeps (associated with soot/tar/pitch exposure), often preceded by keratotic lesions known as soot warts [17]. Polycyclic aromatic hydrocarbons are listed as a major class of chemical carcinogens [18], [19]."
+  },
+  {
+    "id": 20,
+    "chapterId": 17,
+    "question": "Which tumor type must arise in sun-exposed skin and is now recognized and compensated as an occupational disease in Germany for outdoor workers meeting specific exposure criteria?",
+    "options": [
+      "Basal cell carcinoma (BCC)",
+      "Squamous cell carcinoma (SCC)",
+      "Cutaneous melanoma",
+      "Angiosarcoma"
+    ],
+    "correctIndex": 1,
+    "explanation": "Actinic keratoses (AKs) and cutaneous SCCs were recognized and compensated as occupational diseases in Germany, provided the SCCs arise in sun-exposed skin and the worker meets specific UV exposure requirements [16]."
+  },
+  {
+    "id": 21,
+    "chapterId": 17,
+    "question": "Chloracne is a cutaneous sign of systemic exposure caused by which class of chemicals?",
+    "options": [
+      "Non-halogenated organic solvents",
+      "Polychlorinated dibenzodioxins (PCDDs) and dibenzofurans (PCDFs)",
+      "Inorganic arsenic compounds",
+      "Mineral oils and greases"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chloracne is caused by exposure to certain halogenated polycyclic hydrocarbons such as polychlorinated dibenzodioxins (PCDDs) and dibenzofurans (PCDFs) [20], [12]."
+  },
+  {
+    "id": 22,
+    "chapterId": 17,
+    "question": "Chloracne is distinguished from ordinary acne vulgaris by the predominance of which type of lesion and specific location?",
+    "options": [
+      "Predominance of closed comedones in the T-zone",
+      "Predominance of open comedones, especially over the malar crescent and behind the ears",
+      "Deep, painful nodules on the trunk only",
+      "Microcomedones limited to the forehead"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chloracne is distinguished from ordinary acne vulgaris by the predominance of open (over closed) comedones and a concentration of lesions over the malar crescent and behind the ears [21]."
+  },
+  {
+    "id": 23,
+    "chapterId": 17,
+    "question": "Acne mechanica is a form of inflammatory acne exacerbated by repeated:",
+    "options": [
+      "UV light exposure",
+      "Exposure to unhardened epoxy resin",
+      "Frictional trauma that occludes the follicle",
+      "Ingestion of iodides"
+    ],
+    "correctIndex": 2,
+    "explanation": "Acne mechanica is a form of acne, usually inflammatory, that is exacerbated by repeated frictional trauma that occludes the follicle [22]."
+  },
+  {
+    "id": 24,
+    "chapterId": 17,
+    "question": "Vibration White Finger is primarily associated with occupational exposure to vibrations within which frequency range?",
+    "options": [
+      "1 to 10 Hz",
+      "30 to 300 Hz",
+      "500 to 1000 Hz",
+      "Above 2000 Hz"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vibrations between 30 and 300 Hz are most strongly associated with development of this disorder [23]."
+  },
+  {
+    "id": 25,
+    "chapterId": 17,
+    "question": "In the clinical presentation of Vibration White Finger, which characteristic distinguishes the blanching from that seen in Raynaud disease?",
+    "options": [
+      "It affects all ten fingers symmetrically.",
+      "The blanching is asymmetric and occurs only on the digits most exposed to vibration (thumbs are usually spared).",
+      "It is always triggered by work with the vibrating tool itself.",
+      "It results in permanent trophic changes immediately upon onset."
+    ],
+    "correctIndex": 1,
+    "explanation": "In contrast to the symmetric distribution seen in Raynaud disease, in vibration white finger the blanching is asymmetric and occurs only on those digits most exposed to vibration; the thumbs are usually spared [24]."
+  },
+  {
+    "id": 26,
+    "chapterId": 17,
+    "question": "Which mechanism mediates Immunologic Contact Urticaria (ICU)?",
+    "options": [
+      "T cell release of cytokines (Type IV)",
+      "Allergen-specific IgE binding to mast cells (Type I)",
+      "Prostaglandin release inhibited by NSAIDs",
+      "Cytotoxicity and necrosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Immunologic contact urticaria is mediated by allergen-specific IgE. Binding of antigen, usually protein, to mast cells in a previously sensitized individual results in degranulation and release of mast cell mediators, including histamine [25]."
+  },
+  {
+    "id": 27,
+    "chapterId": 17,
+    "question": "For latex-sensitive patients, hypersensitivity reactions to which group of foods may also occur due to similar antigens (cross-reaction)?",
+    "options": [
+      "Wheat, rye, and barley (grains)",
+      "Fish (salmon, swordfish, sole)",
+      "Shellfish (crab, prawn, lobster)",
+      "Bananas, avocados, and chestnuts"
+    ],
+    "correctIndex": 3,
+    "explanation": "In a subgroup of latex-sensitive patients, hypersensitivity reactions to bananas, avocados, chestnuts, kiwis and other fruits may also occur [26], [27]."
+  },
+  {
+    "id": 28,
+    "chapterId": 17,
+    "question": "Which occupation in Finland showed the highest relative risk for developing contact urticaria, based on occupational statistics?",
+    "options": [
+      "Nurses",
+      "Bakers",
+      "Butchers",
+      "Agricultural workers"
+    ],
+    "correctIndex": 1,
+    "explanation": "The relative risk by occupation for developing contact urticaria showed bakers having the highest risk [28]."
+  },
+  {
+    "id": 29,
+    "chapterId": 17,
+    "question": "Which occupational infection is caused by *Erysipelothrix rhusiopathiae* and typically affects individuals handling shellfish, fish, birds, or mammals (especially pigs)?",
+    "options": [
+      "Orf",
+      "Milker’s nodule",
+      "Erysipeloid",
+      "Fish tank granuloma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Erysipeloid is caused by *Erysipelothrix rhusiopathiae (insidiosa)* and affects fishermen, abattoir workers, farmers, butchers, cooks, and veterinarians exposed to shellfish, fish, birds, and mammals (especially pigs) [29]."
+  },
+  {
+    "id": 30,
+    "chapterId": 17,
+    "question": "In the assessment of suspected Type I latex allergy, if the specific IgE blood test is negative, what is the next definitive step advocated to confirm the diagnosis?",
+    "options": [
+      "Patch testing for chemical accelerators",
+      "Usage test (wearing the glove on a moistened hand)",
+      "Skin biopsy",
+      "Immediate change of occupation"
+    ],
+    "correctIndex": 1,
+    "explanation": "If the specific IgE blood test is negative for latex allergy, the next step is to Confirm with usage test (wearing the suspect glove on a moistened hand) [30]."
+  },
+  {
+    "id": 1,
+    "chapterId": 18,
+    "question": "The scientific name for common poison ivy was changed from the genus *Rhus* to which distinct genus?",
+    "options": [
+      "*Anacardiaceae*",
+      "*Toxicodendron*",
+      "*Magnoliophyta*",
+      "*Opuntia*"
+    ],
+    "correctIndex": 1,
+    "explanation": "Research revealed that poison ivy, formerly known as *Rhus radicans* or *Rhus toxicodendron*, should be classified as a distinct genus, *Toxicodendron*, making the correct scientific name *Toxicodendron radicans* [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 18,
+    "question": "In botanical nomenclature, the two names given to every plant entity consist of:",
+    "options": [
+      "The family name followed by the class name",
+      "The generic name followed by a specific epithet",
+      "The order name followed by the species name",
+      "The common name followed by the author's name"
+    ],
+    "correctIndex": 1,
+    "explanation": "The nomenclatural scheme gives every entity two names: a generic name followed by a specific epithet (e.g., *Toxicodendron radicans*) [2]."
+  },
+  {
+    "id": 3,
+    "chapterId": 18,
+    "question": "Which type of plant dermatosis is classified as a phototoxic reaction, requiring UVA light and a topical or oral photosensitizer?",
+    "options": [
+      "Toxin-mediated contact urticaria",
+      "Mechanical irritant dermatitis",
+      "Allergic contact dermatitis",
+      "Phytophotodermatitis"
+    ],
+    "correctIndex": 3,
+    "explanation": "Phytophotodermatitis connotes phototoxic reactions consisting of erythema (with or without blistering) and delayed hyperpigmentation following exposure to plants. It is a non-immunologic reaction requiring UVA light plus topical or oral contact with a photosensitizer [3]."
+  },
+  {
+    "id": 4,
+    "chapterId": 18,
+    "question": "Which plant family is responsible for causing more allergic contact dermatitis than all other plant families combined?",
+    "options": [
+      "Asteraceae (Daisy family)",
+      "Urticaceae (Nettle family)",
+      "Rutaceae (Citrus family)",
+      "Anacardiaceae (Sumac or Cashew family)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Members of the Anacardiaceae family cause more allergic contact dermatitis than all other plant families combined [4], [5]."
+  },
+  {
+    "id": 5,
+    "chapterId": 18,
+    "question": "The primary allergen responsible for allergic contact dermatitis caused by plants in the Anacardiaceae family is:",
+    "options": [
+      "Tulipalin A",
+      "Glochids",
+      "Urushiol",
+      "Capsaicin"
+    ],
+    "correctIndex": 2,
+    "explanation": "Two major plant allergens are **urushiol** (Anacardiaceae family) and **sesquiterpene lactones** (Asteraceae family) [6]. *Toxicodendron* oleoresin contains urushiol [7]."
+  },
+  {
+    "id": 6,
+    "chapterId": 18,
+    "question": "The primary photosensitizing chemicals responsible for Phytophotodermatitis are:",
+    "options": [
+      "Calcium oxalates",
+      "Phorbol esters",
+      "Furocoumarins (psoralens and angelicins)",
+      "Sesquiterpene lactones (SQLs)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Furocoumarins (psoralens and angelicins) are the most common photosensitizers causing Phytophotodermatitis [3]."
+  },
+  {
+    "id": 7,
+    "chapterId": 18,
+    "question": "Which combination of plants is cited as the most common cause of Phytophotodermatitis?",
+    "options": [
+      "Chrysanthemums, tulips, and garlic",
+      "Stinging nettles, daffodils, and prickly pear",
+      "Limes, celery, and rue (herb-of-grace)",
+      "Poinsettias, rhubarb, and common ivy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Limes, celery, and rue (herb-of-grace) are the most common causes of Phytophotodermatitis [3]."
+  },
+  {
+    "id": 8,
+    "chapterId": 18,
+    "question": "In Phytophotodermatitis, the initial erythematous and bullous reaction typically appears after 24 hours and peaks at approximately:",
+    "options": [
+      "12 hours",
+      "24 hours",
+      "72 hours",
+      "1 week"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bizarre configurations of erythema, edema, and bullae appear after 24 hours and peak at 72 hours [8]."
+  },
+  {
+    "id": 9,
+    "chapterId": 18,
+    "question": "Which plant is the most common cause of Toxin-Mediated (Non-immunologic) Contact Urticaria in the US?",
+    "options": [
+      "*Toxicodendron radicans*",
+      "*Urtica dioica* (Stinging nettle)",
+      "*Capsicum annuum* (Hot pepper)",
+      "*Opuntia spp.* (Prickly pear)"
+    ],
+    "correctIndex": 1,
+    "explanation": "The most common culprit in the US causing toxin-mediated urticaria is the stinging nettle (*Urtica dioica*) [9], [10]."
+  },
+  {
+    "id": 10,
+    "chapterId": 18,
+    "question": "The sharp hairs (trichomes) of stinging nettles release a chemical cocktail that includes:",
+    "options": [
+      "Furocoumarins and tulipalin A",
+      "Histamine, acetylcholine, and serotonin",
+      "Bromelain and capsaicin",
+      "Calcium oxalate and urushiol"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stinging nettle trichomes release an irritant chemical cocktail (histamine, acetylcholine, serotonin) [11], [12]."
+  },
+  {
+    "id": 11,
+    "chapterId": 18,
+    "question": "Which type of plant dermatosis is defined by small fishhook-shaped spines embedding in the skin, commonly caused by prickly pears?",
+    "options": [
+      "Chemical irritant dermatitis",
+      "Mechanical irritant dermatitis",
+      "Toxin-mediated contact urticaria",
+      "Protein contact dermatitis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mechanical irritant dermatitis involves small fishhook-shaped spines (glochids) that can embed in the skin, with prickly pears (*Opuntia spp.*) being a cause of glochid dermatitis [13], [14]."
+  },
+  {
+    "id": 12,
+    "chapterId": 18,
+    "question": "In a controlled study, the most effective method for removing *Opuntia* glochids involved detaching larger clumps with tweezers and then applying:",
+    "options": [
+      "Ice packs and petroleum jelly",
+      "Acid wash followed by neutralizing cream",
+      "Glue and gauze to the affected area",
+      "High-pressure water jet"
+    ],
+    "correctIndex": 2,
+    "explanation": "In a controlled study, *Opuntia* glochids were most effectively removed by first detaching the larger clumps with tweezers and then applying glue and gauze to the affected area [15]."
+  },
+  {
+    "id": 13,
+    "chapterId": 18,
+    "question": "Which chemical irritant, found in daffodils and narcissus, is a major cause of plant-related irritant dermatitis in florists and horticulturalists ('daffodil itch')?",
+    "options": [
+      "Protoanemonin",
+      "Calcium oxalate",
+      "Thiocyanate",
+      "Primin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Daffodil sap contains **calcium oxalate** and causes 'daffodil itch,' probably the most common dermatitis in florists [16], [17]."
+  },
+  {
+    "id": 14,
+    "chapterId": 18,
+    "question": "The active principle capsaicin in hot peppers (*Capsicum annuum*) causes 'chili burns' by:",
+    "options": [
+      "Causing massive intraepidermal vesiculation",
+      "Depolarizing cutaneous nerves",
+      "Saponifying skin lipids",
+      "Inducing IgE-mediated wheal formation"
+    ],
+    "correctIndex": 1,
+    "explanation": "When applied to skin, the active principle, capsaicin, depolarizes nerves causing vasodilation, smooth muscle stimulation, glandular secretion, and sensory nerve activation. Because only nerves are affected, there is erythema but no vesicles or bullae [18]."
+  },
+  {
+    "id": 15,
+    "chapterId": 18,
+    "question": "Which plant, common in homes and public places, contains water-insoluble calcium oxalate that can cause mucosal edema and hoarseness ('dumb cane') if chewed?",
+    "options": [
+      "*Narcissus spp.*",
+      "*Euphorbia pulcherrima*",
+      "*Dieffenbachia picta*",
+      "*Agave americana*"
+    ],
+    "correctIndex": 2,
+    "explanation": "Calcium oxalate is found in *Dieffenbachia picta* ('dumb cane'), a plant that decorates millions of homes. When leaves are chewed, salivation, burning, mucosal edema, and blistering follow, causing hoarseness or aphonia [19], [20]."
+  },
+  {
+    "id": 16,
+    "chapterId": 18,
+    "question": "Chronic dermatitis on the hands and fingertips (Protein Contact Dermatitis) is characterized by urticating within minutes of contact with the offending allergen and typically having negative results on which standard test?",
+    "options": [
+      "Prick tests",
+      "Scratch-chamber tests",
+      "Patch tests",
+      "Open application tests"
+    ],
+    "correctIndex": 2,
+    "explanation": "The term 'protein contact dermatitis' describes a chronic dermatitis in which patch tests are typically negative but prick tests to large protein allergens are positive [21]."
+  },
+  {
+    "id": 17,
+    "chapterId": 18,
+    "question": "The 'black-spot test' used to identify toxic Anacardiaceae relies on the plant enzyme laccase oxidizing urushiol to form an insoluble, black, plastic-like polymer. Within what time frame does the urushiol typically turn dark brown?",
+    "options": [
+      "Immediately upon crushing",
+      "Within 10 minutes",
+      "By 48 hours",
+      "After 1 week"
+    ],
+    "correctIndex": 1,
+    "explanation": "Urushiol turns dark brown within 10 minutes and black by 24 hours, facilitated by the enzyme laccase, which oxidizes urushiol to form an insoluble, black, plastic-like polymer [7]."
+  },
+  {
+    "id": 18,
+    "chapterId": 18,
+    "question": "Which characteristic finding helps distinguish Phytophotodermatitis lesions from those of poison ivy dermatitis in the initial bullous/erythematous phase?",
+    "options": [
+      "Phytophotodermatitis always causes severe pruritus.",
+      "PPD lesions occur only in sun-exposed areas.",
+      "PPD lesions are always delayed more than 1 week.",
+      "PPD lesions are characterized by non-pruritic wheals."
+    ],
+    "correctIndex": 1,
+    "explanation": "To avoid misdiagnosis as poison ivy dermatitis, physicians must note that the initial erythematous and bullous reaction in Phytophotodermatitis only occurs in sun-exposed areas. These reactions are typically painful and non-pruritic [8]."
+  },
+  {
+    "id": 19,
+    "chapterId": 18,
+    "question": "Which characteristic feature is associated with common poison ivy (*Toxicodendron radicans*) identification?",
+    "options": [
+      "Leaves with five leaflets and fruit arising terminally.",
+      "Flowers or fruit arising from an axillary position and climbing by hairy aerial rootlets.",
+      "Thorns on woody stems and brightly colored fruit.",
+      "Finely serrated leaves and flowers in simple umbels."
+    ],
+    "correctIndex": 1,
+    "explanation": "Poison ivy identification features include: compound leaves with three leaflets, flowers or fruit arising from the axillary position, and climbing as a vine with hairy aerial roots [22], [5]."
+  },
+  {
+    "id": 20,
+    "chapterId": 18,
+    "question": "Which common fruit tree, popular in tropical and subtropical America, contains sensitizing resorcinols in its leaves, bark, stems, and fruit skin?",
+    "options": [
+      "Sweet orange (*Citrus sinensis*)",
+      "Fig tree (*Ficus carica*)",
+      "Cashew nut tree (*Anacardium occidentale*)",
+      "Mango (*Mangifera indica*)"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mango (*Mangifera indica*) is the most popular fruit tree in tropical and subtropical America. The leaves, bark, stems, and fruit skin contain sensitizing resorcinols [23]."
+  },
+  {
+    "id": 21,
+    "chapterId": 18,
+    "question": "What is the recommended maximum duration for oral prednisone tapering courses used to treat severe poison ivy dermatitis?",
+    "options": [
+      "6 days",
+      "1 week",
+      "2–3 weeks",
+      "4 weeks or more"
+    ],
+    "correctIndex": 2,
+    "explanation": "Oral prednisone should be dosed at 1–2 mg/kg/day based upon ideal weight and gradually tapered over 2–3 weeks, as shorter courses (e.g., 6-day tapering courses) are often too low dose and lead to rebound inflammation [24]."
+  },
+  {
+    "id": 22,
+    "chapterId": 18,
+    "question": "What is the key mechanism responsible for the severe bullous reactions caused by phototoxic furocoumarins in the skin within 2 hours of UVA exposure?",
+    "options": [
+      "Covalent interstrand DNA cross-links",
+      "Activation of IgE-mediated mast cell degranulation",
+      "Formation of reactive oxygen species inducing cytoplasmic vacuolization and membrane rupture of keratinocytes",
+      "Destruction of melanocytes leading to vitiligo"
+    ],
+    "correctIndex": 2,
+    "explanation": "In the presence of UVA, psoralens interact with molecular oxygen and form reactive oxygen species that induce cytoplasmic vacuolization and membrane rupture of keratinocytes, leading to blister formation within 2 hours of UVA exposure [25]."
+  },
+  {
+    "id": 23,
+    "chapterId": 18,
+    "question": "Which chemical found in Ranunculaceae (e.g., buttercups), causes severe, linear vesiculation but does not lead to subsequent hyperpigmentation, aiding in the differentiation from early phytophotodermatitis?",
+    "options": [
+      "Protoanemonin",
+      "5-methoxypsoralen (5-MOP)",
+      "Allicin",
+      "Tulipalin B"
+    ],
+    "correctIndex": 0,
+    "explanation": "Buttercups contain the glycoside ranunculin, which is converted to **protoanemonin** after plant injury. Protoanemonin causes severe, linear vesiculation that may resemble early phytophotodermatitis, but no hyperpigmentation ensues [18]."
+  },
+  {
+    "id": 24,
+    "chapterId": 18,
+    "question": "In the management of weepy, acute plant-induced dermatitis (e.g., poison ivy), which treatment method is recommended to cool and dry the lesions?",
+    "options": [
+      "Topical antihistamines",
+      "Topical calcineurin inhibitors",
+      "Wet-to-dry soaks or open wet dressings with Burow’s solution (aluminum acetate)",
+      "Continuous application of petrolatum"
+    ],
+    "correctIndex": 2,
+    "explanation": "Weepy lesions are best treated with tepid baths, wet-to-dry soaks, or bland shake lotions (calamine). An astringent such as Burow’s solution (aluminum acetate) works well to cool and dry lesions when applied as a wet-to-dry dressing or open wet dressing [26]."
+  },
+  {
+    "id": 25,
+    "chapterId": 18,
+    "question": "Which infectious microorganism has been associated with cutaneous inoculation injuries from cactus spines in the setting of mechanical irritant dermatitis?",
+    "options": [
+      "*Clostridium tetani*",
+      "*Sporothrix schenckii*",
+      "*Mycobacterium marinum*",
+      "*Staphylococcus aureus*"
+    ],
+    "correctIndex": 2,
+    "explanation": "Spine and thorn injuries can be complicated by cutaneous inoculation of microorganisms. Atypical mycobacteria such as *Mycobacterium marinum* (from cactus spines) have added infectious insult to mechanical injury [27]."
+  },
+  {
+    "id": 26,
+    "chapterId": 18,
+    "question": "The most common cause of allergic contact dermatitis among home gardeners is:",
+    "options": [
+      "Tulip bulbs (*Tulipa spp.*)",
+      "Peruvian lilies (*Alstroemeria spp.*)",
+      "Chrysanthemums (*X Dendranthema cultivars*)",
+      "Primulas (*Primula obconica*)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chrysanthemums probably cause more allergic contact dermatitis than any other home garden plant, especially among florists who engage in 'dead-heading' [28]."
+  },
+  {
+    "id": 27,
+    "chapterId": 18,
+    "question": "Allergic Contact Dermatitis caused by *Parthenium hysterophorus* (congress grass) in India most commonly presents with which pattern?",
+    "options": [
+      "Erythema multiforme",
+      "Chronic actinic dermatitis (CAD) only",
+      "Airborne contact pattern (ABCD)",
+      "Hyperkeratosis and fissures of the fingertips"
+    ],
+    "correctIndex": 2,
+    "explanation": "*Parthenium hysterophorus* allergic contact dermatitis most commonly presents with an Airborne Contact Dermatitis (ABCD) pattern (45% of patients in one study) [29]."
+  },
+  {
+    "id": 28,
+    "chapterId": 18,
+    "question": "To detect approximately 96% of individuals with Sesquiterpene Lactone (SQL) allergy, the recommended patch testing approach involves a combination of three compounds, including the SQL mix, Compositae II mix, and:",
+    "options": [
+      "Urushiol",
+      "Primin",
+      "Parthenolide",
+      "Neroli oil"
+    ],
+    "correctIndex": 2,
+    "explanation": "A combination of three commercially available patch tests – SQL mix, Compositae II mix, and parthenolide (also contained in Compositae II mix) – detects 96% of known SQL allergic individuals [30]."
+  },
+  {
+    "id": 29,
+    "chapterId": 18,
+    "question": "Which plant, highly prevalent in the Pacific Northwest, causes 'woodcutter’s eczema' via rainwater-dispersed sesquiterpene lactones (SQLs)?",
+    "options": [
+      "Poison sumac (*Toxicodendron vernix*)",
+      "Ginkgo tree (*Ginkgo biloba*)",
+      "Liverworts (*Frullania spp.*)",
+      "Tea tree (*Melaleuca alternifolia*)"
+    ],
+    "correctIndex": 2,
+    "explanation": "Forestry workers in the American and Canadian Pacific Northwest may develop 'woodcutter’s eczema', an allergic contact dermatitis caused by airborne or rainwater-dispersed SQLs from liverworts (*Frullania spp.*) growing on trees and rocks [31]."
+  },
+  {
+    "id": 30,
+    "chapterId": 18,
+    "question": "Immunologic Contact Urticaria is considered rather uncommon, with approximately 95% of cases being related to:",
+    "options": [
+      "Recreational activities (hiking)",
+      "Exposure to raw vegetables and fruits",
+      "Work-related activities (occupational exposure)",
+      "Systemic ingestion of allergens"
+    ],
+    "correctIndex": 2,
+    "explanation": "Immunologic contact urticaria is rather uncommon. Approximately 95% of cases are work-related, with long-time food handlers with underlying dermatitis being at greatest risk [32]."
+  },
+  {
+    "id": 1,
+    "chapterId": 19,
+    "question": "By definition, individual lesions known as wheals typically resolve within which time frame?",
+    "options": [
+      "4 hours",
+      "12 hours",
+      "24 hours",
+      "72 hours"
+    ],
+    "correctIndex": 2,
+    "explanation": "Wheals are pruritic, pink or pale swellings of the superficial dermis. By definition, individual lesions come and go rapidly, generally within 24 hours [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 19,
+    "question": "Which characteristic is typical of angioedema swellings, in contrast to superficial wheals?",
+    "options": [
+      "Pruritic and pale center",
+      "Occur only in the oropharynx",
+      "Often painful, larger, less well-defined, and may last 2 to 3 days",
+      "Resolve within 1 hour"
+    ],
+    "correctIndex": 2,
+    "explanation": "Angioedema swellings occur deeper in the dermis and in the subcutaneous or submucosal tissue. They are often painful, less well-defined, and typically last for 2 to 3 days [2], [3]."
+  },
+  {
+    "id": 3,
+    "chapterId": 19,
+    "question": "What is the overall lifetime prevalence rate reported for chronic urticaria in a recent meta-analysis?",
+    "options": [
+      "0.7%",
+      "1.4%",
+      "8%",
+      "22%"
+    ],
+    "correctIndex": 1,
+    "explanation": "In a recent meta-analysis, chronic urticaria had an overall lifetime prevalence rate of 1.4% [2]."
+  },
+  {
+    "id": 4,
+    "chapterId": 19,
+    "question": "What is the typical female-to-male ratio observed for Chronic Spontaneous Urticaria (CSU)?",
+    "options": [
+      "1:1",
+      "1:2",
+      "2:1",
+      "4:1"
+    ],
+    "correctIndex": 2,
+    "explanation": "Overall, urticaria is more common in women, with a female : male ratio of approximately 2 : 1 for Chronic Spontaneous Urticaria (CSU) [4]."
+  },
+  {
+    "id": 5,
+    "chapterId": 19,
+    "question": "Mast cells located in the bowel mucosa, alveolar wall, and nasal mucosa primarily contain which neutral protease?",
+    "options": [
+      "Chymase only (MCT)",
+      "Tryptase only (MCT)",
+      "Tryptase and Chymase (MCTC)",
+      "Elastase"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mast cells in the bowel mucosa, alveolar wall, and nasal mucosa contain only tryptase (MCT), whereas those in the skin and intestinal submucosa contain tryptase and chymase (MCTC) [5]."
+  },
+  {
+    "id": 6,
+    "chapterId": 19,
+    "question": "Which cell is recognized as the primary effector cell in the pathogenesis of urticaria?",
+    "options": [
+      "Keratinocyte",
+      "B cell",
+      "Mast cell",
+      "Eosinophil"
+    ],
+    "correctIndex": 2,
+    "explanation": "The mast cell is the primary effector cell of urticaria [5]."
+  },
+  {
+    "id": 7,
+    "chapterId": 19,
+    "question": "Which finding is crucial for clinically distinguishing urticarial vasculitis from Chronic Spontaneous Urticaria (CSU)?",
+    "options": [
+      "Presence of angioedema",
+      "Duration of individual wheals lasting more than 24 hours",
+      "Coexistence with autoimmune thyroid disease",
+      "Presence of IgE autoantibodies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Urticarial vasculitis is a systemic disease defined by damage to small blood vessels. It must be excluded in patients with chronic urticaria, requiring confirmation that individual wheals last more than 24 hours (by serial examination of marked lesions) and a lesional skin biopsy [6], [7], [8]."
+  },
+  {
+    "id": 8,
+    "chapterId": 19,
+    "question": "Isolated angioedema without wheals is of special significance because some patients may have a deficiency of C1 esterase inhibitor (C1 inh), resulting in edema formation mediated by:",
+    "options": [
+      "Histamine release from mast cells",
+      "Bradykinin formation",
+      "IgE-dependent allergic reactions",
+      "Complement component C5a"
+    ],
+    "correctIndex": 1,
+    "explanation": "Isolated angioedema (without wheals) is significant because some patients will have a deficiency of C1 esterase inhibitor (C1 inh), which is due to bradykinin formation rather than release of mast cell mediators [6], [9]."
+  },
+  {
+    "id": 9,
+    "chapterId": 19,
+    "question": "Which factor is explicitly listed as a stimulus that can lead to mast cell degranulation independent of FcεRI activation?",
+    "options": [
+      "Allergen cross-linking IgE",
+      "IgG anti-IgE antibodies",
+      "Substance P",
+      "IgM anti-FcεRI antibodies"
+    ],
+    "correctIndex": 2,
+    "explanation": "Stimuli that can lead to mast cell degranulation independent of FcεRI activation include C5a, stem cell factor, and agents that bind MRGPRX2 (MAS-related G-protein coupled receptor X2); the latter includes substance P and drugs such as opioids [10], [11]."
+  },
+  {
+    "id": 10,
+    "chapterId": 19,
+    "question": "What is considered the most important preformed mediator of inflammation released from mast cell granules upon degranulation?",
+    "options": [
+      "Tryptase",
+      "Histamine",
+      "Leukotrienes C4, D4, E4",
+      "GM-CSF"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mast cell granules contain preformed mediators of inflammation, the most important of which is histamine [12], [13]."
+  },
+  {
+    "id": 11,
+    "chapterId": 19,
+    "question": "Which group of newly synthesized mediators released from mast cells are collectively known as the slow releasing substance of anaphylaxis?",
+    "options": [
+      "Tryptase and Heparin",
+      "Prostaglandin D2 and Cytokines",
+      "Leukotrienes C4, D4, and E4",
+      "Histamine and Platelet-activating factor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Newly synthesized mediators include Prostaglandin D2 and the leukotrienes (LT) C4, D4, and E4, which are known as the slow releasing substance of anaphylaxis [13]."
+  },
+  {
+    "id": 12,
+    "chapterId": 19,
+    "question": "Based upon *in vitro* assays, what percentage of patients with Chronic Spontaneous Urticaria (CSU) have functional IgG autoantibodies that release histamine?",
+    "options": [
+      "10%–20%",
+      "30%–50%",
+      "60%–70%",
+      "80%–90%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Functional IgG autoantibodies that release histamine (and other mediators) from mast cells and basophils have been detected in the serum of 30%–50% of patients with CSU [14]."
+  },
+  {
+    "id": 13,
+    "chapterId": 19,
+    "question": "The majority of functional autoantibodies in Chronic Spontaneous Urticaria (CSU) bind which specific part of the FcεRI receptor?",
+    "options": [
+      "The intracellular beta subunit",
+      "The extracellular alpha subunit",
+      "The gamma chain dimer",
+      "The Fc portion of IgE"
+    ],
+    "correctIndex": 1,
+    "explanation": "The majority of these autoantibodies bind the extracellular $\\alpha$ subunit of FcεRI [14]. Those directed against the terminal $\\alpha 1$ domain are non-competitive [15]."
+  },
+  {
+    "id": 14,
+    "chapterId": 19,
+    "question": "How do peripheral blood basophils from CSU patients who are non-responders to anti-IgE antibodies typically behave *in vitro*?",
+    "options": [
+      "They show increased responsiveness due to sensitization.",
+      "They are reduced in number and less responsive, possibly due to desensitization.",
+      "They show increased expression of SHIP (src homology 2-containing inositol phosphatase).",
+      "They show normal histamine release levels."
+    ],
+    "correctIndex": 1,
+    "explanation": "In general, blood basophils from CSU patients are less responsive *in vitro* to anti-IgE antibodies as an immunologic stimulus, possibly through desensitization, and these cells are reduced in number [16]."
+  },
+  {
+    "id": 15,
+    "chapterId": 19,
+    "question": "Eosinophils may contribute to the persistence of wheals in CSU by generating LTC4, LTD4, and LTE4 and by releasing which toxic granule protein, which can trigger mast cells via MRGPRX2?",
+    "options": [
+      "Tryptase",
+      "Heparin",
+      "Major basic protein (MBP)",
+      "Tissue factor"
+    ],
+    "correctIndex": 2,
+    "explanation": "Eosinophils can contribute to the persistence of wheals by generating LTC4, LTD4, and LTE4 and by releasing toxic granule proteins, including major basic protein (MBP); the latter can trigger mast cells via MRGPRX2 [17]."
+  },
+  {
+    "id": 16,
+    "chapterId": 19,
+    "question": "Chronic Spontaneous Urticaria (CSU) has been strongly associated with which autoimmune condition?",
+    "options": [
+      "Systemic lupus erythematosus",
+      "Rheumatoid arthritis",
+      "Autoimmune thyroid disease",
+      "Pernicious anemia"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chronic spontaneous urticaria has been associated with autoimmune thyroid disease and other autoimmune conditions, including vitiligo, insulin-dependent diabetes, rheumatoid arthritis, and pernicious anemia [18]."
+  },
+  {
+    "id": 17,
+    "chapterId": 19,
+    "question": "Based on one survey of acute urticaria cases presenting to emergency dermatology clinics, what was the most frequent identified cause?",
+    "options": [
+      "Foods (1%)",
+      "Upper respiratory tract infections (40%)",
+      "Drugs (9%)",
+      "Idiopathic (50%)"
+    ],
+    "correctIndex": 1,
+    "explanation": "In one survey of acute urticaria causes, upper respiratory tract infections accounted for 40% of cases [19], [20]."
+  },
+  {
+    "id": 18,
+    "chapterId": 19,
+    "question": "What percentage of chronic urticaria cases are classified as Spontaneous (non-physical, non-vasculitic)?",
+    "options": [
+      "25%",
+      "45%",
+      "75%",
+      "95%"
+    ],
+    "correctIndex": 2,
+    "explanation": "75% of chronic urticaria cases are classified as Spontaneous (non-physical, non-vasculitic) [21]."
+  },
+  {
+    "id": 19,
+    "chapterId": 19,
+    "question": "Urticaria is generally classified as chronic if it persists for which duration?",
+    "options": [
+      "More than 24 hours",
+      "More than 1 week",
+      "More than 6 weeks",
+      "More than 6 months"
+    ],
+    "correctIndex": 2,
+    "explanation": "Urticarias become chronic after a period of time that is usually defined as 6 weeks or more [22]."
+  },
+  {
+    "id": 20,
+    "chapterId": 19,
+    "question": "Which statement accurately describes Simple immediate dermographism?",
+    "options": [
+      "It is the most common physical urticaria and is pruritic.",
+      "It is an exaggerated physiologic response, typically not pruritic.",
+      "It is delayed, appearing 30 minutes after stroking.",
+      "It is synonymous with white dermographism."
+    ],
+    "correctIndex": 1,
+    "explanation": "Simple immediate dermographism occurs in at least 5% of the normal population in response to moderate stroking of the skin and may be regarded as an exaggerated physiologic response and is typically not pruritic [23]."
+  },
+  {
+    "id": 21,
+    "chapterId": 19,
+    "question": "Delayed Pressure Urticaria (DPU) is characterized by swellings that develop after a delay of:",
+    "options": [
+      "Less than 10 minutes, lasting 30 minutes",
+      "15 minutes, lasting 4 hours",
+      "30 minutes to 12 hours, sometimes persisting for several days",
+      "24 hours, resolving within 48 hours"
+    ],
+    "correctIndex": 2,
+    "explanation": "Delayed pressure urticaria (DPU) is characterized by the development of deep erythematous swellings at sites of sustained pressure, after a delay of 30 minutes to 12 hours, and may persist for several days [24]."
+  },
+  {
+    "id": 22,
+    "chapterId": 19,
+    "question": "Cholinergic urticaria develops in response to stimulation of which structures by cholinergic sympathetic innervation?",
+    "options": [
+      "Arrector pili muscles",
+      "Adrenergic receptors on mast cells",
+      "Sweat glands",
+      "Postcapillary venules"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cholinergic urticaria develops in response to stimulation of cholinergic sympathetic innervation of the sweat glands. Release of acetylcholine from nerve endings leads to mast cell activation and histamine release [25]."
+  },
+  {
+    "id": 23,
+    "chapterId": 19,
+    "question": "Vibratory angioedema is a rare form of urticaria where a vibratory stimulus induces localized swelling and erythema, typically lasting for:",
+    "options": [
+      "30 minutes",
+      "4 hours",
+      "24 hours",
+      "72 hours"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vibratory angioedema is a very rare form of urticaria, where a vibratory stimulus induces localized swelling and erythema within minutes, lasting 30 minutes [26]."
+  },
+  {
+    "id": 24,
+    "chapterId": 19,
+    "question": "Non-immunologic Contact Urticaria caused by substances like benzoic acid may be mediated by which inflammatory compounds, allowing it to be suppressed by NSAIDs?",
+    "options": [
+      "Bradykinin",
+      "Prostaglandins (PGD2)",
+      "Histamine and Serotonin",
+      "IgG autoantibodies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Non-immunologic (i.e., non-allergic) contact urticaria, such as from exposure to sorbic acid and benzoic acid, may be mediated by PGD2 and can be inhibited by NSAIDs [27], [28]."
+  },
+  {
+    "id": 25,
+    "chapterId": 19,
+    "question": "Angiotensin-converting enzyme (ACE) inhibitor-induced angioedema results from the inhibition of endogenous kininase II, leading to increased production of:",
+    "options": [
+      "Histamine",
+      "Leukotrienes",
+      "C1 esterase inhibitor",
+      "Bradykinin"
+    ],
+    "correctIndex": 3,
+    "explanation": "ACE inhibitor-induced urticaria is believed to result from the inhibition of endogenous kininase II (also known as ACE), which leads to increased production of bradykinin via inhibition of its metabolism [29], [30]."
+  },
+  {
+    "id": 26,
+    "chapterId": 19,
+    "question": "Regarding H1 antihistamines in the management of chronic urticaria, what is the EAACI/GA2LEN/EDF/WAO consensus guideline recommendation for sedating H1 antihistamines?",
+    "options": [
+      "Strongly recommended as monotherapy",
+      "Strongly recommended against using as monotherapy",
+      "Recommended as first-line treatment for all patients",
+      "Used only during pregnancy and breastfeeding"
+    ],
+    "correctIndex": 1,
+    "explanation": "The EAACI/GA2LEN/EDF/WAO consensus guidelines on chronic urticaria strongly recommend against using sedating H1 antihistamines as monotherapy [31]."
+  },
+  {
+    "id": 27,
+    "chapterId": 19,
+    "question": "For chronic spontaneous urticaria (CSU) that shows little or no response to licensed doses of second-generation H1 antihistamines (First line), the next step recommended by guidelines is:",
+    "options": [
+      "Discontinue all antihistamines and start cyclosporine.",
+      "Increase the daily dose of the second-generation H1 antihistamine up to fourfold.",
+      "Start systemic corticosteroids immediately.",
+      "Add an H2 antagonist as monotherapy."
+    ],
+    "correctIndex": 1,
+    "explanation": "If there is little or no response to licensed doses of second-generation H1 antihistamines, guidelines recommend increasing the daily dose of the H1 antihistamine up to fourfold (though this is an unlicensed dosage) [32], [33]."
+  },
+  {
+    "id": 28,
+    "chapterId": 19,
+    "question": "Systemic corticosteroids (e.g., prednisone/prednisolone) are generally avoided for regular long-term treatment of chronic urticaria primarily due to:",
+    "options": [
+      "Lack of efficacy after 6 weeks of use.",
+      "Risk of rebound flares and unacceptable long-term side effects.",
+      "High cost compared to immunomodulatory agents.",
+      "Contradiction with all H1 antihistamines."
+    ],
+    "correctIndex": 1,
+    "explanation": "Regular treatment with oral corticosteroids should be avoided because of the usually prolonged duration of chronic urticaria and because of their predictable long-term side effects (e.g., hypertension, weight gain, osteoporosis). Rebound is also a common problem [34], [35]."
+  },
+  {
+    "id": 29,
+    "chapterId": 19,
+    "question": "What is the treatment of choice for anaphylactic shock or severe anaphylactoid reactions, including severe acute allergic urticaria of the throat?",
+    "options": [
+      "Prednisolone 50 mg daily",
+      "Subcutaneous or intramuscular epinephrine (adrenaline)",
+      "High-dose second-generation H1 antihistamines",
+      "Intravenous C1 esterase inhibitor concentrate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Epinephrine (adrenaline) by subcutaneous or intramuscular injection is the treatment of choice for anaphylactic shock or severe anaphylactoid reactions [36]."
+  },
+  {
+    "id": 30,
+    "chapterId": 19,
+    "question": "Which drug is specifically ineffective for the management of acute attacks in patients with C1 esterase inhibitor (C1 inh) deficiency?",
+    "options": [
+      "Intravenous C1 inh concentrate",
+      "Subcutaneous icatibant",
+      "Epinephrine",
+      "Subcutaneous ecallantide"
+    ],
+    "correctIndex": 2,
+    "explanation": "Intravenous C1 inh concentrate or recombinant C1 inh, subcutaneous icatibant (a specific bradykinin B2 receptor antagonist), or subcutaneous ecallantide (a kallikrein inhibitor) should be given in an emergency. Antihistamines, corticosteroids, and epinephrine are not effective in patients with C1 inh deficiency [37]."
+  },
+  {
+    "id": 1,
+    "chapterId": 20,
+    "question": "Erythema, defined as a change in skin color due to blood vessel dilation, is characterized by which physical property?",
+    "options": [
+      "Fixed brown hyperpigmentation",
+      "Non-blanchable purpura",
+      "Blanchable color (pink to dark red to violaceous)",
+      "Central necrosis"
+    ],
+    "correctIndex": 2,
+    "explanation": "Erythema represents a change in the color of the skin due to the dilation of blood vessels, especially those in the papillary and reticular dermis. The color, which is blanchable, can vary from pink to dark red to violaceous [1]."
+  },
+  {
+    "id": 2,
+    "chapterId": 20,
+    "question": "Which term was originally used by Colcott-Fox in 1881 to describe persistent, ring-shaped lesions with pruritus, later considered a variant of Erythema Annulare Centrifugum (EAC)?",
+    "options": [
+      "Erythema perstans",
+      "Erythema marginatum",
+      "Erythema gyratum perstans",
+      "Superficial gyrate erythema"
+    ],
+    "correctIndex": 2,
+    "explanation": "In 1881, Colcott-Fox described persistent, ring-shaped lesions with pruritus, naming the entity 'erythema gyratum perstans'. This term is now thought to refer to a clinical variant of EAC [2]."
+  },
+  {
+    "id": 3,
+    "chapterId": 20,
+    "question": "Erythema Annulare Centrifugum (EAC) typically shows a peak incidence in which decade of life?",
+    "options": [
+      "First decade (Childhood)",
+      "Third decade",
+      "Fifth decade",
+      "Eighth decade"
+    ],
+    "correctIndex": 2,
+    "explanation": "Although EAC can appear in any age group, its peak incidence is in the fifth decade of life [3]."
+  },
+  {
+    "id": 4,
+    "chapterId": 20,
+    "question": "The classic distinguishing feature of the superficial form of Erythema Annulare Centrifugum (EAC) lesions is:",
+    "options": [
+      "A dense central crusting",
+      "Non-blanchable petechiae",
+      "Trailing scale at the inner margin of the advancing edge",
+      "Palpable subcutaneous nodules"
+    ],
+    "correctIndex": 2,
+    "explanation": "In the superficial form of EAC, the lesions are minimally elevated, and there is desquamation at the inner margin, referred to as trailing scale [4], [5], [6], [7]."
+  },
+  {
+    "id": 5,
+    "chapterId": 20,
+    "question": "Histologically, the superficial form of EAC is characterized by which finding, sometimes referred to as the 'coat sleeve' appearance?",
+    "options": [
+      "Leukocytoclastic vasculitis",
+      "Sarcoidal granulomas",
+      "A tight perivascular aggregate of lymphohistiocytic inflammatory cells",
+      "Subepidermal bullae formation"
+    ],
+    "correctIndex": 2,
+    "explanation": "The inflammatory cells in superficial EAC lesions form a fairly tight aggregate around vessels, referred to as the 'coat sleeve' appearance [8], [7]."
+  },
+  {
+    "id": 6,
+    "chapterId": 20,
+    "question": "Which key clinical feature differentiates deep EAC lesions from superficial EAC lesions?",
+    "options": [
+      "Deep lesions are more pruritic.",
+      "Deep lesions are typically less elevated and less indurated.",
+      "Deep lesions generally lack trailing scale and are more indurated.",
+      "Deep lesions frequently involve the palms and soles."
+    ],
+    "correctIndex": 2,
+    "explanation": "The deep gyrate erythemas have a more infiltrated border [5], and deep lesions of EAC are generally elevated and more indurated than the superficial form, and they do not have trailing scale or pruritus [9], [10]."
+  },
+  {
+    "id": 7,
+    "chapterId": 20,
+    "question": "Erythema Annulare Centrifugum (EAC) has been anecdotally associated with several infectious agents. Which category of infectious agent is explicitly mentioned in the sources as associated with EAC?",
+    "options": [
+      "Spirochetes (*Borrelia* spp.)",
+      "Dermatophytes and other fungi (*Candida, Penicillium*)",
+      "Prions",
+      "Rickettsial agents"
+    ],
+    "correctIndex": 1,
+    "explanation": "EAC has been associated with infectious agents, particularly dermatophytes, but also with other fungi (e.g., *Candida*, *Penicillium* in blue cheese), viruses, bacteria, parasites, and ectoparasites [3]."
+  },
+  {
+    "id": 8,
+    "chapterId": 20,
+    "question": "Regarding the clinical course of EAC, what percentage of patients typically have an identifiable underlying disorder or antigen?",
+    "options": [
+      "Nearly 100%",
+      "Approximately one-third of patients",
+      "Approximately two-thirds of patients",
+      "Less than 5%"
+    ],
+    "correctIndex": 1,
+    "explanation": "In one series, an associated disease was identified in only one-third of patients [3]. Most patients with EAC do not have an identifiable underlying disorder [11]."
+  },
+  {
+    "id": 9,
+    "chapterId": 20,
+    "question": "Which common dermatologic treatment is often applied to the advancing border of EAC lesions when management is required?",
+    "options": [
+      "Systemic cyclosporine",
+      "Topical calcineurin inhibitors",
+      "Topical corticosteroids",
+      "Oral metronidazole"
+    ],
+    "correctIndex": 2,
+    "explanation": "Topical corticosteroids applied to the advancing border of the lesions may be of benefit [12]."
+  },
+  {
+    "id": 10,
+    "chapterId": 20,
+    "question": "The primary cause of Erythema Marginatum (EM) is an abnormal immunologic response to a preceding infection with:",
+    "options": [
+      "Group B $\\beta$-hemolytic streptococci",
+      "Group A $\\beta$-hemolytic streptococci",
+      "*Borrelia burgdorferi*",
+      "*Staphylococcus aureus*"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rheumatic fever (RF) is characterized by an abnormal immunologic response to a preceding infection with group A $\\beta$-hemolytic streptococci [13]. Erythema marginatum is a cutaneous manifestation of acute rheumatic fever [14]."
+  },
+  {
+    "id": 11,
+    "chapterId": 20,
+    "question": "Erythema Marginatum (EM) is characterized by lesions that are described as:",
+    "options": [
+      "Painful, fixed plaques that last several weeks",
+      "Annular, polycyclic, and rapidly migrating patches/plaques",
+      "Pustular lesions with peripheral scale",
+      "Deep, indurated plaques without central clearing"
+    ],
+    "correctIndex": 1,
+    "explanation": "Erythema marginatum is a migratory, annular and polycyclic, erythematous eruption [14]. The lesions are usually asymptomatic, and, over a period of 12 hours, they can migrate from 2 to 12 mm [15]."
+  },
+  {
+    "id": 12,
+    "chapterId": 20,
+    "question": "In the context of Acute Rheumatic Fever, what is the typical latency period between the initial streptococcal pharyngitis and the development of Erythema Marginatum?",
+    "options": [
+      "1–3 days",
+      "2–5 weeks",
+      "6–12 weeks",
+      "More than 6 months"
+    ],
+    "correctIndex": 1,
+    "explanation": "Following the initial episode of streptococcal pharyngitis, there is usually a latency period of 2–5 weeks before the development of the erythematous macules that spread peripherally and become patches or plaques [15]."
+  },
+  {
+    "id": 13,
+    "chapterId": 20,
+    "question": "The most common locations for Erythema Marginatum lesions are:",
+    "options": [
+      "Palms, soles, and face",
+      "Trunk, axillae, and proximal extremities, sparing the face",
+      "Distal lower legs and ankles",
+      "Scalp and mucous membranes"
+    ],
+    "correctIndex": 1,
+    "explanation": "The most common locations for erythema marginatum are the trunk, axillae, and proximal extremities, with sparing of the face [16]."
+  },
+  {
+    "id": 14,
+    "chapterId": 20,
+    "question": "Histologically, Erythema Marginatum typically shows an interstitial and perivascular infiltrate composed predominantly of:",
+    "options": [
+      "Neutrophils without vasculitis",
+      "Lymphocytes and plasma cells with mucin deposits",
+      "Eosinophils and flame figures",
+      "Palisading granulomas"
+    ],
+    "correctIndex": 0,
+    "explanation": "An interstitial and perivascular infiltrate composed predominantly of neutrophils without vasculitis is observed in Erythema Marginatum [17]. Leukocytoclastic vasculitis is typically absent [18]."
+  },
+  {
+    "id": 15,
+    "chapterId": 20,
+    "question": "What is the specific treatment recommended for the cutaneous lesions of Erythema Marginatum?",
+    "options": [
+      "High-potency topical corticosteroids",
+      "Systemic antibiotics for the skin lesions",
+      "Systemic corticosteroids tapered over 3 weeks",
+      "No specific therapy, as lesions resolve spontaneously"
+    ],
+    "correctIndex": 3,
+    "explanation": "There is no specific therapy for this dermatosis. In general, its clinical course is unaltered by treatment of the underlying acute RF; however, symptoms are usually mild and lesions resolve spontaneously [19]."
+  },
+  {
+    "id": 16,
+    "chapterId": 20,
+    "question": "Erythema Migrans (EMi) is the initial cutaneous manifestation of Lyme disease, which is an infection caused by:",
+    "options": [
+      "*Rickettsia rickettsii*",
+      "*Mycobacterium marinum*",
+      "*Borrelia burgdorferi* spirochetes",
+      "*Bartonella henselae*"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lyme disease (LD) is an infection due to *Borrelia burgdorferi* spirochetes that are transmitted by bites from several species of *Ixodes* ticks [20], [21]."
+  },
+  {
+    "id": 17,
+    "chapterId": 20,
+    "question": "What is the median time range between tick detachment and the appearance of the primary Erythema Migrans lesion?",
+    "options": [
+      "Within 24 hours",
+      "7–15 days",
+      "3–5 weeks",
+      "6–12 months"
+    ],
+    "correctIndex": 1,
+    "explanation": "Typically, 7–15 days (range, 3–30 days) after tick detachment, an erythematous, expanding, circular or annular plaque appears [22]."
+  },
+  {
+    "id": 18,
+    "chapterId": 20,
+    "question": "A single primary lesion of Erythema Migrans must reach at least what diameter to meet the criterion for the CDC case definition?",
+    "options": [
+      "1 cm",
+      "3 cm",
+      "5 cm",
+      "10 cm"
+    ],
+    "correctIndex": 2,
+    "explanation": "A single primary lesion must reach $\\ge 5$ cm in diameter for the definition of Erythema Migrans according to the abridged 2022 CDC Lyme Disease Surveillance Case Definition [23]."
+  },
+  {
+    "id": 19,
+    "chapterId": 20,
+    "question": "Which clinical feature of Erythema Migrans suggests early disseminated disease (Stage 2)?",
+    "options": [
+      "The primary lesion persisting for less than 24 hours.",
+      "Development of subcutaneous nodules.",
+      "Multiple secondary lesions that may be smaller in size.",
+      "Arthritis only involving the knee 1 year later."
+    ],
+    "correctIndex": 2,
+    "explanation": "In 20%–25% of patients, multiple lesions can appear due to multiple tick bites or as a result of disseminated disease secondary to spirochetemia. Disseminated lesions tend to be smaller in size and less pronounced [22]."
+  },
+  {
+    "id": 20,
+    "chapterId": 20,
+    "question": "What percentage of patients with Erythema Migrans during the acute phase (without dissemination) typically have positive results on standard serologic testing?",
+    "options": [
+      "0%–10%",
+      "25%–40%",
+      "50%–65%",
+      "75%–90%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Serologic testing has a low sensitivity in the acute phase, with only 25%–40% of patients with erythema migrans during the acute phase (but without evidence of dissemination) having positive test results [24]."
+  },
+  {
+    "id": 21,
+    "chapterId": 20,
+    "question": "Which antibiotic is the preferred oral treatment for Erythema Migrans, providing good CNS penetration and also treating human granulocytic anaplasmosis?",
+    "options": [
+      "Azithromycin",
+      "Amoxicillin",
+      "Cefuroxime axetil",
+      "Doxycycline"
+    ],
+    "correctIndex": 3,
+    "explanation": "Doxycycline is listed as an effective treatment for Erythema Migrans, provides good CNS penetration, and also treats human granulocytic anaplasmosis [25]."
+  },
+  {
+    "id": 22,
+    "chapterId": 20,
+    "question": "A Jarisch–Herxheimer-like reaction, characterized by an increase in systemic symptoms and inflammation of the EM lesion, occurs in approximately what percentage of patients within 24 hours of initiating antimicrobial therapy?",
+    "options": [
+      "~5%",
+      "~15%",
+      "~30%",
+      "~50%"
+    ],
+    "correctIndex": 1,
+    "explanation": "A Jarisch–Herxheimer-like reaction with an increase in systemic symptoms and in the size or intensity of the inflammation of the erythema migrans lesion occurs in ~15% of patients within 24 hours after the initiation of antimicrobial therapy."
+  },
+  {
+    "id": 23,
+    "chapterId": 20,
+    "question": "Erythema Gyratum Repens (EGR) is recognized primarily as a paraneoplastic figurate erythema, most commonly associated with which underlying neoplasm?",
+    "options": [
+      "Melanoma",
+      "Carcinoma of the lung",
+      "Prostate cancer",
+      "Non-Hodgkin lymphoma"
+    ],
+    "correctIndex": 1,
+    "explanation": "In the vast majority of patients, erythema gyratum repens (EGR) represents a paraneoplastic figurate erythema [27]. The most common underlying neoplasm is carcinoma of the lung [27], [28]."
+  },
+  {
+    "id": 24,
+    "chapterId": 20,
+    "question": "The speed of peripheral spread for lesions of Erythema Gyratum Repens (EGR) is typically estimated at up to:",
+    "options": [
+      "1 mm per day",
+      "1 cm per day",
+      "6 cm per week",
+      "1 meter per month"
+    ],
+    "correctIndex": 1,
+    "explanation": "Patients usually have multiple, annular or polycyclic, erythematous lesions that... advance at a rapid rate (up to 1 cm per day) [29]. This rate of peripheral spread is significantly faster than that of EAC [29]."
+  },
+  {
+    "id": 25,
+    "chapterId": 20,
+    "question": "The characteristic clinical appearance of Erythema Gyratum Repens (EGR) is described as:",
+    "options": [
+      "Targetoid lesions with central dusky necrosis",
+      "Concentric rings with a 'wood-grain' or zebra-like pattern",
+      "Fixed, scaling plaques resembling psoriasis",
+      "Deep, painful nodules along bony prominences"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lesions have a wood-grain or zebra-like pattern, due to the development of 'rings within rings' [29]. EGR is migratory and composed of concentric rings with a wood-grain appearance [27]."
+  },
+  {
+    "id": 26,
+    "chapterId": 20,
+    "question": "When Erythema Gyratum Repens (EGR) is associated with an underlying neoplasm, how are the cutaneous lesions typically affected upon successful treatment of the malignancy?",
+    "options": [
+      "The skin lesions persist indefinitely.",
+      "The lesions become fixed and lichenified.",
+      "The cutaneous lesions resolve.",
+      "The lesions evolve into urticarial vasculitis."
+    ],
+    "correctIndex": 2,
+    "explanation": "EGR resolves when the associated neoplasm is successfully treated. Recurrence of cutaneous lesions may occur in association with metastases or local recurrences of the malignancy [27], [30]."
+  },
+  {
+    "id": 27,
+    "chapterId": 20,
+    "question": "Which figurate erythema or related condition is listed in the differential diagnosis as transient (typically lasting <24 hours) and often associated with a recent viral or bacterial infection, absence of mucosal crusts, and often featuring central ecchymosis?",
+    "options": [
+      "Erythema annulare centrifugum (EAC)",
+      "Urticaria multiforme",
+      "Granuloma annulare",
+      "LE tumidus"
+    ],
+    "correctIndex": 1,
+    "explanation": "Urticaria multiforme (a variant of annular urticaria) is characterized by annular and polycyclic wheals, often with central ecchymosis, absence of mucous membrane erosions or crusts, and recent viral or bacterial infection. Individual lesions are transient, typically lasting <24 hours [31], [32]."
+  },
+  {
+    "id": 28,
+    "chapterId": 20,
+    "question": "What is the characteristic histological finding associated with Urticarial Vasculitis, a condition where individual urticarial plaques may last longer than 24 hours?",
+    "options": [
+      "Perivascular plasma cells",
+      "Leukocytoclastic vasculitis",
+      "Palisading granulomas",
+      "Marked spongiosis"
+    ],
+    "correctIndex": 1,
+    "explanation": "Urticarial vasculitis, characterized by urticarial plaques lasting >24 hours, is histologically identified by leukocytoclastic vasculitis [33]."
+  },
+  {
+    "id": 29,
+    "chapterId": 20,
+    "question": "A disorder that presents with transient gyrate or circinate erythematous patches that usually fade/migrate within a few hours, along with fixed figurate hyperkeratotic plaques, is called:",
+    "options": [
+      "Annular erythema of infancy",
+      "Erythrokeratodermia variabilis et progressiva",
+      "Allergic urticarial eruption",
+      "Annular LE"
+    ],
+    "correctIndex": 1,
+    "explanation": "*Erythrokeratodermia variabilis et progressiva* is defined by transient gyrate or circinate erythematous patches (usually fade/migrate within a few hours) and fixed figurate hyperkeratotic plaques [34]."
+  },
+  {
+    "id": 30,
+    "chapterId": 20,
+    "question": "Which neutrophilic dermatosis, associated with autoimmune or autoinflammatory disorders, shows overlapping histologic features with Erythema Marginatum, sometimes exhibiting purpura and vesicles in adults?",
+    "options": [
+      "Neutrophilic sebaceous adenitis",
+      "Eosinophilic pustular folliculitis",
+      "Neutrophilic figurate erythema of infancy (variant)",
+      "Pustular psoriasis"
+    ],
+    "correctIndex": 2,
+    "explanation": "The histologic findings of Erythema Marginatum (predominantly neutrophils) may overlap with the neutrophilic variant of annular erythema of infancy (neutrophilic figurate erythema of infancy), which can also affect adults and be accompanied by vesicles and purpura [17], [35], [36]."
+  },
+   {
+    "id": 1,
+    "chapterId": 21,
+    "question": "Erythema Multiforme (EM) major is defined as EM associated with severe mucosal involvement and systemic symptoms, but specifically excludes which disorder, based on recent clinical evidence?",
+    "options": [
+      "Erythema multiforme minor (von Hebra's disease)",
+      "Mycoplasma pneumoniae-induced rash and mucositis (MIRM)",
+      "Stevens–Johnson syndrome (SJS)",
+      "Urticaria multiforme"
+    ],
+    "correctIndex": 2,
+    "explanation": "Recent investigations have clarified the situation by providing strong evidence that the term 'EM major' should be used for EM associated with mucosal lesions and systemic symptoms, but not for describing SJS, because SJS and EM major are distinct clinical disorders [1], [2]."
+  },
+  {
+    "id": 2,
+    "chapterId": 21,
+    "question": "What is the primary characteristic feature of a 'typical' target lesion in Erythema Multiforme (EM)?",
+    "options": [
+      "Non-blanchable purpuric center",
+      "At least three distinct zones of color change",
+      "A poorly defined border with only two zones",
+      "Central zone showing intact, normal skin"
+    ],
+    "correctIndex": 1,
+    "explanation": "The characteristic elementary skin lesion of EM is the typical target lesion, which consists of at least three distinct zones of color change surrounding a central circular zone that has evidence of damage to the epidermis in the form of bulla formation or crust [3], [4]."
+  },
+  {
+    "id": 3,
+    "chapterId": 21,
+    "question": "Which infectious agent is clearly the most commonly associated precipitating factor for Erythema Multiforme (EM)?",
+    "options": [
+      "*Mycoplasma pneumoniae*",
+      "Varicella zoster virus",
+      "Herpes simplex virus (HSV)",
+      "Cytomegalovirus"
+    ],
+    "correctIndex": 2,
+    "explanation": "HSV is clearly the most commonly associated infectious agent in EM [5], [6], [7], [8]."
+  },
+  {
+    "id": 4,
+    "chapterId": 21,
+    "question": "In patients with HSV-associated Erythema Multiforme, preceding *herpes labialis* most commonly appears how many days before the onset of the cutaneous target lesions?",
+    "options": [
+      "1–2 days",
+      "3–14 days",
+      "3–5 weeks",
+      "2–3 months"
+    ],
+    "correctIndex": 1,
+    "explanation": "Most commonly, herpes labialis precedes target lesions of EM by 3–14 days [6]."
+  },
+  {
+    "id": 5,
+    "chapterId": 21,
+    "question": "Which locations do the target lesions of Erythema Multiforme typically favor?",
+    "options": [
+      "Trunk and proximal abdomen",
+      "Acrofacial sites (extremities and face)",
+      "Palms and soles exclusively",
+      "Genitalia and mucous membranes only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Target lesions favor acrofacial sites [7]. In general, lesions of EM develop preferentially on the extremities and the face; target lesions favor the upper extremities [9]."
+  },
+  {
+    "id": 6,
+    "chapterId": 21,
+    "question": "In the majority of patients with Erythema Multiforme (EM), the vast majority of lesions appear within which time frame from onset?",
+    "options": [
+      "12 hours",
+      "24 hours",
+      "1 week",
+      "3 weeks"
+    ],
+    "correctIndex": 1,
+    "explanation": "Erythema multiforme is characterized by the abrupt onset of papular 'target' lesions, with the vast majority of lesions appearing within 24 hours [3], [10]. Full development has usually occurred by 72 hours [11]."
+  },
+  {
+    "id": 7,
+    "chapterId": 21,
+    "question": "By daily observation of individual lesions, Erythema Multiforme (EM) papules are described as 'fixed' at the same site for at least how many days?",
+    "options": [
+      "Less than 24 hours (transient)",
+      "48 hours",
+      "7 days",
+      "14 days"
+    ],
+    "correctIndex": 2,
+    "explanation": "EM papules are 'fixed' at the same skin site for at least 7 days, which helps distinguish them from urticarial lesions, which last less than 24 hours [11], [12]."
+  },
+  {
+    "id": 8,
+    "chapterId": 21,
+    "question": "Which HLA allele has been found in association with the development of Erythema Multiforme?",
+    "options": [
+      "HLA-B*15:02",
+      "HLA-DQw3 (specifically DQB1*301 split)",
+      "HLA-B*58:01",
+      "HLA-A*31:01"
+    ],
+    "correctIndex": 1,
+    "explanation": "Several small studies of HLA alleles in EM have found associations with HLA-DQw3 (specifically the DQB1*301 split), DRw53, and Aw33 [6], [13], [14]."
+  },
+  {
+    "id": 9,
+    "chapterId": 21,
+    "question": "In the pathogenesis of HSV-associated Erythema Multiforme, T helper type 1 (Th1) cells produce which cytokine in response to viral antigens within the skin?",
+    "options": [
+      "Interleukin-4 (IL-4)",
+      "Interferon-γ (IFN-γ)",
+      "Interleukin-10 (IL-10)",
+      "Fas ligand (FasL)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Development of cutaneous lesions in HSV-associated EM is initiated by the expression of HSV DNA sequences within the skin, followed by the recruitment of virus-specific T helper type 1 (Th1) cells that produce interferon-γ in response to viral antigens within the skin [15], [8]."
+  },
+  {
+    "id": 10,
+    "chapterId": 21,
+    "question": "The Koebner phenomenon, involving target lesions appearing within areas of cutaneous injury (e.g., scratches), occurs only if the injury precedes which event?",
+    "options": [
+      "Mucosal involvement",
+      "Systemic symptoms",
+      "Onset of the EM eruption",
+      "Resolution of the primary HSV lesion"
+    ],
+    "correctIndex": 2,
+    "explanation": "The Koebner phenomenon may be observed, with target lesions appearing within areas of cutaneous injury; however, the injury must precede the onset of the EM eruption because the Koebner phenomenon does not occur once the EM lesions have appeared [16]."
+  },
+  {
+    "id": 11,
+    "chapterId": 21,
+    "question": "Which finding is the hallmark of the early stages of Stevens–Johnson Syndrome (SJS) and Toxic Epidermal Necrolysis (TEN) at a tissue level, leading to subsequent epidermal necrolysis?",
+    "options": [
+      "Lymphocytic vasculitis",
+      "Massive keratinocyte cell death via apoptosis",
+      "Neutrophil-rich subcorneal pustules",
+      "Subepidermal deposition of IgA"
+    ],
+    "correctIndex": 1,
+    "explanation": "The tissue damage described as epidermal necrolysis is a reflection of massive keratinocyte cell death via apoptosis. Apoptosis of individual keratinocytes is a hallmark of the early stages of SJS and TEN [17]."
+  },
+  {
+    "id": 12,
+    "chapterId": 21,
+    "question": "Stevens–Johnson Syndrome (SJS) is defined by epidermal detachment covering what percentage of the Body Surface Area (BSA)?",
+    "options": [
+      "Less than 10%",
+      "10% to 30%",
+      "More than 30%",
+      "More than 50%"
+    ],
+    "correctIndex": 0,
+    "explanation": "SJS is characterized by <10% BSA detachment. SJS/TEN overlap involves 10%–30% BSA detachment, and TEN involves >30% [18], [19], [20]."
+  },
+  {
+    "id": 13,
+    "chapterId": 21,
+    "question": "Toxic Epidermal Necrolysis (TEN) is defined by epidermal detachment covering what percentage of the Body Surface Area (BSA)?",
+    "options": [
+      "Less than 10%",
+      "10% to 30%",
+      "More than 30%",
+      "More than 50%"
+    ],
+    "correctIndex": 2,
+    "explanation": "TEN is defined by >30% BSA detachment [21], [19], [20]."
+  },
+  {
+    "id": 14,
+    "chapterId": 21,
+    "question": "What is the typical time frame between the initiation of the causative drug (first exposure) and the onset of Stevens–Johnson Syndrome (SJS) or Toxic Epidermal Necrolysis (TEN)?",
+    "options": [
+      "Within 48 hours",
+      "7 to 21 days",
+      "2 to 6 months",
+      "More than 1 year"
+    ],
+    "correctIndex": 1,
+    "explanation": "TEN and SJS usually occur 7–21 days after initiation of the responsible drug if it is the first exposure [19], [22], [23]."
+  },
+  {
+    "id": 15,
+    "chapterId": 21,
+    "question": "Which prognostic scoring system, consisting of seven parameters, is specifically used for predicting the clinical outcome and mortality risk of Toxic Epidermal Necrolysis (TEN)?",
+    "options": [
+      "EASI (Eczema Area and Severity Index)",
+      "SCORTEN",
+      "ABCD-10 score",
+      "TBSA (Total Body Surface Area) score"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mortality risk can be calculated by applying a severity-of-illness score specifically developed for predicting the clinical outcome of TEN (SCORTEN) [24], [25], [26]."
+  },
+  {
+    "id": 16,
+    "chapterId": 21,
+    "question": "What is the primary cause of mortality in patients with Toxic Epidermal Necrolysis (TEN)?",
+    "options": [
+      "Massive cardiac arrest",
+      "Respiratory failure and multiple organ failure",
+      "Intracranial hemorrhage",
+      "Infections (*S. aureus* and *P. aeruginosa*)"
+    ],
+    "correctIndex": 3,
+    "explanation": "On average, death occurs in every third patient with TEN, and it is mainly due to infections (*S. aureus* and *Pseudomonas aeruginosa*) [27]."
+  },
+  {
+    "id": 17,
+    "chapterId": 21,
+    "question": "The high incidence of keratinocyte apoptosis in SJS/TEN is mediated by the cytotoxic secretory protein granulysin, which is produced by which cell types?",
+    "options": [
+      "Basophils and macrophages",
+      "Mast cells and B cells",
+      "CTLs, NK cells, and NKT cells",
+      "Fibroblasts and endothelial cells"
+    ],
+    "correctIndex": 2,
+    "explanation": "High concentrations of granulysin, a secreted, cationic, cytolytic protein produced by cytotoxic T lymphocytes (CTLs), natural killer (NK) cells, and natural killer T (NKT) cells, were found in blister fluid from patients with SJS/TEN [28], [29]."
+  },
+  {
+    "id": 18,
+    "chapterId": 21,
+    "question": "In the context of SJS/TEN, which HLA allele is strongly associated with carbamazepine-induced severe cutaneous adverse reactions (SCARs) in Asian and East Indian populations?",
+    "options": [
+      "HLA-B*58:01",
+      "HLA-A*31:01",
+      "HLA-B*15:02",
+      "HLA-DQB1*06:01"
+    ],
+    "correctIndex": 2,
+    "explanation": "HLA-B*15:02 is associated with Asians and East Indians who are exposed to carbamazepine [30], [31], [32]."
+  },
+  {
+    "id": 19,
+    "chapterId": 21,
+    "question": "Which clinical finding, when induced by slight tangential mechanical pressure, is characteristic of impending or overt epidermal detachment in SJS/TEN?",
+    "options": [
+      "Nikolsky sign",
+      "Darier sign",
+      "Koebner phenomenon",
+      "Asboe–Hansen sign"
+    ],
+    "correctIndex": 0,
+    "explanation": "The Nikolsky sign is elicited by exerting tangential mechanical pressure on erythematous zones; cleavage is induced, which is a sign of impending full-blown epidermal necrolysis [33]."
+  },
+  {
+    "id": 20,
+    "chapterId": 21,
+    "question": "In the management of SJS/TEN, the immediate and prompt withdrawal of the offending drug is crucial because it is estimated to reduce the risk of death by what percentage per day?",
+    "options": [
+      "1%",
+      "10%",
+      "30%",
+      "50%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Late withdrawal of the causative drug is associated with a less favorable outcome. It has been estimated that prompt withdrawal of the offending drug reduces the risk of death by 30% per day [25]."
+  },
+  {
+    "id": 21,
+    "chapterId": 21,
+    "question": "Healing of detached epidermis in SJS/TEN occurs through re-epithelialization by keratinocytes migrating from 'reservoir' sites, thus eliminating the need for:",
+    "options": [
+      "Systemic antibiotics",
+      "Intensive care unit admission",
+      "Skin grafting",
+      "Pain control"
+    ],
+    "correctIndex": 2,
+    "explanation": "Healing of areas of detached epidermis usually starts within days, and is complete within 3 weeks. Due to this conserved capacity for re-epithelialization, skin grafting is not required in SJS or TEN [34]."
+  },
+  {
+    "id": 22,
+    "chapterId": 21,
+    "question": "Which long-term sequela is reported to affect up to 35% of Toxic Epidermal Necrolysis (TEN) survivors?",
+    "options": [
+      "Permanent alopecia",
+      "Chronic renal failure",
+      "Ocular symptoms (e.g., sicca syndrome, blindness)",
+      "Systemic lupus erythematosus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Up to 35% of survivors of TEN can have ocular symptoms ranging from sicca syndrome to blindness [35]."
+  },
+  {
+    "id": 23,
+    "chapterId": 21,
+    "question": "Which histopathologic finding differentiates SJS/TEN from Staphylococcal Scalded Skin Syndrome (SSSS)?",
+    "options": [
+      "Dense perivascular lymphocytic infiltrate",
+      "Subcorneal split with a normal underlying epidermis (SSSS)",
+      "Coagulation necrosis of keratinocytes",
+      "Epidermal hyperplasia"
+    ],
+    "correctIndex": 1,
+    "explanation": "Histopathologic examination is useful for confirming the diagnosis of SJS and TEN, as the morphologic findings are distinct from those observed in SSSS (subcorneal blister with cleavage located in the granular layer of the epidermis and a normal underlying epidermis) [36], [37]."
+  },
+  {
+    "id": 24,
+    "chapterId": 21,
+    "question": "Which cytotoxic mechanism, mediated by the interaction of Fas (CD95) and Fas ligand (FasL), contributes to keratinocyte apoptosis in SJS/TEN?",
+    "options": [
+      "Complement activation cascade",
+      "Death receptor-mediated pathway",
+      "Necroptosis via annexin A1-FPR1 interaction",
+      "T-cell receptor cross-linking (p-i concept)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fas ligand (FasL), binding to its specific receptor Fas, triggers cellular destruction by apoptosis, which is one of the proposed death receptor-mediated apoptotic pathways in SJS/TEN [38], [39]."
+  },
+  {
+    "id": 25,
+    "chapterId": 21,
+    "question": "Which drug class is listed among the most frequently implicated drugs associated with Stevens–Johnson Syndrome and Toxic Epidermal Necrolysis?",
+    "options": [
+      "ACE inhibitors",
+      "Calcium channel blockers",
+      "Aromatic anticonvulsants",
+      "HMG-CoA reductase inhibitors (statins)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The most frequently implicated drugs consist primarily of allopurinol, antibiotics, nonsteroidal anti-inflammatory drugs, and aromatic anticonvulsants [22], [40]."
+  },
+  {
+    "id": 26,
+    "chapterId": 21,
+    "question": "What is the recommended first-line supportive care setting for a patient with SJS or TEN involving 10%–20% or more of BSA?",
+    "options": [
+      "General medical ward",
+      "ICU or burn unit",
+      "Dermatology day care unit",
+      "Outpatient management with daily dressings"
+    ],
+    "correctIndex": 1,
+    "explanation": "Supportive care is similar to that performed for severe thermal burns, and it is preferably done in an intensive care unit (ICU) or burn unit if there is epidermal detachment involving 10%–20% (or more) of BSA [35], [41]."
+  },
+  {
+    "id": 27,
+    "chapterId": 21,
+    "question": "The use of systemic corticosteroids for severe acute EM is controversial; however, if considered, the recommended dosing regimen is generally short-term and high-dose, such as:",
+    "options": [
+      "Prednisone 5 mg/day for 6 months",
+      "Pulse methylprednisolone 20 mg/kg/day for 3 days",
+      "Dexamethasone 10 mg weekly",
+      "Hydrocortisone 100 mg daily indefinitely"
+    ],
+    "correctIndex": 1,
+    "explanation": "In severe EM with functional impairment, early therapy with systemic corticosteroids (e.g., prednisone [0.5–1 mg/kg/day for 3–5 days] or pulse methylprednisolone [20 mg/kg/day for 3 days]) should be considered [42]."
+  },
+  {
+    "id": 28,
+    "chapterId": 21,
+    "question": "Which prophylactic antiviral therapy, demonstrated effective in a double-blind, placebo-controlled study, should be considered for at least 6 months in individuals with frequent recurrences of HSV-associated EM?",
+    "options": [
+      "Valganciclovir",
+      "Acyclovir",
+      "Oseltamivir",
+      "Ribavirin"
+    ],
+    "correctIndex": 1,
+    "explanation": "In individuals with HSV-associated EM with frequent recurrences, prophylaxis for at least 6 months with oral valacyclovir, famciclovir, or acyclovir should be considered. A double-blind, placebo-controlled study in young adults demonstrated the efficacy of acyclovir prophylaxis [43], [44]."
+  },
+  {
+    "id": 29,
+    "chapterId": 21,
+    "question": "Mycoplasma pneumoniae-induced rash and mucositis (MIRM) or Reactive Infectious Mucocutaneous Eruption (RIME) is often distinguished from SJS/TEN by which key feature?",
+    "options": [
+      "Severe systemic symptoms including hepatitis and nephritis",
+      "Absent or sparse cutaneous involvement (<10% BSA) with predominance of severe mucositis",
+      "High mortality rate (15%–25%)",
+      "Lesions characterized by dusky macules with confluence"
+    ],
+    "correctIndex": 1,
+    "explanation": "MIRM/RIME is characterized by a predominance of severe mucosal involvement (typically $\\ge 2$ mucosal sites) and absent or sparse polymorphic cutaneous involvement (<10% BSA detachment) [45], [46]."
+  },
+  {
+    "id": 30,
+    "chapterId": 21,
+    "question": "For recurrent EM that is resistant to prophylactic antiviral therapy, which immunosuppressive agent has been described as a successful therapeutic approach, although not validated by controlled trials?",
+    "options": [
+      "Sirolimus",
+      "Cyclosporine",
+      "Infliximab",
+      "Interferon $\\alpha$"
+    ],
+    "correctIndex": 1,
+    "explanation": "In patients with recurrent EM that is resistant to prophylactic antiviral therapy, especially severe cases, several therapeutic approaches have been described, including thalidomide, dapsone, cyclosporine, mycophenolate mofetil, and PUVA [47], [48], [49]."
   }
+
 
 
 

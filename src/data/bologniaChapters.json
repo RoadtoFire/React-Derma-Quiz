@@ -127,57 +127,57 @@
   },
   {
     "id": 22,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Drug Reactions",
+    "description": "The skin is one of the most common sites for adverse drug reactions. Although eruptions are usually observed in 0.1% to 1% of patients enrolled in pre-marketing trials of most systemic drugs, up to 5% of patients treated with antibiotics or aromatic anticonvulsants may develop a cutaneous eruption",
+    "image": "./images/BologniaChapters/Drug Reactions.jpeg"
   },
   {
     "id": 23,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Purpura: Mechanismsand Differential Diagnosis",
+    "description": "This chapter addresses the evaluation and classification of patients presenting with purpura, defined as visible hemorrhage within the skin or mucous membranes.",
+    "image": "./images/BologniaChapters/Purpura.webp"
   },
   {
     "id": 24,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Cutaneous Manifestations of Microvascular Occlusion Syndromes",
+    "description": "The differential diagnosis of microvascular syndromes involving theskin is extensive. It is critical to distinguish between inflammatory injury and non-inflammatory occlusive injury to vessels.",
+    "image": "./images/BologniaChapters/Cutaneous Manifestations.png"
   },
   {
     "id": 25,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Cutaneous Vasculitis",
+    "description": "Vasculitis is defined as inflammation and destruction of blood vesselswith resultant downstream ischemic tissue damage.",
+    "image": "./images/BologniaChapters/Cutaneous Vasculitis.jpeg"
   },
   {
     "id": 26,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Neutrophilic Dermatoses",
+    "description": "The neutrophilic dermatoses constitute a heterogeneous but linked spectrum of diseases, with significant overlapping histopathologic findings and similar pathogenic mechanisms and therapeutic approaches.",
+    "image": "./images/BologniaChapters/Neutrophilic Dermatoses.jpg"
   },
   {
     "id": 27,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Eosinophil-Associated Dermatoses",
+    "description": "The eosinophil is a leukocyte ~10–16 microns in diameter that possesses a segmented (usually bi-lobed) nucleus. It is produced in the bone marrow and circulates transiently (8–18 hours) in the peripheral blood.",
+    "image": "./images/BologniaChapters/Eosinophil-Associated Dermatoses.jpg"
   },
   {
     "id": 28,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Pregnancy Dermatoses",
+    "description": "For decades, the specific dermatoses of pregnancy represented a confusing group of overlapping entities, understood largely through anecdotes and case reports.",
+    "image": "./images/BologniaChapters/Pregnancy Dermatoses.jpeg"
   },
   {
     "id": 29,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "The Biology of the Basement Membrane",
+    "description": "Basement membranes are specialized structures located between cells and their underlying stroma or between different cell types1. Basement membranes of various tissues differ ultrastructurally, biochemically, and functionally.",
+    "image": "./images/BologniaChapters/Basement.png"
   },
   {
     "id": 30,
-    "title": "",
-    "description": "",
-    "image": "./images/BologniaChapters/.jpg"
+    "title": "Pemphigus",
+    "description": "The term pemphigus stems from the Greek pemphix, meaning blister or bubble, and it describes a group of chronic blistering skin diseases in which autoantibodies are directed against the cell surface of keratino-cytes, resulting in the loss of cell–cell adhesion of keratinocytes through a process called acantholysis",
+    "image": "./images/BologniaChapters/Pemphigus.jpeg"
   },
   {
     "id": 31,
