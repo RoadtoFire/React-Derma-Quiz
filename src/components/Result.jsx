@@ -4,71 +4,71 @@ export default function Result() {
   const location = useLocation();
   const navigate = useNavigate();
 
-  // Read data passed from QuizTest
-  const { totalQuestions, correctAnswers } = location.state || {};
+  // 1️⃣ Read all data passed from QuizTest via location.state
+  const { totalQuestions, correctAnswers, bookType, chapterId } = location.state || {};
 
-  // Guard: direct access or refresh
-  if (
-    totalQuestions === undefined ||
-    correctAnswers === undefined
-  ) {
+  // 2️⃣ Guard clause: Handle direct URL access or page refresh
+  if (totalQuestions === undefined || correctAnswers === undefined) {
     return (
-      <div className="min-h-screen bg-gray-900 flex items-center justify-center text-gray-400">
-        No result data available.
+      <div className="flex min-h-screen flex-col items-center justify-center bg-gray-900 text-gray-400">
+        <p>No result data available.</p>
+        <button 
+          onClick={() => navigate("/QuizList")}
+          className="mt-4 text-indigo-400 hover:underline"
+        >
+          Go to Quiz List
+        </button>
       </div>
     );
   }
 
-  const scorePercent = Math.round(
-    (correctAnswers / totalQuestions) * 100
-  );
-
+  // 3️⃣ Calculate metrics
+  const scorePercent = Math.round((correctAnswers / totalQuestions) * 100);
   const passed = scorePercent >= 60;
 
+  // 4️⃣ Dynamic Route Generator for the "Back" button
+  const returnPath = bookType?.toLowerCase() === "rooks" 
+    ? "/RooksQuizChapters" 
+    : "/BologniaQuizChapters";
+
   return (
-    <main className="min-h-screen bg-gray-900 px-6 py-12 flex items-center justify-center">
+    <main className="flex min-h-screen items-center justify-center bg-gray-900 px-6 py-12">
       <div className="w-full max-w-xl rounded-lg border border-white/10 bg-gray-800 p-8 text-center">
-        <h1 className="text-3xl font-bold text-white">
-          Quiz Completed
-        </h1>
+        <h1 className="text-3xl font-bold text-white">Quiz Completed</h1>
+        <p className="mt-2 text-gray-400">Here’s how you performed</p>
 
-        <p className="mt-2 text-gray-400">
-          Here’s how you performed
-        </p>
-
-        {/* Score */}
+        {/* Score Display */}
         <div className="mt-8">
-          <div className="text-6xl font-bold text-white">
-            {scorePercent}%
-          </div>
+          <div className="text-6xl font-bold text-white">{scorePercent}%</div>
           <p className="mt-2 text-gray-300">
             {correctAnswers} / {totalQuestions} correct
           </p>
         </div>
 
-        {/* Pass / Fail */}
+        {/* Pass / Fail Badge */}
         <div
-          className={`mt-6 rounded-md px-4 py-2 text-sm font-semibold ${
-            passed
-              ? "bg-green-600/20 text-green-400"
-              : "bg-red-600/20 text-red-400"
+          className={`mt-6 inline-block rounded-md px-4 py-2 text-sm font-semibold ${
+            passed ? "bg-green-600/20 text-green-400" : "bg-red-600/20 text-red-400"
           }`}
         >
           {passed ? "Passed" : "Needs Improvement"}
         </div>
 
-        {/* Actions */}
+        {/* Action Buttons */}
         <div className="mt-8 flex flex-col gap-4 sm:flex-row sm:justify-center">
+          
+          {/* Explicit Retry Route */}
           <button
-            onClick={() => navigate(-1)}
-            className="rounded-md bg-indigo-500 px-5 py-2 text-sm font-semibold text-white hover:bg-indigo-400"
+            onClick={() => navigate(`/QuizTest/${bookType}/${chapterId}`)}
+            className="rounded-md bg-indigo-500 px-5 py-2 text-sm font-semibold text-white transition hover:bg-indigo-400"
           >
             Retry Quiz
           </button>
 
+          {/* Dynamic Return Route */}
           <button
-            onClick={() => navigate("/BologniaQuizChapters")}
-            className="rounded-md border border-white/10 px-5 py-2 text-sm font-semibold text-gray-300 hover:bg-gray-700"
+            onClick={() => navigate(returnPath)}
+            className="rounded-md border border-white/20 bg-transparent px-5 py-2 text-sm font-semibold text-white transition hover:bg-gray-800"
           >
             Back to Chapters
           </button>

@@ -11703,9 +11703,1830 @@
     ],
     "correctIndex": 1,
     "explanation": "Dapsone is the drug of choice for most patients with IgA pemphigus [35]. A clinical response usually occurs within 24–48 hours [35]."
+  },
+
+  
+  {
+    "id": 1,
+    "chapterId": 32,
+    "question": "Which direct immunofluorescence (DIF) finding primarily differentiates dermatitis herpetiformis (DH) from linear IgA bullous dermatosis (LABD)?",
+    "options": [
+      "Granular IgA deposition versus linear IgA deposition at the basement membrane zone",
+      "Linear IgG deposition versus granular IgG deposition",
+      "Granular C3 deposition versus linear C3 deposition",
+      "Epidermal IgA deposition versus dermal IgA deposition"
+    ],
+    "correctIndex": 0,
+    "explanation": "DH is differentiated from LABD on the basis of granular IgA versus linear IgA deposition at the basement membrane zone on DIF."
+  },
+  {
+    "id": 2,
+    "chapterId": 32,
+    "question": "Dermatitis herpetiformis is considered a cutaneous manifestation of which underlying systemic condition?",
+    "options": [
+      "Celiac disease",
+      "Ulcerative colitis",
+      "Crohn disease",
+      "Systemic lupus erythematosus"
+    ],
+    "correctIndex": 0,
+    "explanation": "DH is a cutaneous manifestation of celiac disease and is associated with gluten sensitivity in virtually all cases."
+  },
+  {
+    "id": 3,
+    "chapterId": 32,
+    "question": "Dermatitis herpetiformis and celiac disease share a strong genetic association with which HLA genotypes?",
+    "options": [
+      "HLA-DQ2 and HLA-DQ8",
+      "HLA-B8 and HLA-DR3",
+      "HLA-B27 and HLA-DR4",
+      "HLA-DQ4 and HLA-A1"
+    ],
+    "correctIndex": 0,
+    "explanation": "DH and CD are genetic disorders strongly associated with the HLA-DQ2 and DQ8 genotypes."
+  },
+  {
+    "id": 4,
+    "chapterId": 32,
+    "question": "In patients with dermatitis herpetiformis, IgA antibodies in the skin are specifically directed against which target?",
+    "options": [
+      "Epidermal transglutaminase (TG3)",
+      "Tissue transglutaminase (TG2)",
+      "BP180",
+      "Type VII collagen"
+    ],
+    "correctIndex": 0,
+    "explanation": "IgA antibodies in the skin of DH patients are directed against epidermal transglutaminase (TG3)."
+  },
+  {
+    "id": 5,
+    "chapterId": 32,
+    "question": "In celiac disease, the primary IgA antibodies are directed against which enzyme?",
+    "options": [
+      "Tissue transglutaminase (TG2)",
+      "Epidermal transglutaminase (TG3)",
+      "Lysyl oxidase",
+      "Matrix metalloproteinase"
+    ],
+    "correctIndex": 0,
+    "explanation": "CD-associated IgA antibodies are directed against tissue transglutaminase (TG2)."
+  },
+  {
+    "id": 6,
+    "chapterId": 32,
+    "question": "How do the intestinal and skin manifestations of dermatitis herpetiformis respond to dapsone therapy?",
+    "options": [
+      "The skin disease responds to dapsone, but the intestinal disease does not",
+      "Both the skin and intestinal diseases respond to dapsone",
+      "The intestinal disease responds, but the skin disease requires a gluten-free diet",
+      "Neither the skin nor the intestinal disease responds to dapsone"
+    ],
+    "correctIndex": 0,
+    "explanation": "One of the supporting diagnostic findings for DH is a response of the skin disease, but not the intestinal disease, to dapsone therapy."
+  },
+  {
+    "id": 7,
+    "chapterId": 32,
+    "question": "What is the historical synonym for dermatitis herpetiformis based on the American dermatologist who first described it in 1884?",
+    "options": [
+      "Duhring disease",
+      "Brocq disease",
+      "Gilchrist disease",
+      "Dicke disease"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dr. Louis Duhring described DH at the University of Pennsylvania in 1884, leading to the synonym Duhring disease."
+  },
+  {
+    "id": 8,
+    "chapterId": 32,
+    "question": "During which decade of life is the mean age of onset for dermatitis herpetiformis most commonly observed?",
+    "options": [
+      "Fourth decade",
+      "Second decade",
+      "Sixth decade",
+      "Eighth decade"
+    ],
+    "correctIndex": 0,
+    "explanation": "The mean age of onset for DH is during the fourth decade, though it can appear from ages 2 to 90."
+  },
+  {
+    "id": 9,
+    "chapterId": 32,
+    "question": "According to a prospective study in Finland, what percentage of DH patients had one or more affected first-degree relatives?",
+    "options": [
+      "10.5%",
+      "25%",
+      "1%",
+      "50%"
+    ],
+    "correctIndex": 0,
+    "explanation": "From 1979 to 1996, the familial incidence of DH in Finland showed that 10.5% of patients had one or more affected first-degree relatives."
+  },
+  {
+    "id": 10,
+    "chapterId": 32,
+    "question": "Which group of grains contains the antigenic proteins (gliadin) responsible for the bowel abnormality in gluten-sensitive enteropathy?",
+    "options": [
+      "Wheat, rye, and barley",
+      "Rice, corn, and sorghum",
+      "Oats, quinoa, and amaranth",
+      "Millet, teff, and buckwheat"
+    ],
+    "correctIndex": 0,
+    "explanation": "The bowel abnormality in GSE is caused by gliadin found in wheat, rye, barley, and their hybrids."
+  },
+  {
+    "id": 11,
+    "chapterId": 32,
+    "question": "What critical processing step does tissue transglutaminase (TG2) perform on absorbed gliadin to optimize its presentation to T cells?",
+    "options": [
+      "Deamidation of glutamine residues",
+      "Hydroxylation of proline residues",
+      "Phosphorylation of serine residues",
+      "Cleavage of disulfide bonds"
+    ],
+    "correctIndex": 0,
+    "explanation": "TG2 deamidates glutamine residues within gliadin and forms covalent cross-links, optimizing antigen presentation."
+  },
+  {
+    "id": 12,
+    "chapterId": 32,
+    "question": "Which cytokines are found elevated in the serum of patients with dermatitis herpetiformis, potentially playing a role in natural killer cell signaling and neutrophil activation?",
+    "options": [
+      "IL-17 and IL-36",
+      "IL-2 and IFN-gamma",
+      "IL-4 and IL-5",
+      "TNF-alpha and IL-1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Elevated serum levels of IL-17 and IL-36 in patients with DH suggest a possible role for these cytokines in NK cell signaling and neutrophil activation."
+  },
+  {
+    "id": 13,
+    "chapterId": 32,
+    "question": "What immunologic phenomenon best explains why DH tends to present at a later age than symptomatic celiac disease?",
+    "options": [
+      "Epitope spreading from TG2 to TG3",
+      "Delayed ingestion of gluten in adulthood",
+      "Spontaneous mutation of the HLA-DQ2 gene",
+      "Progressive decline in intestinal mucosal barrier function"
+    ],
+    "correctIndex": 0,
+    "explanation": "Epitope spreading is proposed as the reason DH presents later; time and continued gluten exposure lead to the development of anti-TG3 antibodies after anti-TG2 antibodies have formed."
+  },
+  {
+    "id": 14,
+    "chapterId": 32,
+    "question": "Where are the IgA/TG3 immune complexes primarily formed in patients with dermatitis herpetiformis?",
+    "options": [
+      "Locally within the papillary dermis",
+      "In the systemic circulation and deposited in the skin",
+      "Within the lamina propria of the gut",
+      "In the epidermal stratum corneum"
+    ],
+    "correctIndex": 0,
+    "explanation": "When IgA anti-TG3 antibodies reach the dermis, they complex with epidermal TG3 that has diffused into the dermis, forming immune complexes locally within the papillary dermis."
+  },
+  {
+    "id": 15,
+    "chapterId": 32,
+    "question": "Ingestion or topical application of which substance is known to significantly worsen the clinical lesions of dermatitis herpetiformis?",
+    "options": [
+      "Iodide",
+      "Fluoride",
+      "Bromide",
+      "Chloride"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ingestion or topical application of iodide can lead to worsening of DH, potentially due to an iodide-induced increase in TG3 enzymatic activity."
+  },
+  {
+    "id": 16,
+    "chapterId": 32,
+    "question": "Which autoimmune disorder is most commonly associated with dermatitis herpetiformis?",
+    "options": [
+      "Hashimoto thyroiditis",
+      "Systemic lupus erythematosus",
+      "Vitiligo",
+      "Myasthenia gravis"
+    ],
+    "correctIndex": 0,
+    "explanation": "A strong association exists between DH and thyroid disease, particularly Hashimoto thyroiditis."
+  },
+  {
+    "id": 17,
+    "chapterId": 32,
+    "question": "Patients with dermatitis herpetiformis require surveillance for an increased incidence of which specific malignancy?",
+    "options": [
+      "Enteropathy-associated T cell lymphoma",
+      "Cutaneous squamous cell carcinoma",
+      "Malignant melanoma",
+      "Gastric adenocarcinoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "The incidence of enteropathy-associated T cell lymphoma is increased in patients with DH, which is a major reason for adhering to a strict gluten-free diet."
+  },
+  {
+    "id": 18,
+    "chapterId": 32,
+    "question": "What is the classic distribution pattern of the primary lesions in dermatitis herpetiformis?",
+    "options": [
+      "Symmetric involvement of extensor surfaces, elbows, knees, and buttocks",
+      "Asymmetric distribution on flexural creases and intertriginous areas",
+      "Central facial erythema sparing the nasolabial folds",
+      "Diffuse truncal targetoid plaques"
+    ],
+    "correctIndex": 0,
+    "explanation": "DH has a symmetric distribution and favors the elbows, knees, extensor forearms, back, and buttocks."
+  },
+  {
+    "id": 19,
+    "chapterId": 32,
+    "question": "A less common, specific presentation of dermatitis herpetiformis on the acral surfaces (palms and soles) involves what type of lesion?",
+    "options": [
+      "Hemorrhagic macules",
+      "Sterile pustules",
+      "Hyperkeratotic plaques",
+      "Comedones"
+    ],
+    "correctIndex": 0,
+    "explanation": "Less common presentations of DH include isolated facial or scalp involvement, exclusively macular lesions, and hemorrhagic acral macules (usually palmoplantar)."
+  },
+  {
+    "id": 20,
+    "chapterId": 32,
+    "question": "What is the characteristic routine histologic finding of early dermatitis herpetiformis lesions?",
+    "options": [
+      "Neutrophilic infiltration of the dermal papillae with relative sparing of the rete ridges",
+      "Eosinophilic spongiosis within the lower epidermis",
+      "Acantholysis and intraepidermal blister formation",
+      "Lichenoid lymphocytic infiltrate masking the dermal-epidermal junction"
+    ],
+    "correctIndex": 0,
+    "explanation": "A characteristic histologic finding in DH is dermal papillae filled with neutrophils, with relative sparing of the lowermost tips of the intervening rete ridges."
+  },
+  {
+    "id": 21,
+    "chapterId": 32,
+    "question": "When performing a biopsy for direct immunofluorescence (DIF) to confirm dermatitis herpetiformis, what is the optimal site?",
+    "options": [
+      "Normal-appearing skin immediately adjacent to a lesion",
+      "The center of an intact, prominent blister",
+      "An excoriated, crusted papule",
+      "Sun-exposed but non-lesional skin on the face"
+    ],
+    "correctIndex": 0,
+    "explanation": "The optimal biopsy site for DIF microscopy in DH is normal-appearing skin immediately adjacent to a lesion to prevent false-negatives caused by inflammatory destruction of IgA epitopes."
+  },
+  {
+    "id": 22,
+    "chapterId": 32,
+    "question": "Enzymatically active TG3 in the papillary dermis of DH patients acts to bind IgA to connective tissue. What other substrate does active TG3 bind, potentially playing a pathogenic role?",
+    "options": [
+      "Soluble fibrinogen",
+      "Keratin 14",
+      "Type VII collagen",
+      "Desmoglein 3"
+    ],
+    "correctIndex": 0,
+    "explanation": "Enzymatically active TG3 also binds to soluble fibrinogen whose subsequent degradation may play a key pathogenic role in DH."
+  },
+  {
+    "id": 23,
+    "chapterId": 32,
+    "question": "What is the endomysial antigen identified in celiac disease and dermatitis herpetiformis?",
+    "options": [
+      "Tissue transglutaminase (TG2)",
+      "Epidermal transglutaminase (TG3)",
+      "Gliadin",
+      "BP180"
+    ],
+    "correctIndex": 0,
+    "explanation": "The endomysium is connective tissue, and TG2 has been identified specifically as the endomysial antigen targeted by anti-endomysial antibodies."
+  },
+  {
+    "id": 24,
+    "chapterId": 32,
+    "question": "When assessing a patient for suspected DH using the initial recommended serologic test (IgA anti-TG2 antibodies), what other test should be ordered simultaneously to avoid a false negative?",
+    "options": [
+      "Total serum IgA level",
+      "IgG anti-endomysial antibodies",
+      "Small bowel biopsy",
+      "Skin patch testing for gluten"
+    ],
+    "correctIndex": 0,
+    "explanation": "The diagnostic approach recommends checking total serum IgA levels along with IgA anti-TG2 antibodies to rule out IgA deficiency, which would make the specific IgA tests falsely negative."
+  },
+  {
+    "id": 25,
+    "chapterId": 32,
+    "question": "If a patient with suspected dermatitis herpetiformis is found to be IgA deficient, which test is recommended next?",
+    "options": [
+      "IgG anti-TG2 antibodies",
+      "IgM anti-TG3 antibodies",
+      "Direct immunofluorescence of the oral mucosa",
+      "Small bowel biopsy without further serology"
+    ],
+    "correctIndex": 0,
+    "explanation": "In an IgA-deficient patient, testing for IgG anti-TG2 or IgG anti-deamidated gliadin peptides is the recommended serologic pathway."
+  },
+  {
+    "id": 26,
+    "chapterId": 32,
+    "question": "After initiating dapsone therapy in a patient with dermatitis herpetiformis, within what timeframe is pruritus typically relieved?",
+    "options": [
+      "48-72 hours",
+      "1-2 weeks",
+      "1 month",
+      "3-6 months"
+    ],
+    "correctIndex": 0,
+    "explanation": "The pruritus of DH is typically relieved within 48-72 hours after instituting dapsone therapy."
+  },
+  {
+    "id": 27,
+    "chapterId": 32,
+    "question": "Before starting a patient on dapsone therapy for DH, it is essential to screen for a deficiency in which enzyme?",
+    "options": [
+      "Glucose-6-phosphate dehydrogenase (G6PD)",
+      "Thiopurine methyltransferase (TPMT)",
+      "Cytochrome P450 3A4",
+      "Glutathione S-transferase"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dapsone is begun after screening for G6PD deficiency, as treating susceptible individuals may precipitate severe hemolysis and cardiac decompensation."
+  },
+  {
+    "id": 28,
+    "chapterId": 32,
+    "question": "What is a nearly universal, expected hematologic side effect of dapsone therapy even in patients with normal G6PD levels?",
+    "options": [
+      "A compensated hemolytic anemia due to oxidant stress on aging red blood cells",
+      "Aplastic anemia from bone marrow suppression",
+      "Megaloblastic anemia from folate antagonism",
+      "Microcytic anemia from iron chelation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dapsone and other sulfones produce an oxidant stress on aging red blood cells. Most patients have evidence of drug-induced hemolysis resulting in a compensated hemolytic anemia."
+  },
+  {
+    "id": 29,
+    "chapterId": 32,
+    "question": "A patient taking 100 mg of dapsone daily shows arterial desaturation by pulse oximetry despite having no cardiopulmonary symptoms. What is the most likely cause?",
+    "options": [
+      "Methemoglobinemia",
+      "Carboxyhemoglobinemia",
+      "Drug-induced interstitial pneumonitis",
+      "Acute pulmonary embolism"
+    ],
+    "correctIndex": 0,
+    "explanation": "Methemoglobin is present in the blood of most patients taking 100 mg or more of dapsone daily, which can cause arterial desaturation on pulse oximetry."
+  },
+  {
+    "id": 30,
+    "chapterId": 32,
+    "question": "Dapsone-induced agranulocytosis is a fatal complication that typically develops during which time frame of continuous treatment?",
+    "options": [
+      "2 to 12 weeks",
+      "24 to 48 hours",
+      "1 to 2 years",
+      "After 5 years"
+    ],
+    "correctIndex": 0,
+    "explanation": "Drug-induced agranulocytosis usually occurs after 2-12 weeks of continuous dapsone treatment."
+  },
+  {
+    "id": 31,
+    "chapterId": 32,
+    "question": "The dapsone hypersensitivity syndrome has been strongly associated with which HLA allele in specific populations?",
+    "options": [
+      "HLA-B*13:01",
+      "HLA-B*57:01",
+      "HLA-DQ2",
+      "HLA-A*31:01"
+    ],
+    "correctIndex": 0,
+    "explanation": "Among patients with leprosy, HLA-B*13:01 has been associated with the development of the dapsone hypersensitivity syndrome."
+  },
+  {
+    "id": 32,
+    "chapterId": 32,
+    "question": "Peripheral neuropathy is a known adverse effect of dapsone therapy. What type of neuropathy is most classically reported?",
+    "options": [
+      "Pure motor neuropathy",
+      "Pure sensory neuropathy",
+      "Sensorimotor polyneuropathy",
+      "Autonomic neuropathy"
+    ],
+    "correctIndex": 0,
+    "explanation": "The neuropathy induced by dapsone was initially reported as a pure motor neuropathy, though mixed sensorimotor neuropathies have been reported since."
+  },
+  {
+    "id": 33,
+    "chapterId": 32,
+    "question": "If a patient with dermatitis herpetiformis is intolerant to dapsone, which of the following is an effective alternative medical therapy?",
+    "options": [
+      "Sulfapyridine",
+      "Methotrexate",
+      "Cyclosporine",
+      "Oral terbinafine"
+    ],
+    "correctIndex": 0,
+    "explanation": "If patients are intolerant to dapsone, therapy with sulfapyridine (or sulfasalazine) can be considered."
+  },
+  {
+    "id": 34,
+    "chapterId": 32,
+    "question": "When taking sulfapyridine, what precaution is advised to minimize the risk of developing nephrolithiasis?",
+    "options": [
+      "Adequate fluid intake and alkalinization of the urine",
+      "Taking the medication on an empty stomach",
+      "Avoiding high-calcium foods",
+      "Concurrent administration of allopurinol"
+    ],
+    "correctIndex": 0,
+    "explanation": "Adequate fluid intake and alkalinization of the urine minimizes the risk of nephrolithiasis in patients on sulfapyridine."
+  },
+  {
+    "id": 35,
+    "chapterId": 32,
+    "question": "Sulfasalazine is sometimes used as a second alternative for DH. How is it metabolized by intestinal bacteria?",
+    "options": [
+      "Into sulfapyridine and 5-aminosalicylate",
+      "Into dapsone and salicylic acid",
+      "Into sulfamethoxazole and trimethoprim",
+      "Into mesalamine and hydrocortisone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sulfasalazine is metabolized to sulfapyridine and 5-aminosalicylate by intestinal bacteria."
+  },
+  {
+    "id": 36,
+    "chapterId": 32,
+    "question": "How long does a strict gluten-free diet typically take to adequately control dermatitis herpetiformis symptoms and allow dapsone reduction?",
+    "options": [
+      "Several months",
+      "48 to 72 hours",
+      "1 to 2 weeks",
+      "More than 5 years"
+    ],
+    "correctIndex": 0,
+    "explanation": "Because several months on a gluten-free diet is typically needed for a response, concurrent suppression of symptoms with dapsone is usually necessary."
+  },
+  {
+    "id": 37,
+    "chapterId": 32,
+    "question": "Linear IgA bullous dermatosis (LABD) is fundamentally defined by which unique immunopathologic feature?",
+    "options": [
+      "Linear deposition of IgA along the cutaneous basement membrane zone",
+      "Granular deposition of IgA in the dermal papillae",
+      "Linear deposition of IgG and C3 along the basement membrane zone",
+      "Intercellular deposition of IgA in the epidermis"
+    ],
+    "correctIndex": 0,
+    "explanation": "LABD has been defined on the basis of a unique immunopathology consisting of linear deposition of IgA along the cutaneous BMZ."
+  },
+  {
+    "id": 38,
+    "chapterId": 32,
+    "question": "What is the childhood form of linear IgA bullous dermatosis frequently called?",
+    "options": [
+      "Chronic bullous disease of childhood",
+      "Epidermolysis bullosa simplex",
+      "Staphylococcal scalded skin syndrome",
+      "Bullous impetigo"
+    ],
+    "correctIndex": 0,
+    "explanation": "The childhood form of LABD is frequently termed \"chronic bullous disease of childhood\" (CBDC)."
+  },
+  {
+    "id": 39,
+    "chapterId": 32,
+    "question": "Which of the following describes the classic clinical appearance of chronic bullous disease of childhood?",
+    "options": [
+      "A \"crown of jewels\" consisting of annular erythema and blisters in flexural areas",
+      "Targetoid papules primarily on the palms and soles",
+      "Grouped microvesicles severely restricted to the elbows and knees",
+      "Flaccid bullae that rupture easily on the face and scalp"
+    ],
+    "correctIndex": 0,
+    "explanation": "CBDC was initially described on the basis of its clinical findings—annular erythema and blisters (often referred to as a \"crown of jewels\"), primarily in flexural areas."
+  },
+  {
+    "id": 40,
+    "chapterId": 32,
+    "question": "In the majority of patients with LABD, immunoelectron microscopy shows IgA deposits in which specific zone of the basement membrane?",
+    "options": [
+      "Lamina lucida",
+      "Sublamina densa",
+      "Lamina densa",
+      "Hemidesmosomal inner plaque"
+    ],
+    "correctIndex": 0,
+    "explanation": "There are two distinct types of LABD, with the lamina lucida type being the majority."
+  },
+  {
+    "id": 41,
+    "chapterId": 32,
+    "question": "The IgA antibodies in the majority of LABD patients react against the LAD-1 (120 kD) and LABD97 (97 kD) fragments. These fragments originate from the cleavage of which protein?",
+    "options": [
+      "BP180 (BPAG2)",
+      "BP230 (BPAG1)",
+      "Type VII collagen",
+      "Laminin-332"
+    ],
+    "correctIndex": 0,
+    "explanation": "The autoantibodies in LABD react with fragments (LAD-1 and LABD97) that represent the physiologically cleaved BP180 ectodomain."
+  },
+  {
+    "id": 42,
+    "chapterId": 32,
+    "question": "While bullous pemphigoid (BP) and LABD autoantibodies both target BP180 (BPAG2), how do their specific binding sites differ?",
+    "options": [
+      "BP antibodies target the NC16A domain; LABD antibodies target the carboxy terminus/collagenous domain",
+      "BP antibodies target the intracellular domain; LABD antibodies target the NC16A domain",
+      "BP antibodies target the LAD-1 fragment; LABD antibodies target the LABD97 fragment",
+      "BP antibodies and LABD antibodies bind identically to the same exact epitopes"
+    ],
+    "correctIndex": 0,
+    "explanation": "In BP, pathogenic IgG antibodies bind the MCW-1 region of the NC16A domain. In LABD, the IgA response binds toward the carboxy terminus (collagenous domain)."
+  },
+  {
+    "id": 43,
+    "chapterId": 32,
+    "question": "In the sublamina densa type of linear IgA bullous dermatosis, IgA antibodies are reported to bind to which structural component?",
+    "options": [
+      "Type VII collagen within anchoring fibrils",
+      "Type IV collagen within the lamina densa",
+      "Laminin-332 in anchoring filaments",
+      "Integrin alpha6beta4 in hemidesmosomes"
+    ],
+    "correctIndex": 0,
+    "explanation": "IgA class antibodies from patients with the sublamina densa type of LABD have been reported to bind to type VII collagen within anchoring fibrils."
+  },
+  {
+    "id": 44,
+    "chapterId": 32,
+    "question": "How does the prevalence of gluten-sensitive enteropathy (GSE) in LABD compare to that in dermatitis herpetiformis?",
+    "options": [
+      "GSE has a much lower prevalence in LABD (0-24%) compared to DH (>90%)",
+      "GSE is universally present (100%) in both conditions",
+      "GSE is entirely absent (0%) in LABD but universally present in DH",
+      "GSE is significantly higher in LABD than in DH"
+    ],
+    "correctIndex": 0,
+    "explanation": "LABD clearly has a much lower prevalence of small bowel histologic abnormalities (GSE) than DH, ranging from 0 to 24% in the literature compared to >90% in DH."
+  },
+  {
+    "id": 45,
+    "chapterId": 32,
+    "question": "Which gastrointestinal disease has been reported in association with LABD and resulted in remission of the skin disease following colectomy?",
+    "options": [
+      "Ulcerative colitis",
+      "Celiac disease",
+      "Gastric adenocarcinoma",
+      "Helicobacter pylori gastritis"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ulcerative colitis, Crohn disease, and gastric hypochlorhydria have been described with LABD; one report noted remission of LABD after colectomy for ulcerative colitis."
+  },
+  {
+    "id": 46,
+    "chapterId": 32,
+    "question": "Which medication is most commonly identified as a cause of drug-induced linear IgA bullous dermatosis?",
+    "options": [
+      "Vancomycin",
+      "Penicillin",
+      "Phenytoin",
+      "Allopurinol"
+    ],
+    "correctIndex": 0,
+    "explanation": "There are multiple reports of drug-induced LABD; the drugs associated with LABD are listed in Table 31.5, with vancomycin being the most common inducer."
+  },
+  {
+    "id": 47,
+    "chapterId": 32,
+    "question": "In vancomycin-induced LABD, indirect immunofluorescence typically becomes positive against which specific antigen when vancomycin is added to the patient's sera?",
+    "options": [
+      "NC1 domain of type VII collagen",
+      "LAD-1 fragment of BP180",
+      "NC16A domain of BP180",
+      "Epidermal transglutaminase (TG3)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Addition of vancomycin to patients’ sera can result in a positive IIF assay, with reactivity against the NC1 domain of type VII collagen."
+  },
+  {
+    "id": 48,
+    "chapterId": 32,
+    "question": "What is the typical timeframe for remission of drug-induced LABD after cessation of the offending medication?",
+    "options": [
+      "2-6 weeks",
+      "24-48 hours",
+      "3-6 months",
+      "1-2 years"
+    ],
+    "correctIndex": 0,
+    "explanation": "Drug-induced LABD usually remits within 2-6 weeks of cessation of the drug, although it can persist for months."
+  },
+  {
+    "id": 49,
+    "chapterId": 32,
+    "question": "Drug-induced LABD, particularly due to vancomycin, may present with a severe clinical variant that closely mimics which condition?",
+    "options": [
+      "Toxic epidermal necrolysis (TEN)",
+      "Staphylococcal scalded skin syndrome",
+      "Erythema multiforme major",
+      "Pemphigus vulgaris"
+    ],
+    "correctIndex": 0,
+    "explanation": "LABD secondary to drugs, in particular vancomycin, may have a toxic epidermal necrolysis (TEN)-like or morbilliform presentation."
+  },
+  {
+    "id": 50,
+    "chapterId": 32,
+    "question": "A severe form of LABD can present with oral, nasal, pharyngeal, esophageal, and ocular lesions. This presentation is clinically indistinguishable from which disease?",
+    "options": [
+      "Mucous membrane pemphigoid",
+      "Bullous pemphigoid",
+      "Erosive lichen planus",
+      "Paraneoplastic pemphigus"
+    ],
+    "correctIndex": 0,
+    "explanation": "LABD may present as a variant of mucous membrane pemphigoid. The ocular form of LABD is clinically indistinguishable from ocular mucous membrane pemphigoid."
+  },
+  {
+    "id": 51,
+    "chapterId": 32,
+    "question": "While distinguishing LABD from DH on routine microscopy is often impossible, which histologic feature specifically favors a diagnosis of LABD?",
+    "options": [
+      "A linear distribution of neutrophils along the basement membrane zone",
+      "Neutrophilic microabscesses filling the dermal papillae tips",
+      "A pure eosinophilic infiltrate with no neutrophils",
+      "Epidermal acantholysis with intraepidermal neutrophils"
+    ],
+    "correctIndex": 0,
+    "explanation": "Although distinguishing them is difficult, a linear distribution of neutrophils along the BMZ and neutrophils at the very tips of dermal papillae favor LABD."
+  },
+  {
+    "id": 52,
+    "chapterId": 32,
+    "question": "When testing sera from patients with the lamina lucida type of LABD on salt-split skin, where do the circulating IgA class anti-BMZ antibodies adhere?",
+    "options": [
+      "The epidermal side (roof)",
+      "The dermal side (floor)",
+      "Both the epidermal and dermal sides",
+      "Neither side; they only bind intact skin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Circulating IgA class anti-BMZ antibodies from the lamina lucida type of LABD have been shown to adhere to the epidermal side (roof) of salt-split skin."
+  },
+  {
+    "id": 53,
+    "chapterId": 32,
+    "question": "Patients with linear IgA bullous dermatosis who demonstrate both IgG and IgA deposits at the basement membrane zone are more likely to require which additional therapy?",
+    "options": [
+      "Systemic corticosteroids",
+      "High-dose methotrexate",
+      "Plasmapheresis",
+      "A strict gluten-free diet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Patients in whom both IgG and IgA deposits are present in the BMZ represent those who are likely to require additional therapy with systemic corticosteroids (alongside dapsone)."
+  },
+  {
+    "id": 54,
+    "chapterId": 32,
+    "question": "In children with linear IgA bullous dermatosis (CBDC), what is the expected natural course of the disease?",
+    "options": [
+      "It typically remits within 2-4 years",
+      "It persists lifelong and requires chronic therapy",
+      "It inevitably transforms into adult dermatitis herpetiformis",
+      "It rapidly progresses to involve fatal mucous membrane complications"
+    ],
+    "correctIndex": 0,
+    "explanation": "Childhood LABD naturally remits within 2-4 years."
+  },
+  {
+    "id": 55,
+    "chapterId": 32,
+    "question": "Several antibiotics have been successfully used in the empirical treatment of adult and childhood LABD. Which of the following groups includes those specifically mentioned?",
+    "options": [
+      "Dicloxacillin, erythromycin, and tetracycline",
+      "Penicillin, amoxicillin, and clindamycin",
+      "Ciprofloxacin, levofloxacin, and moxifloxacin",
+      "Gentamicin, tobramycin, and amikacin"
+    ],
+    "correctIndex": 0,
+    "explanation": "Successful treatment of both adult and childhood LABD with antibiotics, including dicloxacillin, erythromycin, tetracycline, and trimethoprim–sulfamethoxazole, has been reported."
+  },
+  {
+    "id": 56,
+    "chapterId": 32,
+    "question": "What finding on direct immunofluorescence (DIF) differentiates bullous lupus erythematosus from linear IgA bullous dermatosis?",
+    "options": [
+      "Bullous LE shows multiple immunoglobulins in a granular or broad linear pattern; LABD shows fine linear IgA",
+      "Bullous LE shows strictly linear IgG; LABD shows strictly linear IgA",
+      "Bullous LE shows granular IgA in the dermal papillae; LABD shows linear IgA",
+      "Bullous LE is entirely negative on DIF; LABD shows fine linear IgA"
+    ],
+    "correctIndex": 0,
+    "explanation": "In bullous LE, DIF reveals multiple immunoglobulins in a granular or broad linear pattern along the BMZ, whereas in LABD there is a fine linear IgA deposition."
+  },
+  {
+    "id": 57,
+    "chapterId": 32,
+    "question": "Which of the following describes the routine histology of fully developed lesions in bullous pemphigoid compared to dermatitis herpetiformis?",
+    "options": [
+      "Bullous pemphigoid features a predominantly eosinophilic infiltrate, whereas DH is neutrophil-predominant",
+      "Bullous pemphigoid features intraepidermal blisters, whereas DH is subepidermal",
+      "Bullous pemphigoid lacks any inflammatory infiltrate, whereas DH is severely inflamed",
+      "Bullous pemphigoid features microabscesses in the dermal papillae, whereas DH has linear inflammation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Table 31.3 specifies that BP has a subepidermal bullae with an eosinophilic infiltrate, whereas DH (and often LABD) features a neutrophilic infiltrate."
+  },
+  {
+    "id": 58,
+    "chapterId": 32,
+    "question": "In what percentage of dermatitis herpetiformis cases does continuous granular deposition of IgA along the basement membrane occur instead of being strictly localized to the papillary tips?",
+    "options": [
+      "5% to 10%",
+      "85%",
+      "0%",
+      "50%"
+    ],
+    "correctIndex": 0,
+    "explanation": "Continuous granular deposition of IgA along the basement membrane occurs in 5% to 10% of cases, while papillary localization happens in 85%."
+  },
+  {
+    "id": 59,
+    "chapterId": 32,
+    "question": "Erythema multiforme can be confused with DH and LABD. What distinct feature differentiates it clinically and pathologically from these two?",
+    "options": [
+      "It features acral target lesions, epidermal necrosis, and lacks IgA deposition at the basement membrane zone",
+      "It features grouped papulovesicles and dense IgA deposition in the dermal papillae",
+      "It primarily involves the flexural creases and has purely linear IgG",
+      "It is characterized by intense pruritus and sublamina densa blister formation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Erythema multiforme is characterized by target lesions, acral distribution, vacuolar degeneration, focal epidermal necrosis, and a lack of IgA deposition at the BMZ."
+  },
+  {
+    "id": 60,
+    "chapterId": 32,
+    "question": "In 1972, Stephen Katz made a critical discovery that strengthened the association between DH and celiac disease. What was it?",
+    "options": [
+      "He linked DH to the HLA-B8 antigen",
+      "He identified epidermal transglutaminase as the DH autoantigen",
+      "He demonstrated that dapsone cleared the skin lesions",
+      "He discovered IgA deposits in the papillary dermis"
+    ],
+    "correctIndex": 0,
+    "explanation": "In 1972, Stephen Katz linked DH to the HLA-B8 antigen, which strengthened the association between CD and DH."
+  },
+  {
+    "id": 61,
+    "chapterId": 32,
+    "question": "Which specific laboratory test is performed using a monkey esophagus substrate by indirect immunofluorescence?",
+    "options": [
+      "IgA anti-endomysial antibodies",
+      "IgA anti-TG3 antibodies",
+      "Total serum IgA",
+      "Anti-deamidated gliadin peptide IgG"
+    ],
+    "correctIndex": 0,
+    "explanation": "Circulating IgA antibodies to TG2 (an endomysial antigen) have been identified by indirect immunofluorescence using a monkey esophagus substrate."
+  },
+  {
+    "id": 62,
+    "chapterId": 32,
+    "question": "Which normal physiologic process is facilitated by transglutaminases like TG2 in the human body?",
+    "options": [
+      "Repairing injured tissue by cross-linking extracellular matrix proteins",
+      "Transporting zinc into epidermal keratinocytes",
+      "Cleaving desmosomes to allow for normal desquamation",
+      "Synthesizing melanin within melanocytes"
+    ],
+    "correctIndex": 0,
+    "explanation": "The normal physiologic function of transglutaminase is to repair injured tissue by cross-linking extracellular matrix proteins to protect surrounding tissue."
+  },
+  {
+    "id": 63,
+    "chapterId": 32,
+    "question": "In the process of gluten processing in the gut, which amino acid in gliadin is specifically vulnerable to linkage with the epsilon-amino group of a lysine residue in transglutaminase?",
+    "options": [
+      "Glutamine",
+      "Arginine",
+      "Serine",
+      "Proline"
+    ],
+    "correctIndex": 0,
+    "explanation": "Transglutaminase facilitates the linkage of the carboxamide group of the amino acid glutamine, found in gliadin, to a lysine residue."
+  },
+  {
+    "id": 64,
+    "chapterId": 32,
+    "question": "What class and subclass of antibodies are the granular IgA deposits in DH skin composed of?",
+    "options": [
+      "IgA1",
+      "IgA2",
+      "Secretory IgA",
+      "Monomeric IgA"
+    ],
+    "correctIndex": 0,
+    "explanation": "The deposits in DH are composed of IgA1 antibodies directed against TG3."
+  },
+  {
+    "id": 65,
+    "chapterId": 32,
+    "question": "A subset of newly diagnosed celiac disease patients without clinical skin disease have been found to have which of the following?",
+    "options": [
+      "Cutaneous IgA deposits and circulating IgA anti-TG3 antibodies",
+      "Complete villous atrophy strictly correlated with linear IgG deposits",
+      "A complete inability to form IgA-TG2 complexes",
+      "A spontaneous remission of bowel symptoms when taking dapsone"
+    ],
+    "correctIndex": 0,
+    "explanation": "A recent study found that a subset of newly diagnosed CD patients without skin disease could have cutaneous IgA deposits and circulating IgA anti-TG3 antibodies, suggesting they may go on to develop DH."
+  },
+  {
+    "id": 66,
+    "chapterId": 32,
+    "question": "Which of the following is considered an uncommon (rather than rare or common) autoimmune disorder associated with dermatitis herpetiformis?",
+    "options": [
+      "Pernicious anemia",
+      "Hashimoto thyroiditis",
+      "Alopecia areata",
+      "Systemic lupus erythematosus"
+    ],
+    "correctIndex": 0,
+    "explanation": "Table 31.2 classifies Pernicious anemia as an 'Uncommon' autoimmune disorder associated with DH, while Hashimoto thyroiditis is 'Common' and SLE/Alopecia areata are 'Rare'."
+  },
+  {
+    "id": 67,
+    "chapterId": 32,
+    "question": "What is the consequence of biopsying a clinical lesion in DH for direct immunofluorescence?",
+    "options": [
+      "A false-negative result because the inflammatory infiltrate can destroy the epitopes on IgA",
+      "A false-positive result mimicking linear IgA bullous dermatosis",
+      "Increased visibility of the epidermal transglutaminase complex",
+      "It guarantees the highest concentration of detectable intact IgA"
+    ],
+    "correctIndex": 0,
+    "explanation": "A false-negative DIF can occur if lesional skin is biopsied, since the inflammatory infiltrate can destroy the epitopes on IgA."
+  },
+  {
+    "id": 68,
+    "chapterId": 32,
+    "question": "What type of IgA molecule has been detected in systemic and skin-limited forms of IgA vasculitis, and whose specific role in DH and LABD remains unknown?",
+    "options": [
+      "Galactose-deficient IgA1 (Gd-IgA1)",
+      "Polymeric IgA2",
+      "Secretory IgA",
+      "J-chain linked IgA"
+    ],
+    "correctIndex": 0,
+    "explanation": "Galactose-deficient IgA1 (Gd-IgA1) is implicated in IgA nephropathy and IgA vasculitis, but its role in DH and LABD remains unknown."
+  },
+  {
+    "id": 69,
+    "chapterId": 32,
+    "question": "A single case report has suggested what unique mechanism for the passive transfer of pathogenic IgA autoantibodies leading to neonatal LABD?",
+    "options": [
+      "Breast milk from an asymptomatic mother",
+      "Transplacental IgG crossing that activated fetal IgA",
+      "Maternal microchimerism in the fetal bone marrow",
+      "Exposure to amniotic fluid containing TG3"
+    ],
+    "correctIndex": 0,
+    "explanation": "A single case report has suggested the passive transfer of pathogenic IgA autoantibodies to a newborn from an asymptomatic mother via breast milk."
+  },
+  {
+    "id": 70,
+    "chapterId": 32,
+    "question": "What is the recommended average daily maintenance dose of dapsone for controlling dermatitis herpetiformis in adults on a normal diet?",
+    "options": [
+      "50 to 100 mg",
+      "10 to 25 mg",
+      "200 to 300 mg",
+      "500 to 1000 mg"
+    ],
+    "correctIndex": 0,
+    "explanation": "The average maintenance dose in adults on a normal diet is 50–100 mg daily."
+  },
+
+
+
+  {
+    "id": 1,
+    "chapterId": 120,
+    "question": "By definition, primary cutaneous lymphomas are malignant lymphomas that are:",
+    "options": [
+      "Disseminated from an extracutaneous source to the skin",
+      "Confined to the skin at presentation after complete staging procedures",
+      "Characterized by early bone marrow involvement",
+      "Associated exclusively with systemic B symptoms"
+    ],
+    "correctIndex": 1,
+    "explanation": "Primary cutaneous lymphomas are defined as malignant lymphomas confined to the skin at presentation after complete staging procedures."
+  },
+  {
+    "id": 2,
+    "chapterId": 120,
+    "question": "What percentage of primary cutaneous lymphomas do B cell lymphomas represent?",
+    "options": [
+      "Approximately 10%",
+      "Approximately 25%",
+      "Approximately 50%",
+      "Approximately 75%"
+    ],
+    "correctIndex": 1,
+    "explanation": "In the WHO-EORTC Cutaneous Lymphoma Project Group classification, B cell lymphomas represented approximately 25% of all cutaneous lymphomas."
+  },
+  {
+    "id": 3,
+    "chapterId": 120,
+    "question": "The vast majority (>80%) of primary cutaneous B cell lymphomas (pCBCLs) are characterized by which of the following?",
+    "options": [
+      "Aggressive clinical behavior with poor prognosis",
+      "Rapid systemic dissemination within months",
+      "Low-grade malignancies with indolent behavior and a good prognosis",
+      "Obligate association with Epstein-Barr virus"
+    ],
+    "correctIndex": 2,
+    "explanation": "Most pCBCLs (>80%) are low-grade malignancies characterized by indolent behavior and a good prognosis."
+  },
+  {
+    "id": 4,
+    "chapterId": 120,
+    "question": "Which microorganism has been specifically linked to the development of a minority of cases of primary cutaneous B cell lymphoma, particularly in endemic areas of Europe?",
+    "options": [
+      "Helicobacter pylori",
+      "Borrelia burgdorferi",
+      "Treponema pallidum",
+      "Mycobacterium leprae"
+    ],
+    "correctIndex": 1,
+    "explanation": "The association between pCBCL and infection with specific Borrelia subspecies in endemic areas has been known for many years, particularly in Europe."
+  },
+  {
+    "id": 5,
+    "chapterId": 120,
+    "question": "Reversible primary cutaneous B cell lymphomas have been observed in patients with rheumatoid arthritis undergoing therapy with which medication?",
+    "options": [
+      "Cyclophosphamide",
+      "Rituximab",
+      "Methotrexate",
+      "Infliximab"
+    ],
+    "correctIndex": 2,
+    "explanation": "Reversible pCBCLs have been observed in patients undergoing therapy with methotrexate, particularly those with rheumatoid arthritis."
+  },
+  {
+    "id": 6,
+    "chapterId": 120,
+    "question": "In the staging of indolent types of primary cutaneous B cell lymphoma confined to the skin without extracutaneous symptoms, which procedure is generally viewed as superfluous?",
+    "options": [
+      "Complete blood count with differential",
+      "Physical examination of lymph nodes",
+      "Extensive radiologic imaging and bone marrow biopsy",
+      "Comprehensive serum chemistries including LDH"
+    ],
+    "correctIndex": 2,
+    "explanation": "Extensive radiologic imaging and bone marrow biopsy are viewed as superfluous in the staging and follow-up of patients with indolent types of pCBCL confined to the skin."
+  },
+  {
+    "id": 7,
+    "chapterId": 120,
+    "question": "Which of the following describes the typical clinical presentation of primary cutaneous follicle center lymphoma (PCFCL)?",
+    "options": [
+      "Intensely pruritic vesicles predominantly on the palms and soles",
+      "Solitary or grouped, pink- to plum-colored papules, plaques, or tumors favoring the head, neck, or back",
+      "Widespread generalized erythroderma with scaling",
+      "Multiple ulcerated nodules strictly confined to the lower legs in elderly females"
+    ],
+    "correctIndex": 1,
+    "explanation": "Clinically, PCFCL presents with solitary or grouped, pink- to plum-colored papules, plaques or tumors, preferentially located on the scalp, forehead, or back."
+  },
+  {
+    "id": 8,
+    "chapterId": 120,
+    "question": "The term 'Crosti’s lymphoma' has historically been used to describe patients with primary cutaneous follicle center lymphoma presenting with which specific feature?",
+    "options": [
+      "A peripheral patch of erythema surrounding the tumor",
+      "A reticulated pattern of hyperpigmentation",
+      "Complete alopecia in the affected area",
+      "Simultaneous visceral involvement"
+    ],
+    "correctIndex": 0,
+    "explanation": "The term Crosti’s lymphoma has been used to denote those patients with a peripheral patch of erythema surrounding the main tumor."
+  },
+  {
+    "id": 9,
+    "chapterId": 120,
+    "question": "Which of the following histologic features helps distinguish neoplastic follicles in PCFCL from reactive germinal centers?",
+    "options": [
+      "Presence of numerous tingible body macrophages",
+      "Distinct 'dark' and 'clear' zones within the follicle",
+      "Lack of tingible body macrophages and monomorphism of the follicles",
+      "A highly prominent, thickened mantle zone"
+    ],
+    "correctIndex": 2,
+    "explanation": "Neoplastic follicles in PCFCL show morphologic features of malignancy, including a reduced/absent mantle zone, lack of tingible body macrophages, and monomorphism (loss of dark and clear areas)."
+  },
+  {
+    "id": 10,
+    "chapterId": 120,
+    "question": "In primary cutaneous follicle center lymphoma (PCFCL), the neoplastic cells characteristically express which B cell-associated antigens?",
+    "options": [
+      "CD3, CD4, CD8",
+      "CD20, CD79a, PAX-5",
+      "CD30, CD15, ALK",
+      "CD5, CD23, CD43"
+    ],
+    "correctIndex": 1,
+    "explanation": "The tumor cells in PCFCL express B cell-associated antigens including CD20, CD79a, and PAX-5."
+  },
+  {
+    "id": 11,
+    "chapterId": 120,
+    "question": "Which immunohistochemical marker is positive in virtually all cases of primary cutaneous follicle center lymphoma (PCFCL), regardless of whether the growth pattern is follicular or diffuse?",
+    "options": [
+      "Bcl-6",
+      "CD5",
+      "MUM-1",
+      "Cyclin D1"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bcl-6 (a marker of germinal center cells) is positive in virtually all cases of PCFCL, irrespective of the pattern of growth."
+  },
+  {
+    "id": 12,
+    "chapterId": 120,
+    "question": "Unlike nodal follicular lymphomas, the vast majority of primary cutaneous follicle center lymphomas with a follicular pattern show what staining result for Bcl-2 within the neoplastic follicles?",
+    "options": [
+      "Intensely positive in >90% of cells",
+      "Negative",
+      "Positive only in the mantle zone",
+      "Positive only in tingible body macrophages"
+    ],
+    "correctIndex": 1,
+    "explanation": "In the vast majority of cases of PCFCL, staining for Bcl-2 yields negative results within neoplastic follicles, representing a major difference from nodal follicular lymphomas."
+  },
+  {
+    "id": 13,
+    "chapterId": 120,
+    "question": "How does the proliferative rate (Ki-67 staining) within malignant follicles in PCFCL typically compare to reactive germinal centers?",
+    "options": [
+      "It is significantly higher than reactive follicles",
+      "It is identical to reactive follicles",
+      "It shows a lower degree of proliferative activity compared to the strong positivity in reactive follicles",
+      "Ki-67 is entirely negative in all B cell lymphomas"
+    ],
+    "correctIndex": 2,
+    "explanation": "A distinguishing immunohistochemical feature of PCFCL is a lower degree of proliferative activity within malignant follicles compared to the strong Ki-67 positivity in reactive follicles."
+  },
+  {
+    "id": 14,
+    "chapterId": 120,
+    "question": "The interchromosomal 14;18 translocation, characteristic of nodal follicular lymphoma, is present in what proportion of primary cutaneous follicle center lymphomas?",
+    "options": [
+      "Virtually 100%",
+      "Approximately 75%",
+      "A minority of cases",
+      "Never present"
+    ],
+    "correctIndex": 2,
+    "explanation": "The interchromosomal 14;18 translocation, typically found in nodal follicular lymphomas, is present in only a minority of PCFCLs."
+  },
+  {
+    "id": 15,
+    "chapterId": 120,
+    "question": "In the ICC 2022 classification, primary cutaneous marginal zone B cell lymphoma was downgraded and reclassified as:",
+    "options": [
+      "A high-grade malignant B cell lymphoma",
+      "Primary cutaneous marginal zone lymphoproliferative disorder",
+      "Cutaneous Hodgkin lymphoma",
+      "Primary cutaneous immunocytoma"
+    ],
+    "correctIndex": 1,
+    "explanation": "In the ICC classification of 2022, it was downgraded to a lymphoproliferative disorder (PCMZLD) rather than a true lymphoma."
+  },
+  {
+    "id": 16,
+    "chapterId": 120,
+    "question": "In primary cutaneous marginal zone B cell lymphoproliferative disorder (PCMZLD), resolution of lesions may occasionally be accompanied by which secondary cutaneous finding?",
+    "options": [
+      "Secondary anetoderma due to loss of elastic fibers",
+      "Extensive calciphylaxis",
+      "Secondary milia formation",
+      "Acanthosis nigricans"
+    ],
+    "correctIndex": 0,
+    "explanation": "In some instances of PCMZLD, resolution of lesions may be accompanied by secondary anetoderma due to loss of elastic fibers in the area of the tumor infiltrate."
+  },
+  {
+    "id": 17,
+    "chapterId": 120,
+    "question": "Histologically, PCMZLD is characterized by nodular infiltrates surrounded by a pale-staining population of small- to medium-sized cells known as:",
+    "options": [
+      "Centroblasts",
+      "Immunoblasts",
+      "Marginal zone cells (centrocyte-like cells)",
+      "Tingible body macrophages"
+    ],
+    "correctIndex": 2,
+    "explanation": "PCMZLD histology features nodular infiltrates surrounded by pale-staining marginal zone cells, also described as centrocyte-like cells or monocytoid B cells."
+  },
+  {
+    "id": 18,
+    "chapterId": 120,
+    "question": "What are the PAS-positive intranuclear inclusions sometimes observed in PCMZLD that serve as a valuable clue to the diagnosis?",
+    "options": [
+      "Russell bodies",
+      "Dutcher bodies",
+      "Asteroid bodies",
+      "Schaumann bodies"
+    ],
+    "correctIndex": 1,
+    "explanation": "PAS-positive intranuclear inclusions (Dutcher bodies) are sometimes observed and represent a valuable clue to the diagnosis of PCMZLD."
+  },
+  {
+    "id": 19,
+    "chapterId": 120,
+    "question": "Which novel immunohistochemical marker is characteristically positive on the centrocyte-like cells of PCMZLD?",
+    "options": [
+      "FCRL4 (IRTA1)",
+      "CD5",
+      "Cyclin D1",
+      "ALK"
+    ],
+    "correctIndex": 0,
+    "explanation": "The centrocyte-like cells in PCMZLD stain positively for CD20, CD79a, Fc receptor-like 4 (FCRL4/IRTA1), and Bcl-2."
+  },
+  {
+    "id": 20,
+    "chapterId": 120,
+    "question": "In the overwhelming majority of PCMZLD cases, what defining feature establishes the monoclonal nature of the infiltrate?",
+    "options": [
+      "Co-expression of CD4 and CD8",
+      "Intracytoplasmic monotypic expression of immunoglobulin light chains (either kappa or lambda)",
+      "Polyclonal expression of IgG and IgA",
+      "Presence of the Philadelphia chromosome"
+    ],
+    "correctIndex": 1,
+    "explanation": "In the overwhelming majority of cases of PCMZLD, intracytoplasmic monotypic expression of immunoglobulin light chains (either kappa or lambda, but not both) can be observed."
+  },
+  {
+    "id": 21,
+    "chapterId": 120,
+    "question": "Which specific chromosomal translocation involving IGH and MALT1 has been detected in a subset (~30%) of PCMZLD cases?",
+    "options": [
+      "t(9;22)",
+      "t(11;14)",
+      "t(14;18)(q32;21)",
+      "t(8;14)"
+    ],
+    "correctIndex": 2,
+    "explanation": "A particular translocation, t(14;18)(q32;21), that involves IGH and MALT1 has been detected in a subset of PCMZLD (~30%)."
+  },
+  {
+    "id": 22,
+    "chapterId": 120,
+    "question": "Which primary cutaneous B cell lymphoma predominantly affects elderly females and characteristically presents as erythematous to red-brown nodules on the distal aspect of one leg?",
+    "options": [
+      "Primary cutaneous marginal zone B cell lymphoproliferative disorder",
+      "Primary cutaneous follicle center lymphoma",
+      "Primary cutaneous diffuse large B cell lymphoma, leg type (DLBCLLT)",
+      "Precursor B lymphoblastic lymphoma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Primary cutaneous diffuse large B cell lymphoma, leg type (DLBCLLT) occurs almost exclusively in elderly patients, predominantly women, primarily on the distal aspect of one leg."
+  },
+  {
+    "id": 23,
+    "chapterId": 120,
+    "question": "Approximately what percentage of patients with tumors morphologically and phenotypically identical to DLBCLLT present with lesions in areas other than the lower extremities?",
+    "options": [
+      "0%",
+      "20%",
+      "50%",
+      "80%"
+    ],
+    "correctIndex": 1,
+    "explanation": "In ~20% of patients, tumors with similar morphologic and phenotypic features to DLBCLLT can arise in areas other than the lower extremities."
+  },
+  {
+    "id": 24,
+    "chapterId": 120,
+    "question": "What is the estimated 5-year disease-specific survival rate for primary cutaneous diffuse large B cell lymphoma, leg type?",
+    "options": [
+      ">95%",
+      "~80%",
+      "~50%",
+      "<10%"
+    ],
+    "correctIndex": 2,
+    "explanation": "The prognosis of DLBCLLT is less favorable than other types of pCBCL, with an estimated disease-specific 5-year survival rate of ~50%."
+  },
+  {
+    "id": 25,
+    "chapterId": 120,
+    "question": "In DLBCLLT, the neoplastic infiltrate may form clusters of large atypical cells within the epidermis. This phenomenon is a diagnostic pitfall because it simulates which structure seen in cutaneous T cell lymphoma?",
+    "options": [
+      "Munro microabscesses",
+      "Pautrier microabscesses",
+      "Kogoj spongiform pustules",
+      "Horn cysts"
+    ],
+    "correctIndex": 1,
+    "explanation": "Involvement of the epidermis by clusters of large atypical cells, simulating the Pautrier microabscesses found in cutaneous T cell lymphoma, can be observed (B cell epidermotropism)."
+  },
+  {
+    "id": 26,
+    "chapterId": 120,
+    "question": "The neoplastic infiltrate in DLBCLLT consists predominantly of which cell types?",
+    "options": [
+      "Small cleaved cells (centrocytes)",
+      "Monocytoid B cells and plasma cells",
+      "Immunoblasts and centroblasts",
+      "Tingible body macrophages"
+    ],
+    "correctIndex": 2,
+    "explanation": "The neoplastic infiltrate in DLBCLLT consists predominantly of immunoblasts (large round cells with abundant cytoplasm) and centroblasts."
+  },
+  {
+    "id": 27,
+    "chapterId": 120,
+    "question": "Which of the following immunohistochemical marker profiles is most characteristic of primary cutaneous diffuse large B cell lymphoma, leg type?",
+    "options": [
+      "Bcl-2 positive, MUM-1 positive, FOX-P1 positive",
+      "Bcl-2 negative, MUM-1 negative, CD10 positive",
+      "CD5 positive, Cyclin D1 positive, CD20 positive",
+      "TdT positive, CD34 positive, CD20 negative"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bcl-2, MUM-1, FOX-P1, and MYC are expressed by neoplastic cells in most patients with DLBCLLT."
+  },
+  {
+    "id": 28,
+    "chapterId": 120,
+    "question": "In DLBCLLT, which specific genetic deletion is associated with a loss-of-function of CDKN2A and a worse prognosis?",
+    "options": [
+      "17p deletion",
+      "9p21 deletion",
+      "13q14 deletion",
+      "11q deletion"
+    ],
+    "correctIndex": 1,
+    "explanation": "9p21 deletions, possibly leading to loss-of-function of CDKN2A, are associated with a worse prognosis in DLBCLLT."
+  },
+  {
+    "id": 29,
+    "chapterId": 120,
+    "question": "Mutations in which of the following genes are associated with a worse prognosis in DLBCLLT?",
+    "options": [
+      "BRAF",
+      "MYD88",
+      "NRAS",
+      "PTCH1"
+    ],
+    "correctIndex": 1,
+    "explanation": "A worse prognosis has also been noted in patients whose tumors have MYD88 mutations."
+  },
+  {
+    "id": 30,
+    "chapterId": 120,
+    "question": "Gene expression profiling of DLBCLLT reveals a molecular signature most similar to which type of B cell?",
+    "options": [
+      "Naive B lymphocyte",
+      "Resting memory B lymphocyte",
+      "Activated B lymphocyte",
+      "Plasma cell"
+    ],
+    "correctIndex": 2,
+    "explanation": "The molecular profile of DLBCLLT is similar to that observed in diffuse large B cell lymphomas of the lymph nodes, with the signature pattern of an activated B lymphocyte."
+  },
+  {
+    "id": 31,
+    "chapterId": 120,
+    "question": "Intravascular diffuse large B cell lymphoma (IVDLBCL) clinically presents as indurated patches and plaques often accompanied by which prominent vascular feature?",
+    "options": [
+      "Pyogenic granulomas",
+      "Prominent telangiectasias and cherry angioma-like lesions",
+      "Large cavernous hemangiomas",
+      "Glomus tumors"
+    ],
+    "correctIndex": 1,
+    "explanation": "IVDLBCL frequently presents with prominent telangiectasias, and in several patients, it was observed confined to cherry angioma lesions."
+  },
+  {
+    "id": 32,
+    "chapterId": 120,
+    "question": "Which immunohistochemical stains are used to highlight the characteristic intravascular location of neoplastic cells in IVDLBCL?",
+    "options": [
+      "CD3 and CD4",
+      "S100 and Melan-A",
+      "CD31 and CD34",
+      "Cytokeratin AE1/AE3"
+    ],
+    "correctIndex": 2,
+    "explanation": "Staining with endothelial cell-related antibodies (e.g., CD31, CD34) highlights the characteristic intravascular location of the cells in IVDLBCL."
+  },
+  {
+    "id": 33,
+    "chapterId": 120,
+    "question": "Precursor B lymphoblastic lymphoma/leukemia primarily affects which demographic group?",
+    "options": [
+      "Elderly females",
+      "Middle-aged males",
+      "Children and young adults",
+      "Neonates only"
+    ],
+    "correctIndex": 2,
+    "explanation": "In contrast to other cutaneous B cell lymphomas, Precursor B lymphoblastic lymphoma/leukemia shows a clear-cut predilection for children and young adults."
+  },
+  {
+    "id": 34,
+    "chapterId": 120,
+    "question": "Which of the following describes the characteristic low-power histologic pattern of precursor B lymphoblastic lymphoma/leukemia?",
+    "options": [
+      "A 'starry sky' pattern and a 'mosaic-stone' arrangement of cells",
+      "A strictly follicular pattern with massive germinal centers",
+      "Epidermotropism with large Pautrier-like microabscesses",
+      "Palisading granulomas surrounding necrobiotic collagen"
+    ],
+    "correctIndex": 0,
+    "explanation": "A 'starry sky' pattern is commonly seen due to tingible body macrophages, and neoplastic cells often arrange in a 'mosaic-stone' pattern."
+  },
+  {
+    "id": 35,
+    "chapterId": 120,
+    "question": "Which immunohistochemical marker is the most important for diagnosing cutaneous lymphoblastic lymphoma (both B and T cell lineages)?",
+    "options": [
+      "CD20",
+      "Bcl-2",
+      "TdT",
+      "MUM-1"
+    ],
+    "correctIndex": 2,
+    "explanation": "Positivity for TdT represents the most important immunohistochemical feature for the diagnosis of cutaneous lymphoblastic lymphoma."
+  },
+  {
+    "id": 36,
+    "chapterId": 120,
+    "question": "EBV-positive mucocutaneous ulcer typically arises in which specific clinical context?",
+    "options": [
+      "Healthy children after a primary EBV infection",
+      "Immune senescence or immunocompromised hosts",
+      "Patients with untreated celiac disease",
+      "Females during the third trimester of pregnancy"
+    ],
+    "correctIndex": 1,
+    "explanation": "EBV-positive mucocutaneous ulcer is a low-grade B cell malignancy that usually arises within the context of immune senescence or in immunocompromised hosts."
+  },
+  {
+    "id": 37,
+    "chapterId": 120,
+    "question": "Plasmablastic lymphoma, which often arises in the oral cavity of severely immunosuppressed patients, is characteristically negative for which standard B cell marker?",
+    "options": [
+      "CD38",
+      "CD138",
+      "MUM-1",
+      "CD20"
+    ],
+    "correctIndex": 3,
+    "explanation": "Plasmablasts are positive for CD38, CD138, and MUM-1, but are negative for CD20."
+  },
+  {
+    "id": 38,
+    "chapterId": 120,
+    "question": "Which of the following is considered an appropriate initial management strategy for an asymptomatic patient with solitary, indolent low-grade primary cutaneous B cell lymphoma?",
+    "options": [
+      "Immediate initiation of CHOP chemotherapy",
+      "Watchful waiting or local treatments such as surgical excision/local radiotherapy",
+      "Bone marrow transplant",
+      "Systemic high-dose corticosteroids"
+    ],
+    "correctIndex": 1,
+    "explanation": "Most patients with pCBCLs that are low-grade and who have a solitary or few lesions can be treated conservatively (watchful waiting) or with local radiotherapy/surgical excision."
+  },
+  {
+    "id": 39,
+    "chapterId": 120,
+    "question": "For 'Crosti’s lymphoma' (a type of PCFCL on the back), what specific approach to radiotherapy is often recommended?",
+    "options": [
+      "Radiotherapy strictly limited to the visible nodule",
+      "Radiotherapy with wide margins (10-20 cm beyond clinically apparent lesions)",
+      "Total body skin electron beam therapy (TSEBT)",
+      "Prophylactic irradiation of the regional lymph nodes"
+    ],
+    "correctIndex": 1,
+    "explanation": "Recurrences are less frequently seen when treated by radiotherapy with wide margins (10–20 cm) because specific infiltrates in Crosti's lymphoma extend far beyond the main bulk of the lesion."
+  },
+  {
+    "id": 40,
+    "chapterId": 120,
+    "question": "In a patient presenting with pCBCL from a region in Europe endemic for Borrelia, which rapid test should be performed to identify if they might benefit from early antibiotic treatment?",
+    "options": [
+      "Serum protein electrophoresis",
+      "PCR analysis for Borrelia DNA",
+      "Rapid plasma reagin (RPR) test",
+      "Flow cytometry of peripheral blood"
+    ],
+    "correctIndex": 1,
+    "explanation": "PCR analysis of Borrelia DNA is a rapid test that should be performed in all patients with pCBCL from European endemic areas to identify those who might benefit from antibiotics."
+  },
+  {
+    "id": 41,
+    "chapterId": 120,
+    "question": "Intralesional or systemic injection of which monoclonal antibody has been used successfully to induce tumor reduction in indolent pCBCLs?",
+    "options": [
+      "Infliximab",
+      "Rituximab",
+      "Pembrolizumab",
+      "Secukinumab"
+    ],
+    "correctIndex": 1,
+    "explanation": "Intralesional or systemic injection of anti-CD20 monoclonal antibody (rituximab) has been used to induce tumor reduction in patients with indolent pCBCLs."
+  },
+  {
+    "id": 42,
+    "chapterId": 120,
+    "question": "What is the standard of care systemic regimen used most frequently for patients with primary cutaneous diffuse large B cell lymphoma, leg type?",
+    "options": [
+      "Methotrexate monotherapy",
+      "Intralesional interferon-alpha",
+      "CHOP (cyclophosphamide, doxorubicin, vincristine, prednisone) plus rituximab",
+      "Topical mechlorethamine"
+    ],
+    "correctIndex": 2,
+    "explanation": "The regimen used most frequently is CHOP plus rituximab, and it represents the standard of care for DLBCLLT."
+  },
+  {
+    "id": 43,
+    "chapterId": 120,
+    "question": "In patients with relapsed DLBCLLT, especially when recurrence occurs within one year of primary therapy, which emerging therapy is increasingly being used?",
+    "options": [
+      "CAR-T cell therapy",
+      "Intralesional triamcinolone",
+      "Antibiotic eradication therapy",
+      "Topical imiquimod"
+    ],
+    "correctIndex": 0,
+    "explanation": "For relapsed DLBCLLT, CAR-T cell therapy is increasingly being used, especially when recurrence occurs within one year of primary therapy."
+  },
+  {
+    "id": 44,
+    "chapterId": 120,
+    "question": "According to updated criteria, a diagnosis of symptomatic multiple myeloma can now be made without CRAB features if the patient has a serum free light chain (SFLC) ratio greater than or equal to:",
+    "options": [
+      "10:1",
+      "50:1",
+      "100:1",
+      "500:1"
+    ],
+    "correctIndex": 2,
+    "explanation": "The diagnosis includes patients with a ratio of involved to uninvolved free light chains of >=100:1, even without CRAB symptoms."
+  },
+  {
+    "id": 45,
+    "chapterId": 120,
+    "question": "When suspecting a plasma cell dyscrasia, why is a serum free light chain (SFLC) assay considered much more sensitive than serum immunofixation electrophoresis (IFE) for conditions like primary systemic amyloidosis?",
+    "options": [
+      "It detects whole IgG antibodies more accurately",
+      "It measures light chains, which form the amyloid deposits and may be present when intact immunoglobulins are undetectable",
+      "It binds specifically to beta-2 microglobulin",
+      "It eliminates the need for a urine test"
+    ],
+    "correctIndex": 1,
+    "explanation": "Because most primary systemic amyloid deposits are composed of light chains, the SFLC ratio is much more sensitive than serum IFE."
+  },
+  {
+    "id": 46,
+    "chapterId": 120,
+    "question": "Histologically, what term is used for a plasma cell that contains grape-like clusters of intracytoplasmic eosinophilic inclusions (Russell bodies)?",
+    "options": [
+      "Mott cell",
+      "Tingible body macrophage",
+      "Centroblast",
+      "Plasmablast"
+    ],
+    "correctIndex": 0,
+    "explanation": "Intracytoplasmic eosinophilic inclusions (Russell bodies) are often present; the cells are called Mott cells when these bodies form grape-like clusters."
+  },
+  {
+    "id": 47,
+    "chapterId": 120,
+    "question": "Cutaneous Waldenström macroglobulinemia features histologic findings similar to PCMZLD with prominent lymphoplasmacytic differentiation, but uniquely demonstrates which of the following on direct immunofluorescence?",
+    "options": [
+      "Polyclonal IgA",
+      "Monoclonal IgM within and around the infiltrating cells",
+      "Linear IgG along the basement membrane",
+      "Granular C3 in the dermal papillae"
+    ],
+    "correctIndex": 1,
+    "explanation": "Direct immunofluorescence in cutaneous Waldenstrom macroglobulinemia demonstrates monoclonal IgM within and around the infiltrating cells."
+  },
+  {
+    "id": 48,
+    "chapterId": 120,
+    "question": "Cutaneous and systemic plasmacytosis is an entity most commonly seen in which demographic group?",
+    "options": [
+      "Scandinavians",
+      "Asians",
+      "Native Americans",
+      "African descent"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cutaneous and systemic plasmacytosis is an entity most commonly seen in Asians."
+  },
+  {
+    "id": 49,
+    "chapterId": 120,
+    "question": "In cutaneous and systemic plasmacytosis, the associated hypergammaglobulinemia and the infiltrating plasma cells are characteristically:",
+    "options": [
+      "Monoclonal for IgM",
+      "Monoclonal for IgA",
+      "Polyclonal",
+      "Associated with a high SFLC ratio >100:1"
+    ],
+    "correctIndex": 2,
+    "explanation": "The associated hypergammaglobulinemia is polyclonal as are the infiltrating plasma cells."
+  },
+  {
+    "id": 50,
+    "chapterId": 120,
+    "question": "Which marker is usually positive in cutaneous B cell chronic lymphocytic leukemia (B-CLL) but practically never in PCMZLD, making it a highly useful distinguishing feature?",
+    "options": [
+      "CD20",
+      "Bcl-2",
+      "CD5",
+      "PAX-5"
+    ],
+    "correctIndex": 2,
+    "explanation": "Positivity for CD5 is observed in most cases of cutaneous B-CLL, but practically never in PCMZLD."
+  },
+  {
+    "id": 51,
+    "chapterId": 120,
+    "question": "Secondary skin involvement from mantle cell lymphoma can present as a CD20+/CD5+ infiltrate similar to B-CLL. However, unlike B-CLL, mantle cell lymphoma is usually positive for which marker?",
+    "options": [
+      "CD23",
+      "Cyclin D1",
+      "Bcl-6",
+      "CD10"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mantle cell lymphoma is usually positive for cyclin D1 and negative for CD23 (distinguishing it from B-CLL, which is CD5+ and CD23+)."
+  },
+  {
+    "id": 52,
+    "chapterId": 120,
+    "question": "Which of the following histologic features strongly favors a diagnosis of Borrelia-induced lymphocytoma cutis (a pseudolymphoma) rather than a true follicular lymphoma?",
+    "options": [
+      "A complete lack of tingible body macrophages",
+      "Absence of 'clear' and 'dark' areas in the follicle",
+      "Presence of many tingible body macrophages and a normal (high) proliferation rate",
+      "Monotypic restriction of kappa light chains"
+    ],
+    "correctIndex": 2,
+    "explanation": "Germinal centers in Borrelia-induced lymphocytoma cutis are characterized by the presence of many tingible body macrophages, 'clear' and 'dark' areas, and a normal (high) proliferation rate."
+  },
+  {
+    "id": 53,
+    "chapterId": 120,
+    "question": "Intralymphatic histiocytosis (IH), which must be differentiated from IVDLBCL, is characterized by intraluminal collections of cells positive for which marker?",
+    "options": [
+      "CD20",
+      "CD3",
+      "CD68",
+      "CD30"
+    ],
+    "correctIndex": 2,
+    "explanation": "In IH, lymphatic vessels contain intraluminal collections of histiocytes that are CD68+, CD20-, and CD3-."
+  },
+  {
+    "id": 54,
+    "chapterId": 120,
+    "question": "Intralymphatic histiocytosis (IH) frequently occurs in association with which systemic condition or exposure?",
+    "options": [
+      "Celiac disease",
+      "Rheumatoid arthritis and metallic orthopedic implants",
+      "Hepatitis C infection",
+      "HIV infection"
+    ],
+    "correctIndex": 1,
+    "explanation": "IH occurs in association with systemic disorders such as rheumatoid arthritis as well as metallic orthopedic implants."
+  },
+  {
+    "id": 55,
+    "chapterId": 120,
+    "question": "What is the initial therapeutic intervention for polymorphic or monomorphic B cell infiltrates in the skin arising as a Post-Transplant Lymphoproliferative Disorder (PTLD)?",
+    "options": [
+      "Aggressive multi-agent chemotherapy",
+      "Reduction of immunosuppression",
+      "Total body irradiation",
+      "Lifelong antiviral therapy"
+    ],
+    "correctIndex": 1,
+    "explanation": "The initial therapeutic intervention for PTLD is the reduction of immunosuppression."
+  },
+  {
+    "id": 56,
+    "chapterId": 120,
+    "question": "The abnormal lymphocytes in Post-Transplant Lymphoproliferative Disorders, especially if they are B cells, are often positive for which virus?",
+    "options": [
+      "Cytomegalovirus (CMV)",
+      "Human Herpesvirus 8 (HHV-8)",
+      "Epstein-Barr virus (EBV)",
+      "Human Papillomavirus (HPV)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The abnormal lymphocytes in PTLD are often EBV-positive, especially if they are B cells."
+  },
+  {
+    "id": 57,
+    "chapterId": 120,
+    "question": "The rare entity 'pretibial lymphoplasmacytic plaque in children' is histologically characterized by plasma cells that display which type of light chain pattern?",
+    "options": [
+      "Monotypic kappa",
+      "Monotypic lambda",
+      "Polyclonal",
+      "Complete absence of light chains"
+    ],
+    "correctIndex": 2,
+    "explanation": "The rare entity pretibial lymphoplasmacytic plaque in children is characterized by a polyclonal pattern of the plasma cells."
+  },
+  {
+    "id": 58,
+    "chapterId": 120,
+    "question": "Which morphological variant of PCFCL can simulate sarcomas or other non-lymphoid tumors, representing a diagnostic pitfall?",
+    "options": [
+      "Plasmablastic variant",
+      "Signet-ring cell variant",
+      "Spindle cell variant",
+      "Anaplastic variant"
+    ],
+    "correctIndex": 2,
+    "explanation": "Morphologic variants of PCFCL include those with a predominant spindle cell morphology, which can simulate sarcomas or other spindle cell tumors."
+  },
+  {
+    "id": 59,
+    "chapterId": 120,
+    "question": "In identifying double-hit or double-expression diffuse large B cell lymphomas, what is the currently accepted cut-off point for determining positivity of Bcl-2 expression?",
+    "options": [
+      "10%",
+      "25%",
+      "50%",
+      "90%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Currently accepted cut-off points are 50% for Bcl-2 and 40% for MYC."
+  },
+  {
+    "id": 60,
+    "chapterId": 120,
+    "question": "In identifying double-expression DLBCL, what is the currently accepted cut-off point for determining positivity of MYC expression?",
+    "options": [
+      "10%",
+      "40%",
+      "75%",
+      "95%"
+    ],
+    "correctIndex": 1,
+    "explanation": "The currently accepted cut-off point is 40% for MYC."
+  },
+  {
+    "id": 61,
+    "chapterId": 120,
+    "question": "Which molecular analysis finding in precursor B lymphoblastic lymphoma/leukemia is common regarding the T cell receptor (TCR) genes?",
+    "options": [
+      "Monoclonal rearrangement is present in 100% of cases",
+      "Polyclonal pattern for T cell receptor genes (TCR)",
+      "Specific t(2;5) ALK translocation",
+      "Consistent mutation of the TCR delta gene"
+    ],
+    "correctIndex": 1,
+    "explanation": "Molecular analyses usually show a monoclonal rearrangement of IGH and a polyclonal pattern for T cell receptor genes (TCR)."
+  },
+  {
+    "id": 62,
+    "chapterId": 120,
+    "question": "To differentiate true Hodgkin lymphoma from EBV-positive mucocutaneous ulcer, one can look at the EBV positivity distribution. In EBV+ mucocutaneous ulcer, EBV is found in:",
+    "options": [
+      "Only the large atypical cells (Reed-Sternberg variants)",
+      "The large atypical cells as well as small lymphocytes",
+      "Only the background eosinophils",
+      "Exclusively within histiocytes"
+    ],
+    "correctIndex": 1,
+    "explanation": "EBV is detected within the atypical cells, but positivity is also observed in small lymphocytes, representing a clue for differentiation from true Hodgkin lymphoma (where it is limited to large cells)."
+  },
+  {
+    "id": 63,
+    "chapterId": 120,
+    "question": "When an atypical lymphoid proliferation lacks definitive diagnostic features of pCBCL on initial biopsy, what is the recommended next step?",
+    "options": [
+      "Immediate full-body PET-CT and bone marrow biopsy",
+      "Initiate empirical systemic CHOP chemotherapy",
+      "Classify provisionally as 'cutaneous atypical lymphoid proliferation of B cell lineage' and re-examine at regular intervals",
+      "Treat aggressively with total skin electron beam therapy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Patients for whom no definitive diagnosis can be established should provisionally be classified as 'cutaneous atypical lymphoid proliferation of B cell lineage' and re-examined at regular intervals."
+  },
+  {
+    "id": 64,
+    "chapterId": 120,
+    "question": "Which marker is generally negative in the diffuse type of Primary Cutaneous Follicle Center Lymphoma but strongly positive in Diffuse Large B Cell Lymphoma, Leg Type?",
+    "options": [
+      "CD20",
+      "CD79a",
+      "MUM-1",
+      "Bcl-6"
+    ],
+    "correctIndex": 2,
+    "explanation": "MUM-1 is either negative or expressed by a small minority of cells in PCFCL, whereas it is positive in DLBCLLT. (Bcl-2 is also a key discriminator)."
+  },
+  {
+    "id": 65,
+    "chapterId": 120,
+    "question": "Solitary cutaneous nodular amyloidosis (cutaneous amyloidoma) is associated with a monoclonal population of plasma cells and may represent a rare variant of which lymphoma?",
+    "options": [
+      "Primary cutaneous follicle center lymphoma",
+      "Intravascular diffuse large B cell lymphoma",
+      "Primary cutaneous marginal zone B cell lymphoproliferative disorder",
+      "Mantle cell lymphoma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Solitary cutaneous nodular amyloidosis (cutaneous amyloidoma) harboring a small monoclonal population of plasma cells may represent a peculiar, rare variant of PCMZLD."
+  },
+  {
+    "id": 66,
+    "chapterId": 120,
+    "question": "Which B cell-associated marker is negative in the pre-pre-B cell variant of lymphoblastic leukemia/lymphoma, despite being CD34 positive?",
+    "options": [
+      "TdT",
+      "CD20",
+      "CD79a",
+      "PAX-5"
+    ],
+    "correctIndex": 1,
+    "explanation": "CD20 is negative in the pre-pre-B cell variant, which is CD34+."
+  },
+  {
+    "id": 67,
+    "chapterId": 120,
+    "question": "According to the recommended staging investigations for confirmed B cell lymphoma involving the skin, which test is optional for low-grade lymphomas without extracutaneous symptoms?",
+    "options": [
+      "Complete blood count with differential",
+      "Comprehensive serum chemistries including LDH",
+      "Flow cytometry of peripheral blood mononuclear cells",
+      "Physical examination of lymph nodes"
+    ],
+    "correctIndex": 2,
+    "explanation": "Flow cytometry of peripheral blood mononuclear cells is listed as optional for low-grade pCBCL without extracutaneous symptoms."
+  },
+  {
+    "id": 68,
+    "chapterId": 120,
+    "question": "Which specific gene upregulation is associated with the trisomy 3 aberration occasionally found in PCMZLD?",
+    "options": [
+      "FOXP1",
+      "MALT1",
+      "MYC",
+      "BCL2"
+    ],
+    "correctIndex": 0,
+    "explanation": "Genetic aberrations in PCMZLD include trisomy 3 (with upregulation of FOXP1)."
+  },
+  {
+    "id": 69,
+    "chapterId": 120,
+    "question": "In patients from a region in Austria with endemic Borrelia infections, specific DNA sequences of Borrelia were detected in what percentage of all cases of pCBCL?",
+    "options": [
+      "2%",
+      "18%",
+      "55%",
+      "90%"
+    ],
+    "correctIndex": 1,
+    "explanation": "In patients from a region in Austria with endemic Borrelia infections, specific DNA sequences of Borrelia were detected in 18% of all cases of pCBCL."
+  },
+  {
+    "id": 70,
+    "chapterId": 120,
+    "question": "A patient presents with miliary and/or agminated small papules on the face that have an acneiform appearance. This presentation can occasionally be seen in which B cell lymphoma?",
+    "options": [
+      "Primary cutaneous follicle center lymphoma",
+      "Intravascular diffuse large B cell lymphoma",
+      "Precursor B lymphoblastic lymphoma",
+      "Plasmablastic lymphoma"
+    ],
+    "correctIndex": 0,
+    "explanation": "Occasionally patients with PCFCL present with miliary and/or agminated small papules that can have an acneiform appearance."
   }
-
-
-
-
 ]

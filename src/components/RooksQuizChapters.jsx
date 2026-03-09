@@ -1,10 +1,10 @@
 import { useState } from "react";
-import chapters from "../data/bologniaChapters.json";
+import chapters from "../data/rooksChapters.json";
 import { Link } from "react-router-dom";
 
 const CARDS_PER_PAGE = 12;
 
-export default function BologniaQuizChapters() {
+export default function RooksQuizChapters() {
   const [currentPage, setCurrentPage] = useState(1);
 
   const totalPages = Math.ceil(chapters.length / CARDS_PER_PAGE);
@@ -21,7 +21,7 @@ export default function BologniaQuizChapters() {
         {/* Header */}
         <div className="mb-10">
           <h1 className="text-3xl font-bold text-white">
-            Bolognia – Quiz Chapters
+            Rooks – Quiz Chapters
           </h1>
           <p className="mt-2 text-gray-400">
             Select a chapter to start practicing.
@@ -52,7 +52,7 @@ export default function BologniaQuizChapters() {
                   {chapter.description}
                 </p>
 
-                <Link to={`/QuizTest/bolognia/${chapter.id}`}>
+                <Link to={`/QuizTest/rooks/${chapter.id}`}>
                 <button
                   className="mt-6 w-full rounded-md bg-indigo-500 px-4 py-2 text-sm font-semibold text-white hover:bg-indigo-400 transition"
                 >

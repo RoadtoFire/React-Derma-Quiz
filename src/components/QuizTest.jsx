@@ -1,19 +1,32 @@
 import { useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
-import questions from "../data/bologniaQuestions.json";
+import bologniaQuestions from "../data/bologniaQuestions.json";
+import rooksQuestions from "../data/rooksQuestions.json";
+
+
 
 export default function QuizTest() {
   // 1️⃣ Read chapterId from URL
-  const { chapterId } = useParams();
+  const { bookType, chapterId } = useParams();
   const navigate = useNavigate();
 
   // 2️⃣ Convert to number (CRITICAL)
   const chapterIdNumber = Number(chapterId);
 
   // 3️⃣ Filter questions for this chapter
-  const chapterQuestions = questions.filter(
-    (q) => q.chapterId === chapterIdNumber
+  const allQuestions = bookType?.toLowerCase() === "rooks" ? rooksQuestions : bologniaQuestions;
+
+  console.log("--- DEBUG START ---");
+  console.log("Book Type:", bookType);
+  console.log("Requested Chapter:", chapterIdNumber);
+  console.log("Total Questions in File:", allQuestions.length);
+  
+  const chapterQuestions = allQuestions.filter(
+    (q) => String(q.chapterId).trim() === String(chapterId).trim()
   );
+
+  console.log("Questions Found after Filter:", chapterQuestions.length);
+  console.log("--- DEBUG END ---");
 
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selected, setSelected] = useState(null);
@@ -25,8 +38,14 @@ export default function QuizTest() {
   // 4️⃣ Guard: invalid chapter or no questions
   if (!question) {
     return (
-      <div className="min-h-screen bg-gray-900 flex items-center justify-center text-gray-400">
-        No questions available for this chapter.
+      <div className="min-h-screen bg-gray-900 flex flex-col items-center justify-center text-gray-400">
+        <p>No questions found for {bookType} Chapter {chapterId}.</p>
+        <button 
+          onClick={() => navigate(-1)} 
+          className="mt-4 text-indigo-400 hover:underline"
+        >
+          ← Go Back
+        </button>
       </div>
     );
   }
@@ -142,4 +161,6 @@ export default function QuizTest() {
       </div>
     </main>
   );
+
+  
 }

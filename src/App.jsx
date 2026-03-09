@@ -2,6 +2,7 @@ import Header from "./components/Header";
 import Body from "./components/Body";
 import QuizList from "./components/QuizList";
 import BologniaQuizChapters from "./components/BologniaQuizChapters";
+import RooksQuizChapters from "./components/RooksQuizChapters";
 import QuizTest from "./components/QuizTest";
 import Result from "./components/Result";
 import { Routes, Route } from "react-router-dom";
@@ -14,7 +15,8 @@ export default function App() {
         <Route path="/" element={<Body />} />
         <Route path="/QuizList" element={<QuizList />} />
         <Route path="/BologniaQuizChapters" element={<BologniaQuizChapters />} />
-        <Route path="/QuizTest/:chapterId" element={<QuizTest />} />
+        <Route path="/RooksQuizChapters" element={<RooksQuizChapters />} />
+        <Route path="/QuizTest/:bookType/:chapterId" element={<QuizTest />} />
         <Route path="/Result" element={<Result />} />
       </Routes>
     </div>
